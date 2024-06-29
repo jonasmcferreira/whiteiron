@@ -20,7 +20,8 @@ This file is a collective space for Jonas Ferreira and Sean White to dump and or
 - **Element 3:** 
 
 ### 4. Quest Ideas
-- **Quest 1:** 
+- **Quest 1:**
+- Lvl 1, traveling south to isolated trade village
 - **Quest 2:** 
 - **Quest 3:** 
 
