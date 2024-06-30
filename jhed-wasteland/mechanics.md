@@ -12,11 +12,11 @@ In the harsh environment of the Arctic Wastelands, managing your cold levels is 
 
 **CEP Thresholds and Effects:**
 
-- **0-5 CEP**: Comfortable. No adverse effects.
-- **6-10 CEP**: Mild Discomfort. Disadvantage on Perception checks.
-- **11-15 CEP**: Cold. Disadvantage on all Ability Checks.
-- **16-20 CEP**: Severe Cold. Disadvantage on Attack Rolls and Saving Throws.
-- **21+ CEP**: Hypothermia. Gain one level of exhaustion every hour.
+- **: Comfortable. No adverse effects.
+- **: Mild Discomfort. Disadvantage on Perception checks.
+- **: Cold. Disadvantage on all Ability Checks.
+- **: Severe Cold. Disadvantage on Attack Rolls and Saving Throws.
+- **: Hypothermia. Gain one level of exhaustion every hour.
 
 ### Managing CEP
 
