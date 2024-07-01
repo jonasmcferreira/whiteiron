@@ -14,9 +14,26 @@ In the harsh environment of the Arctic Wastelands, managing your cold levels is 
 
 - **: Comfortable. No adverse effects.
 - **: Mild Discomfort. Disadvantage on Perception checks.
-- **: Cold. Disadvantage on all Ability Checks.
-- **: Severe Cold. Disadvantage on Attack Rolls and Saving Throws.
-- **: Hypothermia. Gain one level of exhaustion every hour.
+- **: Cold. Disadvantage on all Ability Checks.  **(redundant with 1 exhaustion)**
+- **: Severe Cold. Disadvantage on Attack Rolls and Saving Throws. **(redundant with 3 exhaustion)**
+- **: Hypothermia. Gain one level of exhaustion every hour. 
+
+**Default Cold Weather Rules:**
+
+Whenever the temperature is at or below 0 degrees Fahrenheit, a creature exposed to the cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain one level of exhaustion. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
+
+**Survival Alternative to CEP System** 
+
+each short and long rest
+
+- **: Comfortable: No adverse effects.
+- **: Mild Discomfort: DC8 Survival Check else DC8 Constitution save against exhaustion
+- **: Cold: DC12 Survival Check else DC12 Constitution save against exhaustion
+- **: Severe Cold: DC16 Survival Check else DC16 Constitution save against exhaustion
+- **: Deadly Cold: DC20 Survival Check else DC20 Constitution save against exhaustion
+
+
+
 
 ### Managing CEP
 
