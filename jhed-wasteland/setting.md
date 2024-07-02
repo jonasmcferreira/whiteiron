@@ -21,3 +21,7 @@ The soundscape of the Jhed Wastelands is as unique as its visual panorama. The c
 Hidden among the glaciers and ice fields are remote valleys and ice caves, offering a brief respite from the harsh elements. These natural shelters can be crucial for survival, providing protection from the wind and a place to set up camp. Some of these caves are simple hollows in the ice, while others are intricate networks of tunnels, possibly formed by ancient lava flows or carved out by subterranean rivers. They can be awe-inspiring, with walls of translucent blue ice and ceilings adorned with icicles.
 
 Due to its extreme latitude, the Jhed Wastelands experience prolonged periods of twilight, where the sun barely rises above the horizon, casting a perpetual twilight over the land. This creates an eerie, otherworldly atmosphere, with long shadows and a sky that transitions through shades of deep blue and purple. The lack of clear daylight can be disorienting, making navigation even more challenging and contributing to the land's reputation as an endless, desolate wilderness.
+
+### Day/Night and Time
+
+The Jhed Wasteland seems broken in time, as dusk shifts to dawn or day to night without transition. No assurance of how long these moments of light or dark last. Even the stary veil appears random hindering navigation making those that risk such a journey unaware of how long they've been gone. But the beasts who roam and the monstrosities that linger the Jhed Wastelands is a hunting ground.
