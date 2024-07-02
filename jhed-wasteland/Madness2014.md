@@ -14,7 +14,7 @@ A character afflicted with indefinite madness gains a new character flaw from th
 |---- | ------------ |
 |01–20   | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.     |
 |21–30   | The character becomes incapacitated and spends the duration screaming, laughing, or weeping.  |
-|31–40   | The character becomes frightened and must use his or her action and movement each round to flee from        |
+|31–40   | The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear      |
 |41–50   | The character begins babbling and is incapable of normal speech or spellcasting. |
 |51–60   | The character must use his or her action each round to attack the nearest creature. |
 |61–70   | The character experiences vivid hallucinations and has disadvantage on ability checks. |
