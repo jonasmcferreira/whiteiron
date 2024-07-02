@@ -2,7 +2,7 @@
 
 ## Cold Blooded Beasts
 
-### Odd Habitants
+### Odd Inhabitants
 
 - Kobolds
 - Lizardfolk 
@@ -13,16 +13,16 @@
 - Dragons???
 - Naga
 
-### Plot Hooks Revelations
+### Plot Hooks & Revelations
 
-- should be made obvious that this isn't normal
-- local fruit (rare) grants cold resistance when consumed over long periods of time. Potion Reagent
-- Kobolds venture to find a dragon (there have been no dragon sightings in known history)
-- Yuan-ti Pilgrimage to a great truth, but Naga prevent this
-- Lizardfolk attempt to hunt and tame the Dinosaurs
+- It should be made obvious that this isn't normal.
+- A local fruit (rare) grants cold resistance when consumed over long periods of time. It is a potion reagent.
+- Kobolds venture to find a dragon (there have been no dragon sightings in known history).
+- Yuan-ti pilgrimage to a great truth, but Naga prevent this.
+- Lizardfolk attempt to hunt and tame the Dinosaurs.
 
-### design purpose
+### Design Purpose
 
-- cold blooded creatures should make this enviroment feel odd and stand out from a typical arctic setting
-- tie in a local important flora (fruit that needs a name), think of these plants as oasis within a desert, potion crafting too
-- all the creatures are looking for something in the waste, that there are no records of existing
+- Cold-blooded creatures should make this environment feel odd and stand out from a typical arctic setting.
+- Tie in a local important flora (fruit that needs a name). Think of these plants as oases within a desert, useful for potion crafting too.
+- All the creatures are looking for something in the wasteland, which there are no records of existing.
