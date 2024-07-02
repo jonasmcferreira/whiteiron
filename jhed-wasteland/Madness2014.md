@@ -12,7 +12,7 @@ A character afflicted with indefinite madness gains a new character flaw from th
 
 |d100 | Effect (lasts 1d10 minutes)     |
 |---- | ------------ |
-|01–20   | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character      |
+|01–20   | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.     |
 |21–30   | The character becomes incapacitated and spends the duration screaming, laughing, or weeping.  |
 |31–40   | The character becomes frightened and must use his or her action and movement each round to flee from        |
 |41–50   | The character begins babbling and is incapable of normal speech or spellcasting. |
