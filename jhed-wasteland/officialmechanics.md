@@ -75,3 +75,7 @@ Exhaustion caused by cold exposure follows standard D&D rules:
 4. **Level 4**: Hit Point Maximum halved.
 5. **Level 5**: Speed reduced to 0.
 6. **Level 6**: Death.
+
+### Extreme Cold
+
+Whenever the temperature is at or below **0 degrees Fahrenheit**, a creature exposed to the cold must succeed on a **DC 10 Constitution saving throw** at the end of **each hour or gain one level of exhaustion**. Creatures with **resistance or immunity to cold damage automatically succeed** on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
