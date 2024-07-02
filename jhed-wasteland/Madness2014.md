@@ -36,8 +36,8 @@ A character afflicted with indefinite madness gains a new character flaw from th
 |46–55   | The character becomes attached to a “lucky charm,” such as a person or an object, and has disadvantage on attack rolls, ability checks, and saving throws while more than 30 feet from it. |
 |56–65   | The character is blinded (25%) or deafened (75%). |
 |66–75   | The character experiences uncontrollable tremors or tics, which impose disadvantage on attack rolls, ability checks, and saving throws that involve Strength or Dexterity. |
-|76–85   | The character suffers from partial amnesia. The character knows who he or she is and retains racial traits and class features, but doesn’t recognize other people or remember anything that happened before the madness took effect. |
-|76–80   | The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal. |
+|76–80   | The character suffers from partial amnesia. The character knows who he or she is and retains racial traits and class features, but doesn’t recognize other people or remember anything that happened before the madness took effect. |
+|81–85   | The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal. |
 |86–90   | Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throws or be affected as though he or she failed a saving throw against the confusion spell. The confusion effect lasts for 1 minute. |
 |91–95   | The character loses the ability to speak. |
 |96–100   | The character falls unconscious. No amount of jostling or damage can wake the character. |
