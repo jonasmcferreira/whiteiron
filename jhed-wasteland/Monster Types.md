@@ -42,6 +42,8 @@ players should be warned general when building characters and making choices
 
 ### Fiend
 
+- Rakshasa will be used because Jonas likes it
+
 ### Swarm of Tiny Beasts
 
 
