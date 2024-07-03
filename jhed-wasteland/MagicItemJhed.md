@@ -2,7 +2,10 @@
 
 Aim for flavour not power
 
+## Weapons
+
 ### Tireless Blade
+
 **Weapon:** Longsword
 
 **Rarity:** Uncommon
@@ -14,13 +17,12 @@ This bonus is equal to your exhaustion level
 Example: at 3 levels of exhaustion this functions as a +3 Longsword
 
 ### Shattered Staff
+
 **Weapon:** Staff
 
 **Rarity:** Uncommon
 
 Make a DC 15 Wisdom Save, on a fail suffer a short term madness, on a success heal 1d6 hit points. Once you have used the pearl, it can't be used again until you complete a long rest.
-
-###
 
 ## DMG Cold Resistance Items
 
@@ -32,8 +34,6 @@ Make a DC 15 Wisdom Save, on a fail suffer a short term madness, on a success he
 
 You have resistance to cold damage while wearing this tourmaline ring.
 
-
-
 ### Ring of Warmth
 
 **Jewelry:** ring
@@ -42,7 +42,7 @@ You have resistance to cold damage while wearing this tourmaline ring.
 
 While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as -50 degrees Fahrenheit.
 
-### Armor of Cold Resistance 
+### Armor of Cold Resistance
 
 **Armor:** any
 
@@ -50,18 +50,15 @@ While wearing this ring, you have resistance to cold damage. In addition, you an
 
 You have resistance to cold damage while you wear this armor.
 
-
-###  Potion of Resistance 
-
+### Potion of Resistance
 
 **Consumable Item:** Potion
 
-**Rarity:** uncommon 
+**Rarity:** uncommon
 
 When you drink this potion, you gain resistance to one type of damage for 1 hour. 
 
-
-###  Frost Brand (fire res though)
+### Frost Brand (fire res though)
 
 **Weapon:** Any Sword
 
@@ -73,7 +70,7 @@ In freezing temperatures, the blade sheds bright light in a 10-foot radius and d
 
 When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.
 
-###  Staff of Frost
+### Staff of Frost
 
 **Weapon:** Staff
 
@@ -86,7 +83,6 @@ You have resistance to cold damage while you hold this staff.
 The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: cone of cold (5 charges), fog cloud (1 charge), ice storm (4 charges), or wall of ice (4 charges).
 
 The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff turns to water and is destroyed.
-
 
 ### Boots of the Winterlands
 
