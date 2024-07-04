@@ -109,6 +109,8 @@ In the harsh environment of the Arctic Wastelands, managing your exposure to the
 ## Scavenging
 
 - **Foraging**: Players can forage for food and fuel, requiring successful Survival checks. Failure may result in no gain and potential exposure increase due to extended time in the elements.
+- **Beasts:** all creatures in Jhed can defend themselves, should always be an encounter
+- **Plants:** these also defend themselves
 
 ## Exhaustion Levels
 
