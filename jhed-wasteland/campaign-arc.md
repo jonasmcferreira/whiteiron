@@ -7,3 +7,8 @@
 ### Level One
 
 - Reach one of the four trade villages and complete a long rest
+- Kobold, Undead, Beast encounter
+
+### Level Two
+
+- Help town in trade for a "ship" to venture in Jhed Wasteland
