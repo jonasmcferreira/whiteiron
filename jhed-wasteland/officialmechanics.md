@@ -78,3 +78,8 @@ Exhaustion caused by cold exposure follows standard D&D rules:
 ### Extreme Cold
 
 Whenever the temperature is at or below **0 degrees Fahrenheit**, a creature exposed to the cold must succeed on a **DC 10 Constitution saving throw** at the end of **each hour or gain one level of exhaustion**. Creatures with **resistance or immunity to cold damage automatically succeed** on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
+
+
+## Frigid Water (page 110)
+
+A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of exhaustion
