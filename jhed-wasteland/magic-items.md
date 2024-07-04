@@ -20,11 +20,21 @@ Example: at 3 levels of exhaustion this functions as a +3 Longsword
 
 **Weapon:** Staff
 
-**Rarity:** Uncommon
+**Rarity:** Uncommon (requires attunement)
 
 Make a DC 15 Wisdom Save, on a fail suffer a short term madness, on a success heal 1d6 hit points. Once you have used the pearl, it can't be used again until you complete a long rest.
 
-## DMG Cold Resistance Items
+### Dragon Aspirant Badge
+
+**Wonderous Item:** Sigil
+
+**Rarity:** Uncommon (requires attunement and the ability to speak Draconic)
+
+If you spend 10 minutes of a short rest reading aloud Draconic text, one target (including yourself) within 30ft gains 1d4 temporary hitpoints. Once you use this ability you can't do so again until you finish a long rest.
+
+When speaking with Kobolds you gain expertise in Persuasion Checks
+
+# DMG Cold Resistance Items
 
 ### Ring of Cold Resistance
 
