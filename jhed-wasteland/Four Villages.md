@@ -4,25 +4,49 @@ All have beasts of burden
 
 Trade Resources for villages
 
+
 Exotic Resources for greater kingdom
 
 Village focus
 
 Religion
 
-### One
+### Village One
 
-Food(fish beasts), Potions
 
-Runecarving
+**Why Founded:** Northmost trade position along Wasteland
 
-Main tradepost
+**Food:** Fish and Beasts
+
+**Trade Resource:** Potions
+
+**Defense:** Runecarving (glyph of warding), and Giant
+
+**Oddities:** 
+    
+    - All within Village are charmed so can't hurt eachother
+    - Fighting Pit in middle (no charm)
+
+
+
+**Town Improvements:** Better Potions
 
 ### Two
 
 Food(beasts) Stone, Gems
 
-Crafting hub
+**Why Founded:** Stone
+
+**Food:** Beasts
+
+**Trade Resource:** Gems
+
+**Defense:** zombies
+
+**Oddities:** 
+    
+    - purchasable zombie slave work
+    - no one knows the necromancer
 
 
 ### Three
