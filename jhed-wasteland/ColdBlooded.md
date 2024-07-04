@@ -26,3 +26,4 @@
 - Cold-blooded creatures should make this environment feel odd and stand out from a typical arctic setting.
 - Tie in a local important flora (fruit that needs a name). Think of these plants as oases within a desert, useful for potion crafting too.
 - All the creatures are looking for something in the wasteland, which there are no records of existing.
+Rude the gas replication failed twice
