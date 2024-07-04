@@ -19,3 +19,10 @@
 - **Dungeon Delvers:** They are found most often pillaging old empire ruins
 - **A Great Dragon:** Chants and whispers of an Ancient Dragon, but no record or sighting of such
 - **Trade Partners:** Though hostile in temperment they are negotiable for short term agreements
+
+## Thieves Tunnels
+
+- **Previous Rulers:** a thieves guild (insert name) was the last controller of Jhed Continent
+- **Tunnels:** abandoned mega-dungeon with an assortment of abandoned and forgotten loot
+- **Missing:** no known reason what happened to this guild, even if thieves were well known
+- **Safe:** low level exploration
