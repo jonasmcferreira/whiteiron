@@ -21,3 +21,11 @@
 - Seems lost in time (roll if day or night every short rest).
 - Blindspots to gods and devils - within the Wasteland, it seems higher entities simply don't see into the wasteland or even believe it exists.
 - A chaotic wilderness that doesn't make geological sense.
+
+## Overland Travel
+
+- constantly improving methods of travel will be key
+
+## Key of Thieves
+
+- small key of islands is the most direct path to Jhed, these thieves are the last remnants of the Thieve Kings

@@ -25,3 +25,7 @@ Due to its extreme latitude, the Jhed Wastelands experience prolonged periods of
 ### Day/Night and Time
 
 The Jhed Wasteland seems broken in time, as dusk shifts to dawn or day to night without transition. No assurance of how long these moments of light or dark last. Even the stary veil appears random hindering navigation making those that risk such a journey unaware of how long they've been gone. But the beasts who roam and the monstrosities that linger the Jhed Wastelands is a hunting ground.
+
+### Weather can be good, and for both sides
+
+The weather in Jhed should always be effecting both sides of combat, and there will be benificial arcane winds.

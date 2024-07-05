@@ -12,6 +12,7 @@
 - Dragonborn (not unusual)
 - Dragons???
 - Naga
+- Tortle
 
 ### Plot Hooks & Revelations
 
@@ -27,3 +28,14 @@
 - Tie in a local important flora (fruit that needs a name). Think of these plants as oases within a desert, useful for potion crafting too.
 - All the creatures are looking for something in the wasteland, which there are no records of existing.
 Rude the gas replication failed twice
+
+### Dinosaurs
+
+- Lizardfolk want to tame dinosaurs for mounts
+- Kobolds see them as false dragons and eat them
+- Prized possession for traders
+- Only found in Jhed Wasteland
+
+### Default Monster Manual Fluff
+
+- Naga and Yuan-ti hate each other
