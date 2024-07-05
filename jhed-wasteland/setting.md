@@ -30,7 +30,6 @@ The Jhed Wasteland seems broken in time, as dusk shifts to dawn or day to night 
 
 The weather in Jhed should always be effecting both sides of combat, and there will be benificial arcane winds.
 
-
 ## Map/World Logistics
 
 ### Path to J'hed
