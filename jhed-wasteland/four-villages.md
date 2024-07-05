@@ -1,18 +1,13 @@
 # Four Villages
 
-All have beasts of burden
+### Common Features
 
-Trade Resources for villages
-
-
-Exotic Resources for greater kingdom
-
-Village focus
-
-Religion
+- All villages have beasts of burden.
+- Trade resources among villages and with the greater kingdom.
+- Each village has its own focus and unique characteristics.
+- Religion plays a significant role in village life.
 
 ### Village One
-
 
 **Why Founded:** Northmost trade position along Wasteland
 
@@ -20,18 +15,16 @@ Religion
 
 **Trade Resource:** Potions
 
-**Defense:** Runecarving (glyph of warding), and Giant
+**Defense:** Runecarving (glyph of warding) and a Giant
 
 **Oddities:** 
     
-    - All within Village are charmed so can't hurt eachother
-    - Fighting Pit in middle (no charm)
+- All within the village are charmed and cannot hurt each other.
+- Fighting Pit in the middle (no charm).
 
 **Town Improvements:** Better Potions
 
-### Two
-
-Food(beasts) Stone, Gems
+### Village Two
 
 **Why Founded:** Stone
 
@@ -39,30 +32,42 @@ Food(beasts) Stone, Gems
 
 **Trade Resource:** Gems
 
-**Defense:** zombies
+**Defense:** Zombies
 
-**Oddities:** 
-    
-    - purchasable zombie slave work
-    - no one knows the necromancer
+**Oddities:**
 
+- Purchasable zombie slave work.
+- No one knows the necromancer.
 
-### Three
+**Description:**
 
-Food(plants), Wood (fungi), 
+Welcome to Village Two, one of the unique border towns of the Jhed Continent. This village, inhabited by around 50 dwarves, exudes an eerie yet bustling atmosphere. As you arrive, the first thing you notice is the constant presence of skeletons patrolling the streets and performing various menial tasks, albeit poorly. Despite the unsettling sight, the town is alive and its inhabitants are well.
 
-Psionics, communication
+The dwarves of Village Two are resilient and industrious, primarily engaged in mining activities to extract stone and precious gems, which are their main trade resources. The town is known for its excellent quality stone and gems, making it a valuable settlement for obtaining mined materials.
 
-Mage Tower
+A unique agreement exists in Village Two: whenever a resident dies or reaches the end of their life, they are offered the chance to be converted into an undead worker, a practice regarded with honor and respect. These undead workers are called **Eternal Laborers** by the townsfolk, a title that reflects both reverence and practicality.
 
-### Four
+The constant patrolling and laboring of these Eternal Laborers contribute to the town's smooth functioning. However, it is obvious to any observer that a necromancer is present in the village, though their identity remains a mystery. The inhabitants understand that uncovering and eliminating the necromancer would be detrimental, as the undead workers kept underground would turn on the town. Thus, the necromancer's presence is tacitly accepted, and the town continues to run efficiently under this dark yet effective system.
 
-no food, important
+Village Two's quirky blend of dark and practical elements makes it a fascinating place within the Jhed Continent, balancing on the edge of mystery and survival.
 
-Noble Seat of Jhed
+### Village Three
 
-Abandoned Cathedral
+**Food:** Plants, Wood (fungi)
 
-Holy Site
+**Unique Feature:** Psionics, communication
 
-Diplomacy, Blessings, "law"
+**Structure:** Mage Tower
+
+### Village Four
+
+**Food:** None (important)
+
+**Unique Feature:** Noble Seat of Jhed
+
+**Structure:** Abandoned Cathedral
+
+**Significance:** Holy Site
+
+**Focus:** Diplomacy, Blessings, "Law"
+
