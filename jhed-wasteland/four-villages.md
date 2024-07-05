@@ -49,8 +49,6 @@ A unique agreement exists in Village Two: whenever a resident dies or reaches th
 
 The constant patrolling and laboring of these Eternal Laborers contribute to the town's smooth functioning. However, it is obvious to any observer that a necromancer is present in the village, though their identity remains a mystery. The inhabitants understand that uncovering and eliminating the necromancer would be detrimental, as the undead workers kept underground would turn on the town. Thus, the necromancer's presence is tacitly accepted, and the town continues to run efficiently under this dark yet effective system.
 
-Village Two's quirky blend of dark and practical elements makes it a fascinating place within the Jhed Continent, balancing on the edge of mystery and survival.
-
 ### Village Three
 
 **Food:** Plants, Wood (fungi)
