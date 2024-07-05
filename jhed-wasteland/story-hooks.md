@@ -12,6 +12,7 @@
 - **Beast Hunts**: Hunt dangerous creatures that threaten the villages or valuable resources.
 - **Rescue Missions**: Save lost villagers or adventurers trapped in the wilderness.
 
+
 ## Kobolds Story Hooks
 
 - **Growing Numbers:** Villagers point out increased Kobold sightings but not increased hostility

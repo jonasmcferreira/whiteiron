@@ -5,7 +5,7 @@
 ### Odd Inhabitants
 
 - Kobolds
-- Lizardfolk 
+- Lizardfolk
 - Yuan-ti
 - Giant Snakes
 - Dinosaurs
