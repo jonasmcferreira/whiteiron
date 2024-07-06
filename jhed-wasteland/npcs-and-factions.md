@@ -77,3 +77,39 @@ The Frostblade Wardens are respected and relied upon across the Jhed Wasteland. 
 - **Treasure Transport:** The players could hire the Frostblade Wardens to transport a valuable artifact across the wasteland, ensuring its safe delivery.
 - **Beast Hunt:** The players join the Frostblade Wardens in a hunt for a White Ice Giant Worm, a dangerous creature threatening the villages.
 - **Rescue Mission:** The players are rescued by the Frostblade Wardens after being stranded in a blizzard. They must work off their debt to the Wardens through labor or services.
+
+### Example
+
+**Vaulted Ones**
+
+A few collectors that wander Jhed trading through the villages and scattered clans of the south. Usually adorning a bell, tolling as they walk. They talk about filling their vaults to protect these artifacts for further study, but in truth are bringing these items to a sphynx, trying to access to the sphyx's vault. Oddly, non of these collectors are particularly intelligent and it is more of a brute force trial and error to appease the sphyx.
+
+**Kron**
+A grey skinned Goliath with a Gem of Seeing, an item he will never give up, and uses it to verify Relics. Kron should be the only one knowing the location of the vault and also pays the most, he has no issues getting gold and gives it up easily.
+
+**Origin**
+Stumbling into sphyx lair and failing riddle, curses you to work for her
+
+**Sphyx King**
+Wants a crown, finding any crown of the fallen kings in Jhed will allow access to her vault.
+Riddle: "give me a gift, one for blood that is not mine. The most powerful mundane trinket"
+
+**How towns interact**
+Often used in towns for delivery as they pass through consistently, they take minimal risks themselves but just try to acquire those travelled into Jhed
+
+**Benfits friendship**
+They can keep a lookout for items and willing to purchase them and resell to players
+
+**Issues enemies**
+When they get key relics, they will be ambushed
+
+
+**Encounters:**
+- fight party for one of the relics
+- given location of a relic, or sphyx
+- becoming a vault member
+
+
+
+
+
