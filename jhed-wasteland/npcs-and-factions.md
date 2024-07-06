@@ -12,14 +12,31 @@
 - **The Hunters' Guild**: Expert trackers and beast slayers, offering bounties and valuable information.
 - **The Frost Syndicate**: A mysterious group that profits from the harsh conditions, possibly engaging in smuggling or black market trading.
 
+# Worldfunction Notes on Frostblade Warden
+
+    -Jhed 4 towns probably has a combined population between 60-80 people, when everyone knows everyone renown is meaningless
+    -"Ignatius Flameheart Scald of the Inferno Keel" is akin to, Coldus Frosthand Freeze of the Chilly Sails
+    -As written can make sense as a smuggling organization bringing stuff in and out of Jhed
+    -Strategic brilliance in what capacity, this is a continent defined by unconquerability
+    -When mentioning rumored, these notes are not player info cards, what are the facts as well?
+    -What does justice in Jhed look like? and does he care about deals that don't relate to him
+    -From a visual perspective, the keel would be underwater or ice, if named off visuals it would be steam related as this boat would always be covered in steam. Steam Keel?
+    -Fantasy Icebreaker, awesome, whats its crew size if it has cannonballs, once again, Jhed is organized population 80ish
+    -The boats magic, is it from the engineering of the boat or something greater
+    -A ship with cannons would be too large for Jhed Wasteland both in capacity and function
+    -What are actual origins? once again, this is a design doc not a player handout
+    -"legendary White Ice Giant Worms" buffed/nerfed  purple wurm? 
+    -"fairness and justice" how much of these are guiding principles in an area where survival is difficult
+    
+    
 
 ## Frostblade Wardens and the Inferno Keel
 
-**Name:** Frostblade Wardens
+**Name:** Frostblade Wardens   
 
-**Captain:** Captain Ignatius "Flameheart" Scald
+**Captain:** Captain Ignatius "Flameheart" Scald    
 
-**Ship:** The Inferno Keel
+**Ship:** The Inferno Keel    
 
 ### Description
 
