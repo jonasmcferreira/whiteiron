@@ -11,13 +11,6 @@
 - **The Hunters' Guild**: Expert trackers and beast slayers, offering bounties and valuable information.
 - **The Frost Syndicate**: A mysterious group that profits from the harsh conditions, possibly engaging in smuggling or black market trading.
 
-# Worldfunction Notes on Frostblade Warden
-
-    -As written can make sense as a smuggling organization bringing stuff in and out of Jhed
-    -What does justice in Jhed look like? and does he care about deals that don't relate to him
-    -What are actual origins? once again, this is a design doc not a player handout
-    -"fairness and justice" how much of these are guiding principles in an area where survival is difficult
-
 ## The Flaming Fools and the Gliding Cloud
 
 **Name:** The Flaming Fools
