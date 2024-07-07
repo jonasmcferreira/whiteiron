@@ -61,3 +61,9 @@ The weather in Jhed should always be effecting both sides of combat, and there w
 ### Key of Thieves
 
 - small key of islands is the most direct path to Jhed, these thieves are the last remnants of the Thieve Kings
+
+## Open Questions
+
+- As written can make sense as a smuggling organization bringing stuff in and out of Jhed
+- What does justice in Jhed look like? and does he care about deals that don't relate to him
+- "fairness and justice" how much of these are guiding principles in an area where survival is difficult
