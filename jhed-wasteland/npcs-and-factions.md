@@ -3,7 +3,6 @@
 ## Village Leaders
 
 - **Elder Warden**: An experienced survivalist who knows the land and its secrets.
-- **Arcane Scholar**: A mage interested in uncovering the mysteries of the ancient ruins.
 - **Village One:** Giant, animal tamer and works with fishing and animal husbandry. Disputes are brought to him and defends the village through strength and runecarving
 - **Village Two:** Necromancer, unknown NPC in village is a necromancer controlling all the undead in the mines
 
@@ -14,69 +13,68 @@
 
 # Worldfunction Notes on Frostblade Warden
 
-    -Jhed 4 towns probably has a combined population between 60-80 people, when everyone knows everyone renown is meaningless
-    -"Ignatius Flameheart Scald of the Inferno Keel" is akin to, Coldus Frosthand Freeze of the Chilly Sails
     -As written can make sense as a smuggling organization bringing stuff in and out of Jhed
-    -Strategic brilliance in what capacity, this is a continent defined by unconquerability
-    -When mentioning rumored, these notes are not player info cards, what are the facts as well?
     -What does justice in Jhed look like? and does he care about deals that don't relate to him
-    -From a visual perspective, the keel would be underwater or ice, if named off visuals it would be steam related as this boat would always be covered in steam. Steam Keel?
-    -Fantasy Icebreaker, awesome, whats its crew size if it has cannonballs, once again, Jhed is organized population 80ish
-    -The boats magic, is it from the engineering of the boat or something greater
-    -A ship with cannons would be too large for Jhed Wasteland both in capacity and function
     -What are actual origins? once again, this is a design doc not a player handout
-    -"legendary White Ice Giant Worms" buffed/nerfed  purple wurm? 
     -"fairness and justice" how much of these are guiding principles in an area where survival is difficult
-    
-    
 
-## Frostblade Wardens and the Inferno Keel
+## The Flaming Fools and the Gliding Cloud
 
-**Name:** Frostblade Wardens   
+**Name:** The Flaming Fools
 
-**Captain:** Captain Ignatius "Flameheart" Scald    
+**Captain:** Captain Thaddeus Winterbourne
 
-**Ship:** The Inferno Keel    
+**Ship:** The Gliding Cloud
 
 ### Description
 
-**Frostblade Wardens:**
+**The Flaming Fools:**
 
-The Frostblade Wardens are a renowned band of vigilantes who sail the icy expanses of the Jhed Wasteland. Known for their unwavering sense of justice and fair dealings, they are hired to transport valuable items, hunt dangerous creatures, and assist those in need—always for a price, which can be paid in goods, gold, or labor. Their reputation for fairness and honor precedes them, and they are respected by the villages they serve.
+The Flaming Fools are a resourceful band of free agents who traverse the icy expanses of the Jhed Wasteland. They transport valuable items, hunt dangerous creatures, and assist those in need, always for a price, which can be paid in goods, gold, or labor.
 
-**Captain Ignatius "Flameheart" Scald:**
+**Captain Thaddeus Winterbourne:**
 
-Captain Ignatius, known as "Flameheart" for his fiery temper and strategic brilliance, leads the Frostblade Wardens with a firm yet fair hand. He is a charismatic leader with a deep sense of justice, and his rumored connection to fire magic aids in the ship's operations and warmth. He ensures that every deal made is honored and that the Wasteland remains a place where justice can prevail.
+Captain Thaddeus Winterbourne is a quirky yet rugged leader of the Flaming Fools. Known for his warmth and fiery spirit, he ensures the survival and operations of the Fools in the unforgiving environment of Jhed. During the last encounter hunting the great **Kragg**, a legendary **[Placeholder Creature]**, Captain Winterbourne got lost in the wasteland and has since become crazed with the sole purpose of continuing the hunt.
 
-**The Inferno Keel:**
+**The Gliding Cloud:**
 
-The Inferno Keel is a marvel of magical engineering and the pride of the Frostblade Wardens. This ship is unique in its ability to traverse both the open sea and the frozen wastelands, thanks to its enchanted metal hull and keel.
+The Gliding Cloud is a marvel of magical engineering, created by the eccentric gnome inventor Fizwidget Gearspanner. Known for his wild ideas and unorthodox methods, Fizwidget was often dismissed as mad. Recognizing Fizwidget's genius, Captain Winterbourne commissioned him to build a ship capable of navigating the treacherous ice and snow of the Jhed Wasteland. Combining mechanical expertise with ancient magical runes, Fizwidget enchanted the ship's hull and keel with a perpetual heating spell, allowing it to melt ice and steam across frozen terrain. Upon completion, the ship was entrusted to Captain Winterbourne, and Fizwidget disappeared into legend.
 
 **Hull and Keel:**
 
-The ship's hull is reinforced with a rare, heat-conducting metal that glows faintly with an inner fire. The keel, the ship's backbone, is enchanted with a perpetual **Heat Metal** spell. This magical effect keeps the metal hot enough to melt the ice and snow beneath the ship, allowing it to glide smoothly over frozen surfaces as easily as it sails through water.
+The ship's hull is reinforced with heat-conducting metal that glows faintly with an inner fire. The keel, the ship's backbone, is enchanted to remain perpetually hot, generating steam and enabling smooth travel over ice and snow.
 
 **Design and Features:**
 
-- **Flame-touched Sails:** The sails of the Inferno Keel are imbued with fire-resistant enchantments, allowing them to withstand the ship's intense heat. They are often seen glowing with a faint orange hue, especially at night.
-- **Frostforged Cannons:** The ship is armed with cannons that shoot both conventional cannonballs and enchanted projectiles designed to shatter ice and create obstacles for pursuing threats.
-- **Icebreaker Bow:** The bow of the ship is reinforced to break through thicker ice, making it a formidable vessel in the Arctic waters and frozen plains.
+- **Flame-touched Sails:** The sails are imbued with fire-resistant enchantments, glowing faintly with an orange hue.
+- **Icebreaker Bow:** The bow is reinforced to break through thicker ice, making it a formidable vessel in the Arctic waters and frozen plains.
+- **Crew Size:** The Gliding Cloud has a small crew, usually around 10 members, enough to operate the vessel efficiently in the small, sparsely populated environment of Jhed.
+
+**The Flaming Fools:**
+
+The crew of the Gliding Cloud, known as the Flaming Fools, are a hardy group of adventurers. Each member brings a unique skill to the table, and they are fiercely loyal to Captain Winterbourne. They are known for their fiery personalities and their ability to get the job done, no matter the odds.
 
 ### Lore and Adventures
 
 **Origins:**
 
-The origins of the Inferno Keel are shrouded in mystery. Some say it was forged in the heart of a volcano by a forgotten race of fire giants, while others believe it was the creation of a mad sorcerer who sought to conquer the icy realms. Captain Ignatius Scald discovered the ship and, through unknown means, bound the perpetual Heat Metal spell to its keel.
+The Gliding Cloud was created by the brilliant yet eccentric gnome inventor Fizwidget Gearspanner. Combining his mechanical expertise with ancient magical runes, Fizwidget enchanted the ship to navigate the frozen wastelands. After entrusting the ship to Captain Winterbourne, Fizwidget disappeared, leaving behind his magnum opus.
 
 **Activities:**
 
-The Frostblade Wardens are respected and relied upon across the Jhed Wasteland. They transport heavily valued items between villages, hunt dangerous creatures such as the legendary White Ice Giant Worms, and rescue lost travelers—for a fee. Their services are invaluable, and they ensure that the Wasteland remains a place of fairness and justice.
+The Flaming Fools are vital to the survival and commerce of the Jhed Wasteland. They transport heavily valued items between villages, hunt dangerous creatures, and rescue lost travelers—for a fee. Their services are essential for maintaining the fragile balance of life in this harsh environment.
 
-**Encounters:**
+**Encounters/Quests:**
 
-- **Treasure Transport:** The players could hire the Frostblade Wardens to transport a valuable artifact across the wasteland, ensuring its safe delivery.
-- **Beast Hunt:** The players join the Frostblade Wardens in a hunt for a White Ice Giant Worm, a dangerous creature threatening the villages.
-- **Rescue Mission:** The players are rescued by the Frostblade Wardens after being stranded in a blizzard. They must work off their debt to the Wardens through labor or services.
+- **Beast Hunting and Protection:** The players join the Flaming Fools in a hunt for a **[Placeholder Creature]**, a dangerous creature threatening the villages.
+- **Rescue and Recovery Missions:** The players are rescued by the Flaming Fools after being stranded in a blizzard. They must work off their debt to the Fools through labor or services.
+- **Information and Intelligence Gathering:** The Flaming Fools provide settlements with vital information about weather patterns, creature movements, and potential dangers, allowing townsfolk to prepare and seek shelter.
+
+### Visual Description
+
+**The Gliding Cloud:**
+
+The Gliding Cloud is an imposing vessel with a sleek, streamlined design. Its hull is made of a rare, heat-conducting metal that glows faintly with an inner fire, giving it a warm, otherworldly aura. The ship is always shrouded in a mist of steam, a byproduct of the enchanted keel melting the ice beneath it. The sails are deep crimson, imbued with fire-resistant enchantments, and glow faintly with an orange hue. The bow is reinforced with a thick, serrated metal edge, designed to break through even the thickest ice. The deck is spacious and well-organized, with various stations for navigation, combat, and maintenance. The engine room, filled with gears, pipes, and glowing runes, is the heart of the ship where the magical and mechanical systems are maintained. When players first see the Gliding Cloud, they are struck by its unique appearance. The constant steam rising from the keel, the warm glow of the metal hull, and the flame-touched sails make it stand out in the icy wasteland. The ship’s ability to melt ice and glide smoothly over the terrain is both impressive and eerie, creating a sense of awe and respect.
 
 ### Example
 
