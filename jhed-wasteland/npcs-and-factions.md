@@ -82,32 +82,48 @@ The Frostblade Wardens are respected and relied upon across the Jhed Wasteland. 
 
 **Vaulted Ones**
 
-A few collectors that wander Jhed trading through the villages and scattered clans of the south. Usually adorning a bell, tolling as they walk. They talk about filling their vaults to protect these artifacts for further study, but in truth are bringing these items to a sphynx, trying to access to the sphyx's vault. Oddly, non of these collectors are particularly intelligent and it is more of a brute force trial and error to appease the sphyx.
+    - 4 to 6 members
+    - trade for relics and trinkets of old civilizations 
+    - bringing relics to a hidden "vault"
+    - travel between villages and tribes of the south
+    - dim witted trade brutes, adorned with one or a couple of bells
+    - hidden info (the vault has a sphyx which Vaulted Ones have failed riddle)
+    - buffed by sphyx which allows them to travel solo in Jhed Continent
 
 **Kron**
-A grey skinned Goliath with a Gem of Seeing, an item he will never give up, and uses it to verify Relics. Kron should be the only one knowing the location of the vault and also pays the most, he has no issues getting gold and gives it up easily.
+
+    - Leader of Vaulted Ones
+    - Grey Skinned Goliath
+    - Has Gem of Seeing to authenticate, will not trade this item away
+    - Only member to know the location of Vault
+    - Will pay extra gold for items, and has no issues getting gold through violence
 
 **Origin**
-Stumbling into sphyx lair and failing riddle, curses you to work for her
 
-**Sphyx King**
-Wants a crown, finding any crown of the fallen kings in Jhed will allow access to her vault.
-Riddle: "give me a gift, one for blood that is not mine. The most powerful mundane trinket"
+    - Sphyx Lair, riddle is to bring her a gift (wants a crown from one of the kings)
 
-**How towns interact**
-Often used in towns for delivery as they pass through consistently, they take minimal risks themselves but just try to acquire those travelled into Jhed
+**Sphyx**
+
+    - Riddle: "give me a gift, one for blood that is not mine. The most powerful mundane trinket"
+    - Answer: wants a crown from one of the fallen kings in Jhed
+
+**How villages interact**
+
+    - They purchase trinkets of little value, so liked as a source of trade
+    - Nomadic movement makes them ideal to use for trading between villages
+    - Not exactly trusted as they do trade with bandits and hoards
 
 **Benfits friendship**
-They can keep a lookout for items and willing to purchase them and resell to players
+
+    - They can purchase items for you that they find, and trade them to players
+    - Location of the Vault
 
 **Issues enemies**
-When they get key relics, they will be ambushed
 
+    - Risk ambush when collecting relics
+    - Lower trade rates of Relics
+    - Sphyx will not offer help
 
-**Encounters:**
-- fight party for one of the relics
-- given location of a relic, or sphyx
-- becoming a vault member
 
 
 
