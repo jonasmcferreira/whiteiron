@@ -2,123 +2,122 @@
 
 ### Endure / Shelter
 
-A party can choose to **Endure** a weather effect to keep moving, or **Shelter** to wait for weather to change
+A party can choose to **Endure** a weather effect to keep moving, or **Shelter** to wait for weather to change.
 
-**Shelter** in place is a Short Rest while in cover of the weather
+**Shelter** in place is a Short Rest while in cover of the weather.
 
-|1 |2| 3     | 4   | 5| 6|
-|---- |--  | ------------       |---------    |
+|1 |2| 3  | 4  | 5  | 6  |
+|--|--|----|----|----|----|
 |1d4| 1d6| 1d8| 1d10| 1d12 |1d20| 1d100|
 
-### Calm            1-20
-    Roll 1d20 when traveling in Calm Weather
-    Roll 1d4 if a party waits for ideal conditions
+### Weather Categories and Rolls
 
+#### Calm (1-20)
 
-### Stormy(+20)          21-40
-    Roll 1d20+20 when traveling in Stormy Weather
-    Roll 2d20 for random weather on Jhed Continent
+- Roll 1d20 when traveling in Calm Weather.
+- Roll 1d4 if a party waits for ideal conditions.
 
-### Calm Arcane(+40)     41-60
-    Roll 1d20+40 when traveling through arcane torrents
-    Roll 3d20 when traveling through Jhed Wasteland Coastline
-    Roll 1d4 for beneficial
+#### Stormy (+20) (21-40)
 
-### Stormy Arcane   61-80
-    Roll 1d20+60 when traveling unstable weather
-    Roll 4d20 when traveling through Jhed Wasteland
+- Roll 1d20+20 when traveling in Stormy Weather.
+- Roll 2d20 for random weather on Jhed Continent.
+
+#### Calm Arcane (+40) (41-60)
+
+- Roll 1d20+40 when traveling through arcane torrents.
+- Roll 3d20 when traveling through Jhed Wasteland Coastline.
+- Roll 1d4 for beneficial effects.
+
+#### Stormy Arcane (61-80)
+- Roll 1d20+60 when traveling in unstable weather.
+- Roll 4d20 when traveling through Jhed Wasteland.
     
 ### Encounters      81-100
 
+### Encounters (81-100)
 
-
-
-|d100 |catagory| Weather     | Effect   | 
-|---- |--  | ------------       |---------    |
-|01   |calm| clear skies        | no effect   |  
-|02   |calm| distant snowfall   | no effect   |  
-|03   |calm| mild breeze        | no effect   |  
-|04   |calm| light overcast     | no effect   |  
-|05   |calm| light snow         | reference wind and snow   |  
-|06   |calm| distant thunder    | no effect   |  
-|07   |calm| light fog          | reference fog   |  
-|08   |calm| strong wind        | reference wind and snow  |  
-|09   |calm| light snow         | reference wind and snow   |  
-|10   |calm| clear skies        | no effect   |  
-|11   |calm| overcast           | dim light   |  
-|12   |calm| harsh cold         | reference cold    |  
-|13   |calm| sleet              | reference cold   |  
-|14   |calm| blinding snow      | reference wind and snow   |  
-|15   |calm| wind and snow      | reference wind and snow    |  
-|16   |calm| close thunder      | reference lightning   |  
-|17   |calm| fog                | reference fog   |  
-|18   |calm| snow               | reference cold   |  
-|19   |calm| light hail         | reference hail  |  
-|20   |calm| restoritive winds  | reference arcane winds   |  
-|21   |storm| heavy snow         | reference wind and snow            |  
-|22   |storm| strong hail        | reference hail   |  
-|23   |storm| brutal cold        | reference cold    |  
-|24   |storm| heavy fog          | reference fog   |  
-|25   |storm| defeaning thunder  | reference lightning   |  
-|26   |storm| thick storm clouds | no light   |  
-|27   |storm| heavy windandsnow  | reference wind and snow   |  
-|28   |storm| fog Cloud          | reference fog   |  
-|29   |storm| lightning Strike   | reference lightning   |  
-|30   |storm| maddening howls    | reference madness   |  
-|31   |storm| tremors            | reference misc   |  
-|32   |storm| dense shifting weather  | reference fog   |  
-|33   |storm| falling ash        | reference wind and snow   |  
-|34   |storm| poisoned ice       | reference wind and snow  |  
-|35   |storm| illusionary snow   | reference wind and snow   |  
-|36   |storm| explosive thundering  | reference thunder   |  
-|37   |storm| blizzard           | reference wind and snow   |  
-|38   |storm| freezing fog       | reference cold           |  
-|39   |storm| maddening visages  | reference madness        |  
-|40   |storm| rejuvenating winds | reference arcane winds   |  
-|41   |arcane| attunements to beasts         | reference arcane |  
-|42   |arcane| graceful winds        | reference arcane   |  
-|43   |arcane| blessed snow        | reference arcane    |  
-|44   |arcane| disguising fog          | reference arcane   |  
-|45   |arcane| enlarging boom  | reference arcane   |  
-|46   |arcane| reducing boom | reference arcane   |  
-|47   |arcane| snows of truth     | reference arcane   |  
-|48   |arcane| winds of lies          | reference arcane   |  
-|49   |arcane| haste   | reference arcane   |  
-|50   |arcane| slow    | reference arcane   | 
-|51   |arcane| bane            | reference arcane   |  
-|52   |arcane| darkness  | reference arcane   |  
-|53   |arcane| web        | reference arcane   |  
-|54   |arcane| Clarity        | reference arcane  |  
-|55   |arcane| low gravity   | reference arcane  |  
-|56   |arcane| gravity lift  | reference arcane   |  
-|57   |arcane| invsibility           | reference arcane   |  
-|58   |arcane| fly       | reference arcane           |  
-|59   |arcane| locked  | reference arcane        | 
-|60   |arcane| servents | reference arcane   |  
-|61   |unstable| Exploding Hail         | reference unstable | 
-|62   |unstable| Glacial Heatwave        | reference unstable   |  
-|63   |unstable| Ward of Friendship        | reference unstable    |  
-|64   |unstable| binding ice          | reference unstable   |  
-|65   |unstable| blazing sleet  | reference unstable   |  
-|66   |unstable| Ice Storm | reference unstable   |  
-|67   |unstable| Wild Magic Surges     | reference unstable   |  
-|68   |unstable| Undead Winds          | reference unstable   |  
-|69   |unstable| Radiant Rays   | reference unstable   |  
-|70   |unstable| anti magic    | reference unstable   | 
-|71   |unstable| gaseous form            | reference unstable   |  
-|72   |unstable| a height of madness  | reference unstable   |  
-|73   |unstable| Purple Snow        | reference unstable   |  
-|74   |unstable| Lost in Time        | reference unstable  |  
-|75   |unstable|  Acid Rain   | reference unstable  |  
-|76   |unstable| Weakness | reference unstable   |  
-|77   |unstable| Speak with Plants  | reference unstable   |  
-|78   |unstable| Wind Walk           | reference unstable           |  
-|79   |unstable| Snow Meteors        | reference unstable        | 
-|80   |unstable| Agathy's  | reference unstable   |  
-
-
-
-
+| d100 | Category  | Weather               | Effect        |
+|------|-----------|-----------------------|---------------|
+| 01   | calm      | clear skies           | no effect     |
+| 02   | calm      | distant snowfall      | no effect     |
+| 03   | calm      | mild breeze           | no effect     |
+| 04   | calm      | light overcast        | no effect     |
+| 05   | calm      | light snow            | wind and snow |
+| 06   | calm      | distant thunder       | no effect     |
+| 07   | calm      | light fog             | fog           |
+| 08   | calm      | strong wind           | wind and snow |
+| 09   | calm      | light snow            | wind and snow |
+| 10   | calm      | clear skies           | no effect     |
+| 11   | calm      | overcast              | dim light     |
+| 12   | calm      | harsh cold            | cold          |
+| 13   | calm      | sleet                 | cold          |
+| 14   | calm      | blinding snow         | wind and snow |
+| 15   | calm      | wind and snow         | wind and snow |
+| 16   | calm      | close thunder         | lightning     |
+| 17   | calm      | fog                   | fog           |
+| 18   | calm      | snow                  | cold          |
+| 19   | calm      | light hail            | hail          |
+| 20   | calm      | restorative winds     | arcane winds  |
+| 21   | storm     | heavy snow            | wind and snow |
+| 22   | storm     | strong hail           | hail          |
+| 23   | storm     | brutal cold           | cold          |
+| 24   | storm     | heavy fog             | fog           |
+| 25   | storm     | deafening thunder     | lightning     |
+| 26   | storm     | thick storm clouds    | no light      |
+| 27   | storm     | heavy wind and snow   | wind and snow |
+| 28   | storm     | fog cloud             | fog           |
+| 29   | storm     | lightning strike      | lightning     |
+| 30   | storm     | maddening howls       | madness       |
+| 31   | storm     | tremors               | misc          |
+| 32   | storm     | dense shifting weather| fog           |
+| 33   | storm     | falling ash           | wind and snow |
+| 34   | storm     | poisoned ice          | wind and snow |
+| 35   | storm     | illusionary snow      | wind and snow |
+| 36   | storm     | explosive thundering  | thunder       |
+| 37   | storm     | blizzard              | wind and snow |
+| 38   | storm     | freezing fog          | cold          |
+| 39   | storm     | maddening visages     | madness       |
+| 40   | storm     | rejuvenating winds    | arcane winds  |
+| 41   | arcane    | attunements to beasts | arcane        |
+| 42   | arcane    | graceful winds        | arcane        |
+| 43   | arcane    | blessed snow          | arcane        |
+| 44   | arcane    | disguising fog        | arcane        |
+| 45   | arcane    | enlarging boom        | arcane        |
+| 46   | arcane    | reducing boom         | arcane        |
+| 47   | arcane    | snows of truth        | arcane        |
+| 48   | arcane    | winds of lies         | arcane        |
+| 49   | arcane    | haste                 | arcane        |
+| 50   | arcane    | slow                  | arcane        |
+| 51   | arcane    | bane                  | arcane        |
+| 52   | arcane    | darkness              | arcane        |
+| 53   | arcane    | web                   | arcane        |
+| 54   | arcane    | clarity               | arcane        |
+| 55   | arcane    | low gravity           | arcane        |
+| 56   | arcane    | gravity lift          | arcane        |
+| 57   | arcane    | invisibility          | arcane        |
+| 58   | arcane    | fly                   | arcane        |
+| 59   | arcane    | locked                | arcane        |
+| 60   | arcane    | servants              | arcane        |
+| 61   | unstable  | exploding hail        | unstable      |
+| 62   | unstable  | glacial heatwave      | unstable      |
+| 63   | unstable  | ward of friendship    | unstable      |
+| 64   | unstable  | binding ice           | unstable      |
+| 65   | unstable  | blazing sleet         | unstable      |
+| 66   | unstable  | ice storm             | unstable      |
+| 67   | unstable  | wild magic surges     | unstable      |
+| 68   | unstable  | undead winds          | unstable      |
+| 69   | unstable  | radiant rays          | unstable      |
+| 70   | unstable  | anti magic            | unstable      |
+| 71   | unstable  | gaseous form          | unstable      |
+| 72   | unstable  | a height of madness   | unstable      |
+| 73   | unstable  | purple snow           | unstable      |
+| 74   | unstable  | lost in time          | unstable      |
+| 75   | unstable  | acid rain             | unstable      |
+| 76   | unstable  | weakness              | unstable      |
+| 77   | unstable  | speak with plants     | unstable      |
+| 78   | unstable  | wind walk             | unstable      |
+| 79   | unstable  | snow meteors          | unstable      |
+| 80   | unstable  | agathy's              | unstable      |
 
 ### Wind and Snow
 
