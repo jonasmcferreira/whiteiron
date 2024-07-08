@@ -67,3 +67,11 @@ The weather in Jhed should always be effecting both sides of combat, and there w
 - As written can make sense as a smuggling organization bringing stuff in and out of Jhed
 - What does justice in Jhed look like? and does he care about deals that don't relate to him
 - "fairness and justice" how much of these are guiding principles in an area where survival is difficult
+
+## Law
+
+- Smuggling in and out of Jhed makes sense, in my head if someone was a well known criminal in the outer world, Jhed is a great place to hide
+- Law as a written structure is less likely in Jhed, but there are always those trying to advance interests, just overt hostilities aren't practical
+- Justice? exile or death. Theft in theory is a harder crime, if you steal bob's glasses, well everyone knows bob is missing glasses if you try to fence them. If you lose the hospitality of a village, you simply can't go there, enjoy zombies and glyph of warding!
+- Fairness is how I imagine Jhed working within villages, everyone knows that bad things can happen in the name of survival, but there is a difference between survival and destructive self interests
+- There would be a noble of Jhed in village four. Collecting limited taxes, diplomacy, and the most knowledgable resource of Jhed Wastelands
