@@ -36,6 +36,10 @@ A party can choose to **Endure** a weather effect to keep moving, or **Shelter**
 
 ### Encounters (81-100)
 
+Brainstorming to complete table roughly
+
+## Weather
+
 | d100 | Category  | Weather               | Effect        |
 |------|-----------|-----------------------|---------------|
 | 01   | calm      | clear skies           | no effect     |
@@ -118,6 +122,54 @@ A party can choose to **Endure** a weather effect to keep moving, or **Shelter**
 | 78   | unstable  | wind walk             | unstable      |
 | 79   | unstable  | snow meteors          | unstable      |
 | 80   | unstable  | agathy's              | unstable      |
+| 81   | idea  | polymorph        | idea      |
+| 82   | idea  | unstable teleportation      | idea      |
+| 83   | idea  | illusionary terrain    | idea      |
+| 84   | idea  | encased in ice           | idea      |
+| 85   | idea  | crystal         | idea      |
+| 86   | idea  | mercurial rain             | idea      |
+| 87   | idea  | blood snow     | idea      |
+| 88   | idea  | ruined storm          | idea      |
+| 89   | idea  | Voices of Jhed          | idea      |
+| 90   | idea  | protection            | idea      |
+| 91   | idea  | gaes          | idea      |
+| 92   | idea  | spoilage   | idea      |
+| 93   | idea  | desert sand           | idea      |
+| 94   | idea  | time skip          | idea      |
+| 95   | idea  | air of death             | idea      |
+| 96   | idea  | close to death              | idea      |
+| 97   | idea  | Midas Touch     | idea      |
+| 98   | idea  | ethereal             | idea      |
+| 99   | idea  | oozes          | idea      |
+| 100  | idea  | roll on table twice        | idea      |
+
+
+### Brainstorm
+
+Polymorph - DC 15 Wisdom Save against the effects of polymorph
+Unstable Teleportation - 2d10 force damage to resist being force teleported (group decision)
+illusionary terrain - DC 15 Arcana check to confirm if something is an illusion
+encased in ice - unpassable terrain, everything encased in ice
+crystal - entire environment is ice
+mercurial rain
+
+    Endure - 4d8 bludgeoning damage
+    
+    Shelter - 1d8 bludgeoning damage
+
+blood snow - maximum hitpoints reduced by 10 till short rest
+ruined storm - DC 15 Dexterity Save else take 10d6 bludgeoning damage, or half as much on a successful save
+voices of Jhed - can ask a question, DC 18 Intelligence save, on success the question is answered, on a fail 5d10 psycic damage
+protection - DC 13 Constitution save, on a fail under the effect of Shield of Faith
+gaes - DC 13 Wisdom save against Gaes, on a fail commanded to leave the Wasteland
+spoilage - all food becomes poisoned
+desert sand - all snow becomes desert sand
+time skip - 3d6 months pass
+air of death - DC 13 Constitution save, on a fail drop to 0 hitpoints and dying
+close to death - automatically fail 1 death saving throw when dropped to 0 hitpoints
+Midas Touch - all non living material is gold
+ethereal - can see into the ethereal plane
+oozes - players become a grey ooze
 
 ### Wind and Snow
 
