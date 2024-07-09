@@ -26,4 +26,12 @@
 - **Previous Rulers:** a thieves guild (insert name) was the last controller of Jhed Continent
 - **Tunnels:** abandoned mega-dungeon with an assortment of abandoned and forgotten loot
 - **Missing:** no known reason what happened to this guild, even if thieves were well known
-- **Safe:** low level exploration
+- **Safe:** lower level exploration
+
+## Netrus Plot Progressions (lvl)
+
+- **Missing Crew(2-4):** a skilled patrol from the North Western cliffwatch hasn't returned
+- **Extra Supplies(2-4):** getting an extra shipment of supplies from Village Two or Three would be appreciated
+- **Suspicious Activities(2-4):** Though the village is warded, someone seems to be sneaking in and out randomly
+- **Arcane Secrets(2-4):** Sammul belies someone is trying to learn how the glyphs work, maybe to turn them off
+- **Oozing Ruins(2-4):** Reagents for better potions East
