@@ -4,10 +4,17 @@
 - **Middle**: Increase the stakes with threats from powerful creatures and the discovery of ancient ruins.
 - **Climax**: Build towards a major revelation or confrontation, such as uncovering a lost city's secrets or facing a powerful arcane entity.
 
-## Level One
+## Level One - Smuggling a Bounty
 
-- Reach one of the four trade villages and complete a long rest
-- Kobold, Undead, Beast encounter
+- Tasked to Escort a shipment to Netrus (village one), and also to complete a bounty
+- Don Vras the guide, a canvased wagon and 6 Giant Rams
+- A few encounters of Kobold, Undead, Beasts and Oozes before reaching Netrus
+- Rules of the Snow is explained to party as the reach Jhed for a short rest
+- They party has 14 days to complete the bounty (long rest 7 day at Netrus)
+- Two available bounties
+- one along a path leading out of Jhed (for a party not interested in what they saw)
+- Second is found in an abandoned structure already dead holding a relic of unknown make
+
 
 ### Level Two
 
