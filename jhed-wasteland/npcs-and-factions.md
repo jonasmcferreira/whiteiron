@@ -3,8 +3,17 @@
 ## Village Leaders
 
 - **Elder Warden**: An experienced survivalist who knows the land and its secrets.
-- **Village One:** Giant, animal tamer and works with fishing and animal husbandry. Disputes are brought to him and defends the village through strength and runecarving
-- **Village Two:** Necromancer, unknown NPC in village is a necromancer controlling all the undead in the mines
+
+- **Netrus - Village One:** 
+
+    Nick (Giant) - animal tamer and works with fishing and animal husbandry. Disputes are brought to him and defends the village through strength and runecarving
+    Sammul (Tortle) - religious leader
+    Five Sisters - Potion Maker
+- **Dhuran Tol - Village Two:** 
+
+    Necromancer (unknown) - controls undead, but lost in Jhed Wasteland
+    Dhuran Three - Hill Dwarf(Bard), Mountain Dwarf(Wizard), Grey Dwarf(Sorcerer) decide what happens
+    Fizwidget - gnome inventor, crafter of The Gliding Cloud. Attempting to craft a ship to endure Jhed Wasteland
 
 ## Factions
 

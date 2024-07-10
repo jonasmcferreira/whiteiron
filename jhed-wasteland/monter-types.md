@@ -7,11 +7,19 @@ players should be warned general when building characters and making choices
 # Expected Encounters
 
 ### Undead
-
-    Zombies - workers of Village Two
-    Dracolich - a false vision for the Kobolds
+    
+    Zombies - workers of Village Two, found with poison
+    Skeletons - workers of Village Two, found with poison  
+    Crawling Claw - found in any undead encounter, thieves
+    
+    Shadow - ambush
+    
+   **Dracolich** - a false vision for the Kobolds, and resource for Village Two
+    
+    
 
 ### Beast
+
     Snakes
     Wolves
     Bears
@@ -21,7 +29,7 @@ players should be warned general when building characters and making choices
 
 ### Giant
     
-    Hill Giant - Village One
+    Hill Giant - Netrus Village One
 
 ### Humanoid
     
@@ -30,12 +38,16 @@ players should be warned general when building characters and making choices
     Kobolds
     Lizardfolk
     Yuan-ti
+    Dwarves
+    
+    Tribes - Orc, Goliaths, Kobolds, Yuan-ti, Lizardfolk
 
 
 # Biom Related
 
 ### Elemental
 ### Plant
+    Myconids - common around village three
 ### Monstrosity
     Roc patrol of Northern Jhed forcing the need of smuggling tunnels
 ### Ooze
@@ -45,6 +57,7 @@ players should be warned general when building characters and making choices
 # Rare (reinforce plot)
 
 ### Aberration
+    Village Four
 ### Dragon
 
 

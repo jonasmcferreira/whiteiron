@@ -39,3 +39,12 @@ Rude the gas replication failed twice
 ### Default Monster Manual Fluff
 
 - Naga and Yuan-ti hate each other
+
+### First ones
+
+- relics from before any known civilization
+- relates to madness, and gaining madness is required to interact with
+
+### Oozes
+
+- important

@@ -75,3 +75,13 @@ The weather in Jhed should always be effecting both sides of combat, and there w
 - Justice? exile or death. Theft in theory is a harder crime, if you steal bob's glasses, well everyone knows bob is missing glasses if you try to fence them. If you lose the hospitality of a village, you simply can't go there, enjoy zombies and glyph of warding!
 - Fairness is how I imagine Jhed working within villages, everyone knows that bad things can happen in the name of survival, but there is a difference between survival and destructive self interests
 - There would be a noble of Jhed in village four. Collecting limited taxes, diplomacy, and the most knowledgable resource of Jhed Wastelands
+
+
+## Expansion
+
+- each village in Jhed is sitting on a semi known but untapped potential of resources
+- connecting to villages increases the ability to trade
+- connecting to outer regions is a greater effort of time and will create a tension of politics
+- attempting to expand into Jhed Wasteland fails
+- improving defenses is the first goal, each village spends too mcuh resources stopping raiders
+- all villages want to help party raid Jhed, making them take the risk

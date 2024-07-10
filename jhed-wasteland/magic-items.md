@@ -34,6 +34,15 @@ If you spend 10 minutes of a short rest reading aloud Draconic text, one target 
 
 When speaking with Kobolds you gain expertise in Persuasion Checks
 
+### Plague Mask
+
+**Wonderous Item:** Helm
+
+**Rarity:** Uncommon (requires attunement)
+
+If you are under the poisoned condition, you can spend an action to attempt to poison any creature within 5ft, they must make a DC 12 Constitution Save or be poisoned and get any other effect from poison on you. Once you use this ability you can't do so again until you finish a short or long rest.
+
+
 # DMG Cold Resistance Items
 
 ### Ring of Cold Resistance
