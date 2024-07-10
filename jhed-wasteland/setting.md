@@ -62,20 +62,23 @@ The weather in Jhed should always be effecting both sides of combat, and there w
 
 - small key of islands is the most direct path to Jhed, these thieves are the last remnants of the Thieve Kings
 
-## Open Questions
+## The Code of the Snow
 
-- As written can make sense as a smuggling organization bringing stuff in and out of Jhed
-- What does justice in Jhed look like? and does he care about deals that don't relate to him
-- "fairness and justice" how much of these are guiding principles in an area where survival is difficult
-
-## Law
-
-- Smuggling in and out of Jhed makes sense, in my head if someone was a well known criminal in the outer world, Jhed is a great place to hide
-- Law as a written structure is less likely in Jhed, but there are always those trying to advance interests, just overt hostilities aren't practical
-- Justice? exile or death. Theft in theory is a harder crime, if you steal bob's glasses, well everyone knows bob is missing glasses if you try to fence them. If you lose the hospitality of a village, you simply can't go there, enjoy zombies and glyph of warding!
-- Fairness is how I imagine Jhed working within villages, everyone knows that bad things can happen in the name of survival, but there is a difference between survival and destructive self interests
-- There would be a noble of Jhed in village four. Collecting limited taxes, diplomacy, and the most knowledgable resource of Jhed Wastelands
-
+    Survive or Perish, survival is the balance between community and sacrifice.
+    
+    Render not aid if it means the demise of the group. All understand and accept this law.
+    
+    Kill not thy kin, but the dead have no feelings. Should they perish, their flesh may sustain thee.
+    
+    Jhed has no memory of who ye were before. Thy past matters not; only thy deeds in Jhed.
+    
+    Break not thy word; keep all bargains. Trust is sacred.
+    
+    Once a village elder or leader decrees, there shall be no appeal nor argument. The decision is final.
+    
+    Hold no grudges, for they serve no purpose. Let bygones be bygones for the sake of survival.
+    
+    Punishments: Three punishments there be: branded, exiled, and death. The branded shall not enter the villages of Jhed.
 
 ## Expansion
 
@@ -85,3 +88,5 @@ The weather in Jhed should always be effecting both sides of combat, and there w
 - attempting to expand into Jhed Wasteland fails
 - improving defenses is the first goal, each village spends too mcuh resources stopping raiders
 - all villages want to help party raid Jhed, making them take the risk
+- the frost syndicate comes
+

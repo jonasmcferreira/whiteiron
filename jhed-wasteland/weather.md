@@ -28,15 +28,14 @@ A party can choose to **Endure** a weather effect to keep moving, or **Shelter**
 - Roll 3d20 when traveling through Jhed Wasteland Coastline.
 - Roll 1d4 for beneficial effects.
 
-#### Stormy Arcane (61-80)
+#### Stormy Arcane +60 (61-80)
+
 - Roll 1d20+60 when traveling in unstable weather.
 - Roll 4d20 when traveling through Jhed Wasteland.
-    
-### Encounters      81-100
 
-### Encounters (81-100)
+### Encounters +80 (81-100)
 
-Brainstorming to complete table roughly
+- Brainstorming to complete table roughly
 
 ## Weather
 

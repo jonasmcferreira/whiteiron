@@ -45,9 +45,9 @@ Welcome to Village Two, one of the unique border towns of the Jhed Continent. Th
 
 The dwarves of Village Two are resilient and industrious, primarily engaged in mining activities to extract stone and precious gems, which are their main trade resources. The town is known for its excellent quality stone and gems, making it a valuable settlement for obtaining mined materials.
 
-A unique agreement exists in Village Two: whenever a resident dies or reaches the end of their life, they are offered the chance to be converted into an undead worker, a practice regarded with honor and respect. These undead workers are called **Eternal Laborers** by the townsfolk, a title that reflects both reverence and practicality.
+A unique agreement exists in Village Two: whenever a resident dies or reaches the end of their life, they are offered the chance to be converted into an undead worker, a practice regarded with honor and respect. These undead workers are called **The Volunteers** by the townsfolk, a title that reflects both reverence and practicality.
 
-The constant patrolling and laboring of these Eternal Laborers contribute to the town's smooth functioning. However, it is obvious to any observer that a necromancer is present in the village, though their identity remains a mystery. The inhabitants understand that uncovering and eliminating the necromancer would be detrimental, as the undead workers kept underground would turn on the town. Thus, the necromancer's presence is tacitly accepted, and the town continues to run efficiently under this dark yet effective system.
+The constant patrolling and laboring of these Volunteers contribute to the town's smooth functioning. However, it is obvious to any observer that a necromancer is present in the village, though their identity remains a mystery. The inhabitants understand that uncovering and eliminating the necromancer would be detrimental, as the undead workers kept underground would turn on the town. Thus, the necromancer's presence is tacitly accepted, and the town continues to run efficiently under this dark yet effective system.
 
 ### Village Three
 
@@ -65,9 +65,12 @@ The constant patrolling and laboring of these Eternal Laborers contribute to the
 - Hot Water springs
 - All within reef are vegitarian
 - everything is under the effect of faerie fire
+- panama canal
+- can be turned into a functional sea port
 
+### Village Four draft
 
-### Village Four
+- There would be a noble of Jhed in village four. Collecting limited taxes, diplomacy, and the most knowledgable resource of Jhed Wastelands
 
 **Food:** None (important)
 

@@ -22,10 +22,6 @@
 
 - Should be able to finally attempt to venture deeper into Jhed Wasteland
 
-
-
-
-
 ### Reveals
 
 - One of the fallen kings is on the Jhed Continent

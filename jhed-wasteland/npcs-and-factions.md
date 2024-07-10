@@ -9,16 +9,18 @@
     Nick (Giant) - animal tamer and works with fishing and animal husbandry. Disputes are brought to him and defends the village through strength and runecarving
     Sammul (Tortle) - religious leader
     Five Sisters - Potion Maker
-- **Dhuran Tol - Village Two:** 
+
+- **Dhuran Tol - Village Two:**
 
     Necromancer (unknown) - controls undead, but lost in Jhed Wasteland
     Dhuran Three - Hill Dwarf(Bard), Mountain Dwarf(Wizard), Grey Dwarf(Sorcerer) decide what happens
     Fizwidget - gnome inventor, crafter of The Gliding Cloud. Attempting to craft a ship to endure Jhed Wasteland
 
-## Factions
+## The Frost Syndicate (draft)
+ 
+**Condition:** if one of the villages increases in size, it opens opportunity for bandits, smugglers and thieves.
 
-- **The Hunters' Guild**: Expert trackers and beast slayers, offering bounties and valuable information.
-- **The Frost Syndicate**: A mysterious group that profits from the harsh conditions, possibly engaging in smuggling or black market trading.
+**Description:**  A mysterious group that profits from the harsh conditions, possibly engaging in smuggling or black market trading.
 
 ## The Flaming Fools and the Gliding Cloud
 
@@ -36,7 +38,7 @@ The Flaming Fools are a resourceful band of free agents who traverse the icy exp
 
 **Captain Thaddeus Winterbourne:**
 
-Captain Thaddeus Winterbourne is a quirky yet rugged leader of the Flaming Fools. Known for his warmth and fiery spirit, he ensures the survival and operations of the Fools in the unforgiving environment of Jhed. During the last encounter hunting the great **Kragg**, a legendary **[Placeholder Creature]**, Captain Winterbourne got lost in the wasteland and has since become crazed with the sole purpose of continuing the hunt.
+Captain Thaddeus Winterbourne is a quirky yet rugged leader of the Flaming Fools. Known for his warmth and fiery spirit, he ensures the survival and operations of the Fools in the unforgiving environment of Jhed. During the last encounter hunting the great **Kruugg**, a legendary **[Placeholder Creature]**, Captain Winterbourne got lost in the wasteland and has since become crazed with the sole purpose of continuing the hunt.
 
 **The Gliding Cloud:**
 
@@ -78,7 +80,7 @@ The Flaming Fools are vital to the survival and commerce of the Jhed Wasteland. 
 
 The Gliding Cloud is an imposing vessel with a sleek, streamlined design. Its hull is made of a rare, heat-conducting metal that glows faintly with an inner fire, giving it a warm, otherworldly aura. The ship is always shrouded in a mist of steam, a byproduct of the enchanted keel melting the ice beneath it. The sails are deep crimson, imbued with fire-resistant enchantments, and glow faintly with an orange hue. The bow is reinforced with a thick, serrated metal edge, designed to break through even the thickest ice. The deck is spacious and well-organized, with various stations for navigation, combat, and maintenance. The engine room, filled with gears, pipes, and glowing runes, is the heart of the ship where the magical and mechanical systems are maintained. When players first see the Gliding Cloud, they are struck by its unique appearance. The constant steam rising from the keel, the warm glow of the metal hull, and the flame-touched sails make it stand out in the icy wasteland. The ship’s ability to melt ice and glide smoothly over the terrain is both impressive and eerie, creating a sense of awe and respect.
 
-### Example
+## Vaulted Ones (draft)
 
 **Vaulted Ones**
 
