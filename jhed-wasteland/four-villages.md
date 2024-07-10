@@ -57,6 +57,16 @@ The constant patrolling and laboring of these Eternal Laborers contribute to the
 
 **Structure:** Mage Tower
 
+**Population:** Myconids, Kua-toa, Merfolk
+
+**Oddities:**
+
+- Entire village in a reef like structure
+- Hot Water springs
+- All within reef are vegitarian
+- everything is under the effect of faerie fire
+
+
 ### Village Four
 
 **Food:** None (important)
@@ -69,3 +79,4 @@ The constant patrolling and laboring of these Eternal Laborers contribute to the
 
 **Focus:** Diplomacy, Blessings, "Law"
 
+**Population:** 
