@@ -55,7 +55,7 @@ The Gliding Cloud was created by the brilliant yet eccentric gnome inventor Fizw
 
 **Activities:**
 
-The Flaming Fools are vital to the survival and commerce of the Jhed Wasteland. They transport heavily valued items between villages, hunt dangerous creatures, and rescue lost travelers—for a fee. Their services are essential for maintaining the fragile balance of life in this harsh environment.
+The Flaming Fools are vital to the survival and commerce of the Jhed Wasteland. They transport heavily valued items between villages, hunt dangerous creatures, and rescue lost travelers — for a fee. Their services are essential for maintaining the fragile balance of life in this harsh environment.
 
 **Encounters/Quests:**
 
