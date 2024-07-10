@@ -224,3 +224,7 @@ Whenever the temperature is at or below **0 degrees Fahrenheit**, a creature exp
 ### Frigid Water (page 110)
 
 A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of exhaustion
+
+### The Wild Food of Jhed
+
+Eating fresh raw meat or fruits of Jhed wilderness have mostly positive effects. 
