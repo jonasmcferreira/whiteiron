@@ -147,7 +147,413 @@ Weather in Jhed can be calm, stormy, Calm Arcane, stormy arcane. you add 20 to e
 | 99   | Encounter | Oozes                    | Encounter      |
 | 100  | Encounter | Roll on table twice      | Encounter      |
 
-## Effects
+## Weather Effects
+
+### Calm
+
+1. **Clear Skies**: The sky is a brilliant blue with no clouds in sight, offering a rare moment of tranquility in Jhed.
+   - **Endure:** No effect on movement or actions.
+   - **Shelter:** Short Rest with no additional benefits.
+
+2. **Distant Snowfall**: Far off in the horizon, gentle snowflakes fall, creating a picturesque scene against the stark landscape.
+   - **Endure:** No effect on movement or actions.
+   - **Shelter:** Short Rest with no additional benefits.
+
+3. **Mild Breeze**: A light breeze stirs the air, carrying the crisp scent of snow and ice.
+   - **Endure:** No effect on movement or actions.
+   - **Shelter:** Short Rest with no additional benefits.
+
+4. **Light Overcast**
+   - **Endure:** No effect on movement or actions.
+   - **Shelter:** Short Rest with no additional benefits.
+
+5. **Light Snow**
+   - **Endure:** Movement speed reduced by 10 feet.
+   - **Shelter:** Lightly obscured past 300ft.
+
+6. **Distant Thunder**
+   - **Endure:** No effect on movement or actions.
+   - **Shelter:** Short Rest with no additional benefits.
+
+7. **Light Fog**
+   - **Endure:** Perception checks have disadvantage.
+   - **Shelter:** Lightly obscured past 150ft, heavily obscured past 300ft.
+
+8. **Strong Wind**
+   - **Endure:** Disadvantage on ranged attack rolls and Perception checks relying on hearing.
+   - **Shelter:** Short Rest with no additional benefits.
+
+9.  **Light Snow**
+   - **Endure:** Movement speed reduced by 10 feet.
+   - **Shelter:** Lightly obscured past 300ft.
+
+10. **Clear Skies**
+    - **Endure:** No effect on movement or actions.
+    - **Shelter:** Short Rest with no additional benefits.
+
+11. **Overcast**
+    - **Endure:** Dim light conditions.
+    - **Shelter:** Short Rest with no additional benefits.
+
+12. **Harsh Cold**
+    - **Endure:** DC 10 Constitution saving throw every hour or gain one level of exhaustion.
+    - **Shelter:** Short Rest removes one level of exhaustion.
+
+13. **Sleet**
+    - **Endure:** Movement speed reduced by half.
+    - **Shelter:** Short Rest with no additional benefits.
+
+14. **Blinding Snow**
+    - **Endure:** Movement speed reduced by half and attacks have disadvantage.
+    - **Shelter:** Disadvantage on Perception checks relying on sight.
+
+15. **Wind and Snow**
+    - **Endure:** Movement speed reduced by half and attacks have disadvantage.
+    - **Shelter:** No effect.
+
+16. **Close Thunder**
+    - **Endure:** DC 12 Constitution saving throw or be stunned for 1 round.
+    - **Shelter:** Short Rest with no additional benefits.
+
+17. **Dense Fog**
+    - **Endure:** Heavily obscured area; creatures are effectively blind.
+    - **Shelter:** Short Rest with no additional benefits.
+
+18. **Snow**
+    - **Endure:** Movement speed reduced by 10 feet.
+    - **Shelter:** Lightly obscured past 150ft, heavily obscured past 300ft.
+
+19. **Light Hail**
+    - **Endure:** 1d4 Bludgeoning Damage, DC 6 Constitution Save against exhaustion.
+    - **Shelter:** 1 Bludgeoning Damage.
+
+20. **Restorative Winds**
+    - **Endure:** Gain 1d4 temporary hit points every hour.
+    - **Shelter:** Short Rest grants an additional 1d6 hit points.
+
+### Storm
+
+21. **Heavy Snow**
+    - **Endure:** Movement speed reduced to 10 feet; DC 12 Constitution saving throw every hour or gain one level of exhaustion.
+    - **Shelter:** Lightly obscured past 90ft, heavily obscured past 150ft. Short Rest removes one level of exhaustion.
+
+22. **Strong Hail**
+    - **Endure:** 1d8 Bludgeoning Damage, DC 12 Constitution Save against exhaustion.
+    - **Shelter:** 1d4 Bludgeoning Damage.
+
+23. **Brutal Cold**
+    - **Endure:** DC 15 Constitution saving throw every hour or gain one level of exhaustion.
+    - **Shelter:** 1d4 Cold Damage, DC 5 Constitution Save against exhaustion.
+
+24. **Heavy Fog**
+    - **Endure:** Heavily obscured area; creatures are effectively blind.
+    - **Shelter:** Short Rest with no additional benefits.
+
+25. **Deafening Thunder**
+    - **Endure:** DC 15 Constitution saving throw or be deafened for 1d4 hours.
+    - **Shelter:** 1d6 Thunder Damage, DC 10 Constitution Save against deafening.
+
+26. **Thick Storm Clouds**
+    - **Endure:** Darkness; attacks and Perception checks have disadvantage.
+    - **Shelter:** Short Rest with no additional benefits.
+
+27. **Heavy Wind and Snow**
+    - **Endure:** Movement speed reduced to 10 feet; attacks have disadvantage.
+    - **Shelter:** Lightly obscured, DC 8 Constitution Save against exhaustion.
+
+28. **Fog Cloud**
+    - **Endure:** Heavily obscured area; creatures are effectively blind.
+    - **Shelter:** Short Rest with no additional benefits.
+
+29. **Lightning Strike**
+    - **Endure:** DC 13 Dexterity saving throw or take 4d10 lightning damage.
+    - **Shelter:** 1d10 Lightning Damage on random target.
+
+30. **Maddening Howls**
+    - **Endure:** DC 15 Wisdom saving throw or suffer short-term madness.
+    - **Shelter:** No effect.
+
+31. **Tremors**
+    - **Endure:** DC 10 Dexterity saving throw or fall prone.
+    - **Shelter:** Do not gain benefit of a Short Rest, DC 16 Constitution Save against exhaustion.
+
+32. **Dense Shifting Weather**
+    - **Endure:** Perception checks have disadvantage.
+    - **Shelter:** Short Rest with no additional benefits.
+
+33. **Falling Ash**
+    - **Endure:** 2d6 fire damage.
+    - **Shelter:** No effect.
+
+34. **Poisoned Ice**
+    - **Endure:** DC 12 Constitution saving throw or take 1d6 poison damage every hour.
+    - **Shelter:** Lightly obscured, DC 8 Constitution Save against exhaustion and poison.
+
+35. **Illusionary Snow**
+    - **Endure:** DC 15 Arcana check to notice illusion, characters feel cold even if not adverse.
+    - **Shelter:** Short Rest with no additional benefits.
+
+36. **Explosive Thundering**
+    - **Endure:** DC 16 Constitution Save, 3d8 Thunder Damage, deafened on fail, half damage on success.
+    - **Shelter:** 1d8 Thunder Damage, DC 16 Constitution Save against deafening.
+
+37. **Blizzard**
+    - **Endure:** Movement speed reduced to 10 feet; DC 15 Constitution saving throw every hour or gain one level of exhaustion.
+    - **Shelter:** DC 15 Constitution Save against exhaustion.
+
+38. **Freezing Fog**
+    - **Endure:** 3d4 Cold Damage, DC 16 Constitution Save against exhaustion.
+    - **Shelter:** 1d4 Cold Damage, DC 8 Constitution Save against exhaustion.
+
+39. **Maddening Visages**
+    - **Endure:** DC 15 Wisdom saving throw or suffer long-term madness.
+    - **Shelter:** No effect.
+
+40. **Rejuvenating Winds**
+    - **Endure:** Gain 1d6 temporary hit points every hour.
+    - **Shelter:** Short Rest grants an additional 1d8 hit points.
+
+### Arcane
+
+41. **Attunements to Beasts**
+    - **Endure:** Gain advantage on Animal Handling checks.
+    - **Shelter:** Short Rest provides a bonus to Beast-related abilities.
+
+42. **Graceful Winds**
+    - **Endure:** Gain +2 to Dexterity-based skill checks.
+    - **Shelter:** Short Rest provides an additional 1d6 hit points.
+
+43. **Blessed Snow**
+    - **Endure:** Gain advantage on Wisdom (Survival) checks.
+    - **Shelter:** Short Rest removes one level of exhaustion.
+
+44. **Disguising Fog**
+    - **Endure:** Gain advantage on Stealth checks.
+    - **Shelter:** Short Rest provides a bonus to Stealth-related abilities.
+
+45. **Enlarging Boom**
+    - **Endure:** DC 13 Constitution saving throw or be affected by the Enlarge/Reduce spell (Enlarge effect).
+    - **Shelter:** Short Rest with no additional benefits.
+
+46. **Reducing Boom**
+    - **Endure:** DC 13 Constitution saving throw or be affected by the Enlarge/Reduce spell (Reduce effect).
+    - **Shelter:** Short Rest with no additional benefits.
+
+47. **Snows of Truth**
+    - **Endure:** Gain advantage on Insight checks.
+    - **Shelter:** Short Rest with no additional benefits.
+
+48. **Winds of Lies**
+    - **Endure:** Disadvantage on Insight checks.
+    - **Shelter:** Short Rest with no additional benefits.
+
+49. **Haste**
+    - **Endure:** Gain the benefits of the Haste spell for 1 hour.
+    - **Shelter:** Short Rest with no additional benefits.
+
+50. **Slow**
+    - **Endure:** Affected by the Slow spell for 1 hour.
+    - **Shelter:** Short Rest with no additional benefits.
+
+51. **Bane**
+    - **Endure:** Affected by the Bane spell for 1 hour.
+    - **Shelter:** Short Rest with no additional benefits.
+
+52. **Darkness**
+    - **Endure:** Darkness spell effect; attacks and Perception checks have disadvantage.
+    - **Shelter:** Short Rest with no additional benefits.
+
+53. **Web**
+    - **Endure:** DC 13 Dexterity saving throw or be affected by the Web spell.
+    - **Shelter:** Short Rest with no additional benefits.
+
+54. **Clarity**
+    - **Endure:** DC 13 Charisma saving throw, on fail gain Truesight.
+    - **Shelter:** Short Rest with no additional benefits.
+
+55. **Low Gravity**
+    - **Endure:** DC 13 Dexterity saving throw, on fail under the effect of Jump spell.
+    - **Shelter:** Short Rest with no additional benefits.
+
+56. **Gravity Lift**
+    - **Endure:** DC 13 Constitution saving throw, on fail under the effect of Levitate.
+    - **Shelter:** Short Rest with no additional benefits.
+
+57. **Invisibility**
+    - **Endure:** DC 13 Wisdom saving throw, on fail under the effect of Invisibility spell.
+    - **Shelter:** Short Rest with no additional benefits.
+
+58. **Fly**
+    - **Endure:** DC 13 Constitution saving throw, on fail under the effect of Fly spell.
+    - **Shelter:** Short Rest with no additional benefits.
+
+59. **Locked**
+    - **Endure:** All containers become under the effect of Arcane Lock.
+    - **Shelter:** Short Rest with no additional benefits.
+
+60. **Servants**
+    - **Endure:** DC 13 Intelligence saving throw, on fail gain an Unseen Servant.
+    - **Shelter:** Short Rest with no additional benefits.
+
+### Unstable
+
+61. **Exploding Hail**
+    - **Endure:** DC 15 Dexterity saving throw, 2d10+4d6 cold damage on a fail, half as much on a success.
+    - **Shelter:** DC 12 Dexterity saving throw, 1d10+2d6 cold damage on a fail, half as much on a success.
+
+62. **Glacial Heatwave**
+    - **Endure:** All metal becomes effected by the Heat Metal spell, DC 15 Constitution saving throw against exhaustion.
+    - **Shelter:** 2d6 Fire Damage if you are wearing any metal, DC 12 Constitution saving throw against exhaustion.
+
+63. **Ward of Friendship**
+    - **Endure:** DC 15 Charisma check, on a fail choose a willing target to cast Warding Bond on.
+    - **Shelter:** Short Rest with no additional benefits.
+
+64. **Binding Ice**
+    - **Endure:** DC 15 Constitution Saving throw, 5d8 cold damage and speed reduced to 0 on a fail, half the damage on success.
+    - **Shelter:** DC 12 Constitution Saving throw, 3d8 cold damage and exhaustion on fail, half on success.
+
+65. **Blazing Sleet**
+    - **Endure:** DC 15 Constitution Saving throw, 2d8 cold damage and speed reduced to 0 on a fail, half the damage on success. Dexterity 15 Saving throw when moving or fall prone.
+    - **Shelter:** DC 12 Constitution Saving throw, 1d8 cold damage and exhaustion on fail, half on success.
+
+66. **Ice Storm**
+    - **Endure:** DC 15 Constitution Saving throw, 2d8 cold damage, 2d8 bludgeoning on a fail and a level of exhaustion, half the damage on success.
+    - **Shelter:** DC 12 Constitution Saving throw, 1d8 cold damage and 1d8 bludgeoning damage, half on success.
+
+67. **Wild Magic Surges**
+    - **Endure:** Wild magic surge on 20 hit rolls, on spellcast roll D20, if equal to or less than spell level, wild magic surge.
+    - **Shelter:** Short Rest with no additional benefits.
+
+68. **Undead Winds**
+    - **Endure:** When a creature dies, DC 13 Constitution save throw, on a fail become Undead.
+    - **Shelter:** Short Rest with no additional benefits.
+
+69. **Radiant Rays**
+    - **Endure:** DC 15 Constitution Saving throw, 5d10 radiant damage and 2 levels of exhaustion on a fail.
+    - **Shelter:** DC 12 Constitution Saving throw, 5d10 radiant damage and 1 level of exhaustion on a fail.
+
+70. **Anti-Magic**
+    - **Endure:** All magic items have no effect, cannot cast spells.
+    - **Shelter:** Short Rest with no additional benefits.
+
+71. **Gaseous Form**
+    - **Endure:** DC 15 Strength saving throw, on a fail fall under the effect of Gaseous Form.
+    - **Shelter:** Short Rest with no additional benefits.
+
+72. **A Height of Madness**
+    - **Endure:** DC 15 Wisdom saving throw, on a fail gain an indefinite madness.
+    - **Shelter:** Short Rest with no additional benefits.
+
+73. **Purple Snow**
+    - **Endure:** All hits are critical hits.
+    - **Shelter:** Short Rest with no additional benefits.
+
+74. **Lost in Time**
+    - **Endure:** 3d6 days pass.
+    - **Shelter:** Gain the benefit of a Long Rest (7 days pass).
+
+75. **Acid Rain**
+    - **Endure:** 12d6 Acid Damage.
+    - **Shelter:** 3d6 Acid Damage.
+
+76. **Weakness**
+    - **Endure:** DC 15 Wisdom saving throw, on a fail become vulnerable to all damage.
+    - **Shelter:** Short Rest with no additional benefits.
+
+77. **Speak with Plants**
+    - **Endure:** DC 13 Wisdom saving throw, on a fail gain the ability to speak with plants.
+    - **Shelter:** Short Rest with no additional benefits.
+
+78. **Wind Walk**
+    - **Endure:** DC 13 Charisma save, become influenced by the Wind Walk spell on fail.
+    - **Shelter:** Short Rest with no additional benefits.
+
+79. **Snow Meteors**
+    - **Endure:** DC 15 Dexterity Save on a fail 10d6 bludgeoning, 10d6 cold damage and a level of exhaustion. Half damage on a successful save.
+    - **Shelter:** DC 12 Dexterity Save on a fail 6d6 bludgeoning, 6d6 cold damage and a level of exhaustion. Half damage on a successful save.
+
+### Encounter
+
+81. **Polymorph**
+    - **Endure:** DC 15 Wisdom Save against the effects of polymorph.
+    - **Shelter:** Short Rest with no additional benefits.
+
+82. **Unstable Teleportation**
+    - **Endure:** 2d10 force damage to resist being force teleported (group decision).
+    - **Shelter:** Short Rest with no additional benefits.
+
+83. **Illusionary Terrain**
+    - **Endure:** DC 15 Arcana check to confirm if something is an illusion.
+    - **Shelter:** Short Rest with no additional benefits.
+
+84. **Encased in Ice**
+    - **Endure:** Unpassable terrain, everything encased in ice.
+    - **Shelter:** Short Rest with no additional benefits.
+
+85. **Crystal**
+    - **Endure:** Entire environment is ice.
+    - **Shelter:** Short Rest with no additional benefits.
+
+86. **Mercurial Rain**
+    - **Endure:** 4d8 Bludgeoning Damage.
+    - **Shelter:** 1d8 Bludgeoning Damage.
+
+87. **Blood Snow**
+    - **Endure:** Maximum hit points reduced by 10 till short rest.
+    - **Shelter:** Short Rest with no additional benefits.
+
+88. **Ruined Storm**
+    - **Endure:** DC 15 Dexterity Save else take 10d6 bludgeoning damage, or half as much on a successful save.
+    - **Shelter:** Short Rest with no additional benefits.
+
+89. **Voices of Jhed**
+    - **Endure:** Can ask a question, DC 18 Intelligence save, on success the question is answered, on a fail 5d10 psychic damage.
+    - **Shelter:** Short Rest with no additional benefits.
+
+90. **Protection**
+    - **Endure:** DC 13 Constitution save, on a fail under the effect of Shield of Faith.
+    - **Shelter:** Short Rest with no additional benefits.
+
+91. **Geas**
+    - **Endure:** DC 13 Wisdom save against Geas, on a fail commanded to leave the Wasteland.
+    - **Shelter:** Short Rest with no additional benefits.
+
+92. **Spoilage**
+    - **Endure:** All food becomes poisoned.
+    - **Shelter:** Short Rest with no additional benefits.
+
+93. **Desert Sand**
+    - **Endure:** All snow becomes desert sand.
+    - **Shelter:** Short Rest with no additional benefits.
+
+94. **Time Skip**
+    - **Endure:** 3d6 months pass.
+    - **Shelter:** Gain the benefit of a Long Rest (7 days pass).
+
+95. **Air of Death**
+    - **Endure:** DC 13 Constitution save, on a fail drop to 0 hit points and dying.
+    - **Shelter:** Short Rest with no additional benefits.
+
+96. **Close to Death**
+    - **Endure:** Automatically fail 1 death saving throw when dropped to 0 hit points.
+    - **Shelter:** Short Rest with no additional benefits.
+
+97. **Midas Touch**
+    - **Endure:** All non-living material is gold.
+    - **Shelter:** Short Rest with no additional benefits.
+
+98. **Ethereal**
+    - **Endure:** Can see into the ethereal plane.
+    - **Shelter:** Short Rest with no additional benefits.
+
+99. **Oozes**
+    - **Endure:** Players become a grey ooze.
+    - **Shelter:** Short Rest with no additional benefits.
+
+100. **Roll on Table Twice**
+    - **Endure:** Apply effects of both rolled results.
+    - **Shelter:** Apply effects of both rolled results.
 
 ### Brainstorm
 
@@ -175,262 +581,3 @@ close to death - automatically fail 1 death saving throw when dropped to 0 hitpo
 Midas Touch - all non living material is gold
 ethereal - can see into the ethereal plane
 oozes - players become a grey ooze
-
-### Wind and Snow
-
-- Light Snow 
-  - Shelter: lightly obscured past 300ft
-  - Endure: lightly obscured past 300ft
-- Snow 
-  - Shelter: lightly obscured past 150ft, heavily obscured past 300ft
-  - Endure: lightly obscured past 150ft, heavily obscured past 300ft
-- Blinding Snow
-  - Shelter: disadvantage on Perception checks relying on sight
-  - Endure: disadvantage on Perception checks relying on sight
-- Heavy Snow
-  - Shelter: lightly obscured past 90ft, heavily obscured past 150ft,
-  - Endure: lightly obscured past 90ft, heavily obscured past 150ft,
-- Wind and Snow
-  - Endure - half movement speed, DC 8 Constitution Save against exhaustion
-  - Shelter - no effect
-- Wind and Snow
-  - Endure - half movement speed, DC 12 Constitution Save against exhaustion
-  - Shelter - lightly obscured, DC 8 Constitution Save against exhaustion
-- Poisoned Snow
-Endure - Poisoned, DC 12 Constitution Save against exhaustion
-  Shelter - lightly obscured, DC 8 Constitution Save against exhaustion and Poison
-
-Light Fog - lightly obscured past 150ft, heavily obscured past 300ft
-Fog - lightly obscured past 90ft, heavily obscured past 150ft
-Heavy Fog - lightly obscured 30ft, heavily obscured 90ft
-Fog Cloud - heavily obscured
-Dense Shifting Weather - party becomes lost
-
-
-Light Hail 
-
-  Endure - 1d4 Bludgeoning Damage, DC 6 Constitution Save against exhaustion
-  Shelter - 1 Bludgeoning Damage
-  
-Strong Hail 
-
-  Endure - 1d8 Bludgeoning Damage, DC 12 Constitution Save against exhaustion
-  Shelter - 1d4 Bludgeoning Damage
-
-
-Illusionary Snow - DC 15 Arcana check to notice illusion, characters feel cold even if not adverse
-
-Strong Wind (DMG) - disadvantage on ranged weapon attacks and Perception checks relying on hearing. Also   extinguished open flames, dispersed fog, and makes non magical flying almost impossible (must land or fall at end of turn). In a desert, gives disadvantage on Perception checks with sight.
-
-Blizzard - heavily obscured
-  Endure - gain one point of exhaustion, DC 15 Constitution Save else 2d6 Cold Damage, 1d6 Bludgeoning Damage
-  Shelter - DC 15 Constitution Save against exhaustion
-  
-Falling Ash
-  Endure - 2d6 fire damage
-  Shelter - no effect
-
-
-### Lightning
-
-Close Thunder - 1 Thunder Damage
-Defeaning Thunder - 1d6 Thunder Damage, DC 10 Constitution Save against defeaning  
-Explosive Thundering
-
-  Endure - Defeaned, DC 16 Constitution Save, 3d8 Thunder Damage on a fail, half as much on a success.
-  
-  Shelter - 1d8 Thunder Damage, DC 16 Constitution Save against defeaning
-
-Lightning Strikes
-
-  Endure - each target DC 13 Dexterity Save, 1d12 lightning damage or half on successful save
-  
-  Shelter - 1d10 Lightning Damage on random target
-
-
-### Cold
-
-Succeed Exhaustion Save if Cold Resistant
-
-Harsh Cold
-
-  Endure - 1d4 Cold Damage, DC 6 Constitution Save against exhaustion
-  
-  Shelter - 1 Cold Damage
-
-Brutal Cold
-
-  Endure - 1d8 Cold Damage, DC 12 Constitution Save against exhaustion
-  
-  Shelter - 1d4 Cold Damage, DC 5 Constitution Save against exhaustion
-
-Sleet
-  
-  Endure - 1d4 Cold Damage, DC 10 Constiution Save against exhaustion
-  
-  Shelter - 1 Cold Damage, DC 6 Constitution Save against exhaustion
-  
-Freezing Fog, heavily obscured
-  
-  Endure - 3d4 Cold Damage, DC 16 Constiution Save against exhaustion
-  
-  Shelter - 1d4 Cold Damage, DC 8 Constitution Save against exhaustion
-
-### Madness
-
-Maddening Howls
-
-  Endure - DC 10 Wisdom Save, suffer short term madness on fail
-  
-  Shelter - no effect
-  
-Maddening Visage
-
-  Endure - DC 13 Wisdom Save, suffer long term madness on fail
-  
-  Shelter - no effect
-  
-
-
-### Arcane Winds
-
-Restoritive Winds - heal 1d4 hit points
-Rejuvenating Winds - heal 1 point of exhaustion
-
-### Misc
-
-Tremors
-
-  Endure - not possible on land, no effect if flying/levitating
-  
-  Shelter - Do not gain benefit of a Short Rest, DC 16 Constitution Save against exhaustion
-
-### Arcane
-
-Attunements to Beasts - DC 13 Wisdom Saving Throw, on fail under the effect of Speak with Animals until a              short rest
-
-graceful winds - DC 13 Intelligence saving throw, on fail under the effects of slowfall until a short rest
-
-blessed snow - DC 13 Charisma saving throw, on fail under the effects of bless until a short rest
-
-disguising fog - DC 13 Intelligence saving throw, on fail under the effects of disguise self
-
-enlarging boom - DC 13 Constitution saving throw, on fail under the effect of Enlarge spell
-
-reducing boom - DC 13 Constitution saving throw, on fail under the effect of Reduce spell
-
-snow of truth - DC 13 Wisdom saving throw, on fail under Zone of Truth spell
-
-winds of lies - DC 13 Wisdom saving throw, on fail compelled to always lie
-
-haste - DC 13 Wisdom saving throw, on fail under the effect of Haste spell
-
-slow - DC 13 Wisdom saving throw, on fail under the effect of Slow spell
-
-bane - DC 13 Charisma saving throw, on fail under the effect of Bane spell
-
-darkness - area covered by a magical darkness
-
-web - DC 13 Dexterity saving throw, on fail under the effect of Web spell
-
-Clarity - DC 13 Charisma saving throw, on fail gain Truesight
-
-low gravity - DC 13 Dexterity saving throw, on fail under the effect of Jump spell
-
-gravity lift - DC 13 Constitution saving throw, on fail under the effect of Levitate
-
-fly - DC 13 Constitution saving throw, on fail under the effect of Fly spell
-
-invisibility - DC 13 Wisdom saving throw, on fail under the effect of Invisibility spell
-
-locked - all containers become under the effect of arcane lock
-
-servents - DC 13 Intelligence saving throw, on fail gain an Unseen Servent
-
-Explosive Hail 
-
-  Endure - DC 15 Dexterity saving throw, 2d10+4d6 cold damage on a fail, half as much on a success
-        DC 15 Constitution saving throw, exhaustion on a fail
-  
-  Shelter - DC 12 Dexterity saving throw, 1d10+2d6 cold damage on a fail, half as much on a success
-  
-Agathys' - DC 13 Strength saving throw, on a fail under the effect of Armor of Agathys
-
-Glacial Heat 
-
-  Endure - All metal becomes effected by the Heat Metal spell, DC 15 Constitution saving throw against exhaustion
-  
-  Shelter - 2d6 Fire Damage if you are wearing any metal, DC 12 Constitution saving throw against exhaustion
-
-Ward of Friendship - DC 15 Charisma check, on a fail choose a willing target to cast Warding Bond on
-
-
-Binding Frost 
-
-  Endure - DC 15 Constitution Saving throw, 5d8 cold damage and speed reduced to 0 on a fail, half the damage on success.
-  
-  Shelter - DC 12 Consitution Saving throw, 3d8 cold damage and exhaustion on fail, half on success.
-  
-  
-Blazing sleet 
-
-  All exposed flames are doused. Difficult terrain. Cannot concentrate on spells.
-
-  Endure - DC 15 Constitution Saving throw, 2d8 cold damage and speed reduced to 0 on a fail, half the damage on success. Dexterity 15 Saving throw when moving or fall prone. 
-  
-  Shelter - DC 12 Consitution Saving throw, 1d8 cold damage and exhaustion on fail, half on success.
-
-Ice Storm
-
-  Difficult terrain
-
-  Endure - DC 15 Constitution Saving throw, 2d8 cold damage, 2d8 bludgeoning on a fail and a level of exhaustion, half the damage on success.
-  
-  Shelter - DC 12 Consitution Saving throw, 1d8 cold damage and 1d8 bludgeoning damage half on success.
-
-
-Wild Magic Surges - wild magic surge on 20 hit rolls, on spellcast roll D20, if equal to or less than spell level, wild magic surge
-
-
-Undead Winds - When a creature dies, DC 13 Constitution save throw, on a fail become Undead
-
-
-Radiant Rays
-
-  Endure - DC 15 Constitution Saving throw, 5d10 radiant damage and 2 levels of exhaustion on a fail. 
-  
-  Shelter - DC 12 Constitution Saving throw, 5d10 radiant damage and 1 levels of exhaustion on a fail. 
-
-Antimagic - all magic items have no effect, cannot cast spells
-
-Gaseous Form - DC 15 Stregnth saving throw, on a fail fall under the effect of Gaseous Form
-
-A height of madness - DC 15 Wisdom saving throw, on a fail gain an indefinite madness
-
-Purple Snow - all hits are critical hits
-
-Lost in Time
-
-  Endure - 3d6 days past
-  
-  Shelter - Gain the benefit of a Long Rest (7 days pass)
-  
-Acid Rain
-
-  Endure - 12d6 Acid Damage
-  
-  Shelter - 3d6 Acid Damage
-  
-
-Weakness - DC 15 Wisdom saving throw, on a fail become vulnerable to all damage
-
-Speak with Plants - DC 13 Wisdom saving throw, on a fail gain the ability to speak with plants
-
-Wind Walk - DC 13 Charisma save, become influenced by the Wind Walk spell on fail
-
-Snow Meteors
-
-  Endure - DC 15 Dexterity Save on a fail 10d6 bludgeoning, 10d6 cold damage and a level of exhaustion. Half damage on a successful save.
-  
-  Shelter - DC 12 Dexterity Save on a fail 6d6 bludgeoning, 6d6 cold damage and a level of exhaustion. Half damage on a successful save.
-
