@@ -56,7 +56,17 @@ The weather in Jhed should always be effecting both sides of combat, and there w
 
 ### Overland Travel
 
-- constantly improving methods of travel will be key
+Travelling in Jhed is not done in straight lines, so distances are very relative. When travelling you must take into account that the terrain is unmappable, as it is contantly shifting with storms and the nature of ice, plus getting lost and back on track is a common occurrence and skill in Jhed.
+
+|                    | Durenthal | Netrus | Reef Village | Seat of the Noble Jhed | Witch's Nip |
+|--------------------|-----------|--------|--------------|------------------------|-------------|
+| **Durenthal**      | -         | 5      | 15           | 35                     | 30          |
+| **Netrus**         | 5         | -      | 10           | 30                     | 4           |
+| **Reef Village**   | 15        | 10     | -            | 20                     | 30          |
+| **Seat of the Noble Jhed** | 35 | 30     | 20           | -                      | 50          |
+| **Witch's Nip**    | 30        | 4      | 30           | 50                     | -           |
+
+
 
 ### Key of Thieves
 
