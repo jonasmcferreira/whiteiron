@@ -3,42 +3,48 @@
 Weather in Jhed is an entity and every time that there is a need to travel, or if the chracters stay unsheltered somewhere longer than a few hours, then we must roll on the weather table.
 Depending on the roll, different events will happen
 
-### Endure / Shelter
+## Endure / Shelter (cleanup)
 
 A party can choose to **Endure** a weather effect to keep moving, or **Shelter** to wait for weather to change.
+If a party decides to shelter but then there is an event that forces the party to come outside for example of combat encounter then the entry for would take place
 
 **Shelter** in place is a Short Rest while in cover of the weather.
+ If you are in shelter and you are attacked you do not complete the short rest.
 
-|1 |2| 3  | 4  | 5  | 6  |
-|--|--|----|----|----|----|
-|1d4| 1d6| 1d8| 1d10| 1d12 |1d20| 1d100|
-
-### Weather Categories and Rolls
+## Weather Categories and Rolls
 
 Weather in Jhed can be calm, stormy, Calm Arcane, stormy arcane. you add 20 to each layer as you roll on the table, or you can just roll a d100
 
-#### Calm (1-20)
+### Weather die
+
+Depdning on the severity of the weathern you roll a different weather die and then you add the modifier for each corresponding weather Category.
+
+Easy Weather - roll 1d4 and add the category modifier, for e.g., for Easy Stormy weather it's 1d4+20.
+Medium Weather - roll 1d10  and add the category modifier, for e.g., for Medium Stormy Arcane weather roll 1d10+60.
+Hard Weather - rolld 1d20 and add the category modifier, for e.g., for Hard Calm weather, roll 1d20.
+
+### Calm (1-20)
 
 - Roll 1d20 when traveling in Calm Weather.
 - Roll 1d4 if a party waits for ideal conditions.
 
-#### Stormy (+20) (21-40)
+### Stormy (+20) (21-40)
 
 - Roll 1d20+20 when traveling in Stormy Weather.
 - Roll 2d20 for random weather on Jhed Continent.
 
-#### Calm Arcane (+40) (41-60)
+### Calm Arcane (+40) (41-60)
 
 - Roll 1d20+40 when traveling through arcane torrents.
 - Roll 3d20 when traveling through Jhed Wasteland Coastline.
 - Roll 1d4 for beneficial effects.
 
-#### Stormy Arcane +60 (61-80)
+### Stormy Arcane +60 (61-80)
 
 - Roll 1d20+60 when traveling in unstable weather.
 - Roll 4d20 when traveling through Jhed Wasteland.
 
-### Encounters +80 (81-100)
+## Encounters +80 (81-100)
 
 - Brainstorming to complete table roughly
 
@@ -149,7 +155,7 @@ Weather in Jhed can be calm, stormy, Calm Arcane, stormy arcane. you add 20 to e
 
 ## Weather Effects
 
-### Calm
+## Calm
 
 1. **Clear Skies**: The sky is a brilliant blue with no clouds in sight, offering a rare moment of tranquility in Jhed.
    - **Endure:** No effect on movement or actions.
@@ -231,7 +237,7 @@ Weather in Jhed can be calm, stormy, Calm Arcane, stormy arcane. you add 20 to e
     - **Endure:** Gain 1d4 temporary hit points every hour.
     - **Shelter:** Short Rest grants an additional 1d6 hit points.
 
-### Storm
+## Storm
 
 21. **Heavy Snow**: Thick snow falls heavily, piling up rapidly and making progress difficult.
     - **Endure:** Movement speed reduced to 10 feet; DC 12 Constitution saving throw every hour or gain one level of exhaustion.
@@ -315,7 +321,7 @@ Weather in Jhed can be calm, stormy, Calm Arcane, stormy arcane. you add 20 to e
     - **Endure:** Gain 1d6 temporary hit points every hour.
     - **Shelter:** Short Rest grants an additional 1d8 hit points.
 
-### Arcane
+## Arcane
 
 41. **Attunements to Beasts**: The air resonates with a magical frequency, enhancing bonds with animals.
     - **Endure:** Gain advantage on Animal Handling checks.
@@ -397,7 +403,7 @@ Weather in Jhed can be calm, stormy, Calm Arcane, stormy arcane. you add 20 to e
     - **Endure:** DC 13 Intelligence saving throw, on fail gain an Unseen Servant.
     - **Shelter:** Short Rest with no additional benefits.
 
-### Unstable
+## Unstable
 
 61. **Exploding Hail**: Hailstones explode upon impact, scattering ice shards everywhere.
     - **Endure:** DC 15 Dexterity saving throw, 2d10+4d6 cold damage on a fail, half as much on a success.
@@ -477,7 +483,7 @@ Weather in Jhed can be calm, stormy, Calm Arcane, stormy arcane. you add 20 to e
     - **Endure:** DC 15 Dexterity Save on a fail 10d6 bludgeoning, 10d6 cold damage and a level of exhaustion. Half damage on a successful save.
     - **Shelter:** DC 12 Dexterity Save on a fail 6d6 bludgeoning, 6d6 cold damage and a level of exhaustion. Half damage on a successful save.
 
-### Encounter
+## Encounter
 
 81. **Polymorph**: A magical transformation changes one's form entirely.
     - **Endure:** DC 15 Wisdom Save against the effects of polymorph.
@@ -559,7 +565,7 @@ Weather in Jhed can be calm, stormy, Calm Arcane, stormy arcane. you add 20 to e
     - **Endure:** Apply effects of both rolled results.
     - **Shelter:** Apply effects of both rolled results.
 
-### Brainstorm
+## Brainstorm
 
 Polymorph - DC 15 Wisdom Save against the effects of polymorph
 Unstable Teleportation - 2d10 force damage to resist being force teleported (group decision)
@@ -567,11 +573,8 @@ illusionary terrain - DC 15 Arcana check to confirm if something is an illusion
 encased in ice - unpassable terrain, everything encased in ice
 crystal - entire environment is ice
 mercurial rain
-
   Endure - 4d8 bludgeoning damage
-  
   Shelter - 1d8 bludgeoning damage
-
 blood snow - maximum hitpoints reduced by 10 till short rest
 ruined storm - DC 15 Dexterity Save else take 10d6 bludgeoning damage, or half as much on a successful save
 voices of Jhed - can ask a question, DC 18 Intelligence save, on success the question is answered, on a fail 5d10 psycic damage
