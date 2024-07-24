@@ -1,5 +1,21 @@
 # Four Villages
 
+- [Common Features](#common-features)
+- [Netrus - Village One](#netrus---village-one)
+  - [Founding Reasons](#founding-reasons)
+  - [Oddities](#oddities)
+  - [Beasts of Burden info](#beasts-of-burden-info)
+  - [Potions](#potions)
+  - [Leader](#leader)
+  - [Religion](#religion)
+  - [Law](#law)
+  - [Food](#food)
+  - [Allies, Enemies and Neutral](#allies-enemies-and-neutral)
+  - [Expansion and Loss](#expansion-and-loss)
+- [Village Two](#village-two)
+- [Village Three](#village-three)
+- [Village Four draft](#village-four-draft)
+
 ## Common Features
 
 - All villages have beasts of burden.
