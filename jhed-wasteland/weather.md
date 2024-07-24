@@ -25,23 +25,23 @@ Hard Weather - rolld 1d20 and add the category modifier, for e.g., for Hard Calm
 
 ### Calm (1-20)
 
-- Roll 1d20 when traveling in Calm Weather.
+- Roll the Weather die  when traveling in Calm Weather.
 - Roll 1d4 if a party waits for ideal conditions.
 
 ### Stormy (+20) (21-40)
 
-- Roll 1d20+20 when traveling in Stormy Weather.
+- Roll the Weather die +20 when traveling in Stormy Weather.
 - Roll 2d20 for random weather on Jhed Continent.
 
 ### Calm Arcane (+40) (41-60)
 
-- Roll 1d20+40 when traveling through arcane torrents.
+- Roll the Weather die +40 when traveling through arcane torrents.
 - Roll 3d20 when traveling through Jhed Wasteland Coastline.
 - Roll 1d4 for beneficial effects.
 
 ### Stormy Arcane +60 (61-80)
 
-- Roll 1d20+60 when traveling in unstable weather.
+- Roll the Weather die +60 when traveling in unstable weather.
 - Roll 4d20 when traveling through Jhed Wasteland.
 
 ## Encounters +80 (81-100)
