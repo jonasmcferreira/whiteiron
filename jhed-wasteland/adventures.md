@@ -13,6 +13,104 @@ Encounters with purpose - encounters should:
 
 ## Lvl One
 
+
+### UnderRoc Bridge Part 1: First Tower
+
+A sudden halt causes the party to lurch forward; as they steady Don Vras calls back in common "looks suspicious up 'ead". The ice slick smuggling tunnels open to an old but wellmade stone tower. Four figures through the fog are smaller than the expected guards and there is no greeting. A pike with a grey fur banner and two bull horns adorn the opening, the six rams pull at the reign. This was an important spot to resupply
+
+
+|Weather|Normal|Lightly Obscure|Heavily Obscure|
+|----|----|----|----|
+|Fog|30ft|60ft|----|
+
+
+**Entrance Bridge** 4 Kobolds
+
+|Bridge North Entrance|low|medium|high|
+|----|----|----|----|
+|**Str**|----|----|----|
+|Athletics|----|7|----|
+|**Dex**|----|----|----|
+|Acrobatics|----|----|----|
+|Sleight of Hand|----|----|----|
+|Stealth|----|8|13|
+|**Int**|----|----|----|
+|Arcana|----|----|----|
+|History|----|10|16|
+|Investigation|10|13|19|
+|Nature|----|----|----|
+|Religion|----|----|----|
+|**Wis**|----|----|----|
+|Animal Handling|----|----|----|
+|Insight|----|----|----|
+|Medicine|----|----|----|
+|Perception|----|10|----|
+|Survival|----|----|----|
+|**Cha**|----|----|----|
+|Deception|----|----|----|
+|Intimidation|----|13|16|
+|Performance|----|----|----|
+|Persuasion|----|10|----|
+
+    Perception Check: speaking Draconic, waiting for orders from **The Aspirant**
+    Persuasion Check (disadvantage of not speaking draconic): to trade for passage
+    trade options: two rams / all rations / all coin / all weapons / anything dragon symboled
+    Intimidation Check: they will retreat into the keep, lower Roll Initiative 
+    History Check: This smuggling route was used by the Theif Kings
+    History Check High: The bridge was built by the Zeltrin Empire
+    Stealth Check: moving forward will trigger Hunters Trap
+    Investigation Check (find traps): snow is suspiciously packed 
+    
+    
+**Fight:** all Kobold encounters should include traps
+    
+    will attack to gain advantage from pact tactics
+    will retreat when 1 remains
+    first character to move to Kobolds trigger Hunter Trap,
+    if a Kobold acts in turn order or party is loud, the tower Kobolds are alert
+    keep initiative order of party chases
+    
+**Another Route:**
+    Investigation Check High (Autopass if Thieves Cant): a tunnel enough to crawl and move crates seems to snake its way near the bridge but it is not large enough for the caravan or rams. Proceed to Underpass
+
+**Entrance Tower** 3 Kobolds (+Entrance Bridge) - hidden
+
+    Stealth High (autofail if alert): to pass to the door
+    Persuasion Check High: to enter the tower (same cost)
+    Intimidation Check High: they will retreat to higher floor
+    Investigation Check Low (trigger Fight): food and valuables pillaged from the tower
+    Investigation Check: crawl space behind looted shelf
+    Athletics Check: move shelf, reveal a guard coprse with note#1 see loot
+    
+**Fight:**
+
+    three Kobolds will jump from crates and attack (count as prone)
+    extra Kobolds will be halfway up stairs, all will move to run to top of tower
+    Initiative Count 10: surprise trap, Dexterity Save DC 8, 1d4 piercing damage
+    retreat quickly when 1 remains
+    
+**Tower Top:** 6 Kobolds, 1 Kobold Aspirant (+ Entrance Tower)
+
+    Stealth High (autofail if alerted): will see 6+ Kobolds ready to escape
+
+**Fight:**
+    Kobolds will all throw javalin at players for action before swinging down drop to escape
+    They will cut any extra lines
+    Can keep a few Kobolds behind for a fight
+
+**Officer Quarter:**
+
+    Arcane Lock Puzzle to Enter
+    Insane Officer
+    Sesheenahassimilhaesh - written on wall, madness check to read, or say
+    Pitch Black fleshy (eyelike) orb
+    Three Beasts to unlock, elk, bull, ram
+    elk, bull, ram, bird, wolf, bear, boar, 
+    
+**Loot**
+
+    Note#1: The commander has kept himself locked in his quarter for weeks, there is a lot of noise but we can't get in, we have sent for aid
+
 ### A Bounty
 
 - Tasked to Escort a shipment to Netrus (village one), and also to complete a bounty
@@ -76,3 +174,6 @@ Encounters with purpose - encounters should:
 - Each village is built on an ancient Relic, this relic is the only reason these villages can exist
 - Increasing Madness will reveal "truths"
 - Two Sphynxs, one wants a crown from a fallen king. Second wants evidence of "The First Ones"
+
+
+
