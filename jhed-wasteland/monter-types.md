@@ -6,7 +6,7 @@ players should be warned general when building characters and making choices
 
 # Expected Encounters
 
-### Undead
+### Undead 
     
     Zombies - workers of Village Two, found with poison
     Skeletons - workers of Village Two, found with poison  
@@ -42,6 +42,12 @@ players should be warned general when building characters and making choices
     
     Tribes - Orc, Goliaths, Kobolds, Yuan-ti, Lizardfolk
 
+    WereWolf
+    WereBear
+    WereBoar - unlikely
+    WereTiger
+    WereRat - unlikely
+    WereDinosuar - ???? should have one new wereX
 
 # Biom Related
 
@@ -76,8 +82,30 @@ players should be warned general when building characters and making choices
 
 ### Swarm of Tiny Beasts
 
+### Kobold Plot Creature Progression
+    Kobold
+    Kobold Aspirant
+    Winged Kobold
+    Dragonborn
+    Wyverns
+    Dracolich
+    Dragon
+
+### Yuan-ti Plot Creature Progression
+    Snake
+    Yuan-ti
+    Medusa
+    Naga
+    Marilith
 
 
+### Werehumanoids
+    Some inflicted with the werecurse hide in Jhed to protect their old communities, but there is some random lashing out. Plot to cure lycanthrope, remove curse NPCs  are limited. Silvering weapons become important
+    
+### Lizardfolk Progress
+    Lizardman
+    Lizardking
+    Dinosaurs
 
 
 
