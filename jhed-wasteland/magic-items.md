@@ -16,6 +16,14 @@ This bonus is equal to your exhaustion level
 
 Example: at 3 levels of exhaustion this functions as a +3 Longsword
 
+### Medals of Kin
+
+**Wonderous Item:** 3x Necklace
+
+**Rarity:** Uncommon (requires attunement by three characters)
+
+Once per long rest the Medals of Kin can be activated to grant one wearer the Bless buff for 1 minute. As a reaction any attuned member may use their reaction to gain the buff instead. Though this does not require concentration, if any of the attuned creatures takes damage, they must do a concentration check to maintain the Bless.
+
 ### Shattered Staff
 
 **Weapon:** Staff
