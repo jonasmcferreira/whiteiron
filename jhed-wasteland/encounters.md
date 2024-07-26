@@ -107,4 +107,42 @@ Snowfur will explain that Jhed is evil and he has no ambitions beyond the tax co
 
 Snowfur will flee and explain that he will torment, harass party when weak, and steal from them. Even saving them when they are about to die, just so he can collect more taxes from them and prove his utter superiority.
 
+## Snakes!
 
+White **Giant Poisonous Snakes** 1
+
+White **Poisonous Snakes** 1d4
+
+#### Battlefield
+
+Dunelike snowdrifts battered by strong winds makes each step into the deep crunching snow heavier than the last. A pile of bodies or clothing is spotted in the distance   
+  
+Passive Perception 13: for just a moment, one of the ripples of snow seemed to move
+
+Active Perception Check 16: at 30ft, some snow shifts and grey scales move  
+  
+Animal Handling 16 (only Active Perception Passed): staying still might make the snakes move by
+
+### Fight
+
+Snakes will use blindsight and burrow (disadvantage on attacks against them)
+Giant Snake will always strike using 10ft reach than move
+
+### Loot/Lore
+
+Giant Snake has a mark:
+Can be harvested for 1 vial of simple poison, or a stronger poison if brought to poison vendor
+
+4days worth food
+Eaten Raw (day killed): Constitution Save 10, 1d4 poison damage on a failed save
+                        Grants Cold Resistance for 24 hours
+                        
+Nature Check 10: These snakes are babies
+
+Survival Check 7: There are many tracks and this area is not safe to camp
+
+Animal Handling 7: to prevent second wave of same encounter
+
+Investigation 7: broken eggshells around bodies, most likely food for babies
+Investigation 13: A simple silver ring with a boot emblem (ring of jumping)
+           
