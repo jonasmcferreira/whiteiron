@@ -83,3 +83,28 @@ Vez'yen also provides special quests for those seeking rarer and more dangerous 
 - **Evasion**: If Vez'yen fails a Dexterity saving throw, he can choose to succeed instead.
 
 ##
+
+
+## Emeal "Snowfur" The Tax Man
+
+### Rakshasa
+
+Using the form of an almost Giant White WereTiger, a disguise close to his form to avoid suspicion. He dutifully travels from village to village collecting the taxes for the Noble Seat of Jhed, charismatic and boastful always wanting to throw a few punches or claws. 
+
+### Companion - Eth "Snowcale"
+
+White scaled Lizardfolk Cleric - extremely suspicious looking and used to blame any magical phenomenon around Whitefur
+
+### Brawl
+
+Snowfur will always boastfully challenge people to a two round duel, rules are just doing the most damage in two rounds. This is going to apply the curse of the Rakshasa as he delights in the torment of others
+
+### If discovered
+
+Snowfur will explain that Jhed is evil and he has no ambitions beyond the tax collector, and though he delights in the torment of his victims, by dueling in towns they are always able to be aided even by Snowscale
+
+### If hostile
+
+Snowfur will flee and explain that he will torment, harass party when weak, and steal from them. Even saving them when they are about to die, just so he can collect more taxes from them and prove his utter superiority.
+
+
