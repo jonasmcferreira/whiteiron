@@ -90,7 +90,7 @@
     - Securing the trade route to the Keys is the best way to expand the population of Jhed while sending out valuable items to begin a gold rush
     - If the village expands it won't all be under the effects of the charm, and Nick won't have enough power to control through force. This will limit potion supply but increase options
 
-## Durenthal
+## Durenthal - Village Two
 
 **Why Founded:** Stone
 
@@ -115,7 +115,7 @@ A unique agreement exists in Durenthal: whenever a resident dies or reaches the 
 
 The constant patrolling and laboring of these Volunteers contribute to the town's smooth functioning. However, it is obvious to any observer that a necromancer is present in the village, though their identity remains a mystery. The inhabitants understand that uncovering and eliminating the necromancer would be detrimental, as the undead workers kept underground would turn on the town. Thus, the necromancer's presence is tacitly accepted, and the town continues to run efficiently under this dark yet effective system.
 
-## Village Three
+## Oravilla Village Three
 
 **Food:** Plants, Wood (fungi)
 
@@ -134,7 +134,7 @@ The constant patrolling and laboring of these Volunteers contribute to the town'
 - panama canal
 - can be turned into a functional sea port
 
-## Village Four draft
+## Seat of Jhed - Village four
 
 - There would be a noble of Jhed in village four. Collecting limited taxes, diplomacy, and the most knowledgable resource of Jhed Wastelands
 
