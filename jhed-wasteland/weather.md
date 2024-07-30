@@ -1,5 +1,7 @@
 # Weather
 
+The campaign of Jhed should focus heavily on weather, emphasizing how taxing on resources and time dealing with the intense and arcane weather can be. The weather changes quickly represented by rolling on a weather table after each short or long rest. A party should be considering how to engage a problem or delay or speed up their plans based on the weather.
+
 Weather in Jhed is an entity and every time that there is a need to travel, or if the chracters stay unsheltered somewhere longer than a few hours, then we must roll on the weather table.
 Depending on the roll, different events will happen
 
@@ -50,11 +52,12 @@ Hard Weather - rolld 1d20 and add the category modifier, for e.g., for Hard Calm
 
 ## Weather
 
-| d100 | Category  | Effect                   | Type           |
-|------|-----------|--------------------------|----------------|
-| 01   | Calm      | Clear skies              | No effect      |
-| 02   | Calm      | Distant snowfall         | No effect      |
-| 03   | Calm      | Mild breeze              | No effect      |
+| d100 | Category  | Effect                   | Type           | Time     |
+|------|-----------|--------------------------|----------------| -------------      |
+| 01   | Calm      | Shifting Stars           | Buff           | Night |
+| 02   | Calm      | Clear skies              | No effect      | Day |
+| 03   | Calm      | Distant snowfall         | No effect      | Dusk |
+| 04   | Calm      | Mild breeze              | No effect      | Dawn |
 | 04   | Calm      | Light overcast           | No effect      |
 | 05   | Calm      | Light snow               | Wind and snow  |
 | 06   | Calm      | Distant thunder          | No effect      |
@@ -157,15 +160,19 @@ Hard Weather - rolld 1d20 and add the category modifier, for e.g., for Hard Calm
 
 ## Calm
 
-1. **Clear Skies**: The sky is a brilliant blue with no clouds in sight, offering a rare moment of tranquility in Jhed.
+1. **Shifting Stars**: The unfiltered lumination of the Jhed night as globes of light shift from their places
+   - **Endure:** No effect on movement or actions.
+   - **Shelter:** Short Rest and gain a Heroic Inspiration.
+
+2. **Clear Skies**: The sky is a brilliant blue with no clouds in sight, offering a rare moment of tranquility in Jhed.
    - **Endure:** No effect on movement or actions.
    - **Shelter:** Short Rest with no additional benefits.
 
-2. **Distant Snowfall**: Far off in the horizon, gentle snowflakes fall, creating a picturesque scene against the stark landscape.
+3. **Distant Snowfall**: Far off in the horizon, gentle snowflakes fall, creating a picturesque scene against the stark landscape.
    - **Endure:** No effect on movement or actions.
    - **Shelter:** Short Rest with no additional benefits.
 
-3. **Mild Breeze**: A light breeze stirs the air, carrying the crisp scent of snow and ice.
+4. **Mild Breeze**: A light breeze stirs the air, carrying the crisp scent of snow and ice.
    - **Endure:** No effect on movement or actions.
    - **Shelter:** Short Rest with no additional benefits.
 
