@@ -12,6 +12,12 @@
 - **Beast Hunts**: Hunt dangerous creatures that threaten the villages or valuable resources.
 - **Rescue Missions**: Save lost villagers or adventurers trapped in the wilderness.
 
+## Curses
+
+- **Lycanthrope**: many attacks from breasts can bestow the curse of lycanthrope
+- **Remove Curse**: only two NPCs can remove curses
+- **Windego**: eating flesh of any "humanoid" will begin the curse of the Windego
+- **Stone Gaze**: Medusa and Serpent creatures of Jhed can curse people to stone
 
 ## Kobolds Story Hooks
 
