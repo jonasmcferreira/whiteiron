@@ -30,6 +30,10 @@ The Jhed Wasteland seems broken in time, as dusk shifts to dawn or day to night 
 
 The weather in Jhed should always be effecting both sides of combat, and there will be benificial arcane winds.
 
+### Tectonics
+
+Recently Jhed has experienced a few powerful tectonic events, news that doesn't reach the other regions. Clearly something has disturbed these glacial wastes, but also created a new opportunity for uncovered riches and knowledge. Entrances lost to thousand year snow now uncovered, but even more now lurks the lands and seas.
+
 ## Map/World Logistics
 
 ### Path to J'hed
