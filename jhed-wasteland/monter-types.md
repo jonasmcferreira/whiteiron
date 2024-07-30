@@ -6,6 +6,8 @@ players should be warned general when building characters and making choices
 
 # Expected Encounters
 
+    Undead, Beasts, Giants, Humanoids, Plants
+    
 ### Undead 
     
     Zombies - workers of Village Two, found with poison
@@ -13,6 +15,8 @@ players should be warned general when building characters and making choices
     Crawling Claw - found in any undead encounter, thieves
     
     Shadow - ambush
+    
+    Banshee - Council Five?
     
    **Dracolich** - a false vision for the Kobolds, and resource for Village Two
     
@@ -33,6 +37,7 @@ players should be warned general when building characters and making choices
 
 ### Humanoid
     
+    Aarakocra - found in Thieves post, explains the challenge of flying in Jhed (magic winds risky) and the Roc
     Orcs
     Goliaths
     Kobolds
@@ -52,8 +57,10 @@ players should be warned general when building characters and making choices
 # Biom Related
 
 ### Elemental
+    Azer - Dhuren Tol
+
 ### Plant
-    Myconids - common around village three
+    Myconids - common around Oravilla village three
 ### Monstrosity
     Roc patrol of Northern Jhed forcing the need of smuggling tunnels
 ### Ooze
@@ -63,10 +70,12 @@ players should be warned general when building characters and making choices
 # Rare (reinforce plot)
 
 ### Aberration
-    Village Four
+    Oravilla Village Three
+    Aboleth - in the Jhed Bay
+    
 ### Dragon
 
-
+    Deep Gem Dragon  - Lost Underdark King
 
 # Very Rare
 
@@ -75,6 +84,7 @@ players should be warned general when building characters and making choices
 ### Celestial
 
 ### Construct
+    Animated Objects
 
 ### Fiend
 
