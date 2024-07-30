@@ -2,7 +2,22 @@
 
 Aim for flavour not power
 
-## Weapons
+### Axe of the Burdened
+
+**Weapon:** Battleaxe
+
+**Rarity:** Uncommon
+
+If fully encomburdened (at carry capacity) gain a +1 bonus to attack and damage rolls with this magic weapon.
+
+### Tome of the Linguist
+
+**Wondrous Item:** Arcane Focus
+
+**Rarity:** Uncommon (requires attunement)
+
+Gain proficiency to Charisma checks while speaking a language other than common
+Disadvantage to Charisma checks while speaking common
 
 ### Tireless Blade
 
@@ -18,7 +33,7 @@ Example: at 3 levels of exhaustion this functions as a +3 Longsword
 
 ### Medals of Kin
 
-**Wonderous Item:** 3x Necklace
+**Wondrous Item:** 3x Necklaces
 
 **Rarity:** Uncommon (requires attunement by three characters)
 
@@ -30,11 +45,11 @@ Once per long rest the Medals of Kin can be activated to grant one wearer the Bl
 
 **Rarity:** Uncommon (requires attunement)
 
-Make a DC 15 Wisdom Save, on a fail suffer a short term madness, on a success heal 1d6 hit points. Once you have used the pearl, it can't be used again until you complete a long rest.
+Make a DC 15 Wisdom Save, on a fail suffer a short term madness, on a success heal 1d6 hit points. Once you have used the staff, it can't be used again until you complete a long rest.
 
 ### Dragon Aspirant Badge
 
-**Wonderous Item:** Sigil
+**Wondrous Item:** Sigil
 
 **Rarity:** Uncommon (requires attunement and the ability to speak Draconic)
 
@@ -44,7 +59,7 @@ When speaking with Kobolds you gain expertise in Persuasion Checks
 
 ### Plague Mask
 
-**Wonderous Item:** Helm
+**Wondrous Item:** Helm
 
 **Rarity:** Uncommon (requires attunement)
 
