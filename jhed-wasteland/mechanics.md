@@ -4,6 +4,16 @@
 
 Eating fresh raw meat or fruits of Jhed wilderness have mostly positive effects. 
 
+|roll|meat|berry|humanoid|
+|----|----|-----|-----|
+|1|poisoned|-----|curse|
+|2-19|cold resistance 24 hours|-----|curse|
+|20|specific to mob|-----|curse|
+
+## Replacing Key NPCs
+
+Choices and consequences could lead to key NPC functions becoming unavailable, like the ability to remove curse depending on the party compositions. To replace an NPC the party has to convince an outsider of the Outer Regions to endure and live in Jhed, the easiest way to do this is gold, and it would be difficult for this cost to be less than 5,000gps
+
 ## Cold Exposure
 
 In the harsh environment of the Arctic Wastelands, managing your exposure to the cold is crucial for survival. This mechanic will help track rations, fuel for camping, and exhaustion levels through difficulty checks.
