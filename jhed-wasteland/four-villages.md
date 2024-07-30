@@ -90,7 +90,7 @@
     - Securing the trade route to the Keys is the best way to expand the population of Jhed while sending out valuable items to begin a gold rush
     - If the village expands it won't all be under the effects of the charm, and Nick won't have enough power to control through force. This will limit potion supply but increase options
 
-## Durenthal - Village Two
+## Dhuren Tol - Village Two
 
 **Why Founded:** Stone
 
@@ -98,7 +98,7 @@
 
 **Trade Resource:** Gems
 
-**Defense:** Zombies
+**Defense:** Zombies, Poisons
 
 **Oddities:**
 
@@ -121,14 +121,15 @@ The constant patrolling and laboring of these Volunteers contribute to the town'
 
 **Unique Feature:** Psionics, communication
 
-**Structure:** Mage Tower
+**Structure:** Mage Tower (Initially Hostile)
 
-**Population:** Myconids, Kua-toa, Merfolk
+**Bonus**: spell scrolls available here
+
+**Population:** Myconids, Kua-toa, Merfolk, Illithid
 
 **Oddities:**
 
 - Entire village in a reef like structure
-- Hot Water springs
 - All within reef are vegitarian
 - everything is under the effect of faerie fire
 - panama canal
@@ -144,8 +145,14 @@ The constant patrolling and laboring of these Volunteers contribute to the town'
 
 **Structure:** Abandoned Cathedral
 
+**Leader**: Tfen Svilus Goliath
+
+faith of "The Prisoned God", that their god is powerless, imprisoned by other gods but rightfully so. Not adjudicators of law but enforce the sentence others have given.
+
 **Significance:** Holy Site
 
 **Focus:** Diplomacy, Blessings, "Law"
 
-**Population:** 
+**Population:**
+
+**Prison**: There is access to an unknown prison that Tfen Svilus is keeping watch over
