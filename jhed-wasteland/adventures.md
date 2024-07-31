@@ -106,7 +106,7 @@ A sudden halt causes the party to lurch forward; as they steady Don Vras calls b
     Pitch Black fleshy (eyelike) orb
     Three Beasts to unlock, elk, bull, ram
     elk, bull, ram, bird, wolf, bear, boar, 
-    
+
 **Loot**
 
     Note#1: The commander has kept himself locked in his quarter for weeks, there is a lot of noise but we can't get in, we have sent for aid
@@ -121,7 +121,6 @@ A sudden halt causes the party to lurch forward; as they steady Don Vras calls b
 - Two available bounties
 - one along a path leading out of Jhed (for a party not interested in what they saw)
 - Second is found in an abandoned structure already dead holding a relic of unknown make
-
 
 **Quest:** The party is given a task to escort the caravan to Netrus and apprehend Reylin and "Club" Cory, dead or alive. These two are murderers who are suspected to have fled to Jhed
 
@@ -144,15 +143,12 @@ A sudden halt causes the party to lurch forward; as they steady Don Vras calls b
     Slight Oddity of Kobolds being in such a cold area
     The roc forcing this passage to be used
     Remnants exist of older empires in Jhed
-    
-    
-**Ascended Kobold**
+
+**Ascended Kobold:**
 
     Twice per long rest: bless, inflict wounds
-    
 
 **Plots:**
-
 
 ### Level Two
 
@@ -174,6 +170,3 @@ A sudden halt causes the party to lurch forward; as they steady Don Vras calls b
 - Each village is built on an ancient Relic, this relic is the only reason these villages can exist
 - Increasing Madness will reveal "truths"
 - Two Sphynxs, one wants a crown from a fallen king. Second wants evidence of "The First Ones"
-
-
-

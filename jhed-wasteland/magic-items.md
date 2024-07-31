@@ -27,7 +27,7 @@ Disadvantage to Charisma checks while speaking common
 
 You have a bonus to attack and damage rolls made with this magic weapon.
 
-This bonus is equal to your exhaustion level 
+This bonus is equal to your exhaustion level
 
 Example: at 3 levels of exhaustion this functions as a +3 Longsword
 
@@ -98,13 +98,13 @@ You have resistance to cold damage while you wear this armor.
 
 **Rarity:** uncommon
 
-When you drink this potion, you gain resistance to one type of damage for 1 hour. 
+When you drink this potion, you gain resistance to one type of damage for 1 hour.
 
 ## Frost Brand (fire res though)
 
 **Weapon:** Any Sword
 
-**Rarity:** very rare (requires attunement) 
+**Rarity:** very rare (requires attunement)
 
 When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.
 
@@ -116,7 +116,7 @@ When you draw this weapon, you can extinguish all nonmagical flames within 30 fe
 
 **Weapon:** Staff
 
-**Rarity:** very rare (requires attunement by a druid, sorcerer, warlock, or wizard) 
+**Rarity:** very rare (requires attunement by a druid, sorcerer, warlock, or wizard)
 
 **Weight:** 4
 

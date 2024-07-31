@@ -121,7 +121,7 @@ White **Poisonous Snakes** 1d4
 
 ### Battlefield
 
-Dunelike snowdrifts battered by strong winds makes each step into the deep crunching snow heavier than the last. A pile of bodies or clothing is spotted in the distance   
+Dunelike snowdrifts battered by strong winds makes each step into the deep crunching snow heavier than the last. A pile of bodies or clothing is spotted in the distance
   
 Passive Perception 13: for just a moment, one of the ripples of snow seemed to move
 
