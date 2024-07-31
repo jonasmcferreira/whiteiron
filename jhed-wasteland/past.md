@@ -5,7 +5,7 @@ Kings whom have tried to conquer Jhed
 ## Zeltrin "the fool" 4134 years ago
 
  Minataur King that united the outer regions. History recalls his adventures as a hero bringing peace and prosperity. The riches of Jhed would be the final chapter of his empire
- 
+
  Though Zeltrin established some fortifications on the continent of Jhed; some that still remain. The entire army that marched through the Jhed Wasteland including himself went missing
 
  **Revelation:** Zeltrin has a fake burial in the Jhed Wasteland and still lives. He has learned the origin of the oozes and knows returning will simply bring the greater threat the the outer regions
@@ -15,7 +15,7 @@ Kings whom have tried to conquer Jhed
 Human King, emerged from power vacuum left behind with Zeltrin considered a failure on most fronts, just taking advantage of a crippled system
 
 There are very few ruins of Omsin's journeys to Jhed making his burial difficult to find
-    
+
 **Revelation:** died in Jhed Continent and never made it to the wasteland during a mutany. The harshness of Jhed took the lives of the mutinous. This betrayel cursed the population of Jhed and is the cause of the undead existing here, and Osmin still acts in many undead forms with a twisted mind
 
 ## Council of Five, 1901 years ago
@@ -34,14 +34,12 @@ A skilled inventor sent to Jhed to create a framework for exploration
 
 A protigy of weather control accompanying Fizra to understand and harvest the powers of Jhed. But once both stopped responding the rest of the council took matters into their own hand. They would find only nonesense notes refering to "The Great Works"
 
-
     - "Evs Subtletongue" Tiefling Sorcerer
     - "Kren" Kobold Warlock
     - "Saint" Asaamar Sorcerer
 
     - after failed expiditions they journeyed themselves
 
-    
  **Revelation:** in the attempts of completing "The Great Works" it transformed them into an ooze
 
 ## Urz El DeepStone Dragon, 776 years ago
@@ -51,7 +49,7 @@ Brutal ego driven dragon of the underempire. Created a massive invasion force to
 Many individuals from the invading force may still exist in Jhed as they gave up fighting the weather, but the Dragon fly into the Wasteland
 
 This is the dragon the Kobolds are drawn to
-    
+
 **Revelation:**
 
 ## The Twins Ivis and Aluna 52 years ago
@@ -61,8 +59,7 @@ This is the dragon the Kobolds are drawn to
     - last bastion of the Keys and Jhed Continent
     - remaining a smuggling ring in Jhed unable to be fully defeated
     - Then suddenly missing
-    
-    
+
 **Revelation:**
 
 

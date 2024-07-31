@@ -2,7 +2,7 @@
 
 Aim for flavour not power
 
-### Axe of the Burdened
+## Axe of the Burdened
 
 **Weapon:** Battleaxe
 
@@ -10,7 +10,7 @@ Aim for flavour not power
 
 If fully encomburdened (at carry capacity) gain a +1 bonus to attack and damage rolls with this magic weapon.
 
-### Tome of the Linguist
+## Tome of the Linguist
 
 **Wondrous Item:** Arcane Focus
 
@@ -19,7 +19,7 @@ If fully encomburdened (at carry capacity) gain a +1 bonus to attack and damage 
 Gain proficiency to Charisma checks while speaking a language other than common
 Disadvantage to Charisma checks while speaking common
 
-### Tireless Blade
+## Tireless Blade
 
 **Weapon:** Longsword
 
@@ -31,7 +31,7 @@ This bonus is equal to your exhaustion level
 
 Example: at 3 levels of exhaustion this functions as a +3 Longsword
 
-### Medals of Kin
+## Medals of Kin
 
 **Wondrous Item:** 3x Necklaces
 
@@ -39,7 +39,7 @@ Example: at 3 levels of exhaustion this functions as a +3 Longsword
 
 Once per long rest the Medals of Kin can be activated to grant one wearer the Bless buff for 1 minute. As a reaction any attuned member may use their reaction to gain the buff instead. Though this does not require concentration, if any of the attuned creatures takes damage, they must do a concentration check to maintain the Bless.
 
-### Shattered Staff
+## Shattered Staff
 
 **Weapon:** Staff
 
@@ -47,7 +47,7 @@ Once per long rest the Medals of Kin can be activated to grant one wearer the Bl
 
 Make a DC 15 Wisdom Save, on a fail suffer a short term madness, on a success heal 1d6 hit points. Once you have used the staff, it can't be used again until you complete a long rest.
 
-### Dragon Aspirant Badge
+## Dragon Aspirant Badge
 
 **Wondrous Item:** Sigil
 
@@ -57,7 +57,7 @@ If you spend 10 minutes of a short rest reading aloud Draconic text, one target 
 
 When speaking with Kobolds you gain expertise in Persuasion Checks
 
-### Plague Mask
+## Plague Mask
 
 **Wondrous Item:** Helm
 
@@ -68,7 +68,7 @@ If you are under the poisoned condition, you can spend an action to attempt to p
 
 ## DMG Cold Resistance Items
 
-### Ring of Cold Resistance
+## Ring of Cold Resistance
 
 **Jewelry:** ring
 
@@ -76,7 +76,7 @@ If you are under the poisoned condition, you can spend an action to attempt to p
 
 You have resistance to cold damage while wearing this tourmaline ring.
 
-### Ring of Warmth
+## Ring of Warmth
 
 **Jewelry:** ring
 
@@ -84,7 +84,7 @@ You have resistance to cold damage while wearing this tourmaline ring.
 
 While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as -50 degrees Fahrenheit.
 
-### Armor of Cold Resistance
+## Armor of Cold Resistance
 
 **Armor:** any
 
@@ -92,7 +92,7 @@ While wearing this ring, you have resistance to cold damage. In addition, you an
 
 You have resistance to cold damage while you wear this armor.
 
-### Potion of Resistance
+## Potion of Resistance
 
 **Consumable Item:** Potion
 
@@ -100,7 +100,7 @@ You have resistance to cold damage while you wear this armor.
 
 When you drink this potion, you gain resistance to one type of damage for 1 hour. 
 
-### Frost Brand (fire res though)
+## Frost Brand (fire res though)
 
 **Weapon:** Any Sword
 
@@ -112,7 +112,7 @@ In freezing temperatures, the blade sheds bright light in a 10-foot radius and d
 
 When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.
 
-### Staff of Frost
+## Staff of Frost
 
 **Weapon:** Staff
 
@@ -126,7 +126,7 @@ The staff has 10 charges. While holding it, you can use an action to expend 1 or
 
 The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff turns to water and is destroyed.
 
-### Boots of the Winterlands
+## Boots of the Winterlands
 
 **Wondrous item:** boots
 

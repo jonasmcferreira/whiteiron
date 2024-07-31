@@ -76,8 +76,6 @@ The ship's hull is reinforced with heat-conducting metal that glows faintly with
 
 The crew of the Gliding Cloud, known as the Flaming Fools, are a hardy group of adventurers. Each member brings a unique skill to the table, and they are fiercely loyal to Captain Winterbourne. They are known for their fiery personalities and their ability to get the job done, no matter the odds.
 
-### Lore and Adventures
-
 **Origins:**
 
 The Gliding Cloud was created by the brilliant yet eccentric gnome inventor Fizwidget Gearspanner. Combining his mechanical expertise with ancient magical runes, Fizwidget enchanted the ship to navigate the frozen wastelands. After entrusting the ship to Captain Winterbourne, Fizwidget disappeared, leaving behind his magnum opus.
@@ -86,17 +84,15 @@ The Gliding Cloud was created by the brilliant yet eccentric gnome inventor Fizw
 
 The Flaming Fools are vital to the survival and commerce of the Jhed Wasteland. They transport heavily valued items between villages, hunt dangerous creatures, and rescue lost travelers — for a fee. Their services are essential for maintaining the fragile balance of life in this harsh environment.
 
+**The Gliding Cloud:**
+
+The Gliding Cloud is an imposing vessel with a sleek, streamlined design. Its hull is made of a rare, heat-conducting metal that glows faintly with an inner fire, giving it a warm, otherworldly aura. The ship is always shrouded in a mist of steam, a byproduct of the enchanted keel melting the ice beneath it. The sails are deep crimson, imbued with fire-resistant enchantments, and glow faintly with an orange hue. The bow is reinforced with a thick, serrated metal edge, designed to break through even the thickest ice. The deck is spacious and well-organized, with various stations for navigation, combat, and maintenance. The engine room, filled with gears, pipes, and glowing runes, is the heart of the ship where the magical and mechanical systems are maintained. When players first see the Gliding Cloud, they are struck by its unique appearance. The constant steam rising from the keel, the warm glow of the metal hull, and the flame-touched sails make it stand out in the icy wasteland. The ship’s ability to melt ice and glide smoothly over the terrain is both impressive and eerie, creating a sense of awe and respect.
+
 **Encounters/Quests:**
 
 - **Beast Hunting and Protection:** The players join the Flaming Fools in a hunt for a **[Placeholder Creature]**, a dangerous creature threatening the villages.
 - **Rescue and Recovery Missions:** The players are rescued by the Flaming Fools after being stranded in a blizzard. They must work off their debt to the Fools through labor or services.
 - **Information and Intelligence Gathering:** The Flaming Fools provide settlements with vital information about weather patterns, creature movements, and potential dangers, allowing townsfolk to prepare and seek shelter.
-
-### Visual Description
-
-**The Gliding Cloud:**
-
-The Gliding Cloud is an imposing vessel with a sleek, streamlined design. Its hull is made of a rare, heat-conducting metal that glows faintly with an inner fire, giving it a warm, otherworldly aura. The ship is always shrouded in a mist of steam, a byproduct of the enchanted keel melting the ice beneath it. The sails are deep crimson, imbued with fire-resistant enchantments, and glow faintly with an orange hue. The bow is reinforced with a thick, serrated metal edge, designed to break through even the thickest ice. The deck is spacious and well-organized, with various stations for navigation, combat, and maintenance. The engine room, filled with gears, pipes, and glowing runes, is the heart of the ship where the magical and mechanical systems are maintained. When players first see the Gliding Cloud, they are struck by its unique appearance. The constant steam rising from the keel, the warm glow of the metal hull, and the flame-touched sails make it stand out in the icy wasteland. The ship’s ability to melt ice and glide smoothly over the terrain is both impressive and eerie, creating a sense of awe and respect.
 
 ## Vaulted Ones (draft)
 
@@ -143,9 +139,3 @@ The Gliding Cloud is an imposing vessel with a sleek, streamlined design. Its hu
     - Risk ambush when collecting relics
     - Lower trade rates of Relics
     - Sphyx will not offer help
-
-
-
-
-
-

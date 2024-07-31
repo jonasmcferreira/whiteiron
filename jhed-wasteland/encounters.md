@@ -5,7 +5,16 @@
   - [Additional Notes](#additional-notes)
   - [Shop Items](#shop-items)
   - [Vez'yen, Reclusive Poison Merchant](#vezyen-reclusive-poison-merchant)
-- [](#)
+- [Emeal "Snowfur" The Tax Man](#emeal-%22snowfur%22-the-tax-man)
+  - [Rakshasa](#rakshasa)
+  - [Companion - Eth "Snowcale"](#companion---eth-%22snowcale%22)
+  - [Brawl](#brawl)
+  - [If discovered](#if-discovered)
+  - [If hostile](#if-hostile)
+- [Snakes!](#snakes)
+  - [Battlefield](#battlefield)
+  - [Fight](#fight)
+  - [Loot/Lore](#lootlore)
 
 ## The Poison Merchant
 
@@ -82,9 +91,6 @@ Vez'yen also provides special quests for those seeking rarer and more dangerous 
 **Legendary Actions** (1/Day):
 - **Evasion**: If Vez'yen fails a Dexterity saving throw, he can choose to succeed instead.
 
-##
-
-
 ## Emeal "Snowfur" The Tax Man
 
 ### Rakshasa
@@ -113,7 +119,7 @@ White **Giant Poisonous Snakes** 1
 
 White **Poisonous Snakes** 1d4
 
-#### Battlefield
+### Battlefield
 
 Dunelike snowdrifts battered by strong winds makes each step into the deep crunching snow heavier than the last. A pile of bodies or clothing is spotted in the distance   
   
@@ -136,7 +142,7 @@ Can be harvested for 1 vial of simple poison, or a stronger poison if brought to
 4days worth food
 Eaten Raw (day killed): Constitution Save 10, 1d4 poison damage on a failed save
                         Grants Cold Resistance for 24 hours
-                        
+
 Nature Check 10: These snakes are babies
 
 Survival Check 7: There are many tracks and this area is not safe to camp
@@ -145,4 +151,3 @@ Animal Handling 7: to prevent second wave of same encounter
 
 Investigation 7: broken eggshells around bodies, most likely food for babies
 Investigation 13: A simple silver ring with a boot emblem (ring of jumping)
-           

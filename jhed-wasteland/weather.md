@@ -52,109 +52,109 @@ Hard Weather - rolld 1d20 and add the category modifier, for e.g., for Hard Calm
 
 ## Weather
 
-| d100 | Category  | Effect                   | Type           | Time     |
-|------|-----------|--------------------------|----------------| -------------      |
-| 01   | Calm      | Shifting Stars           | Buff           | Night |
-| 02   | Calm      | Clear skies              | No effect      | Day |
-| 03   | Calm      | Distant snowfall         | No effect      | Dusk |
-| 04   | Calm      | Mild breeze              | No effect      | Dawn |
-| 04   | Calm      | Light overcast           | No effect      |
-| 05   | Calm      | Light snow               | Wind and snow  |
-| 06   | Calm      | Distant thunder          | No effect      |
-| 07   | Calm      | Light fog                | Fog            |
-| 08   | Calm      | Strong wind              | Wind and snow  |
-| 09   | Calm      | Light snow               | Wind and snow  |
-| 10   | Calm      | Clear skies              | No effect      |
-| 11   | Calm      | Overcast                 | Dim light      |
-| 12   | Calm      | Harsh cold               | Cold           |
-| 13   | Calm      | Sleet                    | Cold           |
-| 14   | Calm      | Blinding snow            | Wind and snow  |
-| 15   | Calm      | Wind and snow            | Wind and snow  |
-| 16   | Calm      | Close thunder            | Lightning      |
-| 17   | Calm      | Dense fog                | Fog            |
-| 18   | Calm      | Snow                     | Cold           |
-| 19   | Calm      | Light hail               | Hail           |
-| 20   | Calm      | Restorative winds        | Arcane winds   |
-| 21   | Storm     | Heavy snow               | Wind and snow  |
-| 22   | Storm     | Strong hail              | Hail           |
-| 23   | Storm     | Brutal cold              | Cold           |
-| 24   | Storm     | Heavy fog                | Fog            |
-| 25   | Storm     | Deafening thunder        | Lightning      |
-| 26   | Storm     | Thick storm clouds       | No light       |
-| 27   | Storm     | Heavy wind and snow      | Wind and snow  |
-| 28   | Storm     | Fog cloud                | Fog            |
-| 29   | Storm     | Lightning strike         | Lightning      |
-| 30   | Storm     | Maddening howls          | Madness        |
-| 31   | Storm     | Tremors                  | Miscellaneous  |
-| 32   | Storm     | Dense shifting weather   | Fog            |
-| 33   | Storm     | Falling ash              | Wind and snow  |
-| 34   | Storm     | Poisoned ice             | Wind and snow  |
-| 35   | Storm     | Illusionary snow         | Wind and snow  |
-| 36   | Storm     | Explosive thundering     | Thunder        |
-| 37   | Storm     | Blizzard                 | Wind and snow  |
-| 38   | Storm     | Freezing fog             | Cold           |
-| 39   | Storm     | Maddening visages        | Madness        |
-| 40   | Storm     | Rejuvenating winds       | Arcane winds   |
-| 41   | Arcane    | Attunements to beasts    | Arcane         |
-| 42   | Arcane    | Graceful winds           | Arcane         |
-| 43   | Arcane    | Blessed snow             | Arcane         |
-| 44   | Arcane    | Disguising fog           | Arcane         |
-| 45   | Arcane    | Enlarging boom           | Arcane         |
-| 46   | Arcane    | Reducing boom            | Arcane         |
-| 47   | Arcane    | Snows of truth           | Arcane         |
-| 48   | Arcane    | Winds of lies            | Arcane         |
-| 49   | Arcane    | Haste                    | Arcane         |
-| 50   | Arcane    | Slow                     | Arcane         |
-| 51   | Arcane    | Bane                     | Arcane         |
-| 52   | Arcane    | Darkness                 | Arcane         |
-| 53   | Arcane    | Web                      | Arcane         |
-| 54   | Arcane    | Clarity                  | Arcane         |
-| 55   | Arcane    | Low gravity              | Arcane         |
-| 56   | Arcane    | Gravity lift             | Arcane         |
-| 57   | Arcane    | Invisibility             | Arcane         |
-| 58   | Arcane    | Fly                      | Arcane         |
-| 59   | Arcane    | Locked                   | Arcane         |
-| 60   | Arcane    | Servants                 | Arcane         |
-| 61   | Unstable  | Exploding hail           | Unstable       |
-| 62   | Unstable  | Glacial heatwave         | Unstable       |
-| 63   | Unstable  | Ward of friendship       | Unstable       |
-| 64   | Unstable  | Binding ice              | Unstable       |
-| 65   | Unstable  | Blazing sleet            | Unstable       |
-| 66   | Unstable  | Ice storm                | Unstable       |
-| 67   | Unstable  | Wild magic surges        | Unstable       |
-| 68   | Unstable  | Undead winds             | Unstable       |
-| 69   | Unstable  | Radiant rays             | Unstable       |
-| 70   | Unstable  | Anti magic               | Unstable       |
-| 71   | Unstable  | Gaseous form             | Unstable       |
-| 72   | Unstable  | A height of madness      | Unstable       |
-| 73   | Unstable  | Purple snow              | Unstable       |
-| 74   | Unstable  | Lost in time             | Unstable       |
-| 75   | Unstable  | Acid rain                | Unstable       |
-| 76   | Unstable  | Weakness                 | Unstable       |
-| 77   | Unstable  | Speak with plants        | Unstable       |
-| 78   | Unstable  | Wind walk                | Unstable       |
-| 79   | Unstable  | Snow meteors             | Unstable       |
-| 80   | Unstable  | Agathy's                 | Unstable       |
-| 81   | Encounter | Polymorph                | Encounter      |
-| 82   | Encounter | Unstable teleportation   | Encounter      |
-| 83   | Encounter | Illusionary terrain      | Encounter      |
-| 84   | Encounter | Encased in ice           | Encounter      |
-| 85   | Encounter | Crystal                  | Encounter      |
-| 86   | Encounter | Mercurial rain           | Encounter      |
-| 87   | Encounter | Blood snow               | Encounter      |
-| 88   | Encounter | Ruined storm             | Encounter      |
-| 89   | Encounter | Voices of Jhed           | Encounter      |
-| 90   | Encounter | Protection               | Encounter      |
-| 91   | Encounter | Geas                     | Encounter      |
-| 92   | Encounter | Spoilage                 | Encounter      |
-| 93   | Encounter | Desert sand              | Encounter      |
-| 94   | Encounter | Time skip                | Encounter      |
-| 95   | Encounter | Air of death             | Encounter      |
-| 96   | Encounter | Close to death           | Encounter      |
-| 97   | Encounter | Midas Touch              | Encounter      |
-| 98   | Encounter | Ethereal                 | Encounter      |
-| 99   | Encounter | Oozes                    | Encounter      |
-| 100  | Encounter | Roll on table twice      | Encounter      |
+| d100 | Category  | Effect                   | Type           | Time   |
+|------|-----------|--------------------------|----------------| ------ |
+| 01   | Calm      | Shifting Stars           | Buff           | Night  |
+| 02   | Calm      | Clear skies              | No effect      | Day    |
+| 03   | Calm      | Distant snowfall         | No effect      | Dusk   |
+| 04   | Calm      | Mild breeze              | No effect      | Dawn   |
+| 04   | Calm      | Light overcast           | No effect      | Day    |
+| 05   | Calm      | Light snow               | Wind and snow  | Day    |
+| 06   | Calm      | Distant thunder          | No effect      | Dusk   |
+| 07   | Calm      | Light fog                | Fog            | Morning|
+| 08   | Calm      | Strong wind              | Wind and snow  | Night  |
+| 09   | Calm      | Light snow               | Wind and snow  | Night  |
+| 10   | Calm      | Clear skies              | No effect      | Day    |
+| 11   | Calm      | Overcast                 | Dim light      | Day    |
+| 12   | Calm      | Harsh cold               | Cold           | Night  |
+| 13   | Calm      | Sleet                    | Cold           | Evening|
+| 14   | Calm      | Blinding snow            | Wind and snow  | Day    |
+| 15   | Calm      | Wind and snow            | Wind and snow  | Day    |
+| 16   | Calm      | Close thunder            | Lightning      | Night  |
+| 17   | Calm      | Dense fog                | Fog            | Morning|
+| 18   | Calm      | Snow                     | Cold           | Day    |
+| 19   | Calm      | Light hail               | Hail           | Day    |
+| 20   | Calm      | Restorative winds        | Arcane winds   | Morning|
+| 21   | Storm     | Heavy snow               | Wind and snow  | Night  |
+| 22   | Storm     | Strong hail              | Hail           | Night  |
+| 23   | Storm     | Brutal cold              | Cold           | Night  |
+| 24   | Storm     | Heavy fog                | Fog            | Morning|
+| 25   | Storm     | Deafening thunder        | Lightning      | Night  |
+| 26   | Storm     | Thick storm clouds       | No light       | Day    |
+| 27   | Storm     | Heavy wind and snow      | Wind and snow  | Day    |
+| 28   | Storm     | Fog cloud                | Fog            | Evening|
+| 29   | Storm     | Lightning strike         | Lightning      | Night  |
+| 30   | Storm     | Maddening howls          | Madness        | Night  |
+| 31   | Storm     | Tremors                  | Miscellaneous  | Night  |
+| 32   | Storm     | Dense shifting weather   | Fog            | Morning|
+| 33   | Storm     | Falling ash              | Wind and snow  | Day    |
+| 34   | Storm     | Poisoned ice             | Wind and snow  | Night  |
+| 35   | Storm     | Illusionary snow         | Wind and snow  | Day    |
+| 36   | Storm     | Explosive thundering     | Thunder        | Night  |
+| 37   | Storm     | Blizzard                 | Wind and snow  | Day    |
+| 38   | Storm     | Freezing fog             | Cold           | Night  |
+| 39   | Storm     | Maddening visages        | Madness        | Night  |
+| 40   | Storm     | Rejuvenating winds       | Arcane winds   | Morning|
+| 41   | Arcane    | Attunements to beasts    | Arcane         | Day    |
+| 42   | Arcane    | Graceful winds           | Arcane         | Morning|
+| 43   | Arcane    | Blessed snow             | Arcane         | Night  |
+| 44   | Arcane    | Disguising fog           | Arcane         | Morning|
+| 45   | Arcane    | Enlarging boom           | Arcane         | Day    |
+| 46   | Arcane    | Reducing boom            | Arcane         | Night  |
+| 47   | Arcane    | Snows of truth           | Arcane         | Night  |
+| 48   | Arcane    | Winds of lies            | Arcane         | Night  |
+| 49   | Arcane    | Haste                    | Arcane         | Day    |
+| 50   | Arcane    | Slow                     | Arcane         | Day    |
+| 51   | Arcane    | Bane                     | Arcane         | Night  |
+| 52   | Arcane    | Darkness                 | Arcane         | Night  |
+| 53   | Arcane    | Web                      | Arcane         | Night  |
+| 54   | Arcane    | Clarity                  | Arcane         | Morning|
+| 55   | Arcane    | Low gravity              | Arcane         | Day    |
+| 56   | Arcane    | Gravity lift             | Arcane         | Morning|
+| 57   | Arcane    | Invisibility             | Arcane         | Night  |
+| 58   | Arcane    | Fly                      | Arcane         | Day    |
+| 59   | Arcane    | Locked                   | Arcane         | Night  |
+| 60   | Arcane    | Servants                 | Arcane         | Day    |
+| 61   | Unstable  | Exploding hail           | Unstable       | Night  |
+| 62   | Unstable  | Glacial heatwave         | Unstable       | Day    |
+| 63   | Unstable  | Ward of friendship       | Unstable       | Morning|
+| 64   | Unstable  | Binding ice              | Unstable       | Night  |
+| 65   | Unstable  | Blazing sleet            | Unstable       | Day    |
+| 66   | Unstable  | Ice storm                | Unstable       | Night  |
+| 67   | Unstable  | Wild magic surges        | Unstable       | Day    |
+| 68   | Unstable  | Undead winds             | Unstable       | Night  |
+| 69   | Unstable  | Radiant rays             | Unstable       | Day    |
+| 70   | Unstable  | Anti magic               | Unstable       | Night  |
+| 71   | Unstable  | Gaseous form             | Unstable       | Day    |
+| 72   | Unstable  | A height of madness      | Unstable       | Night  |
+| 73   | Unstable  | Purple snow              | Unstable       | Day    |
+| 74   | Unstable  | Lost in time             | Unstable       | Night  |
+| 75   | Unstable  | Acid rain                | Unstable       | Night  |
+| 76   | Unstable  | Weakness                 | Unstable       | Night  |
+| 77   | Unstable  | Speak with plants        | Unstable       | Day    |
+| 78   | Unstable  | Wind walk                | Unstable       | Day    |
+| 79   | Unstable  | Snow meteors             | Unstable       | Night  |
+| 80   | Unstable  | Agathy's                 | Unstable       | Night  |
+| 81   | Encounter | Polymorph                | Encounter      | Day    |
+| 82   | Encounter | Unstable teleportation   | Encounter      | Night  |
+| 83   | Encounter | Illusionary terrain      | Encounter      | Day    |
+| 84   | Encounter | Encased in ice           | Encounter      | Night  |
+| 85   | Encounter | Crystal                  | Encounter      | Night  |
+| 86   | Encounter | Mercurial rain           | Encounter      | Night  |
+| 87   | Encounter | Blood snow               | Encounter      | Night  |
+| 88   | Encounter | Ruined storm             | Encounter      | Night  |
+| 89   | Encounter | Voices of Jhed           | Encounter      | Night  |
+| 90   | Encounter | Protection               | Encounter      | Night  |
+| 91   | Encounter | Geas                     | Encounter      | Night  |
+| 92   | Encounter | Spoilage                 | Encounter      | Night  |
+| 93   | Encounter | Desert sand              | Encounter      | Day    |
+| 94   | Encounter | Time skip                | Encounter      | Night  |
+| 95   | Encounter | Air of death             | Encounter      | Night  |
+| 96   | Encounter | Close to death           | Encounter      | Night  |
+| 97   | Encounter | Midas Touch              | Encounter      | Night  |
+| 98   | Encounter | Ethereal                 | Encounter      | Night  |
+| 99   | Encounter | Oozes                    | Encounter      | Night  |
+| 100  | Encounter | Roll on table twice      | Encounter      | Night  |
 
 ## Weather Effects
 

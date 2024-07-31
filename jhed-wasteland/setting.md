@@ -70,11 +70,9 @@ Travelling in Jhed is not done in straight lines, so distances are very relative
 | **Seat of the Noble Jhed** | 35 | 30     | 20           | -                      | 50          |
 | **Witch's Nip**    | 30        | 4      | 30           | 50                     | -           |
 
+### Key Thieves
 
-
-### Key of Thieves
-
-- small key of islands is the most direct path to Jhed, these thieves are the last remnants of the Thieve Kings
+- small key of islands is the most direct path to Jhed, these thieves are the last remnants of the Thieves Kings
 
 ## The Code of the Snow
 
