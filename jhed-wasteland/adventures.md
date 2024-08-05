@@ -11,8 +11,80 @@ Encounters with purpose - encounters should:
     - Reinforce plot
     - Add intrigue
 
-## Lvl One
+## Lvl One, Journey To Netrus
 
+Goals.
+
+    Get a feel for 6 to 8 encounter before short rest
+    Setup the Gritty Realism resting system (short rest 8 hours, long rest 7 days)
+    Encounter Reptiles, Kobolds, Undead, Oozes, Weather and Madness (look 6 encounters)
+    
+### The Journey
+
+Leaving Thieves Key the party is sheltered on a small covered boat with Don Vras. Two unnamed figures navigate the waters from outside and this opportunity is the last to gain anymore knowledge about Jhed for now. The vessel lists and rocks chaotically on the frigid water for two days before reaching the smuggler's route but there are merryment in drink, meat and fruit.  
+
+The quest? delivering a package to the edge of the world at a time supply routes are cut. 600gp to simply deliver a small 50 lbs package, and any other 20 lbs crate they can bring is another 100gp in rewards. However any crate lost is -150gp, and no reward if the 50 lbs package isn't delivered  
+
+2 day travel on water to smuggler tunnel  
+2-3 day travel in tunnel to UnderRoc Bridge
+1 day travel tunnel past UnderRoc Bridge
+1-2 day travel on snow surface
+
+Crates locked (DC 13), small package locked (DC 16)
+
+### Encounter 1: Ice Wall
+
+Correct to Don Vras' word, the tunnels navigate easily with each splitting direction boarded up, yet light tremors are felt through these caverns. Upon the first rest, the party awakens to a spirit, featureless sitting with them at camp that fades when looked at. 
+
+Boarded Walls - boarded walls are marked with Thieves cant, a rogue investigating can be told the result of the roll before destroying the blockade
+
+The cavern opens up and seems to have sheered the path, causing a 30ft cliff of jagged ice. Ontop a Kobold can be seen for a brief moment (3 total), before they run off (towards the UnderRoc Bridge) with no intention of hindering the party.
+
+Climbing the Ice Wall 
+
+1 Piercing Damage represented by the sharp terrain if just using Climb Speed
+
+Athletics Check DC 13, with some assistance (climbing gear, rope)
+
+1d6 bludgeoning damage from fall on failed check, 2d6 bludgeoning damage if failed by 10 or more (3) 
+
+Another Route: Boarded Pathways
+
+|D6|Behind Wall|
+|----|-------|
+|1|Cold|
+|2|Trap|
+|3|Zombies|
+|4|Kobolds|
+|5|Split |
+|6|Short Cut|
+
+1. The path is long and cold, 1 Cold Damage as you travel an hour and roll again
+2. Investigation Check (DC10) to notice trap: Dexterity Save (DC10) 1d4 Bludgeoning Damage as roof caves in
+3. A corpse slumped to the ground wearing scraps (Zombie): Party is surprised if move towards
+4. Lone Kobold, flees upwards through a small tunnel they are just scouting
+5. Path splits to two, each path is a new D6 and can split again
+6. Couple hours down path, Shortcut Puzzle
+
+Shortcut Puzzle 
+
+Closed Triangular stone door with arcane symbols of fire
+
+Cantrip lights up sigils
+
+Expending spell slot opens door
+
+Small Box with ash, burning spell scroll or Potion in there opens door
+
+
+
+Forced Open, Strength Check DC19 
+
+Pick Lock, Thieves Tools Check DC19
+
+if opened by force or pick: Intelligence Save DC13, 1d6 psycic damage on a failed save 
+
+One way door, once moved through the way if the character turns around, will only see a wall
 
 ### UnderRoc Bridge Part 1: First Tower
 
@@ -150,20 +222,20 @@ A sudden halt causes the party to lurch forward; as they steady Don Vras calls b
 
 **Plots:**
 
-## Level Two
+### Level Two
 
 - Help town in trade for a "ship" to venture in Jhed Wasteland
 - Travel to adjacent towns
 
-## Level 3,4
+### Level 3,4
 
 - Attempt Jhed Wasteland and realize how futile it currently is
 
-## Level 6
+### Level 6
 
 - Should be able to finally attempt to venture deeper into Jhed Wasteland
 
-## Reveals
+### Reveals
 
 - One of the fallen kings is on the Jhed Continent
 - Dracolich that Kobolds or Village Two want to utilize
