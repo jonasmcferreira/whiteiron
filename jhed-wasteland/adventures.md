@@ -222,20 +222,102 @@ A sudden halt causes the party to lurch forward; as they steady Don Vras calls b
 
 **Plots:**
 
-### Level Two
+## Level Two Adventure: Securing the Ice Sled
 
-- Help town in trade for a "ship" to venture in Jhed Wasteland
-- Travel to adjacent towns
+### Adventure Outline: "The Lost Volunteer"
 
-### Level 3,4
+### Introduction
+
+**Hook**: While the party is in Netrus, a wandering undead laborer, known as a "volunteer," stumbles into the village, lost and in disrepair. The appearance of this undead worker, typically found only in Dhuren Tol, raises concern among the villagers and curiosity in the party.
+
+### Act 1: The Lost Volunteer
+
+1. **The Volunteer’s Arrival**:
+   - The party witnesses the arrival of a disoriented and partially damaged undead laborer in Netrus.
+   - The volunteer carries a cryptic note and a broken piece of equipment that hints at something important in Dhuren Tol.
+
+2. **Meeting the Leaders**:
+   - The party meets with Nick Ugris, the Hill Giant leader of Netrus, and Sammul, the Tortle Runepriest.
+   - They explain that the appearance of the volunteer indicates trouble in Dhuren Tol and ask the party to investigate.
+
+3. **Deciphering the Clues**:
+   - The party deciphers the note, which speaks of an urgent need for the Heart of Frost, a rare artifact needed to stabilize the undead workforce.
+   - The broken piece is identified as a part of an ice sled, used for traveling over the icy terrain.
+
+### Act 2: Securing the Ice Sled
+
+1. **Finding the Ice Sled**:
+   - The party is tasked with finding and securing an ice sled necessary for the journey to Dhuren Tol.
+   - They learn that Thoren Coldwind, a trader in Netrus, has information about a durable ice sled prepared for Jhed.
+
+2. **Negotiating for Information**:
+   - The party negotiates with Thoren Coldwind, who agrees to provide the location of the ice sled in exchange for a favor or a trade.
+   - Thoren asks the party to retrieve the Frostfinder, a valuable magical compass, from a nearby cave infested with ice trolls.
+
+3. **Retrieving the Frostfinder**:
+   - The party ventures to the cave, navigating traps and battling ice trolls led by Gragnar the Frostbite.
+   - They retrieve the Frostfinder and return to Netrus.
+
+4. **Locating the Ice Sled**:
+   - With Thoren Coldwind's information, the party sets out to find the lost ice sled, "The Frostrunner."
+   - They face environmental challenges such as blizzards and unstable ice, and possibly an encounter with a roc.
+
+5. **Preparing the Ice Sled**:
+   - Upon finding The Frostrunner, the party needs to prepare it for the journey. Depending on their skills and resources, they can choose to:
+     - **Pull by Dogs**: If they can handle animals and have access to sled dogs.
+     - **Push by Hand**: If they lack animals but have enough strength and manpower.
+     - **Pull by People**: If they prefer to pull it themselves, utilizing their teamwork and endurance.
+
+### Act 3: Journey to Dhuren Tol
+
+1. **Setting Off**:
+   - The party sets off in The Frostrunner, navigating the harsh terrain of the Jhed Wasteland.
+   - They encounter various challenges, such as snowstorms, wandering beasts, and environmental hazards.
+
+2. **The Road to Dhuren Tol**:
+   - Along the way, the party may find clues about the current state of Dhuren Tol.
+   - They might also encounter travelers or villagers in need, offering side quests and additional context.
+
+3. **Arriving in Dhuren Tol**:
+   - The party finally arrives in Dhuren Tol, greeted by the sight of skeletons patrolling the streets and performing menial tasks.
+
+
+### Conclusion
+
+1. **Setting Up the Next Adventure**:
+   - The party is tasked with finding the Source of the disruption and restoring order to Dhuren Tol.
+   - This sets the stage for the next level adventure, where the party will face the challenges of the undead uprising and delve deeper into the mysteries of Dhuren Tol.
+
+### Key NPCs
+
+- **Nick Ugris**: The Hill Giant leader of Netrus, who tasks the party with investigating Dhuren Tol.
+- **Sammul**: The Tortle Runepriest who provides spiritual guidance and helps decipher the clues.
+- **Thoren Coldwind**: A savvy merchant in Netrus who provides crucial information in exchange for a favor.
+- **Council of Elders**:
+  - **Elder Rurik Stonebeard**: The head of the council, a wise and seasoned miner.
+  - **Elder Thrain Gemcutter**: A master jeweler known for his intricate gem work.
+  - **Elder Hilda Ironfist**: A formidable blacksmith and warrior who defends the village.
+- **The Necromancer**: Mordekai the Mad, an eccentric figure responsible for controlling the undead workforce in Dhuren Tol.
+- **Ice Troll Leader**: Gragnar the Frostbite, the menacing leader of the ice trolls in the cave.
+- **Kobold Leader**: Snivvik the Sly, the mischievous kobold who leads the band that stole the artifact.
+- **Artifact**: The Heart of Frost, a magical crystal crucial for maintaining control over the undead workforce.
+- **Ice Sled**: The Frostrunner, a specially designed sled for travel across the icy terrain of Jhed.
+
+### Comical Elements
+
+- The “volunteer” undead laborer is comically disoriented and clumsy, providing moments of light-heartedness.
+- Nick Ugris, despite his size and strength, has a gentle and humorous demeanor, often making light of serious situations.
+- Thoren Coldwind, the trader in Netrus, is eccentric and has amusing quirks, making the negotiation and subsequent favor entertaining.
+
+## Level 3,4
 
 - Attempt Jhed Wasteland and realize how futile it currently is
 
-### Level 6
+## Level 6
 
 - Should be able to finally attempt to venture deeper into Jhed Wasteland
 
-### Reveals
+## Reveals
 
 - One of the fallen kings is on the Jhed Continent
 - Dracolich that Kobolds or Village Two want to utilize
