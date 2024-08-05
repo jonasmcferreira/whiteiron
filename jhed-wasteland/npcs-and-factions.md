@@ -1,26 +1,13 @@
 # Key NPCs and Factions
 
 
-## Village Leaders
+## Thieves Post - Starter town
 
-- **Netrus - Village One:** 
+To be defined
 
-- **Dhuran Tol - Village Two:**
+## Trade Port - Winter Fort
 
-
-
-- **Oravilla - Village Three:**
-
-    
-
-- **Noble Seat of Jhed - Village Four:**
-
-    Village of 5 people in a broken citadel
-
-- **Thieves Post - starter town:**
-
-- **Trade Port - winter fort:**
-
+Since Jhed is so rich in resources and is isolated once every two months a ship will come heavy on supplies in which the habitants of Jhed will dispose of all their gold and diamonds and or to buy supplies and goods
 
 ## The Frost Syndicate (draft)
  
@@ -36,10 +23,6 @@
 
 **Ship:** The Gliding Cloud
 
-### Description
-
-**The Flaming Fools:**
-
 The Flaming Fools are a resourceful band of free agents who traverse the icy expanses of the Jhed Wasteland. They transport valuable items, hunt dangerous creatures, and assist those in need, always for a price, which can be paid in goods, gold, or labor.
 
 **Captain Thaddeus Winterbourne:**
@@ -53,12 +36,9 @@ The Gliding Cloud is a marvel of magical engineering, created by the eccentric g
 **Hull and Keel:**
 
 The ship's hull is reinforced with heat-conducting metal that glows faintly with an inner fire. The keel, the ship's backbone, is enchanted to remain perpetually hot, generating steam and enabling smooth travel over ice and snow.
-
-**Design and Features:**
-
-- **Flame-touched Sails:** The sails are imbued with fire-resistant enchantments, glowing faintly with an orange hue.
-- **Icebreaker Bow:** The bow is reinforced to break through thicker ice, making it a formidable vessel in the Arctic waters and frozen plains.
-- **Crew Size:** The Gliding Cloud has a small crew, usually around 10 members, enough to operate the vessel efficiently in the small, sparsely populated environment of Jhed.
+The sails are flame resistant, they are imbued with fire-resistant enchantments, glowing faintly with an orange hue.
+The bow is reinforced to break through thicker ice, making it a formidable vessel in the Frozen waters and frozen plains.
+The Gliding Cloud has a small crew, usually around 10 members, enough to operate the vessel efficiently in the small, sparsely populated environment of Jhed.
 
 **The Flaming Fools:**
 

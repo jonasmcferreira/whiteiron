@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jhed-wasteland/four-villages.md",
+                "file": "jhed-wasteland/adventures.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "jhed-wasteland/four-villages.md",
+            "file": "jhed-wasteland/adventures.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "jhed-wasteland/four-villages.md",
+            "file": "jhed-wasteland/adventures.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "jhed-wasteland/four-villages.md"
+            "file": "jhed-wasteland/adventures.md"
           }
         }
       }
@@ -131,13 +131,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9579d1d8b6d00e8b",
+  "active": "a7f05ecdc546eb2c",
   "lastOpenFiles": [
+    "jhed-wasteland/story-hooks.md",
+    "jhed-wasteland/setting.md",
+    "jhed-wasteland/rule_changes.md",
+    "jhed-wasteland/player-handout.md",
+    "jhed-wasteland/past.md",
     "jhed-wasteland/npcs-and-factions.md",
     "jhed-wasteland/four-villages.md",
+    "jhed-wasteland/mysteries.md",
+    "jhed-wasteland/monter-types.md",
+    "jhed-wasteland/mechanics.md",
+    "jhed-wasteland/images/jhed-towns.jpg",
     "jhed-wasteland/adventures.md",
-    "jhed-wasteland/weather.md",
-    "jhed-wasteland/story-hooks.md",
-    "jhed-wasteland/mechanics.md"
+    "jhed-wasteland/weather.md"
   ]
 }
