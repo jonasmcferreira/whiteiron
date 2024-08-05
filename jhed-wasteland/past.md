@@ -4,9 +4,11 @@ Kings whom have tried to conquer Jhed
 
 ## Zeltrin "the fool" 4134 years ago
 
- Minataur King that united the outer regions. History recalls his adventures as a hero bringing peace and prosperity. The riches of Jhed would be the final chapter of his empire
+ Giant Minotaur King that united the outer regions. History recalls his adventures as a hero bringing peace and prosperity. The riches of Jhed would be the final chapter of his empire
 
  Though Zeltrin established some fortifications on the continent of Jhed; some that still remain. The entire army that marched through the Jhed Wasteland including himself went missing
+ 
+ Major reason for survival is the inability to be lost as a Minotaur, great tool for player to find one
 
  **Revelation:** Zeltrin has a fake burial in the Jhed Wasteland and still lives. He has learned the origin of the oozes and knows returning will simply bring the greater threat the the outer regions
 
@@ -15,6 +17,8 @@ Kings whom have tried to conquer Jhed
 Human King, emerged from power vacuum left behind with Zeltrin considered a failure on most fronts, just taking advantage of a crippled system
 
 There are very few ruins of Omsin's journeys to Jhed making his burial difficult to find
+
+Osmin's undead form gets more powerful each time he is killed
 
 **Revelation:** died in Jhed Continent and never made it to the wasteland during a mutany. The harshness of Jhed took the lives of the mutinous. This betrayel cursed the population of Jhed and is the cause of the undead existing here, and Osmin still acts in many undead forms with a twisted mind
 
