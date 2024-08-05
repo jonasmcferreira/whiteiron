@@ -1,29 +1,17 @@
 # Key NPCs and Factions
 
-One way to make NPCs important is to limit overlapping function. If an NPC has a unique ability, is killed or captured, this service is not available in Jhed until the problem is resolved
 
 ## Village Leaders
 
-- **Elder Warden**: An experienced survivalist who knows the land and its secrets.
-
 - **Netrus - Village One:** 
-
-    Nick (Giant) - animal tamer and works with fishing and animal husbandry. Disputes are brought to him and defends the village through strength and runecarving
-    
-    Sammul (Tortle) - religious leader, can cast Remove Curse
-                    - accepts all faiths (good/evil), and focuses on guiding people through their faith and crises
-    
-    Five Sisters - Potion Maker
 
 - **Dhuran Tol - Village Two:**
 
-    Necromancer (unknown) - controls undead, but lost in Jhed Wasteland
-    Dhuran Three - Hill Dwarf(Bard), Mountain Dwarf(Wizard), Grey Dwarf(Sorcerer) decide what happens
-    Fizwidget - gnome inventor, crafter of The Gliding Cloud. Attempting to craft a ship to endure Jhed Wasteland
+
 
 - **Oravilla - Village Three:**
 
-    Nameless (Illithid and Elder Brain) - village leader
+    
 
 - **Noble Seat of Jhed - Village Four:**
 

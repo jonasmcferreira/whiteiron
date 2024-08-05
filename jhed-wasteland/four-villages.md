@@ -1,27 +1,14 @@
 # Four Villages
 
-- [Common Features](#common-features)
-- [Netrus - Village One](#netrus---village-one)
-  - [Founding Reasons](#founding-reasons)
-  - [Oddities](#oddities)
-  - [Beasts of Burden info](#beasts-of-burden-info)
-  - [Potions](#potions)
-  - [Leader](#leader)
-  - [Religion](#religion)
-  - [Law](#law)
-  - [Food](#food)
-  - [Allies, Enemies and Neutral](#allies-enemies-and-neutral)
-  - [Expansion and Loss](#expansion-and-loss)
-- [Durenthal](#durenthal)
-- [Village Three](#village-three)
-- [Village Four draft](#village-four-draft)
-
 ## Common Features
 
 - All villages have beasts of burden.
 - Trade resources among villages and with the greater kingdom.
 - Each village has its own focus and unique characteristics.
 - Religion plays a significant role in village life.
+
+One way to make NPCs important is to limit overlapping function. If an NPC has a unique ability, is killed or captured, this service is not available in Jhed until the problem is resolved
+
 
 ## Netrus - Village One
 
@@ -56,9 +43,14 @@
 
 ### Leader
 
-    - "Nick" Ugris the Hill Giant
-    - animal tamer, fisher, hunter and runewarden
-    - Fishes with a Javelin of Lightning, attached to a metal chain
+"Nick" Ugris the Hill Giant
+animal tamer, fisher, hunter and runewarden
+Fishes with a Javelin of Lightning, attached to a metal chain
+
+Nick (Giant) - animal tamer and works with fishing and animal husbandry. Disputes are brought to him and defends the village through strength and runecarving
+    
+    
+Five Sisters - Potion Maker
 
 ### Religion
 
@@ -66,6 +58,9 @@
     - no religion frowned upon (even evil ones)
     - Sammul only cermons about community, and the benefits of hardship of labor
     - Each day, something is tossed off the cliff into Jhed Wasteland as an offering 
+
+Sammul (Tortle) - religious leader, can cast Remove Curse
+ accepts all faiths (good/evil), and focuses on guiding people through their faith and crises
 
 ### Law
 
@@ -115,7 +110,11 @@ A unique agreement exists in Durenthal: whenever a resident dies or reaches the 
 
 The constant patrolling and laboring of these Volunteers contribute to the town's smooth functioning. However, it is obvious to any observer that a necromancer is present in the village, though their identity remains a mystery. The inhabitants understand that uncovering and eliminating the necromancer would be detrimental, as the undead workers kept underground would turn on the town. Thus, the necromancer's presence is tacitly accepted, and the town continues to run efficiently under this dark yet effective system.
 
-## Oravilla Village Three
+Necromancer (unknown) - controls undead, but lost in Jhed Wasteland
+Dhuran Three - Hill Dwarf(Bard), Mountain Dwarf(Wizard), Grey Dwarf(Sorcerer) decide what happens
+Fizwidget - gnome inventor, crafter of The Gliding Cloud. Attempting to craft a ship to endure Jhed Wasteland
+
+## Oravilla - Village Three
 
 **Food:** Plants, Wood (fungi)
 
@@ -128,6 +127,8 @@ The constant patrolling and laboring of these Volunteers contribute to the town'
 **Population:** Myconids, Kua-toa, Merfolk, Illithid
 
 **Oddities:**
+
+Nameless (Illithid and Elder Brain) - village leader
 
 - Entire village in a reef like structure
 - All within reef are vegitarian
