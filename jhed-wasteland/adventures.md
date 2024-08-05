@@ -150,20 +150,20 @@ A sudden halt causes the party to lurch forward; as they steady Don Vras calls b
 
 **Plots:**
 
-### Level Two
+## Level Two
 
 - Help town in trade for a "ship" to venture in Jhed Wasteland
 - Travel to adjacent towns
 
-### Level 3,4
+## Level 3,4
 
 - Attempt Jhed Wasteland and realize how futile it currently is
 
-### Level 6
+## Level 6
 
 - Should be able to finally attempt to venture deeper into Jhed Wasteland
 
-### Reveals
+## Reveals
 
 - One of the fallen kings is on the Jhed Continent
 - Dracolich that Kobolds or Village Two want to utilize

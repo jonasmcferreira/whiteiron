@@ -1,21 +1,5 @@
 # Encounters
 
-- [The Poison Merchant](#the-poison-merchant)
-  - [Outcome](#outcome)
-  - [Additional Notes](#additional-notes)
-  - [Shop Items](#shop-items)
-  - [Vez'yen, Reclusive Poison Merchant](#vezyen-reclusive-poison-merchant)
-- [Emeal "Snowfur" The Tax Man](#emeal-%22snowfur%22-the-tax-man)
-  - [Rakshasa](#rakshasa)
-  - [Companion - Eth "Snowcale"](#companion---eth-%22snowcale%22)
-  - [Brawl](#brawl)
-  - [If discovered](#if-discovered)
-  - [If hostile](#if-hostile)
-- [Snakes!](#snakes)
-  - [Battlefield](#battlefield)
-  - [Fight](#fight)
-  - [Loot/Lore](#lootlore)
-
 ## The Poison Merchant
 
 Vez'yen is a reclusive poison merchant found at the entrance of an abandoned mine. This encounter tests the party's resilience and wits through various challenges involving poison.

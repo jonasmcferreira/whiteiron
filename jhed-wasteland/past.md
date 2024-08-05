@@ -1,4 +1,4 @@
-# past Kings of Jhed
+# Past
 
 Kings whom have tried to conquer Jhed
 
