@@ -58,6 +58,12 @@ Recently Jhed has experienced a few powerful tectonic events, news that doesn't 
 - Blindspots to gods and devils - within the Wasteland, it seems higher entities simply don't see into the wasteland or even believe it exists.
 - A chaotic wilderness that doesn't make geological sense.
 
+### Warp Points
+
+To make Jhed the size of a continent and not just have players do 50 sessions of travelling in snow, there are key points that bring players from point A to point B. These will not be directly in towns and a guarded secret. So for example in Overland Travel: Netrus to Durenthal would be more accurately represented by, 2 days from Netrus to a Warp Point, and another 3 days from the Warp Point to Durenthal
+
+These Warp Points will be able to be modified to change where they go to as more is discovered about Jhed
+
 ### Overland Travel
 
 Travelling in Jhed is not done in straight lines, so distances are very relative. When travelling you must take into account that the terrain is unmappable, as it is contantly shifting with storms and the nature of ice, plus getting lost and back on track is a common occurrence and skill in Jhed.
