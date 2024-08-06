@@ -232,17 +232,53 @@ A sudden halt causes the party to lurch forward; as they steady Don Vras calls b
 
 ### Act 1: The Lost Volunteer
 
-1. **The Volunteer’s Arrival**:
-   - The party witnesses the arrival of a disoriented and partially damaged undead laborer in Netrus.
-   - The volunteer carries a cryptic note and a broken piece of equipment that hints at something important in Dhuren Tol.
+#### The Volunteer’s Arrival
 
-2. **Meeting the Leaders**:
-   - The party meets with Nick Ugris, the Hill Giant leader of Netrus, and Sammul, the Tortle Runepriest.
-   - They explain that the appearance of the volunteer indicates trouble in Dhuren Tol and ask the party to investigate.
+As the party goes about their business in the bustling village of Netrus, a sudden commotion draws their attention. Villagers gather, whispering and pointing, as a disoriented figure shuffles into view from the edge of the settlement. It’s an undead laborer, known locally as a "volunteer," but this one seems far from the efficient worker it should be.
 
-3. **Deciphering the Clues**:
-   - The party deciphers the note, which speaks of an urgent need for the Heart of Frost, a rare artifact needed to stabilize the undead workforce.
-   - The broken piece is identified as a part of an ice sled, used for traveling over the icy terrain.
+The volunteer's movements are erratic, its skeletal frame visibly damaged, with bones jutting out at odd angles and a missing arm. Its eyes, dull and lifeless, seem to flicker with a faint, unnatural light. A tattered cloak hangs loosely from its shoulders, fluttering in the cold wind as it stumbles towards the party.
+
+In its remaining hand, the volunteer clutches a crumpled piece of parchment and a peculiar, broken piece of equipment. The parchment, stained and torn, bears cryptic writing and symbols. The equipment, though damaged, still emits a faint aura of magic, hinting at its once important function.
+
+Nick Ugris, the towering Hill Giant leader of Netrus, approaches with a frown etched deeply into his weathered face. "This is not good," he mutters, more to himself than anyone else. Beside him, Sammul, the wise Tortle Runepriest, studies the volunteer with a mix of curiosity and concern.
+
+As the volunteer collapses to the ground, its head jerking spasmodically, Sammul carefully retrieves the note and the broken equipment. He looks up at the party, his eyes serious. "This volunteer is from Dhuren Tol. Something must be terribly wrong for it to end up here in such a state. We need to decipher these clues and find out what’s happening."
+
+Nick nods, his massive hand gently patting the volunteer’s bony shoulder. "You lot," he says, addressing the party, "seems like you’re just the right folks to get to the bottom of this. Let’s see what we can make of these clues and get you ready for the journey ahead."
+
+#### Deciphering the Clues
+
+The note clutched in the skeleton's hand is dirty with mud and coal dust, but no blood. On reading it, a common person will understand the urgent title and the rune, but everything else will look like arcane script, a little fuzzy and symbolic, rather than writing. The note reads:
+
+   - Text:
+     ```
+     Volunteers are going bonkers. Need the Frostfinder to fix The Frostrunner. 
+     Key: [symbol of a snowflake with a rune in the center]
+     P.S. Watch out for the trolls. They don’t like visitors.
+     ```
+Beside the text, a rough sketch of an ice sled is drawn, with a specific symbol that matches the rune on the broken equipment piece.
+
+The piece of equipment is a mechanical cog with an embedded rune. Despite its damaged state, it emits a faint, magical aura.
+
+**Investigation and Deciphering**:
+   - **Intelligence (Investigation) DC 12**: Recognize that the note is partially ciphered.
+   - **Wisdom (Perception) DC 10**: Notice the matching rune symbol on both the note and equipment piece.
+   - **Consulting Sammul**:
+     - Sammul can assist with the cipher.
+     - **Intelligence (Arcana) DC 15**: Sammul explains that the symbol is an old rune associated with navigation and frost magic.
+   - **Intelligence (History) DC 12**: Recognize references to ancient frost magic and artifacts used in Jhed.
+   - **Intelligence (Investigation) DC 15**: Fully decipher the message in the note.
+
+**Deciphered Message**:
+   - Indicates that the volunteers are malfunctioning and behaving erratically.
+   - Suggests seeking out the Frostfinder, a magical compass, necessary to navigate to Dhuren Tol and find The Frostrunner ice sled.
+
+**After Deciphering**:
+   - **Information**: The deciphered note clearly indicates that the volunteers are failing. The note suggests seeking out the Frostfinder to repair The Frostrunner ice sled.
+   - **Guidance**: The mention of the Frostfinder gives the party a clear objective. They learn that the Frostfinder can be found in a cave infested with ice trolls, led by Gragnar the Frostbite.
+   - **Next Steps**:
+     - The party knows they must secure the Frostfinder to navigate effectively and reach Dhuren Tol.
+     - The broken equipment piece is a part of The Frostrunner’s navigation system, highlighting the importance of repairing the sled for safe travel.
 
 ### Act 2: Securing the Ice Sled
 
