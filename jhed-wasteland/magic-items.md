@@ -2,6 +2,16 @@
 
 Aim for flavour not power
 
+## Crystal Rage
+
+**Wondrous Item:** Arcane Focus
+
+**Rarity:** Uncommon (requires attunement)
+
+A deep red crystal of pure rage. When concentrating on a spell any creatures of your choice within 30ft that are raging get +1 AC.   
+  
+If any creature actives their rage within 60ft, as a reaction may move 30ft towards that creature without triggering attacks of opportunity.
+
 ## Axe of the Burdened
 
 **Weapon:** Battleaxe
