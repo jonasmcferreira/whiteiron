@@ -333,17 +333,9 @@ The piece of equipment is a mechanical cog with an embedded rune. Despite its da
   - **Elder Rurik Stonebeard**: The head of the council, a wise and seasoned miner.
   - **Elder Thrain Gemcutter**: A master jeweler known for his intricate gem work.
   - **Elder Hilda Ironfist**: A formidable blacksmith and warrior who defends the village.
-- **The Necromancer**: Mordekai the Mad, an eccentric figure responsible for controlling the undead workforce in Dhuren Tol.
 - **Ice Troll Leader**: Gragnar the Frostbite, the menacing leader of the ice trolls in the cave.
 - **Kobold Leader**: Snivvik the Sly, the mischievous kobold who leads the band that stole the artifact.
-- **Artifact**: The Heart of Frost, a magical crystal crucial for maintaining control over the undead workforce.
 - **Ice Sled**: The Frostrunner, a specially designed sled for travel across the icy terrain of Jhed.
-
-### Comical Elements
-
-- The “volunteer” undead laborer is comically disoriented and clumsy, providing moments of light-heartedness.
-- Nick Ugris, despite his size and strength, has a gentle and humorous demeanor, often making light of serious situations.
-- Thoren Coldwind, the trader in Netrus, is eccentric and has amusing quirks, making the negotiation and subsequent favor entertaining.
 
 ## Level 3,4
 
