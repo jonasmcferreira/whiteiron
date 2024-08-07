@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jhed-wasteland/adventures.md",
+                "file": "jhed-wasteland/npcs-and-factions.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "jhed-wasteland/adventures.md",
+            "file": "jhed-wasteland/npcs-and-factions.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "jhed-wasteland/adventures.md",
+            "file": "jhed-wasteland/npcs-and-factions.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "jhed-wasteland/adventures.md"
+            "file": "jhed-wasteland/npcs-and-factions.md"
           }
         }
       }
@@ -133,8 +133,10 @@
   },
   "active": "a7f05ecdc546eb2c",
   "lastOpenFiles": [
-    "jhed-wasteland/magic-items.md",
+    "jhed-wasteland/four-villages.md",
+    "jhed-wasteland/encounters.md",
     "jhed-wasteland/adventures.md",
+    "jhed-wasteland/magic-items.md",
     "jhed-wasteland/npcs-and-factions.md",
     "jhed-wasteland/thieves_key.md",
     "jhed-wasteland/weather.md",
@@ -147,8 +149,6 @@
     "jhed-wasteland/monter-types.md",
     "jhed-wasteland/mechanics.md",
     "jhed-wasteland/Map2 (copy).jpg",
-    "jhed-wasteland/four-villages.md",
-    "jhed-wasteland/encounters.md",
     "test.md",
     "README.md",
     "jhed-wasteland/images/jhed-towns.jpg"

@@ -10,7 +10,7 @@
 One way to make NPCs important is to limit overlapping function. If an NPC has a unique ability, is killed or captured, this service is not available in Jhed until the problem is resolved
 
 
-## Netrus - Village One
+## Netrus
 
 ### Founding Reasons
 
@@ -85,7 +85,7 @@ Sammul (Tortle) - religious leader, can cast Remove Curse
     - Securing the trade route to the Keys is the best way to expand the population of Jhed while sending out valuable items to begin a gold rush
     - If the village expands it won't all be under the effects of the charm, and Nick won't have enough power to control through force. This will limit potion supply but increase options
 
-## Dhuren Tol - Village Two
+## Dhuren Tol
 
 **Why Founded:** Stone
 
@@ -114,7 +114,7 @@ Necromancer (unknown) - controls undead, but lost in Jhed Wasteland
 Dhuran Three - Hill Dwarf(Bard), Mountain Dwarf(Wizard), Grey Dwarf(Sorcerer) decide what happens
 Fizwidget - gnome inventor, crafter of The Gliding Cloud. Attempting to craft a ship to endure Jhed Wasteland
 
-## Oravilla - Village Three
+## Oravilla
 
 **Food:** Plants, Wood (fungi)
 
@@ -136,7 +136,7 @@ Nameless (Illithid and Elder Brain) - village leader
 - panama canal
 - can be turned into a functional sea port
 
-## Seat of Jhed - Village four
+## Seat of Jhed
 
 - There would be a noble of Jhed in village four. Collecting limited taxes, diplomacy, and the most knowledgable resource of Jhed Wastelands
 
