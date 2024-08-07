@@ -11,7 +11,7 @@ Encounters with purpose - encounters should:
     - Reinforce plot
     - Add intrigue
 
-## Lvl One, Journey To Netrus
+## Introduction: Journey To Netrus (lvl 1)
 
 Goals.
 
@@ -32,13 +32,13 @@ The quest? delivering a package to the edge of the world at a time supply routes
 
 Crates locked (DC 13), small package locked (DC 16)
 
-### Encounter 1: Ice Wall
+### Encounter: Ice Wall
 
 Correct to Don Vras' word, the tunnels navigate easily with each splitting direction boarded up, yet light tremors are felt through these caverns. Upon the first rest, the party awakens to a spirit, featureless sitting with them at camp that fades when looked at. 
 
 Boarded Walls - boarded walls are marked with Thieves cant, a rogue investigating can be told the result of the roll before destroying the blockade
 
-The cavern opens up and seems to have sheered the path, causing a 30ft cliff of jagged ice. Ontop a Kobold can be seen for a brief moment (3 total), before they run off (towards the UnderRoc Bridge) with no intention of hindering the party.
+The cavern opens up and seems to have sheered the path, causing a 25ft cliff of jagged ice. Ontop a Kobold can be seen for a brief moment (3 total), before they run off (towards the UnderRoc Bridge) with no intention of hindering the party.
 
 Climbing the Ice Wall 
 
@@ -48,7 +48,9 @@ Athletics Check DC 13, with some assistance (climbing gear, rope)
 
 1d6 bludgeoning damage from fall on failed check, 2d6 bludgeoning damage if failed by 10 or more (3) 
 
-Another Route: Boarded Pathways
+### Encounter: Another Route One
+
+Boarded Walls - boarded walls are marked with Thieves cant, a rogue investigating can be told the result of the roll before destroying the blockade
 
 |D6|Behind Wall|
 |----|-------|
@@ -64,27 +66,37 @@ Another Route: Boarded Pathways
 3. A corpse slumped to the ground wearing scraps (Zombie): Party is surprised if move towards
 4. Lone Kobold, flees upwards through a small tunnel they are just scouting
 5. Path splits to two, each path is a new D6 and can split again
-6. Couple hours down path, Shortcut Puzzle
+6. Couple hours down path, Shortcut Puzzle. If the party has already found this, replace it with "Cold" result
 
-Shortcut Puzzle 
+### Encounter: Shortcut
 
-Closed Triangular stone door with arcane symbols of fire
+The path ends in abandoned excavated ruins of a small room. Rubble and stone strewn about, but an intricate triangular closed door, about 9ft tall. There is no consistent pattern upon the frame or door, but stone brazier carved into it.
 
-Cantrip lights up sigils
+Casting a cantrip within 30ft of the door causes it the fail but the door glow as the casters feels the energy of the spell drawn to it. Brandishing a magic item will have a similar effect but not remove the magical properties of the item
 
-Expending spell slot opens door
+Arcana Check DC10: Door is shut through a magical mechanism
 
-Small Box with ash, burning spell scroll or Potion in there opens door
+Arcana Check DC16: There is an old arcane symbol for fire upon the brazier
 
+History Check DC13: The stonework resembles that found within the Council Five Kings
 
+Investigation DC7: ash and soot marks on the wall, floor and ceiling
 
-Forced Open, Strength Check DC19 
+Investigation DC10: burn parchment pieces, and broken glass in the brazier
 
-Pick Lock, Thieves Tools Check DC19
+Investigation DC16: Loose bricks hiding a parchment scroll (Fog Cloud)
 
-if opened by force or pick: Intelligence Save DC13, 1d6 psycic damage on a failed save 
+Solutions:
 
-One way door, once moved through the way if the character turns around, will only see a wall
+Burning a spell scroll or healing potion in the brazier. expending a spell slot, or casting a leveled spell will open the door
+
+Athletics Check DC19: force the door open
+
+Thieves Tools Check DC19: halt the magical locking mechanism
+
+If opened by force or pick: All creatures within 30ft of the door Intelligence Save DC13, 1d6 psycic damage on a failed save 
+
+With a plume of red smoke the arcane lock is opened and the door will remain open for 1 hour (even if forced open). Once any creature passes through the doorway, they do not see it if they turn around as the door teleports the creature to a set location
 
 ### UnderRoc Bridge Part 1: First Tower
 
@@ -142,7 +154,7 @@ A sudden halt causes the party to lurch forward; as they steady Don Vras calls b
     if a Kobold acts in turn order or party is loud, the tower Kobolds are alert
     keep initiative order of party chases
     
-**Another Route:**
+**Another Route Two:**
     Investigation Check High (Autopass if Thieves Cant): a tunnel enough to crawl and move crates seems to snake its way near the bridge but it is not large enough for the caravan or rams. Proceed to Underpass
 
 **Entrance Tower** 3 Kobolds (+Entrance Bridge) - hidden
@@ -182,6 +194,19 @@ A sudden halt causes the party to lurch forward; as they steady Don Vras calls b
 **Loot**
 
     Note#1: The commander has kept himself locked in his quarter for weeks, there is a lot of noise but we can't get in, we have sent for aid
+
+### Encounter: Underpass
+
+Squeezing through a tight corridor leads underneath the UnderRoc bridge revealing a hidden yet very intentional passage through the middle that can be crawled through. The stonework can be almost too clean
+  
+Investigation Check DC13: The stonework seems to be washed by acid
+
+Grey Ooze: moving along the corridor is a grey ooze, a still oil slick patch of wet stone and will attack when the party crosses. 
+
+Attack the highest hitpoint target as the ooze 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack the who is leading the party
+  
+
+
 
 ### A Bounty
 
