@@ -135,3 +135,18 @@ Animal Handling 7: to prevent second wave of same encounter
 
 Investigation 7: broken eggshells around bodies, most likely food for babies
 Investigation 13: A simple silver ring with a boot emblem (ring of jumping)
+
+
+### Scroll Burners (will flesh out)
+
+Random Encounters that punish hoarding will encourage adventurers to use what they have and function as a trigger to remind people what they have
+
+A spirit of a pyromancer tasked to set fire to those hoarding arcane scrolls. Their only acceptable locations being designated mage towers. A ghost that is kind and maybe willing to trade information to take the scrolls but will not be refused her orders. Drawn to the locked magical abilities suffused to paper it tugs at her remaining essence.
+
+She warns the party that if she is defeated her master will find them
+
+4 Ghosts
+
+First Appears when party has 3 scrolls
+
+Posesses party member and burns all their scrolls at 6
