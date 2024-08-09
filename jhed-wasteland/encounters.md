@@ -150,3 +150,16 @@ She warns the party that if she is defeated her master will find them
 First Appears when party has 3 scrolls
 
 Posesses party member and burns all their scrolls at 6
+
+
+## Tower Coil
+
+Concept: Straight forward mad dash to the center. Should be difficult without any preperations, but through buffs, resistances or overleveling, or speed boosts the tower is accessible
+
+1,200ft radius crater with a tower in the middle. Functions as a flat and featureless snowdrift with just a 10ft cliff around. Lightning is arcing throughout the crater
+
+When any creature moves into the 1,200ft radius crater roll initiative. The tower will make 3 spell attacks against the party (not needing line of sight) with a +7 to hit dealing 1d12 Lightning Damage on a hit. It will target 3 seperate targets and cannot strike the same target multiple times.
+
+Within the tower you can reset the tower to avoid targets Arcana Check: DC 16
+
+This could be used as a power source for a village
