@@ -2,6 +2,16 @@
 
 Aim for flavour not power
 
+## Locked Lockbox
+
+**Wondrous Item:** Box
+
+**Rarity:** Legendary
+
+Once per long rest you can attempt to open the lock for a reward and a smaller box inside. Each success increases the DC for the next reward.
+  
+DC 10,16,22,28,34,40,46,52 
+
 ## Crystal Rage
 
 **Wondrous Item:** Arcane Focus
