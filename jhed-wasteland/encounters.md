@@ -227,3 +227,31 @@ The key is to keep the "bad luck" elements subtle and interwoven with the narrat
 **Actions**
 
 **Bite:** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 2) piercing damage.
+
+## The pointers
+
+As the party treks through the harsh and desolate landscape towards Dhuren Tol, they suddenly spot two figures in the distance. As they draw closer, they realize the figures are, in fact, two skeletal"volunteers"—the animated remains of former inhabitants of the wasteland. These undead, unlike the hostile ones the party may have encountered before, seem oddly non-threatening, standing side by side, rhythmically waving their bony arms and pointing in a single direction.
+
+The two volunteers stand about 50 feet apart on either side of the path. Every few seconds, they lift their arms, point emphatically in the direction of Dhuren Tol, then lower their arms again—only to repeat the motion, over and over again, as if caught in an endless loop. They don't speak or make any other movements, just the same eerie, mechanical pointing.
+
+From a distance, this scene looks almost comical—two skeletons, like bizarre tour guides, endlessly gesturing toward the path ahead. However, their stiff, repetitive actions and the fact that they’re clearly undead add an unsettling, creepy vibe to the encounter.
+
+The party faces a dilemma: The skeletons are clearly undead, and in most cases, undead are enemies. However, these volunteers are acting more like harmless automatons, just pointing the way. The party must decide:
+- Do they follow the direction the volunteers are pointing?
+- Do they interact with the skeletons, possibly breaking their endless loop?
+- Or do they destroy the undead, assuming they might be a trap or just an abomination?
+
+### Investigating the Volunteers
+
+- **Perception Check DC 14:** The skeletons are making no hostile movements, and their actions seem harmless, albeit strange.
+- **Arcana Check DC 14:** The volunteers appear to be under a simple, rudimentary form of necromancy, likely left to perform this task indefinitely. The magic isn’t malevolent—more like a programmed behavior.
+- **Insight Check DC 16:** There’s no malice in their movements, but something about their endless task feels pitiful, as though they were once given a purpose and now know nothing else.
+
+### Possible Outcomes
+
+- **Following the Direction:** If the party follows the direction the volunteers are pointing, they’ll find that the path indeed leads toward Dhuren Tol. However, the path is also filled with natural obstacles—treacherous ice, deep snow drifts, etc. The skeletons seem to be directing them towards the safest route, but it’s still not without challenges. If the party follows the skeletons or lets them lead the way, the volunteers will occasionally stop, look back at the party, and give a thumbs-up before continuing to point ahead. Detract 1d4 days travel to Dhuren Tol.
+
+- **Attempt to Communicate (Charisma Check DC 14):** The skeletons might briefly stop their pointing and respond in broken phrases like, “This way... follow... us,” but then they return to their endless pointing. If asked to guide the party, the skeletons will start walking ahead of the group, continuing to point the way but still in a mechanical, repetitive manner.
+- **Dispelling the Magic (Dispel Magic or similar effect):** If the party dispels the magic animating the skeletons, they’ll crumble into piles of bones, their task finally ended. However, this also means the party loses the guidance and must find their own way through the wasteland.
+
+- **Destroying the Skeletons:** If the party chooses to destroy the volunteers, they will find that the skeletons make no attempt to defend themselves. After being destroyed, the remain stay to be consumed by Jhed
