@@ -137,13 +137,25 @@ Fizwidget - gnome inventor, crafter of The Gliding Cloud. Attempting to craft a 
 
 **Oddities:**
 
-Nameless (Illithid and Elder Brain) - village leader
+Nameless (Illithid) - village leader
 
 - Entire village in a reef like structure
 - All within reef are vegitarian
 - everything is under the effect of faerie fire
 - panama canal
 - can be turned into a functional sea port
+
+### Nameless
+
+## NPCs - Population 50
+
+### Nameless, Sage of Oravilla
+
+**Stats**: Illithid, **Language**: Deep Speech **Goal**: Grow psionic connection, **Weakness**: needs to eat brains
+
+Severed connection from the elder brain and connected to something greater, wants to join everyone into the bliss of psionic paradise
+
+**Revelation**: Elder Brain is in a statis, and if the madness is removed from Illithid, it will find and awaken it
 
 ## Seat of Jhed
 
