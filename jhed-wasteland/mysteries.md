@@ -30,6 +30,10 @@ The failures of the Kings of Jhed are all uncollected burials. These kings were 
 
 There is a primal arcane crafting ability in some areas of Jhed that the Council Five wanted to use and left some basic instructions for. It is not safe, but Jhed is for the risk takers
 
+### Traveling Warp
+
+There are doorways to fast travel through Jhed, how to use them, where they are, where they go and who left them
+
 ### Design Purpose
 
 - Cold-blooded creatures should make this environment feel odd and stand out from a typical arctic setting.
