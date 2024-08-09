@@ -27,6 +27,8 @@ Shelter in place represents the party taking a short rest (8 hours), and waiting
 
 Weather in Jhed can be calm, stormy, Calm Arcane, stormy arcane. you add 20 to each layer as you roll on the table, or you can just roll a d100
 
+Weather should cap at DC16, new exhaustion is rough
+
 ### Weather die
 
 Depdning on the severity of the weathern you roll a different weather die and then you add the modifier for each corresponding weather Category.
@@ -35,136 +37,136 @@ Easy Weather - roll 1d4 and add the category modifier, for e.g., for Easy Stormy
 Medium Weather - roll 1d10  and add the category modifier, for e.g., for Medium Stormy Arcane weather roll 1d10+60.
 Hard Weather - rolld 1d20 and add the category modifier, for e.g., for Hard Calm weather, roll 1d20.
 
-### Calm (1-20)
+### Calm D20 (1-20)
 
 - Roll the Weather die  when traveling in Calm Weather.
 - Roll 1d4 if a party waits for ideal conditions.
 
-### Typical (+20) (21-40)
+### Typical D20 +20 (21-40)
 
 - Roll the Weather die +20 when traveling in Stormy Weather.
 - Roll 2d20 for random weather on Jhed Continent.
 
-### Rough (+40) (41-60)
+### Rough D20 +40 (41-60)
 
 - Roll the Weather die +40 when traveling through arcane torrents.
 - Roll 3d20 when traveling through Jhed Wasteland Coastline.
 - Roll 1d4 for beneficial effects.
 
-### Stormy +60 (61-80)
+### Stormy D20 +60 (61-80)
 
 - Roll the Weather die +60 when traveling in unstable weather.
 - Roll 4d20 when traveling through Jhed Wasteland.
 
-## Deadly +80 (81-100)
+## Deadly D20 +80 (81-100)
 
 - Brainstorming to complete table roughly
 
 ## Weather
 
-| d100 | Category  | Effect                 | Time    | Save | DC E/S |
-|------|-----------|------------------------|---------|------|--------|
-| 01   | Calm      | Shifting Stars         | Night   |      |        |
-| 02   | Calm      | Clear skies            | Day     |      |        |
-| 03   | Calm      | Distant snowfall       | Dusk    |      |        |
-| 04   | Calm      | Mild breeze            | Dawn    |      |        |
-| 05   | Calm      | Light Snow             | Night   |      |        |
-| 06   | Calm      | Light Snow             | Day     |      |        |
-| 07   | Calm      | Light Snow             | Dusk    |      |        |
-| 08   | Calm      | Light Snow             | Dawn    |      |        |
-| 09   | Calm      | Cold Winds             | Night   |      |        |
-| 10   | Calm      | Cold Winds             | Day     |      |        |
-| 11   | Calm      | Cold Winds             | Dusk    |      |        |
-| 12   | Calm      | Cold Winds             | Dawn    |      |        |
-| 13   | Calm      | Tremors                | Night   |      |        |
-| 14   | Calm      | Tremors                | Day     |      |        |
-| 15   | Calm      | Tremors                | Dusk    |      |        |
-| 16   | Calm      | Tremors                | Dawn    |      |        |
-| 16   | Calm      | Tremors                | Dawn    |      |        |
-| 17   | Calm      | Arcane Snow            | Night   |      |        |
-| 18   | Calm      | Arcane Snow            | Day     |      |        |
-| 19   | Calm      | Arcane Snow            | Dusk    |      |        |
-| 20   | Calm      | Arcane Snow            | Dawn    |      |        |
-| 21   | Typical   | Hail                   | Night   | Con  | 10/-   |
-| 22   | Typical   | Hail                   | Day     | Con  | 10/-   |
-| 23   | Typical   | Hail                   | Dusk    | Con  | 10/-   |
-| 24   | Typical   | Hail                   | Dawn    | Con  | 10/-   |
-| 25   | Typical   | Cold                   | Night   | Con  | 13/7   |
-| 26   | Typical   | Cold                   | Day     | Con  | 13/7   |
-| 27   | Typical   | Cold                   | Dusk    | Con  | 13/7   |
-| 28   | Typical   | Cold                   | Dawn    | Con  | 13/7   |
-| 29   | Typical   | Fog                    | Night   |      |        |
-| 30   | Typical   | Fog                    | Day     |      |        |
-| 31   | Typical   | Fog                    | Dusk    |      |        |
-| 32   | Typical   | Fog                    | Dawn    |      |        |
-| 33   | Typical   | Thunder                | Night   | Con  | 13/10  |
-| 34   | Typical   | Thunder                | Day     | Con  | 13/10  |
-| 35   | Typical   | Thunder                | Dusk    | Con  | 13/10  |
-| 36   | Typical   | Thunder                | Dawn    | Con  | 13/10  |
-| 37   | Typical   | Arcane Lock            | Night   |      |        |
-| 38   | Typical   | Arcane Lock            | Day     |      |        |
-| 39   | Typical   | Arcane Lock            | Dusk    |      |        |
-| 40   | Typical   | Arcane Lock            | Dawn    |      |        |
-| 41   | Arcane    | Attunements to beasts  | Day     |      |        |
-| 42   | Arcane    | Graceful winds         | Morning |      |        |
-| 43   | Arcane    | Blessed snow           | Night   |      |        |
-| 44   | Arcane    | Disguising fog         | Morning |      |        |
-| 45   | Arcane    | Enlarging boom         | Day     |      |        |
-| 46   | Arcane    | Reducing boom          | Night   |      |        |
-| 47   | Arcane    | Snows of truth         | Night   |      |        |
-| 48   | Arcane    | Winds of lies          | Night   |      |        |
-| 49   | Arcane    | Haste                  | Day     |      |        |
-| 50   | Arcane    | Slow                   | Day     |      |        |
-| 51   | Arcane    | Bane                   | Night   |      |        |
-| 52   | Arcane    | Darkness               | Night   |      |        |
-| 53   | Arcane    | Web                    | Night   |      |        |
-| 54   | Arcane    | Clarity                | Morning |      |        |
-| 55   | Arcane    | Low gravity            | Day     |      |        |
-| 56   | Arcane    | Gravity lift           | Morning |      |        |
-| 57   | Arcane    | Invisibility           | Night   |      |        |
-| 58   | Arcane    | Fly                    | Day     |      |        |
-| 59   | Arcane    | Locked                 | Night   |      |        |
-| 60   | Arcane    | Servants               | Day     |      |        |
-| 61   | Unstable  | Exploding hail         | Night   |      |        |
-| 62   | Unstable  | Glacial heatwave       | Day     |      |        |
-| 63   | Unstable  | Ward of friendship     | Morning |      |        |
-| 64   | Unstable  | Binding ice            | Night   |      |        |
-| 65   | Unstable  | Blazing sleet          | Day     |      |        |
-| 66   | Unstable  | Ice storm              | Night   |      |        |
-| 67   | Unstable  | Wild magic surges      | Day     |      |        |
-| 68   | Unstable  | Undead winds           | Night   |      |        |
-| 69   | Unstable  | Radiant rays           | Day     |      |        |
-| 70   | Unstable  | Anti magic             | Night   |      |        |
-| 71   | Unstable  | Gaseous form           | Day     |      |        |
-| 72   | Unstable  | A height of madness    | Night   |      |        |
-| 73   | Unstable  | Purple snow            | Day     |      |        |
-| 74   | Unstable  | Lost in time           | Night   |      |        |
-| 75   | Unstable  | Acid rain              | Night   |      |        |
-| 76   | Unstable  | Weakness               | Night   |      |        |
-| 77   | Unstable  | Speak with plants      | Day     |      |        |
-| 78   | Unstable  | Wind walk              | Day     |      |        |
-| 79   | Unstable  | Snow meteors           | Night   |      |        |
-| 80   | Unstable  | Agathy's               | Night   |      |        |
-| 81   | Encounter | Polymorph              | Day     |      |        |
-| 82   | Encounter | Unstable teleportation | Night   |      |        |
-| 83   | Encounter | Illusionary terrain    | Day     |      |        |
-| 84   | Encounter | Encased in ice         | Night   |      |        |
-| 85   | Encounter | Crystal                | Night   |      |        |
-| 86   | Encounter | Mercurial rain         | Night   |      |        |
-| 87   | Encounter | Blood snow             | Night   |      |        |
-| 88   | Encounter | Ruined storm           | Night   |      |        |
-| 89   | Encounter | Voices of Jhed         | Night   |      |        |
-| 90   | Encounter | Protection             | Night   |      |        |
-| 91   | Encounter | Geas                   | Night   |      |        |
-| 92   | Encounter | Spoilage               | Night   |      |        |
-| 93   | Encounter | Desert sand            | Day     |      |        |
-| 94   | Encounter | Time skip              | Night   |      |        |
-| 95   | Encounter | Air of death           | Night   |      |        |
-| 96   | Encounter | Close to death         | Night   |      |        |
-| 97   | Encounter | Midas Touch            | Night   |      |        |
-| 98   | Encounter | Ethereal               | Night   |      |        |
-| 99   | Encounter | Oozes                  | Night   |      |        |
-| 100  | Encounter | Roll on table twice    | Night   |      |        |
+| d100 | Category | Effect                 | Time    | Save | DC E/S/C |
+|------|----------|------------------------|---------|------|----------|
+| 01   | Calm     | Shifting Stars         | Night   |      |          |
+| 02   | Calm     | Clear skies            | Day     |      |          |
+| 03   | Calm     | Distant snowfall       | Dusk    |      |          |
+| 04   | Calm     | Mild breeze            | Dawn    |      |          |
+| 05   | Calm     | Light Snow             | Night   |      |          |
+| 06   | Calm     | Light Snow             | Day     |      |          |
+| 07   | Calm     | Light Snow             | Dusk    |      |          |
+| 08   | Calm     | Light Snow             | Dawn    |      |          |
+| 09   | Calm     | Cold Winds             | Night   |      |          |
+| 10   | Calm     | Cold Winds             | Day     |      |          |
+| 11   | Calm     | Cold Winds             | Dusk    |      |          |
+| 12   | Calm     | Cold Winds             | Dawn    |      |          |
+| 13   | Calm     | Tremors                | Night   |      |          |
+| 14   | Calm     | Tremors                | Day     |      |          |
+| 15   | Calm     | Tremors                | Dusk    |      |          |
+| 16   | Calm     | Tremors                | Dawn    |      |          |
+| 16   | Calm     | Tremors                | Dawn    |      |          |
+| 17   | Calm     | Arcane Snow            | Night   |      |          |
+| 18   | Calm     | Arcane Snow            | Day     |      |          |
+| 19   | Calm     | Arcane Snow            | Dusk    |      |          |
+| 20   | Calm     | Arcane Snow            | Dawn    |      |          |
+| 21   | Typical  | Hail                   | Night   | Con  | 10/-     |
+| 22   | Typical  | Hail                   | Day     | Con  | 10/-     |
+| 23   | Typical  | Hail                   | Dusk    | Con  | 10/-     |
+| 24   | Typical  | Hail                   | Dawn    | Con  | 10/-     |
+| 25   | Typical  | Cold                   | Night   | Con  | 13/7     |
+| 26   | Typical  | Cold                   | Day     | Con  | 13/7     |
+| 27   | Typical  | Cold                   | Dusk    | Con  | 13/7     |
+| 28   | Typical  | Cold                   | Dawn    | Con  | 13/7     |
+| 29   | Typical  | Fog                    | Night   |      |          |
+| 30   | Typical  | Fog                    | Day     |      |          |
+| 31   | Typical  | Fog                    | Dusk    |      |          |
+| 32   | Typical  | Fog                    | Dawn    |      |          |
+| 33   | Typical  | Thunder                | Night   | Con  | 13/10    |
+| 34   | Typical  | Thunder                | Day     | Con  | 13/10    |
+| 35   | Typical  | Thunder                | Dusk    | Con  | 13/10    |
+| 36   | Typical  | Thunder                | Dawn    | Con  | 13/10    |
+| 37   | Typical  | Arcane Lock            | Night   |      |          |
+| 38   | Typical  | Arcane Lock            | Day     |      |          |
+| 39   | Typical  | Arcane Lock            | Dusk    |      |          |
+| 40   | Typical  | Arcane Lock            | Dawn    |      |          |
+| 41   | Rough    | Blizzard               | Night   | Str  | 16/10    |
+| 42   | Rough    | Blizzard               | Day     | Str  | 16/10    |
+| 43   | Rough    | Blizzard               | Dusk    | Str  | 16/10    |
+| 44   | Rough    | Blizzard               | Dawn    | Str  | 16/10    |
+| 45   | Rough    | Lightning              | Night   | Str  | 13/7     |
+| 46   | Rough    | Lightning              | Day     | Str  | 13/7     |
+| 47   | Rough    | Lightning              | Dusk    | Str  | 13/7     |
+| 48   | Rough    | Lightning              | Dawn    | Str  | 13/7     |
+| 49   | Rough    | Haunting Whispers      | Night   | Wis  | 13/10    |
+| 50   | Rough    | Haunting Whispers      | Day     | Wis  | 13/10    |
+| 51   | Rough    | Haunting Whispers      | Dusk    | Wis  | 13/10    |
+| 52   | Rough    | Haunting Whispers      | Dawn    | Wis  | 13/10    |
+| 53   | Rough    | Still Silence          | Night   |      |          |
+| 54   | Rough    | Still Silence          | Day     |      |          |
+| 55   | Rough    | Still Silence          | Dusk    |      |          |
+| 56   | Rough    | Still Silence          | Dawn    |      |          |
+| 57   | Rough    | Snow Glyphs            | Night   | Int  | 13       |
+| 58   | Rough    | Snow Glyphs            | Day     | Int  | 13       |
+| 59   | Rough    | Snow Glyphs            | Dusk    | Int  | 13       |
+| 60   | Rough    | Snow Glyphs            | Dawn    | Int  | 13       |
+| 61   | Storm    | Exploding hail         | Night   |      |          |
+| 62   | Storm    | Glacial heatwave       | Day     |      |          |
+| 63   | Storm    | Ward of friendship     | Morning |      |          |
+| 64   | Storm    | Binding ice            | Night   |      |          |
+| 65   | Storm    | Blazing sleet          | Day     |      |          |
+| 66   | Storm    | Ice storm              | Night   |      |          |
+| 67   | Storm    | Wild magic surges      | Day     |      |          |
+| 68   | Storm    | Undead winds           | Night   |      |          |
+| 69   | Storm    | Radiant rays           | Day     |      |          |
+| 70   | Storm    | Anti magic             | Night   |      |          |
+| 71   | Storm    | Gaseous form           | Day     |      |          |
+| 72   | Storm    | A height of madness    | Night   |      |          |
+| 73   | Storm    | Purple snow            | Day     |      |          |
+| 74   | Storm    | Lost in time           | Night   |      |          |
+| 75   | Storm    | Acid rain              | Night   |      |          |
+| 76   | Storm    | Weakness               | Night   |      |          |
+| 77   | Storm    | Speak with plants      | Day     |      |          |
+| 78   | Storm    | Wind walk              | Day     |      |          |
+| 79   | Storm    | Snow meteors           | Night   |      |          |
+| 80   | Storm    | Agathy's               | Night   |      |          |
+| 81   | Wild     | Polymorph              | Day     |      |          |
+| 82   | Wild     | Unstable teleportation | Night   |      |          |
+| 83   | Wild     | Illusionary terrain    | Day     |      |          |
+| 84   | Wild     | Encased in ice         | Night   |      |          |
+| 85   | Wild     | Crystal                | Night   |      |          |
+| 86   | Wild     | Mercurial rain         | Night   |      |          |
+| 87   | Wild     | Blood snow             | Night   |      |          |
+| 88   | Wild     | Ruined storm           | Night   |      |          |
+| 89   | Wild     | Voices of Jhed         | Night   |      |          |
+| 90   | Wild     | Protection             | Night   |      |          |
+| 91   | Wild     | Geas                   | Night   |      |          |
+| 92   | Wild     | Spoilage               | Night   |      |          |
+| 93   | Wild     | Desert sand            | Day     |      |          |
+| 94   | Wild     | Time skip              | Night   |      |          |
+| 95   | Wild     | Air of death           | Night   |      |          |
+| 96   | Wild     | Close to death         | Night   |      |          |
+| 97   | Wild     | Midas Touch            | Night   |      |          |
+| 98   | Wild     | Ethereal               | Night   |      |          |
+| 99   | Wild     | Oozes                  | Night   |      |          |
+| 100  | Wild     | Roll on table twice    | Night   |      |          |
 
 
 
@@ -222,7 +224,26 @@ Hard Weather - rolld 1d20 and add the category modifier, for e.g., for Hard Calm
    
 37-40. **Arcane Lock**: Arcane energies lock all containers.
     All containers, backpacks, sacs, etc become under the effect of Arcane Lock for 8 hours
+    
+41-44. **Blizzard**: A tempest of wind and snow
+   Half Movement Speed, Lightly Obscure, Heavily Obscure past 60ft
+   - **Endure:** Strength Save (DC 16), on a failed save 2d6 Cold Damage and 1 point of exhaustion, half as much damage on a success and no other effects
+   - **Shelter:** Strength Save (DC 10), on a failed save 1d6 Cold Damage and 1 point of exhaustion, half as much damage on a success and no other effects
+   - **Combat:** Cannot concentrate on spells
+   
+45-48. **Lightning Strikes**: Pure destructive energy
+   - **Endure:** Dexterity Save Save (DC 13), on a failed save 3d12 Lightning Damage
+   - **Combat:** Start of turn, Dexterity Save (DC 7), on a failed save 1d4 Lightning Damage
 
+49-52. **Haunting Whispers**: Sounds of the past and future
+   - **Endure:** Wisdom Save (DC 13), on a failed save suffer a short-term madness
+   - **Shelter:** Wisdom Save (DC 10), on a failed save suffer a short-term madness
+
+53-56. **Still Silence**: The lands of Jhed are still, and snowflakes linger in the sky
+   No sound can be made, all characters are deafened, no verbal components work
+   
+57-60. **Snow Glyphs**: Large particular snow in the shape of arcane sigils
+   - **Endure:** Intelligence Save (DC 13), on a failed save 2d6 Necrotic Damage and become lost
 
 
 # Outdated (dont delete)
@@ -264,9 +285,7 @@ Hard Weather - rolld 1d20 and add the category modifier, for e.g., for Hard Calm
     - **Endure:** DC 13 Dexterity saving throw or take 4d10 lightning damage.
     - **Shelter:** 1d10 Lightning Damage on random target.
 
-30. **Maddening Howls**: The wind carries eerie, maddening howls that unsettle the mind.
-    - **Endure:** DC 15 Wisdom saving throw or suffer short-term madness.
-    - **Shelter:** No effect.
+
 
 31. **Tremors**: The ground shakes violently, threatening to topple anyone standing.
     - **Endure:** DC 10 Dexterity saving throw or fall prone.
