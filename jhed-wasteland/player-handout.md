@@ -72,12 +72,23 @@ While Raging 1d4 Force damage added to any attacks using a magic item
 
 
 lvl 10
+While raging add a number of d4s of force damage equal to your int modifier
+Whenever you take the magic action, you can immediatly attack once as part of that action
 
 lvl 14
+As a reaction harness the protection of magic, gain temp HP equal to Barbarian Level to up to 6 allies. You can use this ability a number of times equal to your int mod
+
+Learn one spell from any spell list up to lvl 5, it loses material and verbal components and concentration. You can cast this spell once per long rest
+
+### Bard, College of Drunks//Spectator
+Theme, sometimes the most charismatic person is always at the bar drinking too much
+Theme, GOOOOOOOOOOOOOOOOAAAAAAAAAAAAAALLLLLLLLLLLLLLLLLL, cheering the success of others
 
 ## Homebrew Spells
+shouldn't be damage spells
 
 ## Homebrew Class
 
 ## Homebrew Rules
+Suggested House Rules
 
