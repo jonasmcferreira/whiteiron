@@ -163,3 +163,67 @@ When any creature moves into the 1,200ft radius crater roll initiative. The towe
 Within the tower you can reset the tower to avoid targets Arcana Check: DC 16
 
 This could be used as a power source for a village
+
+## The Jinxed Hound
+
+### Setup
+While traveling through the desolate, snow-covered landscape of Jhed, the party stumbles upon a large, shaggy dog. The creature is slightly larger than a typical mastiff, with the appearance of a wolf but the demeanor of a loyal hunting dog. The dog’s fur is matted with ice and snow, and it looks thin and malnourished. Despite this, it wags its tail energetically as the party approaches, clearly seeking companionship.
+
+### Behavior
+The dog seems eager to help the party, offering companionship and even guiding them towards shelter or helping find food. However, after the dog joins the party, strange things start to happen.
+
+### Bad Luck Effects
+
+#### Increased Encounter Frequency
+The presence of the dog seems to draw trouble. Roll for random encounters more frequently while the dog is with the party. You can subtly increase the chances of encounters without explicitly stating it's due to the dog. For example, narrate how the dog’s barking might have attracted attention or how it unwittingly led the party into an ambush.
+
+#### Subtle Skill Check Failures
+Whenever a party member attempts a skill check, there’s a chance something goes wrong, even on a successful roll. For example:
+- If a character succeeds on a Stealth check, narrate how the dog’s tail knocks over a stack of rocks, making noise that could draw attention.
+- On a successful Survival check to find food, the dog might eagerly dig up the cache, ruining some of the supplies in its excitement.
+
+#### Mild Equipment Mishaps
+Describe minor issues with the party's equipment. A bowstring might snap, a waterskin could develop a leak, or a torch might inexplicably extinguish. These aren’t serious issues but can become annoyances that hinder the party over time.
+
+#### Misdirection
+The dog might lead the party in the wrong direction or misinterpret their commands, causing them to lose time or take a longer route. For example, while trying to guide them to shelter, the dog might bring them to an abandoned lair of some creature, leading to an unexpected encounter.
+
+#### Supernatural Misfortune
+Strange occurrences start happening when the dog is around. Weapons might inexplicably miss when they should have hit, or a successful attack might do minimum damage. These can be explained away as "bad rolls" but are, in fact, influenced by the dog’s presence. You could even drop subtle hints, like the dog’s shadow behaving oddly or its footprints occasionally disappearing.
+
+### Resolution
+
+The party might start to suspect the dog is the source of their misfortune, but the dog’s helpful nature makes it difficult to simply abandon it. If they decide to investigate, a **Wisdom (Insight) check DC 15** might reveal that the dog seems oddly out of place in the harsh environment and that its presence coincides with their increasing bad luck.
+
+If the party chooses to get rid of the dog (by leaving it behind, scaring it away, etc.), their luck gradually returns to normal. However, if they persist in keeping the dog, they might eventually uncover its true nature. The dog might be cursed or the embodiment of a trickster spirit, drawn to those who display kindness even in adversity.
+
+### Optional Twist
+
+The dog might be bound to the party until they perform a specific task or ritual to lift its curse. This could lead to a side quest where the party must seek out an ancient hermit or a forgotten shrine in Jhed to break the curse and free the dog and themselves from the bad luck.
+
+The key is to keep the "bad luck" elements subtle and interwoven with the narrative, making them feel like natural occurrences rather than direct penalties.
+
+### Jinxed Hound
+
+**Medium beast, unaligned**
+
+**Armor Class:** 12 (natural armor)  
+**Hit Points:** 22 (4d8 + 4)  
+**Speed:** 40 ft.
+
+| STR  | DEX  | CON  | INT  | WIS  | CHA  |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+| 14 (+2) | 14 (+2) | 12 (+1) | 3 (-4) | 12 (+1) | 6 (-2) |
+
+**Skills:** Perception +3, Stealth +4, Survival +3  
+**Senses:** Darkvision 60 ft., Passive Perception 13  
+**Languages:** Understands Common, but cannot speak  
+**Challenge:** 1/4 (50 XP)
+
+**Keen Hearing and Smell:** The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+**Pack Tactics:** The dog has advantage on an attack roll against a creature if at least one of the dog's allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+**Actions**
+
+**Bite:** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 2) piercing damage.
