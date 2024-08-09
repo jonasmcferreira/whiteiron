@@ -17,8 +17,10 @@ players should be warned general when building characters and making choices
     Shadow - ambush
     
     Banshee - Council Five?
+    Ghost - Scroll Burners
     
    **Dracolich** - a false vision for the Kobolds, and resource for Village Two
+   
     
     
 
@@ -63,6 +65,7 @@ players should be warned general when building characters and making choices
     Myconids - common around Oravilla village three
 ### Monstrosity
     Roc patrol of Northern Jhed forcing the need of smuggling tunnels
+    Hydra - Lizardfolk Worship
 ### Ooze
 
 
