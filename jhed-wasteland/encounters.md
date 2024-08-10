@@ -228,7 +228,7 @@ The key is to keep the "bad luck" elements subtle and interwoven with the narrat
 
 **Bite:** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 2) piercing damage.
 
-## The pointers
+## The pointing volunteers
 
 As the party treks through the harsh and desolate landscape towards Dhuren Tol, they suddenly spot two figures in the distance. As they draw closer, they realize the figures are, in fact, two skeletal"volunteers"—the animated remains of former inhabitants of the wasteland. These undead, unlike the hostile ones the party may have encountered before, seem oddly non-threatening, standing side by side, rhythmically waving their bony arms and pointing in a single direction.
 
