@@ -38,11 +38,17 @@ A skilled inventor sent to Jhed to create a framework for exploration
 
 A protigy of weather control accompanying Fizra to understand and harvest the powers of Jhed. But once both stopped responding the rest of the council took matters into their own hand. They would find only nonesense notes refering to "The Great Works"
 
-    - "Evs Subtletongue" Tiefling Sorcerer
-    - "Kren" Kobold Warlock
-    - "Saint" Asaamar Sorcerer
+### "Evs Subtletongue" Pitch Black Tiefling Teleporter
 
-    - after failed expiditions they journeyed themselves
+Frustrated by the two missing council members Evs lead the remaining three and within J'hed mastered the Teleportation Circle ability. This made the task seem plausable, but still failed in the end.
+
+### "Kren" Kobold Cultist 
+
+Kren seemed to surpass the age of most Kobolds and had a thirst for knowledge like no other. Though constantly reading ancient runes and glyphs trying to map this area, was the most Violent of the Council
+
+### "Saint" Assamar Spiritualist
+
+The veto power of the group with the ability to divine and scry for the best causes of action. Saint was rumoured to see into the future, making her demise that much more confusing
 
  **Revelation:** in the attempts of completing "The Great Works" it transformed them into an ooze
 
@@ -58,13 +64,29 @@ This is the dragon the Kobolds are drawn to
 
 ## The Twins Ivis and Aluna 52 years ago
 
+These twins were identical in visuals and used this to great effect. It wasn't until their downfall that most knew there was two of them. May be possible that the Kobolds new knowledge of traps and sources of their material come from those theiving caravans
+
+### "Ivis" Male Drow Assassin
+
+Master of Blade
+Master of Stealth
+
+Designed the Mega Dungeon for the assassin's smuggling route. This was based off the warp gates, they didn't build them but they used them and mapped them out
+
+### "Aluna" Female Drow Assassin
+
+Master of Poison
+Master of Disguise
+
+Aluna learned a way to make a great poison, but it would require a substantial amount of her own blood. Ivis blood was suitable, and so she restrained him and bled him. Eventually he broke free killing Aluna, but without having much left in him, he died as well.
+
     - an thieve empire finally taking control of the outer regions
     - successful for a time but eventually pushed out
     - last bastion of the Keys and Jhed Continent
     - remaining a smuggling ring in Jhed unable to be fully defeated
     - Then suddenly missing
 
-**Revelation:**
+**Revelation:** both of these are eligable for True ressurection
 
 
 ## First Ones - Oozes
