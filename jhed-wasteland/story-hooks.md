@@ -34,6 +34,12 @@
 - **Missing:** no known reason what happened to this guild, even if thieves were well known
 - **Safe:** lower level exploration
 
+## Rocs
+
+These giant hunting birds will give a reason not to fly and reason other empires haven't flown into Jhed. But these Rocs hunt in groups and are immensly powerful foes. Clearing a path will open flying travel to Jhed
+
+The Thieves Key is interested in controlling the Rocs not killing them. Their existence makes the area less desirable and harder to invade, but if they could command them, they would smuggle faster
+
 ## Netrus Plot Progressions (lvl)
 
 - **Missing Crew(2-4):** a skilled patrol from the North Western cliffwatch hasn't returned
