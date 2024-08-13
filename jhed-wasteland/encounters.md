@@ -255,3 +255,16 @@ The party faces a dilemma: The skeletons are clearly undead, and in most cases, 
 - **Dispelling the Magic (Dispel Magic or similar effect):** If the party dispels the magic animating the skeletons, they’ll crumble into piles of bones, their task finally ended. However, this also means the party loses the guidance and must find their own way through the wasteland.
 
 - **Destroying the Skeletons:** If the party chooses to destroy the volunteers, they will find that the skeletons make no attempt to defend themselves. After being destroyed, the remain stay to be consumed by Jhed
+
+## Animated Spells
+
+Incorperating how players can learn spells, rather than them just picking them, you can have them fight an entity that imbues their power into the caster
+
+The weather of Jhed even manifests the power of magic as an entity
+
+Stats: TBD
+Type Elemental
+
+Casts a spell of X per round. Example an arcane missle Animated Spell will simply cast a lvl 1 arcane missle each round.
+
+These elementals are not sentient but simply created in moments due to weather of Jhed. These could also be enslaved and they last until killed or weather changes
