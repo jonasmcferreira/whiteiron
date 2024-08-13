@@ -49,6 +49,14 @@ Recently Jhed has experienced a few powerful tectonic events, news that doesn't 
 - The continent is considered lower-level zones.
 - Ambitious kings have tried to conquer J'hed and beyond but have all failed.
 
+### J'hed Coast
+
+The coast can be considered the 1-2 day journey from the cliffs of the continent into J'hed. A very lucrative exploration but not the intensity of the rest
+
+### J'hed Bay
+
+J'hed forms a bay with cliffed landmass, and this region though extremely dangerous is protected compared to the Wasteland, there is a cliffed region in the center of the Bay 
+
 ### J'hed Wasteland
 
 - This is the "frozen ocean" of exploration and the source of a gold rush.
