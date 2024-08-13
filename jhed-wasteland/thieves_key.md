@@ -40,3 +40,12 @@ Outer Regions could attempt to take Thieves Key and make a heavily taxed port wi
 ## Shrink Conflict
 
 Thieves Key is vulnerable to revolt and total failure, this would increase the time it takes for goods to arrive in and out of Jhed. Also remove valuable leads to the Twin Kings Ivis and Iluna
+
+## The Docks
+
+Contrary to the tone of the town, Thieves Key has talented and elaborate dockworks. Given resources they can craft specialized tools to travel through Jhed. They specialize in quicker and stealthier crafts but are flexible to demand
+
+## Loyalists
+
+There are 5 loyalists of old Thieve Kings, if all five are killed, the village will die out, or fall under the influence of the outer empires
+
