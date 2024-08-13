@@ -2,6 +2,8 @@
 
 ## Cold Blooded Beasts
 
+Why so many Cold Blooded creatures
+
 ### Odd Inhabitants
 
 - Kobolds
@@ -14,6 +16,13 @@
 - Naga
 - Tortle
 
+### Dinosaurs
+
+- Lizardfolk want to tame dinosaurs for mounts
+- Kobolds see them as false dragons and eat them
+- Prized possession for traders
+- Only found in Jhed Wasteland
+
 ### Plot Hooks & Revelations
 
 - It should be made obvious that this isn't normal.
@@ -22,15 +31,31 @@
 - Yuan-ti pilgrimage to a great truth, but Naga prevent this.
 - Lizardfolk attempt to hunt and tame the Dinosaurs.
 
-### Kings of Jhed
+## Smugger's Route
+
+### Path to Jhed
+
+Simple route through smuggler's path, but does use a warpgate on the UnderRoc bridge
+
+### Last Location of Twin Kings of Jhed
+
+Treasure from the Twin Kings
+
+There is a mega dungeon that has the burial place of one of the Twin King Iris
+
+Information baout Twin Queen Aluna's burial
+
+Poison Crafting for the poison master
+
+## Kings of Jhed
 
 The failures of the Kings of Jhed are all uncollected burials. These kings were fighters with their own collection of powerful relics, some able to change the course of war and politics
 
-### Crafting
+## Crafting
 
 There is a primal arcane crafting ability in some areas of Jhed that the Council Five wanted to use and left some basic instructions for. It is not safe, but Jhed is for the risk takers
 
-### Traveling Warp
+## Traveling Warp
 
 There are doorways to fast travel through Jhed, how to use them, where they are, where they go and who left them
 
@@ -41,12 +66,9 @@ There are doorways to fast travel through Jhed, how to use them, where they are,
 - All the creatures are looking for something in the wasteland, which there are no records of existing.
 Rude the gas replication failed twice
 
-### Dinosaurs
+## Sphynx
 
-- Lizardfolk want to tame dinosaurs for mounts
-- Kobolds see them as false dragons and eat them
-- Prized possession for traders
-- Only found in Jhed Wasteland
+Sphynx needs to be guarding something important, and wants a crown from one of the kings of Jhed
 
 ### Default Monster Manual Fluff
 
@@ -60,3 +82,4 @@ Rude the gas replication failed twice
 
 - relics from before any known civilization
 - relates to madness, and gaining madness is required to interact with
+
