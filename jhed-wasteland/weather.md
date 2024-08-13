@@ -111,10 +111,10 @@ Hard Weather - rolld 1d20 and add the category modifier, for e.g., for Hard Calm
 | 42   | Rough    | Blizzard               | Day     | Str  | 16/10    |
 | 43   | Rough    | Blizzard               | Dusk    | Str  | 16/10    |
 | 44   | Rough    | Blizzard               | Dawn    | Str  | 16/10    |
-| 45   | Rough    | Lightning              | Night   | Str  | 13/7     |
-| 46   | Rough    | Lightning              | Day     | Str  | 13/7     |
-| 47   | Rough    | Lightning              | Dusk    | Str  | 13/7     |
-| 48   | Rough    | Lightning              | Dawn    | Str  | 13/7     |
+| 45   | Rough    | Lightning              | Night   | Dex  | 13/7     |
+| 46   | Rough    | Lightning              | Day     | Dex  | 13/7     |
+| 47   | Rough    | Lightning              | Dusk    | Dex  | 13/7     |
+| 48   | Rough    | Lightning              | Dawn    | Dex  | 13/7     |
 | 49   | Rough    | Haunting Whispers      | Night   | Wis  | 13/10    |
 | 50   | Rough    | Haunting Whispers      | Day     | Wis  | 13/10    |
 | 51   | Rough    | Haunting Whispers      | Dusk    | Wis  | 13/10    |
@@ -127,26 +127,26 @@ Hard Weather - rolld 1d20 and add the category modifier, for e.g., for Hard Calm
 | 58   | Rough    | Snow Glyphs            | Day     | Int  | 13       |
 | 59   | Rough    | Snow Glyphs            | Dusk    | Int  | 13       |
 | 60   | Rough    | Snow Glyphs            | Dawn    | Int  | 13       |
-| 61   | Storm    | Exploding hail         | Night   |      |          |
-| 62   | Storm    | Glacial heatwave       | Day     |      |          |
-| 63   | Storm    | Ward of friendship     | Morning |      |          |
-| 64   | Storm    | Binding ice            | Night   |      |          |
-| 65   | Storm    | Blazing sleet          | Day     |      |          |
-| 66   | Storm    | Ice storm              | Night   |      |          |
-| 67   | Storm    | Wild magic surges      | Day     |      |          |
-| 68   | Storm    | Undead winds           | Night   |      |          |
-| 69   | Storm    | Radiant rays           | Day     |      |          |
-| 70   | Storm    | Anti magic             | Night   |      |          |
-| 71   | Storm    | Gaseous form           | Day     |      |          |
-| 72   | Storm    | A height of madness    | Night   |      |          |
-| 73   | Storm    | Purple snow            | Day     |      |          |
-| 74   | Storm    | Lost in time           | Night   |      |          |
-| 75   | Storm    | Acid rain              | Night   |      |          |
-| 76   | Storm    | Weakness               | Night   |      |          |
-| 77   | Storm    | Speak with plants      | Day     |      |          |
-| 78   | Storm    | Wind walk              | Day     |      |          |
-| 79   | Storm    | Snow meteors           | Night   |      |          |
-| 80   | Storm    | Agathy's               | Night   |      |          |
+| 61   | Storm    | Glass Hail             | Night   | Dex  | 13       |
+| 62   | Storm    | Glass Hail             | Day     | Dex  | 13       |
+| 63   | Storm    | Glass Hail             | Morning | Dex  | 13       |
+| 64   | Storm    | Glass Hail             | Night   | Dex  | 13       |
+| 65   | Storm    | Deafening Winds        | Day     | Surv | 19       |
+| 66   | Storm    | Deafening Winds        | Night   | Surv | 19       |
+| 67   | Storm    | Deafening Winds        | Day     | Surv | 19       |
+| 68   | Storm    | Deafening Winds        | Night   | Surv | 19       |
+| 69   | Storm    | Intensity              | Day     | Str  | 16/10    |
+| 70   | Storm    | Intensity              | Night   | Str  | 16/10    |
+| 71   | Storm    | Intensity              | Day     | Str  | 16/10    |
+| 72   | Storm    | Intensity              | Night   | Str  | 16/10    |
+| 73   | Storm    | Memories               | Day     | Cha  | 16       |
+| 74   | Storm    | Memories               | Night   | Cha  | 16       |
+| 75   | Storm    | Memories               | Night   | Cha  | 16       |
+| 76   | Storm    | Memories               | Night   | Cha  | 16       |
+| 77   | Storm    | Acid Rain              | Day     |      |          |
+| 78   | Storm    | Acid Rain              | Day     |      |          |
+| 79   | Storm    | Acid Rain              | Night   |      |          |
+| 80   | Storm    | Acid Rain              | Night   |      |          |
 | 81   | Wild     | Polymorph              | Day     |      |          |
 | 82   | Wild     | Unstable teleportation | Night   |      |          |
 | 83   | Wild     | Illusionary terrain    | Day     |      |          |
@@ -167,6 +167,7 @@ Hard Weather - rolld 1d20 and add the category modifier, for e.g., for Hard Calm
 | 98   | Wild     | Ethereal               | Night   |      |          |
 | 99   | Wild     | Oozes                  | Night   |      |          |
 | 100  | Wild     | Roll on table twice    | Night   |      |          |
+
 
 
 
@@ -245,7 +246,28 @@ Hard Weather - rolld 1d20 and add the category modifier, for e.g., for Hard Calm
 57-60. **Snow Glyphs**: Large particular snow in the shape of arcane sigils
    - **Endure:** Intelligence Save (DC 13), on a failed save 2d6 Necrotic Damage and become lost
 
+61-64. **Glass Hail**: Shards of thin glass fall from the sky
+    All the snow on the ground has the texture of broken glass and more translucent
+   - **Endure:** Dexterity Save (DC 13), 1d8 Piercing Dmage on a success, on a failed save 3d8 Piercing Damage
+   - **Shelter:** Deterity Save (DC 13), 1d8 Piercing Damage on a failed save
+   - **Combat:** 1 Piercing Damage when you move and/or dash during your turn
 
+65-68. **Deafening Winds**: The fog, wind and snow make terrain impassible
+    Blinded, Deafened for the duration
+   - **Shelter:** Survival Check (DC 19), if failed, no shelter is found
+   
+69-72. **Intensity**: The air feels heavy, burdening
+   - **Endure:** Strength Save (DC 16), on a failed save suffer a point of exhaustion
+   - **Shelter:** Strength Save (DC 10), on a failed save suffer a point of exhaustion
+
+73-76. **Memories**: Images of the past whisper cryptic stories
+   Charisma Save (DC 16), on a failed save suffer under the effect of the Bane Spell, on a success under the effect of the Bless spell
+
+77-80. **Acid Rain**: Acid falls from the sky
+   - **Endure:** 3d10 Acid Damage
+   - **Shelter:** 1d10 Acid Damage
+   - **Combat:** -1 penalty to weapons
+   
 # Outdated (dont delete)
 ## Storm
 
@@ -309,8 +331,6 @@ Hard Weather - rolld 1d20 and add the category modifier, for e.g., for Hard Calm
 
 36. **Explosive Thundering**: Thunder booms with explosive force, causing damage and disorientation.
     - **Endure:** DC 16 Constitution Save, 3d8 Thunder Damage, deafened on fail, half damage on success
-
-.
     - **Shelter:** 1d8 Thunder Damage, DC 16 Constitution Save against deafening.
 
 37. **Blizzard**: A powerful blizzard makes travel nearly impossible with heavy snow and wind.
