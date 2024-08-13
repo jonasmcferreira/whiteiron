@@ -2,6 +2,14 @@
 
 Aim for flavour not power
 
+## Stone Eye
+
+**Wonderous Item:** Eye
+
+**Rarity:** Uncommon (requires attunement)
+
+As a bonus action you can see through the Stone Eye, to keep the vision you must continue to spend a bonus action
+
 ## Locked Lockbox
 
 **Wondrous Item:** Box
