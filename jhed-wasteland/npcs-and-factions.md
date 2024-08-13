@@ -107,3 +107,16 @@ The Gliding Cloud is an imposing vessel with a sleek, streamlined design. Its hu
     - Risk ambush when collecting relics
     - Lower trade rates of Relics
     - Sphyx will not offer help
+
+
+## Bounty Hunters
+
+Though Lawful the code of the snow makes them unliked. All contracts are dead or alive, but alive pays double.
+
+### Brongrith - 
+
+Brongrith confirms the corpse or person with a combination of Spead with Dead, or Zone of Truth. He just wants justice to be served and even though is unliked without Jhed, tries but fails to be part of the community. 
+
+### Plot
+
+If the party doesn't choose to be a bounty hunter, a rival party will. There is always active bounties, a considerable number of them are already dead, and just need to be collected and confirmed
