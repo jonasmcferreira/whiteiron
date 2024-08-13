@@ -31,6 +31,38 @@ Nick will not leave the village for more than a few hours, believing Netrus will
 
 **Revelation**: Nick Ugris is under a madness making him more socialable and desiring to protect Netrus, while making him act more as a Hill Giant, if his Madness is removed he will return to a home in the clouds above Jhed 
 
+### Three Sisters - Ulga Elga Alga - Potion Makers
+
+    Ulga, Elga, Ylga 
+    
+**Stats**: Green Hag/Night Hag/Sea Hag, **Language**: Giant **Goal**: Aid those loyal to Netrus, **Weakness**: They are together, and if any goes missing they can't function
+
+Ulga speaks of tragedy, stories and wanting to know the struggles the travelers have seen. Appears as a young extremely attractive woman.
+
+Elga speaks of dreams and visions, curious to know what ethereal images travelers have seen. Appears as a middle aged extremely attractive woman
+
+Ylga speaks of beauty and ugliness, wanting to know what everyone finds precious or ugly. Appears as an ugly young woman
+
+If any of the three are removed or killed, they will give the party a quest to find another Potion brewer (hag), if two go missing and die the final one will flee
+
+**Potions**: Once per long rest the party will given 1 potion before they head out if they don't have one (they do this for the entire village)
+
+**Upgrade**: Town size must increase to get increase in potion power (more adventurers), Frostberries and Oozes are important reagents for making new potion types
+
+**Revelation**: Hags Coven, that will begin poisoning everyone if their madness is cured, and then leave. They are aware they are hags.
+
+### Sammul - faith
+
+**Stats**: priest, **Language**:  **Goal**: Deepen the faith of any wanderer, **Weakness**: Curious to Gods that easily corrupt
+
+Sammul has runes etched to his shell and spends his time talking and guiding anyone through a crisis of faith or identity. Often he is the first chosen to handle disputes before it gets to Nick. 
+
+Sammul has the ability to **remove curse**; the party can learn this as he tends to a statue of a petrified adventurer
+
+Each day something of value is thrown off the cliff as a sacrifice to the gods
+
+**Revelation**: Is a cultist, group a now forgotten group that was trying to use Jhed to summon the demon lord Jubilex. He will get the party to help him do this if his madness is removed
+
 ### Founding Reasons
 
     - Northmost tradepost in the Jhed Continent
@@ -45,31 +77,8 @@ Nick will not leave the village for more than a few hours, believing Netrus will
 
 ### Beasts of Burden info
 
-    - glacial bears, dire wolves, sabertooths, Vegetarian animal?
-    - no flying option, Rocs patrol the sky and make large birds hard to keep
-    - Removing Rocs can allow flying travel
+    - glacial bears, arctic wolves, sabertooths, Vegetarian animal?
 
-### Potions
-
-    - Netrus sells potions to neighboring city
-    - 3 female potion crafters, mages (hags)
-    - party and entire village gets 1 free healing potion each long rest
-    - helping village gets stronger potions they can craft and get for free
-
-## NPCs
-    
-    
-Three Sisters - Potion Maker
-
-### Religion
-
-    - Sammul - Tortle Runepriest is the religious icon of Netrus
-    - no religion frowned upon (even evil ones)
-    - Sammul only cermons about community, and the benefits of hardship of labor
-    - Each day, something is tossed off the cliff into Jhed Wasteland as an offering 
-
-Sammul (Tortle) - religious leader, can cast Remove Curse
- accepts all faiths (good/evil), and focuses on guiding people through their faith and crises
 
 ### Law
 
@@ -96,7 +105,37 @@ Sammul (Tortle) - religious leader, can cast Remove Curse
 
 ## Dhuren Tol
 
-**Why Founded:** Stone
+### Three Dwarves - Leader
+
+**Goal**: To make Dhuran Tol the center of the empire of J'hed
+
+One to mine, one to smelt, one to craft
+
+Mountain Dwarf - miner (cursed Pickaxe)
+
+Hill Dwarf - smelter (cursed hand crucible)
+  
+Grey Dwarf - crafter (cursed hammer)
+
+These three balance their talents with an army of "volunteers" undead to create a surprisingly functional metalworks of Jhed. Coin talks, and they will gladly assist the party of they want to grow Dhuren Tol
+
+**Revelation**: Their crafting tools are cursed, they do not sleep and work perpetually. Removing these will change their greed of coin into power and they will invade the other villages and create their empire by force (and kill each other).
+
+### Fizwidget - gnome inventor, crafter of The Gliding Cloud
+
+Fizwidget just wants to tinker and create, will create things on her own but can be inspired to a specific direction. Fizwidget is the only person that can craft a magic item, but doesn't know the process, simply an inspiration comes
+
+
+**Revelation**: will start crafting an army of animated objects and a mechanical moving shop that can burrow
+
+
+### Feature 
+
+The town of Dhuren Tol is poisoned through smoke, ash and chemical fumes. You are poisoned while in Dhuran Tol and take 1 poison damage each day.
+
+Dhuren Tol is simply shaped as a castle wall, with the tight interious being the housing and works. This wall isn't protecting anything, one edge of the wall leads to the cliffs, and the other into a mine
+
+**Why Founded:** Stone, Metal, Jewels
 
 **Food:** Beasts
 
@@ -120,7 +159,6 @@ A unique agreement exists in Durenthal: whenever a resident dies or reaches the 
 The constant patrolling and laboring of these Volunteers contribute to the town's smooth functioning. However, it is obvious to any observer that a necromancer is present in the village, though their identity remains a mystery. The inhabitants understand that uncovering and eliminating the necromancer would be detrimental, as the undead workers kept underground would turn on the town. Thus, the necromancer's presence is tacitly accepted, and the town continues to run efficiently under this dark yet effective system.
 
 Necromancer (unknown) - controls undead, but lost in Jhed Wasteland
-Dhuran Three - Hill Dwarf(Bard), Mountain Dwarf(Wizard), Grey Dwarf(Sorcerer) decide what happens
 Fizwidget - gnome inventor, crafter of The Gliding Cloud. Attempting to craft a ship to endure Jhed Wasteland
 
 ## Oravilla
