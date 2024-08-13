@@ -1,7 +1,7 @@
 # Monster Types
 
 players should be warned general when building characters and making choices
-
+at Dinosuar
 
 
 # Expected Encounters
@@ -18,6 +18,8 @@ players should be warned general when building characters and making choices
     
     Banshee - Council Five?
     Ghost - Scroll Burners
+    Death Knight
+    **Demi Lich** - King of Jhed
     
    **Dracolich** - a false vision for the Kobolds, and resource for Village Two
    
@@ -36,6 +38,7 @@ players should be warned general when building characters and making choices
 ### Giant
     
     Hill Giant - Netrus Village One
+    Cyclops
 
 ### Humanoid
     
@@ -66,6 +69,12 @@ players should be warned general when building characters and making choices
 ### Monstrosity
     Roc patrol of Northern Jhed forcing the need of smuggling tunnels
     Hydra - Lizardfolk Worship
+    Basalisk - Lizardfolk Pet
+    Behir - major Kobold enemy
+    Bulette - wild, great pets
+    Carrion Crawler - scavanges around frequent corpses
+    Chimera 
+    Darkmantle
 ### Ooze
 
 
@@ -85,6 +94,7 @@ players should be warned general when building characters and making choices
 ### Fey
 
 ### Celestial
+    Couatl
 
 ### Construct
     Animated Objects
@@ -92,6 +102,7 @@ players should be warned general when building characters and making choices
 ### Fiend
 
 - Rakshasa will be used because Jonas likes it (possible Village leader?)
+- Maralith - Yuanti
 
 ### Swarm of Tiny Beasts
 
