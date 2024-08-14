@@ -3,9 +3,9 @@
 players should be warned general when building characters and making choices
 at Dinosuar
 
-Dungeon masters should not be afraid of using staple monster types. Plenty of spells and effects are aimed at humanoids undead beasts and the like so what if the party's cleric turns your undead, just throw more at them. 
+Dungeon masters should not be afraid of using staple monster types. Plenty of spells and effects are aimed at humanoids undead beasts and the like. So the party's cleric destroys your undead, send another wave before allowing them to rest and you'll see him burn through his spell slots. Wizard uses silvery barbs constantly, interrupt the short and long rests with more encounters.
 
-Characters have the ability so give them the chance for them to use them. The original idea of the dungeon masters was to have multiple encounters so that the players would exhaust their resources.
+Characters have the ability so give them the chance for them to use them. It's at the edge of the resources available that the players will get more creative and more fun to play with.
 
 ## Expected Encounters
 
@@ -29,19 +29,20 @@ Characters have the ability so give them the chance for them to use them. The or
     
     
 
-### Beast
+### Beasts
 
     Snakes
     Wolves
     Bears
     Mammoth
-    Sabortooth Tiger
+    Sabertooth Tiger
     Giant Sloth
 
 ### Giant
     
     Hill Giant - Netrus Village One
-    Cyclops
+    Cyclops.
+    Cloud giants - inhabitants of the Frozen Storm Forest
 
 ### Humanoid
     
@@ -62,7 +63,7 @@ Characters have the ability so give them the chance for them to use them. The or
     WereRat - unlikely
     WereDinosuar - ???? should have one new wereX
 
-# Biom Related
+## Biome Related
 
 ### Elemental
     Azer - Dhuren Tol
@@ -82,7 +83,7 @@ Characters have the ability so give them the chance for them to use them. The or
 
 
 
-# Rare (reinforce plot)
+## Rare (reinforce plot)
 
 ### Aberration
     Oravilla Village Three
@@ -92,7 +93,7 @@ Characters have the ability so give them the chance for them to use them. The or
 
     Deep Gem Dragon  - Lost Underdark King
 
-# Very Rare
+## Very Rare
 
 ### Fey
 
@@ -133,15 +134,3 @@ Characters have the ability so give them the chance for them to use them. The or
     Lizardman
     Lizardking
     Dinosaurs
-
-
-
-
-
-
-
-
-
-
-
-

@@ -26,9 +26,38 @@ Due to its extreme latitude, the Jhed Wastelands experience prolonged periods of
 
 The Jhed Wasteland seems broken in time, as dusk shifts to dawn or day to night without transition. No assurance of how long these moments of light or dark last. Even the stary veil appears random hindering navigation making those that risk such a journey unaware of how long they've been gone. But the beasts who roam and the monstrosities that linger the Jhed Wastelands is a hunting ground.
 
-### Weather can be good, and for both sides
+### Weather Can Be Good, and for Both Sides
 
-The weather in Jhed should always be effecting both sides of combat, and there will be benificial arcane winds.
+In the vast, unpredictable wilderness of Jhed, the weather is more than just a backdrop—it's an ever-present force that shapes the fate of both friend and foe alike. The harsh conditions are not selective; whether you're a weary adventurer or a lurking predator, the elements will have their say. Yet, Jhed's weather is as capricious as it is brutal. While it can bring bone-chilling cold and blinding blizzards, it also has moments of strange benevolence, where even the most dangerous storms can bring unexpected boons.
+
+#### The Dual Nature of Jhed's Weather
+
+The weather in Jhed should be a constant, dynamic element in your campaign, influencing both combat and exploration. It's a living, breathing force that does not distinguish between hero and villain. When a storm rolls in, everyone must contend with it. This creates an environment where both sides might find themselves hindered or helped by the same weather conditions.
+
+**In Combat:**
+- **Blizzards:** During a battle, a sudden blizzard might reduce visibility to nearly nothing, forcing both sides to fight blind. This could lead to more cautious, tactical combat where both parties must rely on sound and intuition rather than sight.
+- **Icy Winds:** Gale-force winds can make it difficult to maintain footing or aim ranged attacks, affecting both the party and their enemies. The winds might also shift during combat, potentially giving one side an advantage before turning against them moments later.
+- **Frozen Ground:** The ground beneath your feet can suddenly freeze over, making movement treacherous for everyone involved. Even a mighty frost giant could slip and fall if not careful, just as a nimble rogue might find their agility tested.
+
+**Out of Combat:**
+- **Travel:** On the road, the weather can be a great equalizer. A storm that hinders the party's progress might also slow down pursuing enemies, buying the heroes precious time to escape or prepare.
+- **Rest:** Setting up camp in a sheltered spot during a storm can grant both the party and their foes a much-needed respite, leading to an uneasy truce as everyone seeks refuge from the elements.
+- **Navigation:** Arcane winds might temporarily clear the skies, allowing for easier navigation or even revealing hidden paths that would otherwise be obscured by the snow. However, these same winds could aid a rival group in finding their way to a key location.
+
+#### Anomalies and Beneficial Arcane Winds
+
+Jhed is not just a land of relentless hardship; it is also a place where magic intertwines with the natural world in unpredictable ways. Sometimes, the very forces that seek to freeze and obscure can turn on a dime, offering a brief respite or even unexpected advantages.
+
+- **Arcane Winds:** These rare and mystical breezes can blow through the land, invigorating those who feel their touch. An arcane wind might temporarily boost the magical abilities of anyone in its path, allowing for more potent spellcasting or quicker recovery of spent resources. However, this boon is shared by all, meaning both the party and their enemies could suddenly find themselves empowered.
+  
+- **Warm Fronts:** In the midst of an unrelenting cold, a warm front might sweep through, melting ice and snow, and easing the burdens of travel. These fronts are often short-lived, but they provide a welcome break from the frostbite-inducing temperatures. Yet, they also thaw out dangerous creatures that had been dormant, leading to unexpected encounters.
+
+- **Restorative Storms:** While most storms in Jhed are brutal, some carry a strange restorative energy. Those caught in these storms might find their wounds healing faster, or their fatigue lifted, as if the storm itself were breathing life back into them. But be wary—such storms are fickle, and their effects can end just as suddenly as they began.
+
+### Using Weather
+
+As a Dungeon Master, you can use Jhed's weather to create dynamic and unpredictable encounters that challenge your players to think on their feet. Encourage your players to consider the weather not just as an obstacle, but as a tool. They might choose to wait out a storm to gain its benefits, or they could try to lure enemies into an exposed position during a blizzard. The key is to make the weather feel like an integral part of the world, one that is as likely to help as it is to harm.
+
 
 ### Tectonics
 
