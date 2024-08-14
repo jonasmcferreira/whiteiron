@@ -3,8 +3,11 @@
 players should be warned general when building characters and making choices
 at Dinosuar
 
+Dungeon masters should not be afraid of using staple monster types. Plenty of spells and effects are aimed at humanoids undead beasts and the like so what if the party's cleric turns your undead, just throw more at them. 
 
-# Expected Encounters
+Characters have the ability so give them the chance for them to use them. The original idea of the dungeon masters was to have multiple encounters so that the players would exhaust their resources.
+
+## Expected Encounters
 
     Undead, Beasts, Giants, Humanoids, Plants
     
