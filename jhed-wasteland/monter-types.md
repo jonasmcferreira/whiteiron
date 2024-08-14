@@ -1,136 +1,224 @@
-# Monster Types
+# Monster Types in Jhed
 
-players should be warned general when building characters and making choices
-at Dinosuar
-
-Dungeon masters should not be afraid of using staple monster types. Plenty of spells and effects are aimed at humanoids undead beasts and the like. So the party's cleric destroys your undead, send another wave before allowing them to rest and you'll see him burn through his spell slots. Wizard uses silvery barbs constantly, interrupt the short and long rests with more encounters.
-
-Characters have the ability so give them the chance for them to use them. It's at the edge of the resources available that the players will get more creative and more fun to play with.
+Jhed is a land of harsh climates, ancient mysteries, and forgotten powers, and the monsters that roam this wasteland reflect that grim reality. The creatures found here are not just obstacles—they are part of the living, breathing ecosystem of Jhed, each with its own role to play in the narrative you weave as a Dungeon Master. This guide provides an overview of the most common monster types found in Jhed, along with tips on how to effectively use them in your campaign.
 
 ## Expected Encounters
 
-    Undead, Beasts, Giants, Humanoids, Plants
-    
-### Undead 
-    
-    Zombies - workers of Village Two, found with poison
-    Skeletons - workers of Village Two, found with poison  
-    Crawling Claw - found in any undead encounter, thieves
-    
-    Shadow - ambush
-    
-    Banshee - Council Five?
-    Ghost - Scroll Burners
-    Death Knight
-    **Demi Lich** - King of Jhed
-    
-   **Dracolich** - a false vision for the Kobolds, and resource for Village Two
-   
-    
-    
+The monsters in Jhed are as varied as the land itself. From undead laborers to ancient giants, these creatures are tailored to the environment, creating unique challenges for your players. The following categories highlight the types of encounters your players might face, along with some suggestions on how to make these encounters memorable.
+
+### Undead
+
+The undead are a common sight in Jhed, particularly in the village of Dhuren Tol, where they are often used as laborers. These creatures range from the mindless workers that serve the living to more malevolent spirits that haunt the land. As a Dungeon Master, you can use the undead to create a sense of unease and dread, reminding players that death is never far away in Jhed.
+
+- **Zombies:** Found as workers in Village Two, these slow but relentless creatures are often laced with poison, making even their mindless attacks dangerous.
+- **Skeletons:** Also used as workers in Village Two, these undead are a bit more nimble than zombies but are just as unsettling, especially when found with poison on their weapons.
+- **Crawling Claw:** These small, sinister hands are often found in the aftermath of battles or in the company of thieves, adding a creepy, unexpected element to encounters.
+- **Shadow:** Ambush predators that strike from the darkness, draining the life force from their victims.
+- **Banshee:** A potential encounter with the Council of Five, their wails can strike terror into even the bravest hearts.
+- **Ghost:** Associated with the Scroll Burners, these spectral remnants are bound by unfinished business or unfulfilled vengeance.
+- **Death Knight:** An armored terror, these undead warriors are formidable opponents that combine martial prowess with dark magic.
+- **Demi Lich:** The feared King of Jhed, this creature’s presence is enough to instill fear in even the most seasoned adventurers.
+- **Dracolich:** A twisted mockery of dragonkind, this undead dragon is both a false vision for the Kobolds and a potential resource for Village Two.
 
 ### Beasts
 
-    Snakes
-    Wolves
-    Bears
-    Mammoth
-    Sabertooth Tiger
-    Giant Sloth
+The beasts of Jhed are fierce and primal, perfectly adapted to the harsh environment. They range from common predators to ancient megafauna, providing a variety of challenges for your players. Beasts can serve as both encounters and environmental hazards, reminding players that even nature is out to get them in Jhed.
 
-### Giant
-    
-    Hill Giant - Netrus Village One
-    Cyclops.
-    Cloud giants - inhabitants of the Frozen Storm Forest
+- **Snakes:** Cold-blooded creatures that thrive in the warmth of underground tunnels and caverns.
+- **Wolves:** These pack hunters are relentless, using their numbers and keen senses to track down prey.
+- **Bears:** Massive and powerful, bears in Jhed are a force of nature, particularly when encountered in the wild.
+- **Mammoth:** These ancient creatures are rare but formidable, their sheer size and strength making them a daunting challenge.
+- **Sabertooth Tiger:** Agile and deadly, these predators are the apex hunters of the tundra.
+- **Giant Sloth:** Slow but incredibly strong, these creatures can turn a simple encounter into a test of endurance.
 
-### Humanoid
-    
-    Aarakocra - found in Thieves post, explains the challenge of flying in Jhed (magic winds risky) and the Roc
-    Orcs
-    Goliaths
-    Kobolds
-    Lizardfolk
-    Yuan-ti
-    Dwarves
-    
-    Tribes - Orc, Goliaths, Kobolds, Yuan-ti, Lizardfolk
+### Giants
 
-    WereWolf
-    WereBear
-    WereBoar - unlikely
-    WereTiger
-    WereRat - unlikely
-    WereDinosuar - ???? should have one new wereX
+Giants in Jhed are remnants of a forgotten age, their massive forms towering over the landscape. These beings can be allies, enemies, or neutral forces, depending on how the players interact with them. Giants add a sense of scale to your encounters, making the players feel small and vulnerable in the face of these ancient beings.
 
-## Biome Related
+- **Hill Giant:** Found in Netrus, Village One, these giants are known for their brute strength and simple minds, often serving as guardians or laborers.
+- **Cyclops:** One-eyed giants with a strong connection to the earth, making them formidable in battle.
+- **Cloud Giants:** Inhabitants of the Frozen Storm Forest, these giants are both majestic and terrifying, wielding the power of the storm.
 
-### Elemental
-    Azer - Dhuren Tol
+### Humanoids
 
-### Plant
-    Myconids - common around Oravilla village three
-### Monstrosity
-    Roc patrol of Northern Jhed forcing the need of smuggling tunnels
-    Hydra - Lizardfolk Worship
-    Basalisk - Lizardfolk Pet
-    Behir - major Kobold enemy
-    Bulette - wild, great pets
-    Carrion Crawler - scavanges around frequent corpses
-    Chimera 
-    Darkmantle
-### Ooze
+Humanoids in Jhed are as varied as they are in the rest of the world, but here they have adapted to the harsh conditions in unique ways. These creatures can be potential allies, enemies, or neutral parties, and they often bring their own cultures and motivations into play, creating complex social dynamics.
 
+- **Aarakocra:** Found in Thieves Post, these bird-like humanoids highlight the dangers of flight in Jhed, where magical winds and the presence of Rocs make the skies perilous.
+- **Orcs:** Fierce and tribal, orcs in Jhed are survivors, fighting for dominance in the frozen wasteland.
+- **Goliaths:** These mountain-dwelling humanoids are tough and resilient, perfectly adapted to the harsh environment of Jhed.
+- **Kobolds:** Small but cunning, Kobolds often serve as minions for more powerful creatures, but they are also dangerous in numbers.
+- **Lizardfolk:** Cold-blooded and pragmatic, these reptilian humanoids are well-suited to the cold environment of Jhed.
+- **Yuan-ti:** These snake-like beings are driven by dark purposes, often found leading cults or manipulating events from the shadows.
+- **Dwarves:** Hardy and skilled in crafting, the dwarves of Jhed are known for their resilience and their mastery of stone and metal.
 
+**Tribes:** The humanoids of Jhed often form tribes, including Orcs, Goliaths, Kobolds, Yuan-ti, and Lizardfolk. These tribes can be allies or enemies, depending on the party’s actions and the alliances they forge.
 
-## Rare (reinforce plot)
+**Lycanthropes:** Some creatures afflicted with the werecurse have fled to Jhed to protect their former communities, but they sometimes lash out unpredictably. The plot may involve curing lycanthropy, though NPCs capable of casting *Remove Curse* are limited. Silvering weapons becomes essential for dealing with these creatures.
 
-### Aberration
-    Oravilla Village Three
-    Aboleth - in the Jhed Bay
-    
-### Dragon
+- **Werewolf**
+- **Werebear**
+- **Weretiger**
+- **Wereboar:** Rare in Jhed.
+- **Wererat:** Rare in Jhed.
+- **Weredinosaur:** A new, unique type of lycanthrope to be introduced.
 
-    Deep Gem Dragon  - Lost Underdark King
+### Biome-Related Monsters
 
-## Very Rare
+Jhed’s unique environment fosters a variety of creatures that are closely tied to the land itself. These monsters are shaped by the specific biomes they inhabit, making them integral to the story and setting.
 
-### Fey
+#### Elemental
 
-### Celestial
-    Couatl
+- **Azer:** Found in Dhuren Tol, these fiery dwarves are resistant to the cold, making them a surprising but fitting presence in Jhed.
 
-### Construct
-    Animated Objects
+#### Plant
 
-### Fiend
+- **Myconids:** These fungal creatures are common around Oravilla, Village Three, where they form complex, symbiotic relationships with the environment.
 
-- Rakshasa will be used because Jonas likes it (possible Village leader?)
-- Maralith - Yuanti
+#### Monstrosity
+
+- **Roc:** These giant birds patrol the northern reaches of Jhed, forcing the use of smuggling tunnels to avoid their territory.
+- **Hydra:** Worshipped by Lizardfolk, these multi-headed creatures are both terrifying and revered.
+- **Basilisk:** Kept as pets by Lizardfolk, their gaze can turn victims to stone.
+- **Behir:** A major enemy of Kobolds, these serpentine creatures are both cunning and deadly.
+- **Bulette:** Wild and dangerous, these creatures can also be tamed as pets by those brave enough to try.
+- **Carrion Crawler:** Scavengers that feed on the dead, often found near battlefields or areas with frequent corpses.
+- **Chimera:** A monstrous combination of different creatures, the Chimera is a deadly opponent.
+- **Darkmantle:** These creatures use darkness to their advantage, ambushing their prey from above.
+
+### Rare Monsters (Reinforce Plot)
+
+Certain creatures in Jhed are rare, appearing only when they are needed to drive the story forward. These monsters are tied to the deeper mysteries of the land and can be used to reveal hidden truths or advance key plot points.
+
+#### Aberration
+
+- **Aboleth:** A creature of ancient evil, found in Jhed Bay and possibly connected to Oravilla, Village Three.
+
+#### Dragon
+
+- **Deep Gem Dragon:** A lost king of the Underdark, this dragon holds secrets buried deep beneath the ice.
+
+### Very Rare Monsters
+
+These creatures are rarely encountered, but when they do appear, they can have a profound impact on the story. Use them sparingly to maintain their mystique and significance.
+
+#### Fey
+
+Mysterious and unpredictable, fey creatures in Jhed are tied to the land’s ancient magic, often appearing as omens or guides.
+
+#### Celestial
+
+- **Couatl:** A divine serpent, its presence is a sign of significant events, often linked to the protection of something sacred.
+
+#### Construct
+
+- **Animated Objects:** Brought to life by ancient magic, these constructs are often found guarding long-forgotten treasures or ruins.
+
+#### Fiend
+
+- **Rakshasa:** A fiendish creature known for its cunning and cruelty, potentially serving as a village leader or manipulating events from behind the scenes.
+- **Marilith:** A multi-armed demon, often associated with the Yuan-ti, representing the darker forces at play in Jhed.
 
 ### Swarm of Tiny Beasts
 
-### Kobold Plot Creature Progression
-    Kobold
-    Kobold Aspirant
-    Winged Kobold
-    Dragonborn
-    Wyverns
-    Dracolich
-    Dragon
+Swarming creatures in Jhed can create unique challenges for players, often overwhelming them through sheer numbers rather than individual strength.
 
-### Yuan-ti Plot Creature Progression
-    Snake
-    Yuan-ti
-    Medusa
-    Naga
-    Marilith
+## Kobold Plot Creature Progression
 
+Kobolds in Jhed have a clear hierarchy, from the smallest minion to the most powerful leaders. This progression can be used to create escalating encounters as theparty delves deeper into Kobold territory or becomes more entangled in their schemes.
 
-### Werehumanoids
-    Some inflicted with the werecurse hide in Jhed to protect their old communities, but there is some random lashing out. Plot to cure lycanthrope, remove curse NPCs  are limited. Silvering weapons become important
-    
-### Lizardfolk Progress
-    Lizardman
-    Lizardking
-    Dinosaurs
+1. **Kobold:** The basic foot soldiers, small and cunning, often found in large numbers.
+2. **Kobold Aspirant:** A more skilled and ambitious Kobold, seeking to prove itself and rise in rank.
+3. **Winged Kobold:** Kobolds that have gained the ability to fly, making them more versatile in combat.
+4. **Dragonborn:** Kobolds that have undergone a transformation, taking on draconic traits and powers.
+5. **Wyvern:** A large, dragon-like creature, often serving as a mount or guardian for the Kobolds.
+6. **Dracolich:** A powerful undead dragon, worshipped by Kobolds as a god-like figure.
+7. **Dragon:** The ultimate goal of the Kobolds is to serve or resurrect a true dragon, leading to potentially epic confrontations.
+
+## Yuan-ti Plot Creature Progression
+
+The Yuan-ti are a snake-like race with their own dark agendas. Their progression mirrors their increasing influence and power in the region, often tied to ancient rituals and forbidden magic.
+
+1. **Snake:** The simplest form, often used as scouts or guards.
+2. **Yuan-ti:** The standard members of the Yuan-ti race, skilled in both combat and manipulation.
+3. **Medusa:** A cursed form of the Yuan-ti, with the ability to turn others to stone with their gaze.
+4. **Naga:** A powerful serpent-like being, often worshipped or feared by lesser creatures.
+5. **Marilith:** A demonic entity with multiple arms, representing the ultimate power that the Yuan-ti strive to control.
+
+## Lizardfolk Progression
+
+The Lizardfolk are another race with deep ties to the land of Jhed, often found in swampy or forested areas. Their progression reflects their increasing savagery and connection to ancient, primal forces.
+
+1. **Lizardman:** The basic warrior of the Lizardfolk, tough and resilient.
+2. **Lizardking:** A more powerful leader, often commanding groups of Lizardfolk in battle.
+3. **Dinosaurs:** The apex predators of Jhed, sometimes tamed or controlled by the Lizardfolk.
+
+## How to Use These Monsters
+
+The creatures of Jhed are more than just enemies to be defeated; they are tools to shape the narrative, enhance the atmosphere, and challenge your players in unique ways. Here are some specific strategies for using the different types of monsters in your campaign:
+
+### Undead
+
+**Ambush and Attrition:**
+- Use undead to create relentless, attrition-based encounters. For example, after the party defeats a wave of zombies, a second wave of skeletons might rise from the frozen ground, forcing the party to conserve resources and think strategically.
+- Incorporate undead as environmental hazards. Perhaps a path through a graveyard is littered with dormant skeletons that will only rise if disturbed, adding tension as the players carefully navigate the area.
+
+**Moral Dilemmas:**
+- In Dhuren Tol, undead are used as laborers. The party might encounter situations where they must decide whether to destroy these creatures, knowing they are essential to the village's survival, or find a way to free them from their curse.
+
+### Beasts
+
+**Survival and Hunting:**
+- Use beasts to reinforce the harshness of Jhed's environment. A pack of wolves might trail the party, attacking only when they sense weakness, forcing the players to stay vigilant during their travels.
+- Introduce hunting mechanics where the party must track and take down a large beast like a mammoth or sabertooth tiger to gather resources or complete a quest. The success or failure of this hunt could have lasting consequences.
+
+**Natural Obstacles:**
+- Beasts can also serve as obstacles rather than direct threats. For instance, a slumbering giant sloth might block a crucial path, requiring the party to either find a way around it or risk waking it up.
+
+### Giants
+
+**Environmental Control:**
+- Giants can dramatically alter the battlefield. A hill giant in Netrus might hurl boulders that create difficult terrain, forcing the party to adapt their tactics.
+- Cloud giants in the Frozen Storm Forest could summon storms or manipulate the weather to their advantage, making ranged combat more difficult and forcing the party to engage in close quarters.
+
+**Allies and Enemies:**
+- Giants can be both foes and allies. A cyclops might be a neutral force, offering aid in exchange for a favor, or a powerful enemy that the party must outwit rather than overpower.
+
+### Humanoids
+
+**Social Dynamics:**
+- Use humanoid tribes like Orcs, Goliaths, and Kobolds to create social encounters where diplomacy, intimidation, or trickery might be more effective than combat. For example, a Goliath chieftain might challenge the party to a contest of strength rather than a battle.
+- The presence of lycanthropes adds a layer of mystery and paranoia. The party might need to uncover which NPCs are secretly werecreatures, adding a detective element to the campaign.
+
+**Resource Management:**
+- Humanoids like the Aarakocra or Yuan-ti could control valuable resources, such as safe passage through Roc-infested skies or access to a hidden temple. The party might need to negotiate, steal, or fight for these resources.
+
+### Biome-Related Monsters
+
+**Environmental Storytelling:**
+- Myconids in Oravilla can be used to create eerie, atmospheric encounters where the very land seems alive. The party might stumble upon a Myconid colony, where they must navigate through spore-filled air and negotiate with the sentient fungi.
+- Azer in Dhuren Tol could introduce elements of fire and heat in an otherwise frozen landscape, providing a stark contrast and unique challenges like melting ice bridges or evaporating water sources.
+
+**Surprise and Ambush:**
+- Roc patrols can be used to create high-stakes encounters where the party must either hide from these massive birds or face the consequences of being spotted.
+- Behirs and Bulettes offer opportunities for sudden, underground attacks, where the ground beneath the party’s feet is just as dangerous as the creatures themselves.
+
+### Rare and Very Rare Monsters
+
+**Epic Moments:**
+- Use creatures like the Deep Gem Dragon or Aboleth to create pivotal story moments. These rare monsters should be tied to major plot developments, such as uncovering ancient secrets or challenging the party’s moral compass.
+- A Couatl might appear to guide the party through a particularly dangerous area, offering wisdom or a riddle that hints at the solution to a larger mystery.
+
+**Plot Catalysts:**
+- Rare creatures like Rakshasas or Mariliths can serve as the masterminds behind complex plots, manipulating events from the shadows. Defeating these fiends could be the culmination of a long campaign arc, where the party uncovers and dismantles their schemes piece by piece.
+
+### Dynamic Encounters
+
+**Layered Challenges:**
+- Combine different monster types to create multi-faceted encounters. For instance, a battle against a group of Kobolds could be complicated by the sudden appearance of a Bulette, turning a straightforward fight into a chaotic free-for-all.
+- Use the environment to add complexity to encounters. A fight against undead in a crumbling ruin could be punctuated by collapsing floors or the release of poisonous gas, forcing the party to constantly adapt.
+
+**Unexpected Twists:**
+- Introduce encounters where the monsters’ actions are driven by more than just combat. Perhaps a group of Lizardfolk is in the middle of a ritual when the party arrives—do they intervene, observe, or try to communicate?
+- Create encounters where the outcome isn’t just about victory or defeat. A Roc might capture a party member and carry them off to its nest, triggering a rescue mission rather than a traditional battle.
+
+By using these strategies, you can turn the monsters of Jhed into more than just obstacles. They become integral parts of the world, each encounter a story in itself that contributes to the larger narrative of your campaign.
