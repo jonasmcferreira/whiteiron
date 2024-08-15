@@ -1,7 +1,7 @@
 # Key NPCs and Factions
 
 
-## Thieves Post - Starter town
+## Thieves Post - Starter town - Loyalists
 
 To be defined
 
@@ -120,3 +120,19 @@ Brongrith confirms the corpse or person with a combination of Spead with Dead, o
 ### Plot
 
 If the party doesn't choose to be a bounty hunter, a rival party will. There is always active bounties, a considerable number of them are already dead, and just need to be collected and confirmed
+
+
+## Artisans of the Great Works
+
+There are few that head to J'hed purely for the isolation and rare resources to perfect their crafts. These individuals are fanatical, not to a god or ideology but pushing the limits of a speciality. They are dangerous and useful. These are usually races of particularly long long spans are gifted one somehow. These all seems to posess an occult knowledge. Though all alone, ultimately they need assistance from others to achieve their ambitions
+
+If any Artisan completes their great works they become mad and hostile
+
+
+### Kenku Rhendi - Skycrafter
+
+Rhendi always jealous of the aarakocra has made it's life work to make them useless! Rhendi builds stationary "hot air balloons" and ultimately could build a zepplin.
+
+Rhendi should be the focus of anything mechanical and flying
+
+Progress - hot air balloon tethered to ground as guard tower, gliding wings, winged boots, movable hot air balloon, zepplin
