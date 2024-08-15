@@ -2,6 +2,14 @@
 
 Aim for flavour not power
 
+## Perfect Pitons
+
+**Wonderous Item:** Pitons
+
+**Rarity:** uncommon (requires attunement)
+
+A bag of 8 twisted silver Pitons. These pitons can be hammered into anything! even the thin air and you can say the Command Word as a bonus action for them to all fly back slowly into the bag if possible
+
 ## Stone Eye
 
 **Wonderous Item:** Eye
