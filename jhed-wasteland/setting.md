@@ -22,9 +22,13 @@ Hidden among the glaciers and ice fields are remote valleys and ice caves, offer
 
 Due to its extreme latitude, the Jhed Wastelands experience prolonged periods of twilight, where the sun barely rises above the horizon, casting a perpetual twilight over the land. This creates an eerie, otherworldly atmosphere, with long shadows and a sky that transitions through shades of deep blue and purple. The lack of clear daylight can be disorienting, making navigation even more challenging and contributing to the land's reputation as an endless, desolate wilderness.
 
-### Day/Night and Time
+### Not a Globe
 
-The Jhed Wasteland seems broken in time, as dusk shifts to dawn or day to night without transition. No assurance of how long these moments of light or dark last. Even the stary veil appears random hindering navigation making those that risk such a journey unaware of how long they've been gone. But the beasts who roam and the monstrosities that linger the Jhed Wastelands is a hunting ground.
+The world that J'hed exists is not a globe, the continent is designed that it can be added to other settings but importantly there is an edge of the world (at least one) and it is in J'hed
+
+### Time
+
+The Jhed Wasteland seems broken in time, as dusk shifts to dawn or day to night without transition. No assurance of how long these moments of light or dark last. Even the stary veil appears random hindering navigation making those that risk such a journey unaware of how long they've been gone. But the beasts who roam and the monstrosities that linger the Jhed Wastelands is a hunting ground. Because of this oddity, denizens of J'hed aren't really aware of how old they are, or how much time passes as there is no constant with weather or migration patterns
 
 ### Weather Can Be Good, and for Both Sides
 
