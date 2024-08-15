@@ -32,17 +32,6 @@ Depressing would be the one word to describe the Thieves Key, a town of drunk tr
 
 The only safe way to Jhed is the smuggling route through ice tunnels. Any overland travel is made hopeless due to Roc territory. It is a 5-8 day travel through the pass, but damage from tremors may have changed this
 
-## Growth Conflict
-
-Brimhest could use any increased trade to create thieves that can operate in Jhed
-Outer Regions could attempt to take Thieves Key and make a heavily taxed port with rigid rules
-
-Improving Thieves Key connection to Dhuren Tol will give enough resources to keep Outer Region at bay
-
-## Shrink Conflict
-
-Thieves Key is vulnerable to revolt and total failure, this would increase the time it takes for goods to arrive in and out of Jhed. Also remove valuable leads to the Twin Kings Ivis and Iluna
-
 ## The Docks
 
 Contrary to the tone of the town, Thieves Key has talented and elaborate dockworks. Given resources they can craft specialized tools to travel through Jhed. They specialize in quicker and stealthier crafts but are flexible to demand
@@ -66,4 +55,15 @@ Can warn party of the challenges of flight in Jhed, has pegleg. Only Aarakocra. 
 ### Loyalist 5 - Vez'yen Poison Merchant
 
 
+## Growth
+
++1 Clearing the Smugglers Route and paying gold
+
++1 Finding a route from Dhuren Tol or Oravilla 
+
++1 Relics of the Twin Kings
+
+-1 removing 2 Loyalists (can happen twice)
+
+Thieves Key can help found a thieving network, fall entirely, become a port of the Outer Empire, or linger
 
