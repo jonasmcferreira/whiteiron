@@ -71,27 +71,26 @@ Ideally weather elements change planning and strategy
 
 | d100 | Category | Effect            | Save/Type | DC E/S/C |
 |------|----------|-------------------|-----------|----------|
-| 01   | Calm     | Shifting Stars    |           |          |
-| 02   | Calm     | Clear skies       |           |          |
-| 03   | Calm     | Distant snowfall  |           |          |
-| 04   | Calm     | Mild breeze       |           |          |
-| 05   | Calm     | Dispersed Fog     |           |          |
-| 06   | Calm     | Tremors I.        |           |          |
-| 07   | Calm     | Thunder I.        |           |          |
-| 08   | Calm     | Conjured Snow     |           |          |
-| 09   | Calm     | Cold Winds        |           |          |
-| 10   | Calm     | Cold Winds        |           |          |
-| 11   | Calm     | Cold Winds        |           |          |
-| 12   | Calm     | Cold Winds        |           |          |
-| 13   | Calm     | Tremors           |           |          |
-| 14   | Calm     | Tremors           |           |          |
-| 15   | Calm     | Tremors           |           |          |
-| 16   | Calm     | Tremors           |           |          |
-| 16   | Calm     | Tremors           |           |          |
-| 17   | Calm     | Arcane Snow       |           |          |
-| 18   | Calm     | Arcane Snow       |           |          |
-| 19   | Calm     | Arcane Snow       |           |          |
-| 20   | Calm     | Abjuring Winds    | Int       |          |
+| 01   | Calm     | Cold              | N/A       |          |
+| 02   | Calm     | Snow              | N/A       |          |
+| 03   | Calm     | Hail              | N/A       |          |
+| 04   | Calm     | Breeze            | N/A       |          |
+| 05   | Calm     | Dispersed Fog     | N/A       |          |
+| 06   | Calm     | Rumbling          | N/A       |          |
+| 07   | Calm     | Thunder           | N/A       |          |
+| 08   | Calm     | Lightning         | N/A       |          |
+| 09   | Calm     | Conjuring Snow    | N/A       |          |
+| 10   | Calm     | Distant Voices    | N/A       |          |
+| 11   | Calm     | Cold I.           | N/A       |          |
+| 12   | Calm     | Snow I.           | N/A       |          |
+| 13   | Calm     | Hail I.           | N/A       |          |
+| 14   | Calm     | Wind I.           | N/A       |          |
+| 15   | Calm     | Fog I.            | N/A       |          |
+| 16   | Calm     | Tremors I.        | N/A       |          |
+| 17   | Calm     | Lighting I.       | N/A       |          |
+| 18   | Calm     | Thunder I.        | N/A       |          |
+| 19   | Calm     | Telepathy         | N/A       |          |
+| 20   | Calm     | Silver Snow       | N/A       |          |
 | 21   | Typical  | Hail              | Con       | 10/-     |
 | 22   | Typical  | Hail              | Con       | 10/-     |
 | 23   | Typical  | Hail              | Con       | 10/-     |
@@ -182,55 +181,44 @@ Ideally weather elements change planning and strategy
 
 Template
 
-#. **Name**: 
-    passive
-   - **Endure:** 
-   - **Shelter:** 
-   - **Combat:** 
-
+(Die Roll). **Name**: Description!
+   - Ongoing effect regardless of Endure or Shelter
+   - **Endure:** The mechanical effect of choosing to travel through the weather. Though the effect happens immediatly, it is the sum total of traveling through the weather 
+   - **Shelter:** Mechanical effect if the party chooses to search for a place to rest.
+   - **Combat:** There may be something extra that should be considered when in initiative order
 ## Calm
 
-1. **Shifting Stars**: The unfiltered lumination of the Jhed night as globes of light shift from their places
-   - **Endure:** No effect on movement or actions.
-   - **Shelter:** Short Rest and gain a Heroic Inspiration.
+1-10. **No Effect**: just flavor
 
-2. **Clear Skies**: The sky is a brilliant blue with no clouds in sight, offering a rare moment of tranquility in Jhed.
-   - **Endure:** No effect on movement or actions.
-   - **Shelter:** Short Rest with no additional benefits.
+11. **Cold I.**: An immediate drop in temperature
+ - **Endure:** 1 Cold Damage
 
-3. **Distant Snowfall**: Far off in the horizon, gentle snowflakes fall, creating a picturesque scene against the stark landscape.
-   - **Endure:** No effect on movement or actions.
-   - **Shelter:** Short Rest with no additional benefits.
+12. **Snow I.**: An immediate drop in temperature
+ - **Endure:** lightly obscured vision past 300ft
 
-4. **Mild Breeze**: A light breeze stirs the air, carrying the crisp scent of snow and ice.
-   - **Endure:** No effect on movement or actions.
-   - **Shelter:** Short Rest with no additional benefits.
+13. **Hail I.**: Rock sized hail pelts the lands
+ - **Endure:** 1 Bludgeoning Damage
 
-5. **Light Snow**: Thin clouds cover the sky, diffusing the sunlight and casting a soft glow over the terrain.
-   - **Endure:** Lightly Obscured past 150ft.
-   - **Shelter:** Short Rest with no additional benefits.
+14. **Winds I.**: A strong wind begins to pick up
+ - **Endure:** Disadvantage on ranged attacks/spells past 120ft
+ 
+15. **Fog I.**: A calm fog passes the distance
+ - **Endure:** lightly obscured vision past 300ft
+ 
+16. **Tremors I.**: A gentle rumble from a distance source as snow shifts as the creaking ice and rock echo
+ - Any creature relying on Tremor sense makes attacks or perception checks at disadvantage
+
+17. **Lightning I.**: A crack of lightening on the unlucky
+ - **Endure:** Each party member rolls D20, the lowest roll takes 1d4 Lightning Damage
+
+18. **Thunder I.**: A threatening crash of elemental thunder
+   - 1 Thunder Damage (Endure or Shelter)
    
-6. **Tremors I.**: A gentle rumble from a distance source as snow shifts as the creaking ice and rock echo
-   
-7. **Thunder I.**: A cloudless sky with deep rolling distant thunder
+19. **Telepathy**: The minds close to you, are connected
+   - You can speak telepathically to any creature in 30ft you share a language with
 
-8. **Conjured Snow**: Snowflakes blink in and out of existence, but remain still once they touch the ground
-
-9-12. **Cold Breeze**:
-   - **Endure:** 1 Cold Damage
-   - **Shelter:** Short Rest with no additional benefits
-   
-13-16. **Tremors**:
-   - **Endure:** -5ft movement
-   - **Shelter:** Short Rest with no additional benefits.
-   
-17-19. **Arcane Snow**: Golden Arcane Snow chaotically drifts through the winds, sparkling to nothing as it touches solid surfaces
-   - **Endure:** 1 Temporary Hitpoint Each Round (reminder Temp HP does not stack)
-   - **Shelter:** Short Rest with no additional benefits.
-   
-20. **Abjuring Winds**: As the winds flow past it leaves behind a faint glimmering protection 
-   - **Endure:** Gain 1d4 + Int Modifier as temporary hitpoints, these last until they are lost or replaced
-   - **Combat:** Gain 1 temporary hitpoint at initiative 25, these temporary hitpoints last for one round
+20. **Silver Snow**: A silvered glimmer in the snowfall 
+   - heal 1d4 hitpoints
     
   
 21-24. **Hail/Rocks**: Massive Hail and Rocks are pelted sporadically through the skies
