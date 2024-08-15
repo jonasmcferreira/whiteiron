@@ -12,10 +12,25 @@
 - **Beast Hunts**: Hunt dangerous creatures that threaten the villages or valuable resources.
 - **Rescue Missions**: Save lost villagers or adventurers trapped in the wilderness.
 
+## Other Explorers
+
+- explorers that enter the J'hed Bay/Coast too many times go missing
+- explorers who visit wasteland never return
+- Groups of more than 10 entering J'hed Bay never return
+- will complete objectives parties don't do
+
+## Other Villages
+
+- rival adventuring party will assist the village party likes least of the 3
+
+## Seat of J'hed
+
+- everyone seems to be oddly afraid of the Noble of J'hed and follow the rules regardless of how hard they would be to enforce
+
 ## Curses
 
 - **Lycanthrope**: many attacks from breasts can bestow the curse of lycanthrope
-- **Remove Curse**: only two NPCs can remove curses
+- **Remove Curse**: only two NPCs can remove curses Whitescale and Sammul
 - **Windego**: eating flesh of any "humanoid" will begin the curse of the Windego
 - **Stone Gaze**: Medusa and Serpent creatures of Jhed can curse people to stone
 
@@ -34,6 +49,10 @@
 - **Missing:** no known reason what happened to this guild, even if thieves were well known
 - **Safe:** lower level exploration
 
+## Nomads
+
+Kobolds, Lizardfolk and Yuan'ti don't have consistent homes, but large groups of them are sometimes spotted entering into the J'hed Wasteland
+
 ## Rocs
 
 These giant hunting birds will give a reason not to fly and reason other empires haven't flown into Jhed. But these Rocs hunt in groups and are immensly powerful foes. Clearing a path will open flying travel to Jhed
@@ -47,3 +66,5 @@ The Thieves Key is interested in controlling the Rocs not killing them. Their ex
 - **Suspicious Activities(2-4):** Though the village is warded, someone seems to be sneaking in and out randomly
 - **Arcane Secrets(2-4):** Sammul belies someone is trying to learn how the glyphs work, maybe to turn them off
 - **Oozing Ruins(2-4):** Reagents for better potions East
+
+
