@@ -1,5 +1,9 @@
 # Monster Types in Jhed
 
+# This doesn't need fluff, just reference / appendix
+
+Keep an idea of what monsters we are using and where
+
 Jhed is a land of harsh climates, ancient mysteries, and forgotten powers, and the monsters that roam this wasteland reflect that grim reality. The creatures found here are not just obstacles—they are part of the living, breathing ecosystem of Jhed, each with its own role to play in the narrative you weave as a Dungeon Master. This guide provides an overview of the most common monster types found in Jhed, along with tips on how to effectively use them in your campaign.
 
 ## Expected Encounters
@@ -20,6 +24,8 @@ The undead are a common sight in Jhed, particularly in the village of Dhuren Tol
 - **Demi Lich:** The feared King of Jhed, this creature’s presence is enough to instill fear in even the most seasoned adventurers.
 - **Dracolich:** A twisted mockery of dragonkind, this undead dragon is both a false vision for the Kobolds and a potential resource for Village Two.
 
+Flameskull, IceSkull?
+
 ### Beasts
 
 The beasts of Jhed are fierce and primal, perfectly adapted to the harsh environment. They range from common predators to ancient megafauna, providing a variety of challenges for your players. Beasts can serve as both encounters and environmental hazards, reminding players that even nature is out to get them in Jhed.
@@ -31,6 +37,8 @@ The beasts of Jhed are fierce and primal, perfectly adapted to the harsh environ
 - **Sabertooth Tiger:** Agile and deadly, these predators are the apex hunters of the tundra.
 - **Giant Sloth:** Slow but incredibly strong, these creatures can turn a simple encounter into a test of endurance.
 
+- Dinosaurs, all of them
+
 ### Giants
 
 Giants in Jhed are remnants of a forgotten age, their massive forms towering over the landscape. These beings can be allies, enemies, or neutral forces, depending on how the players interact with them. Giants add a sense of scale to your encounters, making the players feel small and vulnerable in the face of these ancient beings.
@@ -38,6 +46,9 @@ Giants in Jhed are remnants of a forgotten age, their massive forms towering ove
 - **Hill Giant:** Found in Netrus, Village One, these giants are known for their brute strength and simple minds, often serving as guardians or laborers.
 - **Cyclops:** One-eyed giants with a strong connection to the earth, making them formidable in battle.
 - **Cloud Giants:** Inhabitants of the Frozen Storm Forest, these giants are both majestic and terrifying, wielding the power of the storm.
+
+Ettin - random encounter
+Fomorian
 
 ### Humanoids
 
@@ -50,6 +61,12 @@ Humanoids in Jhed are as varied as they are in the rest of the world, but here t
 - **Lizardfolk:** Cold-blooded and pragmatic, these reptilian humanoids are well-suited to the cold environment of Jhed.
 - **Yuan-ti:** These snake-like beings are driven by dark purposes, often found leading cults or manipulating events from the shadows.
 - **Dwarves:** Hardy and skilled in crafting, the dwarves of Jhed are known for their resilience and their mastery of stone and metal.
+
+Drow
+
+Kenku
+
+Dwarves
 
 **Tribes:** The humanoids of Jhed often form tribes, including Orcs, Goliaths, Kobolds, Yuan-ti, and Lizardfolk. These tribes can be allies or enemies, depending on the party’s actions and the alliances they forge.
 
@@ -70,9 +87,15 @@ Jhed’s unique environment fosters a variety of creatures that are closely tied
 
 - **Azer:** Found in Dhuren Tol, these fiery dwarves are resistant to the cold, making them a surprising but fitting presence in Jhed.
 
+- earth, air, fire, water elemental, wander randomly - small elemental village party can take over?
+
+Galeb Duhr
+
 #### Plant
 
 - **Myconids:** These fungal creatures are common around Oravilla, Village Three, where they form complex, symbiotic relationships with the environment.
+
+Fungi 
 
 #### Monstrosity
 
@@ -84,6 +107,9 @@ Jhed’s unique environment fosters a variety of creatures that are closely tied
 - **Carrion Crawler:** Scavengers that feed on the dead, often found near battlefields or areas with frequent corpses.
 - **Chimera:** A monstrous combination of different creatures, the Chimera is a deadly opponent.
 - **Darkmantle:** These creatures use darkness to their advantage, ambushing their prey from above.
+- Diplacer beast, wild animal?
+- Doppleganger, murder mystery
+
 
 ### Rare Monsters (Reinforce Plot)
 
@@ -96,6 +122,9 @@ Certain creatures in Jhed are rare, appearing only when they are needed to drive
 #### Dragon
 
 - **Deep Gem Dragon:** A lost king of the Underdark, this dragon holds secrets buried deep beneath the ice.
+- Dragon Turtle - in Jhed Bay
+
+Faerie dragon
 
 ### Very Rare Monsters
 
