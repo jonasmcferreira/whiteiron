@@ -9,20 +9,24 @@ Kings whom have tried to conquer Jhed
  Though Zeltrin established some fortifications on the continent of Jhed; some that still remain. The entire army that marched through the Jhed Wasteland including himself went missing
  
  Major reason for survival is the inability to be lost as a Minotaur, great tool for player to find one
+ 
+ Zeltrin has not succumb to madness and will aid whoever he can, but is in a constant state of struggle
 
  **Revelation:** Zeltrin has a fake burial in the Jhed Wasteland and still lives. He has learned the origin of the oozes and knows returning will simply bring the greater threat the the outer regions
 
 ## Osmin, Pretend King, 4112 years ago
 
-Human King, emerged from power vacuum left behind with Zeltrin considered a failure on most fronts, just taking advantage of a crippled system
+Human King, emerged from power vacuum left behind with Zeltrin considered a failure on most fronts, just taking advantage of a crippled system. Osmin understood his failings and had an expedition to find the remains of Zeltrin's forces
 
 There are very few ruins of Omsin's journeys to Jhed making his burial difficult to find
 
-Osmin's undead form gets more powerful each time he is killed
+Osmin's undead form gets more powerful each time he is killed.
 
-**Revelation:** died in Jhed Continent and never made it to the wasteland during a mutany. The harshness of Jhed took the lives of the mutinous. This betrayel cursed the population of Jhed and is the cause of the undead existing here, and Osmin still acts in many undead forms with a twisted mind
+**Revelation:** died in Jhed Continent and never made it to the wasteland during a mutany and his body was cannibalized. The harshness of Jhed took the lives of the mutinous. This betrayel cursed the population of Jhed and is the cause of the undead existing here, and Osmin still acts in many undead forms with a twisted mind
 
 ## Council of Five, 1901 years ago
+
+ **Revelation:** in the attempts of completing "The Great Works" it transformed them into an ooze
 
 The council of Five never controlled the entire Outer Region as Zeltrin, but were very strategic and resourceful with the territories they reigned over. Unquestionably the greatest empire since. 
 
@@ -46,11 +50,15 @@ Frustrated by the two missing council members Evs lead the remaining three and w
 
 Kren seemed to surpass the age of most Kobolds and had a thirst for knowledge like no other. Though constantly reading ancient runes and glyphs trying to map this area, was the most Violent of the Council
 
+Rumors that the existing population is the children of Kren, sometimes nicknamed "Kren-kin"
+
+**Revelation:** Kren has nothing to do with the existing Kobolds
+
 ### "Saint" Assamar Spiritualist
 
 The veto power of the group with the ability to divine and scry for the best causes of action. Saint was rumoured to see into the future, making her demise that much more confusing
 
- **Revelation:** in the attempts of completing "The Great Works" it transformed them into an ooze
+**Revelation:** Saint is the Noble of J'hed, but has memories are altered and won't leave the area she is in. When Saint reached this the Seat of J'hed the voices of her God became quiet, the land before her is godless
 
 ## Urz El DeepStone Dragon, 776 years ago
 
