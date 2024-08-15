@@ -100,13 +100,11 @@ With a plume of red smoke the arcane lock is opened and the door will remain ope
 
 ### UnderRoc Bridge Part 1: First Tower
 
-A sudden halt causes the party to lurch forward; as they steady Don Vras calls back in common "looks suspicious up 'ead". The ice slick smuggling tunnels open to an old but wellmade stone tower. Four figures through the fog are smaller than the expected guards and there is no greeting. A pike with a grey fur banner and two bull horns adorn the opening, the six rams pull at the reign. This was an important spot to resupply
-
+A series of 3 combats counting as 2 "encounters". Stay in initiative order, and if players don't progress after 3 rounds, the Kobolds will act
 
 |Weather|Normal|Lightly Obscure|Heavily Obscure|
 |----|----|----|----|
 |Fog|30ft|60ft|----|
-
 
 **Entrance Bridge** 4 Kobolds
 
@@ -205,7 +203,9 @@ Grey Ooze: moving along the corridor is a grey ooze, a still oil slick patch of 
 
 Attack the highest hitpoint target as the ooze 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack the who is leading the party
   
-### Encounter: Pass
+### Encounter: Pass 
+
+    Dispersing Green Haze: Constitution Save DC 7, poisoned on a failure for 8 hours.
 
     4 Bodies around a broken caravan, once the party investigates they attack
     
@@ -214,6 +214,12 @@ Attack the highest hitpoint target as the ooze 3d6+1 damage and can crit. If the
     A horse per round charges through the fog charging attacking and running away
     
     3 warhorse skeletons
+    
+    There is dead kobolds all around the bridge (Kobolds were fighting the undead)
+    
+    Investigation Check DC 13: There is residue of a powerful poison and the Green Haze
+    
+    Just like most Kobold fights should involve traps, undead fights should involve poison
 
 ### Encounter: Open Wasteland
 
@@ -350,18 +356,19 @@ The piece of equipment is a mechanical cog with an embedded rune. Despite its da
 - **Kobold Leader**: Snivvik the Sly, the mischievous kobold who leads the band that stole the artifact.
 - **Ice Sled**: The Frostrunner, a specially designed sled for travel across the icy terrain of Jhed.
 
-## Level 3,4
 
-- Attempt Jhed Wasteland and realize how futile it currently is
 
-## Level 6
+## Missing Scouts
 
-- Should be able to finally attempt to venture deeper into Jhed Wasteland
+A peak to the southeast had veteran scouts not return (party of 6). It is not uncommon for people to go missing in J'hed but an entire squad of veterans this close, odd.   
+  
+### Ridge Point - 3 day journey
 
-## Reveals
+A stone juts by a ridge giving an easy vantage point for the surrounding area. A difficult climb brings you to a plateau with 1 dead body (not zombie), looking around there is a cave entrance recently dug out.  
+  
+Walking through it (doesn't seem to match geography), will find 3 more bodies before two insane guards are left. They are almost praying at the wall, an old carved doorway and the eyes of all the guards are on the floor. They become hostile and when killed become a hostile shadow
 
-- One of the fallen kings is on the Jhed Continent
-- Dracolich that Kobolds or Village Two want to utilize
-- Each village is built on an ancient Relic, this relic is the only reason these villages can exist
-- Increasing Madness will reveal "truths"
-- Two Sphynxs, one wants a crown from a fallen king. Second wants evidence of "The First Ones"
+Door Puzzle? or Mcguffin to get in
+
+Mini Dungeon first time meeting The First Ones. Cannot communicate unless 1 lvl of madness. When party leaves this dungeon they will be located just outside Netrus
+
