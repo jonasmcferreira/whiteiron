@@ -167,8 +167,6 @@ Fizwidget - gnome inventor, crafter of The Gliding Cloud. Attempting to craft a 
 
 **Unique Feature:** Psionics, communication
 
-**Structure:** Mage Tower (Initially Hostile)
-
 **Bonus**: spell scrolls available here
 
 **Population:** Myconids, Kua-toa, Merfolk, Illithid
@@ -185,7 +183,7 @@ Nameless (Illithid) - village leader
 
 ### Nameless
 
-## NPCs - Population 50
+## NPCs - Population 60
 
 ### Nameless, Sage of Oravilla
 
@@ -195,19 +193,47 @@ Severed connection from the elder brain and connected to something greater, want
 
 **Revelation**: Elder Brain is in a statis, and if the madness is removed from Illithid, it will find and awaken it
 
+### Blub'lub - fluff
+
+**Stats**: Kua Toa, **Language**: undercommon/deep speech **Goal**: collect first one relics, **Weakness**: gullible
+
+Will follow the party and give them no privacy
+
+### Priestess BleeBloo
+
+**Stats**: Kua Toa, **Language**: undercommon/deep speech **Goal**: collect first one relics, **Weakness**: gullible
+
+Believer of the Great Deep Worker, constantly wanting to add worshippers. Has the power to convert other humanoids (willing) into Kua Toas. Sea and Psionic focused races seem to believe what she has to say. And will gladly assist anyone to prove how useful and powerful the Great Deep Worker is by offering Kua Toas (they suck and are useless)
+
+Kua Toa are inherently mad and immune to madness effects. They are simply insane
+
+**Revelation**: Bleebloo can actually summon an ancient evil with enough followers, but when she does it will be destroyed by J'hed, further details later
+
+### Fungal Mage Tower
+
+Abandoned mage tower, denizens haven't dealt with it due to it interfering with psionics
+
 ## Seat of Jhed
 
 - There would be a noble of Jhed in village four. Collecting limited taxes, diplomacy, and the most knowledgable resource of Jhed Wastelands
 
 **Food:** None (important)
 
+**Popultion:** 8
+
 **Unique Feature:** Noble Seat of Jhed
 
 **Structure:** Abandoned Cathedral
 
-**Leader**: Tfen Svilus Goliath
+**Leader**: Lord Tfen (actually aasimar)
 
 faith of "The Prisoned God", that their god is powerless, imprisoned by other gods but rightfully so. Not adjudicators of law but enforce the sentence others have given.
+
+Tfen is "waiting for something", but doesn't know. Nothing in particular is comming she has just gone mad
+
+You do not age while on the Seat of J'hed
+
+**Revelation:** Lord Tfen is "Saint" one of the Council of Five and the only still alive. She has the power to cast True Ressurection but doesn't know it and the rest of her memories are entirely altered
 
 **Significance:** Holy Site
 
