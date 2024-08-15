@@ -1,5 +1,7 @@
 # Mysteries
 
+# will merge with story hooks
+
 ## Cold Blooded Beasts
 
 Why so many Cold Blooded creatures
