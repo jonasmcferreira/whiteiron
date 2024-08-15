@@ -268,3 +268,28 @@ Type Elemental
 Casts a spell of X per round. Example an arcane missle Animated Spell will simply cast a lvl 1 arcane missle each round.
 
 These elementals are not sentient but simply created in moments due to weather of Jhed. These could also be enslaved and they last until killed or weather changes
+
+
+## The Mill - two days from Netrus
+
+Last used by Twin Kings, built Zeltrin empire. Three stories, atop a lonely hill along a windswept valley.
+
+### Encounter - Approach the mill
+
+All ranged attacks miss due to heavy wind
+
+Werewolf (bounty) - only damaged by silvered weapons or spells through silvered spell focus
+
+will retreat to mill if wounded
+
+### Encounter - Inside Mill
+
+2 Werewolves - first will turn back to human and act wounded in the Mill asking for help and to be left alone. Second Werewolf will attack if the party doesn't leave
+
+### Plot
+
+1. Learning about silvered weapons and dealing with werewolves. This is a meeting point and will not be held easily if they attempt to rest.
+
+2. For 3,000g and two months; Netrus can hire guards for the mill and improve the potion quality and population (+1 to Netrus Expansion)
+
+3. The top of the mill has been rebuilt many times and is almost entirely Twin Kings Empire, but beneath the foundation is a small dungeon
