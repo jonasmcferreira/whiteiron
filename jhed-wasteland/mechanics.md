@@ -22,6 +22,10 @@ Survival Check DC 16, on a success roll on wilderness table (to be built)
 
 Investigation Check DC 16, on a sucess roll on scavanged supplies table (to be built)
 
+## Growth
+
+Each village/town will have some default growth conditions. These are mechanics to represent what players can do to improve or destabilize these areas. Every change should come with a new conflict, these should not be perceived as an exhaustive list, but just a suggestion on how to handle the village growths without overthinking
+
 ## Cold Exposure (simplified)
 
 No source of heat? level of exhaustion gained
