@@ -1,31 +1,38 @@
 # Story Hooks
+# Mysteries
 
-## Mysteries of the Arcane Wasteland
+## The Cold Blooded
 
-- **Ancient Artifacts**: Players can search for powerful artifacts from a lost civilization that could change the balance of power or weather.
-- **Frozen Guardians**: Uncover ancient guardians or creatures trapped in ice, awakening as the players disturb their rest.
-- **Arcane Weather Control**: Discover a forgotten magical device or spell that could control the harsh weather, but with great risk.
+Nomadic Yuan-ti with Giant Snakes, Lizardfolk with Dinosaurs, and Kobolds pillage through the lands normally unable to survive these harsh cold climates
 
-## Village Quests
+## The Villages
 
-- **Supply Missions**: Players might need to escort caravans through dangerous routes or retrieve supplies from wrecked ships.
-- **Beast Hunts**: Hunt dangerous creatures that threaten the villages or valuable resources.
-- **Rescue Missions**: Save lost villagers or adventurers trapped in the wilderness.
+Empires have failed, Kings have gone missing, invading armies forgotten yet these four villages remain through everything. Netrus, Dhuren Tol, Oravilla and The Seat of J'hed hold secrets
 
-## Other Explorers
+## Kings of J'hed
 
-- explorers that enter the J'hed Bay/Coast too many times go missing
-- explorers who visit wasteland never return
-- Groups of more than 10 entering J'hed Bay never return
-- will complete objectives parties don't do
+5 known empires have made some attempt to establish themselves in J'hed and each of them it was their final act before their Kings went missing
 
-## Other Villages
+## Unmapped and Warpgates
 
-- rival adventuring party will assist the village party likes least of the 3
+The distance between villages and travel makes little sense in J'hed making it unmapped. Warpgates are scattered making travel passable, but little is known of them or even that people use them as they travel
 
-## Seat of J'hed
+  
+## Ancient Artifacts
 
-- everyone seems to be oddly afraid of the Noble of J'hed and follow the rules regardless of how hard they would be to enforce
+Artifacts older than even the Kings of J'hed
+
+## Revelations of J'hed
+
+There is a madness that permiates through the denizens of J'hed and if cured they will reveal new details of what J'hed really is
+
+## Oozes
+
+Too many oozes, a fragment of an ancient past The First Ones and a source of the madness and concentrated power of J'hed
+
+## Other Explorers and Factions
+
+These will combine with assisting and hindering your progression. Some factions and Explorers will complete or fail the tasks you didn't take. The world isn't paused without you, but their goals their true goals may not match the players interests
 
 ## Curses
 
