@@ -37,6 +37,8 @@ The only safe way to Jhed is the smuggling route through ice tunnels. Any overla
 Brimhest could use any increased trade to create thieves that can operate in Jhed
 Outer Regions could attempt to take Thieves Key and make a heavily taxed port with rigid rules
 
+Improving Thieves Key connection to Dhuren Tol will give enough resources to keep Outer Region at bay
+
 ## Shrink Conflict
 
 Thieves Key is vulnerable to revolt and total failure, this would increase the time it takes for goods to arrive in and out of Jhed. Also remove valuable leads to the Twin Kings Ivis and Iluna
@@ -47,5 +49,21 @@ Contrary to the tone of the town, Thieves Key has talented and elaborate dockwor
 
 ## Loyalists
 
-There are 5 loyalists of old Thieve Kings, if all five are killed, the village will die out, or fall under the influence of the outer empires
+There are 5 loyalists of old Thieve Kings, if all five are killed or abandon, the village will die out, or fall under the influence of the outer empires
+
+### Loyalist 1 - Brimhest
+
+### Loyalist 2 - Don Vras
+
+### Loyalist 3 - unnamed coward
+
+If two or loyalists are killed, Loyalist 3 will abandon.
+
+### Loyalist 4 -  Kraeta "pirate" Sweatclaw - Aarakokra
+
+Can warn party of the challenges of flight in Jhed, has pegleg. Only Aarakocra. Trying to build a plan to control Rocs or get by without killing them
+
+### Loyalist 5 - Vez'yen Poison Merchant
+
+
 
