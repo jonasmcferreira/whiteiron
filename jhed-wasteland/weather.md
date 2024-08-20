@@ -91,12 +91,12 @@ Ideally weather elements change planning and strategy
 | 18   | Calm     | Thunder I.        | N/A       |          |
 | 19   | Calm     | Telepathy         | N/A       |          |
 | 20   | Calm     | Silver Snow       | N/A       |          |
-| 21   | Typical  | Hail              | Con       | 10/-     |
-| 22   | Typical  | Hail              | Con       | 10/-     |
-| 23   | Typical  | Hail              | Con       | 10/-     |
-| 24   | Typical  | Hail              | Con       | 10/-     |
-| 25   | Typical  | Cold              | Con       | 13/7     |
-| 26   | Typical  | Cold              | Con       | 13/7     |
+| 21   | Typical  | Clear Skies       | N/A       |          |
+| 22   | Typical  | Hail II.          | Dex       | 10/-     |
+| 23   | Typical  | Cold II.          | Con       | 10/-     |
+| 24   | Typical  | Snow II.              |       |    |
+| 25   | Typical  | Wind II.              | Str       | 10/-      |
+| 26   | Typical  | Fog II.              |       |      |
 | 27   | Typical  | Cold              | Con       | 13/7     |
 | 28   | Typical  | Cold              | Con       | 13/7     |
 | 29   | Typical  | Fog               |           |          |
@@ -219,8 +219,27 @@ Template
 
 20. **Silver Snow**: A silvered glimmer in the snowfall 
    - heal 1d4 hitpoints
-    
   
+  
+21. **Open Skies**: An oddly opportune weather
+    
+22. **Hail II.**: Hail and Rocks
+   - **Endure:** Dexterity Save (DC 10), 1d8 Bludgeoning Damage or half as much on a successful save
+   - **Shelter:** 1 Bludgeoning Damage
+   
+23. **Cold II.**: Enough Cold to risk exhaustion
+   - **Endure:** Constitution Save (DC 10), 1d6 Cold Damage and one point of exhaustion, or half as much on a successful save
+   - **Shelter:** Constitution Save (DC 7), 1d6 Cold Damage, or half as much on a successful save
+   
+24. **Snow II.**: 
+   - **Endure:** Movement Speed Reduced by 5ft
+
+25. **Wind II.**: 
+   - **Endure:** Stregnth Save (DC 10), one point of exhaustion on a failed save, or half as much on a successful save.
+
+26. **Fog II.**: 
+   - **Endure:** lightly obscured vision past 150ft, heavily obscured past 300ft
+
 21-24. **Hail/Rocks**: Massive Hail and Rocks are pelted sporadically through the skies
    - **Endure:** 1d8 Bludgeoning Damage, Constitution Save (DC 10), on a failed save gain a point of Exhaustion
    - **Shelter:** 1 Bludgeoning DamageShort Rest with no additional benefits.
