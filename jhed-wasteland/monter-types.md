@@ -23,6 +23,8 @@ The undead are a common sight in Jhed, particularly in the village of Dhuren Tol
 - **Death Knight:** An armored terror, these undead warriors are formidable opponents that combine martial prowess with dark magic.
 - **Demi Lich:** The feared King of Jhed, this creature’s presence is enough to instill fear in even the most seasoned adventurers.
 - **Dracolich:** A twisted mockery of dragonkind, this undead dragon is both a false vision for the Kobolds and a potential resource for Village Two.
+Ghoul
+Ghast
 
 Flameskull, IceSkull?
 
@@ -36,6 +38,8 @@ The beasts of Jhed are fierce and primal, perfectly adapted to the harsh environ
 - **Mammoth:** These ancient creatures are rare but formidable, their sheer size and strength making them a daunting challenge.
 - **Sabertooth Tiger:** Agile and deadly, these predators are the apex hunters of the tundra.
 - **Giant Sloth:** Slow but incredibly strong, these creatures can turn a simple encounter into a test of endurance.
+Gnoll?
+
 
 - Dinosaurs, all of them
 
@@ -68,6 +72,11 @@ Kenku
 
 Dwarves
 
+Half Dragon
+
+Deep Gnome
+Kuo Toa
+
 **Tribes:** The humanoids of Jhed often form tribes, including Orcs, Goliaths, Kobolds, Yuan-ti, and Lizardfolk. These tribes can be allies or enemies, depending on the party’s actions and the alliances they forge.
 
 **Lycanthropes:** Some creatures afflicted with the werecurse have fled to Jhed to protect their former communities, but they sometimes lash out unpredictably. The plot may involve curing lycanthropy, though NPCs capable of casting *Remove Curse* are limited. Silvering weapons becomes essential for dealing with these creatures.
@@ -90,6 +99,9 @@ Jhed’s unique environment fosters a variety of creatures that are closely tied
 - earth, air, fire, water elemental, wander randomly - small elemental village party can take over?
 
 Galeb Duhr
+Gargoyle on larger builings
+Genie
+Invisible Stalker
 
 #### Plant
 
@@ -109,7 +121,10 @@ Fungi
 - **Darkmantle:** These creatures use darkness to their advantage, ambushing their prey from above.
 - Diplacer beast, wild animal?
 - Doppleganger, murder mystery
-
+Gorgon - half construct?
+Harpy
+Kraken
+Lamia
 
 ### Rare Monsters (Reinforce Plot)
 
@@ -141,6 +156,7 @@ Mysterious and unpredictable, fey creatures in Jhed are tied to the land’s anc
 #### Construct
 
 - **Animated Objects:** Brought to life by ancient magic, these constructs are often found guarding long-forgotten treasures or ruins.
+Golems 
 
 #### Fiend
 
