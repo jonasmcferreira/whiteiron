@@ -69,6 +69,12 @@ Recently Jhed has experienced a few powerful tectonic events, news that doesn't 
 
 ## Map/World Logistics
 
+The known maps of J'hed are horribly incorrect, and part of this adventure will be figuring out what J'hed really looks like, what it holds and what information is shared to the wider world
+
+### Communication
+
+Bringing information about J'hed to the Outer Regions can bring treasure hunters, political rivals, opportunists or a helping hand.
+
 ### Path to J'hed
 
 - Two months travel from the closest trade point outside of Jhed to the nearest trade post in Jhed.
