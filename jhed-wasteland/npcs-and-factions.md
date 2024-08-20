@@ -136,3 +136,8 @@ Rhendi always jealous of the aarakocra has made it's life work to make them usel
 Rhendi should be the focus of anything mechanical and flying
 
 Progress - hot air balloon tethered to ground as guard tower, gliding wings, winged boots, movable hot air balloon, zepplin
+
+
+## Other Adventurers
+
+Two main groups of adventurers, one rival (opposite goals and allies), the other supportive (group 3 each)
