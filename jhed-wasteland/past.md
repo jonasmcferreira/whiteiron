@@ -11,6 +11,8 @@ Kings whom have tried to conquer Jhed
  Major reason for survival is the inability to be lost as a Minotaur, great tool for player to find one
  
  Zeltrin has not succumb to madness and will aid whoever he can, but is in a constant state of struggle
+ 
+ Architecture from Zeltrin Empire usually built to host both humanoid and giant sized denizens
 
  **Revelation:** Zeltrin has a fake burial in the Jhed Wasteland and still lives. He has learned the origin of the oozes and knows returning will simply bring the greater threat the the outer regions
 
@@ -20,9 +22,9 @@ Human King, emerged from power vacuum left behind with Zeltrin considered a fail
 
 There are very few ruins of Omsin's journeys to Jhed making his burial difficult to find
 
-Osmin's undead form gets more powerful each time he is killed.
+Osmin's undead form gets more powerful each time he is killed. He can become an ally, and can be put to rest by finding remnants of Zeltrin
 
-**Revelation:** died in Jhed Continent and never made it to the wasteland during a mutany and his body was cannibalized. The harshness of Jhed took the lives of the mutinous. This betrayel cursed the population of Jhed and is the cause of the undead existing here, and Osmin still acts in many undead forms with a twisted mind
+**Revelation:** died in Jhed Continent and never made it to the wasteland during a mutany and his body was cannibalized. The harshness of Jhed took the lives of the mutinous. This betrayel cursed the population of Jhed and is the cause of the undead existing here, and Osmin still acts in many undead forms with a twisted mind.
 
 ## Council of Five, 1901 years ago
 
@@ -46,6 +48,8 @@ A protigy of weather control accompanying Fizra to understand and harvest the po
 
 Frustrated by the two missing council members Evs lead the remaining three and within J'hed mastered the Teleportation Circle ability. This made the task seem plausable, but still failed in the end.
 
+Studied the triangle warpgates and crafted a couple teleportation circles
+
 ### "Kren" Kobold Cultist 
 
 Kren seemed to surpass the age of most Kobolds and had a thirst for knowledge like no other. Though constantly reading ancient runes and glyphs trying to map this area, was the most Violent of the Council
@@ -68,7 +72,7 @@ Many individuals from the invading force may still exist in Jhed as they gave up
 
 This is the dragon the Kobolds are drawn to
 
-**Revelation:**
+**Revelation:** Frozen in a glacier
 
 ## The Twins Ivis and Aluna 52 years ago
 
@@ -80,6 +84,8 @@ Master of Blade
 Master of Stealth
 
 Designed the Mega Dungeon for the assassin's smuggling route. This was based off the warp gates, they didn't build them but they used them and mapped them out
+
+An eccentric weapon collector
 
 ### "Aluna" Female Drow Assassin
 
@@ -102,3 +108,4 @@ Aluna learned a way to make a great poison, but it would require a substantial a
 Oozes are the remnants of another plane, a plane transformed entirely into a primordial soup. Interaction with this narrative will be through Madness.
 
 If playing through the late arcs of Jhed (lvl 13+), these Oozes need to be removed from the plane to prevent a similar fate. These oozes aren't acting in a way to destroy the plane but simply their existence causes problems
+
