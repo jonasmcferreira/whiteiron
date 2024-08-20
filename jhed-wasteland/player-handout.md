@@ -107,6 +107,28 @@ Focus on ranged and melee weapon swapping
 
 Theme, stealthy attacks with a brick
 
+### Ranger Rangler (int)
+
+### Druid of Lycanthrope
+
+### Cleric
+
+### Paladin of the Prisoned One
+
+### Sorcerer, Ooze Origin (Cha Dex)
+
+lvl 3, 
+
+False Appearance: A number of times equal to your Dex Mod you can use your Bonus Action to blend into the surroundings as a pool of water/oil/ice
+
+### Wizard of the Great Works
+
+### Artificer Demolitionist
+
+### Monk Way of Exile
+
+### Warlock of Rot
+
 ## Homebrew Spells
 shouldn't be damage spells
 
