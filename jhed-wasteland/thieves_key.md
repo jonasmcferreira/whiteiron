@@ -67,3 +67,12 @@ Can warn party of the challenges of flight in Jhed, has pegleg. Only Aarakocra. 
 
 Thieves Key can help found a thieving network, fall entirely, become a port of the Outer Empire, or linger
 
+### Growth Conflict
+
+Rival Leaders, not all thieves are Loyalists, as Thieves Key grows, rivals will come to challenge Brimhest and sway the party to their side. This conflict makes Thieves Key more vulnerable to the Outer Empires. The players could choose to be this rival faction
+
+## Thieves Key and Bounty Hunters
+
+People will pay a lot of money to become lost in J'hed and The Bounty Hunter's success will tarnish Thieves Key reputation. Aiding the Bountry Hunters will help the Outer Empire while also shrinking The Thieves Key
+
+
