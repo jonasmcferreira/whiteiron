@@ -41,6 +41,20 @@ These will combine with assisting and hindering your progression. Some factions 
 - **Windego**: eating flesh of any "humanoid" will begin the curse of the Windego
 - **Stone Gaze**: Medusa and Serpent creatures of Jhed can curse people to stone
 
+### Lycanthrope
+
+- (hook) Bounty: target seems impervious to damage
+- (hook) Bitten: player bitten by a beast gets the curse of lycanthrope
+- (investigate) Clues: learn about Lycanthrope and Silvered Weapons
+- (conflict) Prep: NPC that can craft Silvered Weapons (100g each)
+- (conflict) Ally: Lycanthropes want to be welcomed into a village (growth +1)
+- (conflict) Village: no village will want this willingly so bargain needs to be made
+- War: If no alliance is made they will be hostile to player
+- (curse) Resist: player struggles against the curse getting effect X
+- (curse) Accept: player becomes a lycanthrope through ritual and gains Y
+- (final) Origin: hunt and kill the first Lycanthrope 
+- (final) Cure: create an immunity for Lycanthrope
+
 ## Kobolds Story Hooks
 
 - **Growing Numbers:** Villagers point out increased Kobold sightings but not increased hostility
