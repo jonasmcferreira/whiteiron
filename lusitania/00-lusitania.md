@@ -1,12 +1,36 @@
 # Lusitania
 
-The basic idea is that of a Lusitanian mythology whose origin is almost divine. Camões took Luso as the supposed "father" of Lusitania. And since Luso is the son of Bacchus, it's easy to draw a line between Lusitanian mythology and Greek mythology. Which is good for me because it allows me to wear the "sword and sandal" or peplum elements that I like so much. Here is an outline of the origins of Lusitania. The text is not final.
+**Era:** Ancient Iberia, during the height of Roman expansion into the western regions.
 
-THE ORIGINS OF LUSITANIA
-The Lusitanians are the bravest of all the tribes. Their origins go back to the great Luso, son of Bacchus, who with his companions arrived from the far east, crossing the Columns of Hercules at the entrance to the Mediterranean. In the wild lands from the Dubro to the River Tago, there were scattered tribes of shepherds and hunters who, at great cost, survived in a constant struggle against the hordes of Ophidians, repellent serpentine creatures who worshipped strange chthonic gods.
-Luso organized the tribes of the region. He taught them many things, but above all, how to fight the threat of the Ophidians. Luso pushed them into the bowels of the earth, whose cavernous entrances were sealed with huge boulders. When the land was appeased, he ordered the construction of the Castro do Cântaro Magro, high up in the Serra da Estrela. There, in the largest of all the castros, the Lusitanians worship Endovelicus, the most important of all the Lusitanian gods.
-When Luso left Lusitania, he left Pá to rule as his representative.
+**Location:** The rugged, mountainous heartland of Lusitania, in what is now central and northern Portugal and western Spain. This land is marked by steep, forested hills, deep river valleys, and ancient stone settlements. The Lusitani people, a proud and fiercely independent Celtic tribe, inhabit these lands.
 
-THE PHOENICIANS AND THE GREEKS
-At that time, the first Phoenician ships arrived and dropped anchor at the mouth of the River
-Tago, where they founded the colony of Allis Ubbo. Enterprising, the Phoenicians soon began trading with the Lusitanians and Allis Ubbo grew from a small colony to the largest city in the region. The place was blessed by Návial whose daughters, the Tágides, protected the waters and the ships that arrived and set sail. The Greeks arrived later and settled further north, in Phókia, bringing with them textiles, jewelry, amphorae and objects of adornment.
+## The Lusitanian Highlands
+
+The Lusitanian Highlands are a region of natural beauty and mysticism, where the veil between the physical world and the spiritual realm is thin. Dense forests of oak and chestnut trees cover the slopes, while ancient stone circles and dolmens stand as reminders of forgotten rites and ancient powers. The Lusitani people live in fortified hilltop settlements known as *oppida*, where they raise cattle, hunt in the wilds, and forge weapons of bronze and iron.
+
+The Lusitani worship a pantheon of gods tied to nature and war, chief among them being Endovelicus, the god of health and prophecy, and Ataegina, the goddess of rebirth and fertility. Druids and seers hold great influence, guiding their people with wisdom drawn from the land and the stars.
+
+## The Roman Threat
+
+The time is one of great turmoil. The Roman Republic, ever-expanding, has turned its gaze toward the rich lands of the Iberian Peninsula. Roman legions, under the command of ambitious generals, have begun their campaigns to subjugate the native tribes, bringing with them the promise of civilization—and the threat of annihilation.
+
+The Lusitani, under the leadership of the charismatic and cunning chieftain Viriathus, have resisted the Roman advance with guerrilla warfare, striking from the shadows of their mountain strongholds. But as the war drags on, the Lusitani face internal strife, dwindling resources, and the ever-present danger of betrayal.
+
+## Themes
+
+1. **Resistance and Rebellion:** The struggle of the Lusitani against the overwhelming might of Rome is central. Players might find themselves leading raids against Roman outposts, sabotaging supply lines, or even negotiating with other tribes to form alliances.
+
+2. **Celtic Mysticism and Magic:** The land is alive with ancient magic. Players may encounter druidic rituals, ancient curses, and powerful artifacts tied to the land. The spirits of ancestors, nature spirits, and even the gods themselves might intervene in the conflict.
+
+3. **Survival and Honor:** The Lusitani are a proud people who value honor, kinship, and bravery. The players will need to navigate complex social dynamics, maintain their honor, and ensure the survival of their people.
+
+4. **The Clash of Cultures:** The Romans bring with them not only war but also culture, technology, and ideas. The players might find themselves torn between the old ways and the allure (or threat) of Roman civilization.
+
+
+## Notable NPCs
+
+1. **Viriathus:** The legendary leader of the Lusitani resistance. Cunning, charismatic, and fiercely dedicated to his people, Viriathus is a key ally and a source of inspiration. However, his methods can be harsh, and he may ask the players to make difficult choices for the greater good.
+
+2. **Livia of Merobriga:** A druidess and seer, Livia is the spiritual heart of her people. She possesses deep knowledge of the old ways and the land's magic. She may guide the players on quests that involve ancient rituals, prophecy, or the discovery of powerful artifacts.
+
+3. **Gaius Marcellus:** A Roman centurion stationed at one of the outposts. Unlike many of his peers, Marcellus is a man of honor who re
