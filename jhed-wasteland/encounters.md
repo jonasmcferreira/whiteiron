@@ -99,18 +99,19 @@ Snowfur will flee and explain that he will torment, harass party when weak, and 
 
 ## Snakes!
 
+There is space on the snow where it seems like there is a crate or a chest something of interest to the players. As the players come close the floors starts moving and snake jumps out and bites the nearest. Player the idea is that if the players stay in the same place then snakes will keep popping out of the ground and attacking which means that the players will have to ready actions to hit the snakes. Once all snakes are dead they can safely explore the chest that was buried and served as the decoy for the trap.
+
 White **Giant Poisonous Snakes** 1
 
 White **Poisonous Snakes** 1d4
 
+The chest is empty.
+
 ### Battlefield
 
 Dunelike snowdrifts battered by strong winds makes each step into the deep crunching snow heavier than the last. A pile of bodies or clothing is spotted in the distance
-  
 Passive Perception 13: for just a moment, one of the ripples of snow seemed to move
-
 Active Perception Check 16: at 30ft, some snow shifts and grey scales move  
-  
 Animal Handling 16 (only Active Perception Passed): staying still might make the snakes move by
 
 ### Fight
@@ -136,7 +137,6 @@ Animal Handling 7: to prevent second wave of same encounter
 Investigation 7: broken eggshells around bodies, most likely food for babies
 Investigation 13: A simple silver ring with a boot emblem (ring of jumping)
 
-
 ## Scroll Burners (will flesh out)
 
 Random Encounters that punish hoarding will encourage adventurers to use what they have and function as a trigger to remind people what they have
@@ -150,7 +150,6 @@ She warns the party that if she is defeated her master will find them
 First Appears when party has 3 scrolls
 
 Posesses party member and burns all their scrolls at 6
-
 
 ## Tower Coil
 
@@ -249,9 +248,10 @@ The party faces a dilemma: The skeletons are clearly undead, and in most cases, 
 
 ### Possible Outcomes
 
-- **Following the Direction:** If the party follows the direction the volunteers are pointing, they’ll find that the path indeed leads toward Dhuren Tol. However, the path is also filled with natural obstacles—treacherous ice, deep snow drifts, etc. The skeletons seem to be directing them towards the safest route, but it’s still not without challenges. If the party follows the skeletons or lets them lead the way, the volunteers will occasionally stop, look back at the party, and give a thumbs-up before continuing to point ahead. Detract 1d4 days travel to Dhuren Tol.
+- **Following the Direction:** If the party follows the direction the volunteers are pointing, they’ll find that the path indeed leads toward Dhuren Tol. However, the path is also filled with natural obstacles—treacherous ice, deep snow drifts, etc. The skeletons seem to be directing them towards the safest route, but it’s still not without challenges. Detract 1d4 days travel to Dhuren Tol.
 
 - **Attempt to Communicate (Charisma Check DC 14):** The skeletons might briefly stop their pointing and move their jaw as if speaking a few words, but nothing comes out of their mouths and then they return to their endless pointing. If asked to guide the party, the skeletons will start walking ahead of the group, continuing to point the way but still in a mechanical, repetitive manner.
+
 - **Dispelling the Magic (Dispel Magic or similar effect):** If the party dispels the magic animating the skeletons, they’ll crumble into piles of bones, their task finally ended. However, this also means the party loses the guidance and must find their own way through the wasteland.
 
 - **Destroying the Skeletons:** If the party chooses to destroy the volunteers, they will find that the skeletons make no attempt to defend themselves. After being destroyed, the remain stay to be consumed by Jhed
@@ -268,7 +268,6 @@ Type Elemental
 Casts a spell of X per round. Example an arcane missle Animated Spell will simply cast a lvl 1 arcane missle each round.
 
 These elementals are not sentient but simply created in moments due to weather of Jhed. These could also be enslaved and they last until killed or weather changes
-
 
 ## The Mill - two days from Netrus
 

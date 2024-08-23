@@ -30,8 +30,7 @@ The world that J'hed exists is not a globe, the continent is designed that it ca
 
 The Jhed Wasteland seems broken in time, as dusk shifts to dawn or day to night without transition. No assurance of how long these moments of light or dark last. Even the stary veil appears random hindering navigation making those that risk such a journey unaware of how long they've been gone. But the beasts who roam and the monstrosities that linger the Jhed Wastelands is a hunting ground. Because of this oddity, denizens of J'hed aren't really aware of how old they are, or how much time passes as there is no constant with weather or migration patterns
 
-### Weather Can Be Good, and for Both Sides
-
+### Weather
 In the vast, unpredictable wilderness of Jhed, the weather is more than just a backdrop—it's an ever-present force that shapes the fate of both friend and foe alike. The harsh conditions are not selective; whether you're a weary adventurer or a lurking predator, the elements will have their say. Yet, Jhed's weather is as capricious as it is brutal. While it can bring bone-chilling cold and blinding blizzards, it also has moments of strange benevolence, where even the most dangerous storms can bring unexpected boons.
 
 #### The Dual Nature of Jhed's Weather
@@ -62,7 +61,6 @@ Jhed is not just a land of relentless hardship; it is also a place where magic i
 
 As a Dungeon Master, you can use Jhed's weather to create dynamic and unpredictable encounters that challenge your players to think on their feet. Encourage your players to consider the weather not just as an obstacle, but as a tool. They might choose to wait out a storm to gain its benefits, or they could try to lure enemies into an exposed position during a blizzard. The key is to make the weather feel like an integral part of the world, one that is as likely to help as it is to harm.
 
-
 ### Tectonics
 
 Recently Jhed has experienced a few powerful tectonic events, news that doesn't reach the other regions. Clearly something has disturbed these glacial wastes, but also created a new opportunity for uncovered riches and knowledge. Entrances lost to thousand year snow now uncovered, but even more now lurks the lands and seas.
@@ -77,7 +75,7 @@ Bringing information about J'hed to the Outer Regions can bring treasure hunters
 
 ### Path to J'hed
 
-- Two months travel from the closest trade point outside of Jhed to the nearest trade post in Jhed.
+- Two months travel from the closest trade point outside of Jhed, South Port, to the nearest trade post in Jhed, Netrus.
 - Peninsula and island keys connect to the continent of Jhed.
 
 ### J'hed Continent
@@ -123,7 +121,7 @@ Travelling in Jhed is not done in straight lines, so distances are very relative
 | **Seat of the Noble Jhed** | 35 | 30     | 20           | -                      | 50          |
 | **Witch's Nip**    | 30        | 4      | 30           | 50                     | -           |
 
-### Key Thieves
+### Thieves Key
 
 - small key of islands is the most direct path to Jhed, these thieves are the last remnants of the Thieves Kings
 

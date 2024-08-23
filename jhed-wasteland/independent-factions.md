@@ -1,19 +1,8 @@
-# Key NPCs and Factions
+# Independent Factions
 
-
-## Thieves Post - Starter town - Loyalists
-
-To be defined
-
-## Trade Port - Winter Fort
+## South Port
 
 Since Jhed is so rich in resources and is isolated once every two months a ship will come heavy on supplies in which the habitants of Jhed will dispose of all their gold and diamonds and or to buy supplies and goods
-
-## The Frost Syndicate (draft)
- 
-**Condition:** if one of the villages increases in size, it opens opportunity for bandits, smugglers and thieves.
-
-**Description:**  A mysterious group that profits from the harsh conditions, possibly engaging in smuggling or black market trading.
 
 ## The Flaming Fools and the Gliding Cloud
 
@@ -108,19 +97,17 @@ The Gliding Cloud is an imposing vessel with a sleek, streamlined design. Its hu
     - Lower trade rates of Relics
     - Sphyx will not offer help
 
-
 ## Bounty Hunters
 
 Though Lawful the code of the snow makes them unliked. All contracts are dead or alive, but alive pays double.
 
-### Brongrith - 
+### Brongrith
 
-Brongrith confirms the corpse or person with a combination of Spead with Dead, or Zone of Truth. He just wants justice to be served and even though is unliked without Jhed, tries but fails to be part of the community. 
+Brongrith confirms the corpse or person with a combination of Spead with Dead, or Zone of Truth. He just wants justice to be served and even though is unliked without Jhed, tries but fails to be part of the community.
 
 ### Plot
 
 If the party doesn't choose to be a bounty hunter, a rival party will. There is always active bounties, a considerable number of them are already dead, and just need to be collected and confirmed
-
 
 ## Artisans of the Great Works
 
@@ -128,6 +115,19 @@ There are few that head to J'hed purely for the isolation and rare resources to 
 
 If any Artisan completes their great works they become mad and hostile
 
+- Flying vehicles
+- potions
+- armor
+- weapons
+- magic items
+- weather control
+- teleportation devices
+- homunculi crafting
+- golem craftings
+- planar travel
+- calligraphy
+- document forgery
+- lockboxes, locks and all related
 
 ### Kenku Rhendi - Skycrafter
 
@@ -137,6 +137,9 @@ Rhendi should be the focus of anything mechanical and flying
 
 Progress - hot air balloon tethered to ground as guard tower, gliding wings, winged boots, movable hot air balloon, zepplin
 
+### The Great Works
+
+drove the council of five mad
 
 ## Other Adventurers
 

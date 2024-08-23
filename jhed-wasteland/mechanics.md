@@ -16,7 +16,7 @@ Choices and consequences could lead to key NPC functions becoming unavailable, l
 
 ### Scavenging for food/water
 
-There is no easy meal or prey in J'hed, 
+There is no easy meal or prey in J'hed,
 
 Survival Check DC 16, on a success roll on wilderness table (to be built)
 
@@ -29,9 +29,7 @@ Each village/town will have some default growth conditions. These are mechanics 
 ## Cold Exposure (simplified)
 
 No source of heat? level of exhaustion gained
-
 Burning supplies is acceptable form of heat
-
 Ignore if you have cold resistance
 
 ## Exhaustion Levels (old), we could use this...
