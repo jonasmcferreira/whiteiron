@@ -30,7 +30,7 @@ Osmin's undead form gets more powerful each time he is killed. He can become an 
 
  **Revelation:** in the attempts of completing "The Great Works" it transformed them into an ooze
 
-The council of Five never controlled the entire Outer Region as Zeltrin, but were very strategic and resourceful with the territories they reigned over. Unquestionably the greatest empire since. 
+The council of Five never controlled the entire Outer Region as Zeltrin, but were very strategic and resourceful with the territories they reigned over. Unquestionably the greatest empire since.
 
 By forming an alliance of the common interests in the persuits of arcane knowledge they became the most powerful spellcasters to exist. And they were friends, managing to have little dispute between themselves as they all wanted to learn these secrets.  
   
@@ -50,7 +50,7 @@ Frustrated by the two missing council members Evs lead the remaining three and w
 
 Studied the triangle warpgates and crafted a couple teleportation circles
 
-### "Kren" Kobold Cultist 
+### "Kren" Kobold Cultist
 
 Kren seemed to surpass the age of most Kobolds and had a thirst for knowledge like no other. Though constantly reading ancient runes and glyphs trying to map this area, was the most Violent of the Council
 
@@ -58,7 +58,7 @@ Rumors that the existing population is the children of Kren, sometimes nicknamed
 
 **Revelation:** Kren has nothing to do with the existing Kobolds
 
-### "Saint" Assamar Spiritualist
+### "Saint" Aasimar Spiritualist
 
 The veto power of the group with the ability to divine and scry for the best causes of action. Saint was rumoured to see into the future, making her demise that much more confusing
 

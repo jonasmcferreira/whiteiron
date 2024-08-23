@@ -233,8 +233,6 @@ Attack the highest hitpoint target as the ooze 3d6+1 damage and can crit. If the
 
 **Bounty Hunters:** Though bounty hunters act within the law, they are despised by the population of Jhed, disputes should be handled personally. This makes Jhed a home for new beginnings of shady characters
 
-
-
 **Ascended Kobold:**
 
     Twice per long rest: bless, inflict wounds

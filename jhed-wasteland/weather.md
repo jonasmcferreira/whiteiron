@@ -94,9 +94,9 @@ Ideally weather elements change planning and strategy
 | 21   | Typical  | Clear Skies       | N/A       |          |
 | 22   | Typical  | Hail II.          | Dex       | 10/-     |
 | 23   | Typical  | Cold II.          | Con       | 10/-     |
-| 24   | Typical  | Snow II.              |       |    |
-| 25   | Typical  | Wind II.              | Str       | 10/-      |
-| 26   | Typical  | Fog II.              |       |      |
+| 24   | Typical  | Snow II.          |           |          |
+| 25   | Typical  | Wind II.          | Str       | 10/-     |
+| 26   | Typical  | Fog II.           |           |          |
 | 27   | Typical  | Cold              | Con       | 13/7     |
 | 28   | Typical  | Cold              | Con       | 13/7     |
 | 29   | Typical  | Fog               |           |          |

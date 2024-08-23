@@ -13,10 +13,9 @@ One way to make NPCs important is to limit overlapping function. If an NPC has a
 
 Breaking the snowdrift is a constant plume of smoke, a village teetering at the cliffs to overlook the Jhed Wasteland. On the left, a lonely stone spire jutting towards the expanse. The rest, a collection of dark wooden longhouses flickering a dim glow of business and respite. The closest structure, a modest two story watch tower signalling your presence has been noticed. At closer inspection, it almost comes across as an ampitheatre with glyphed stonework bordering this break of wilderness. 
 
+### NPCs - Population 20
 
-## NPCs - Population 20
-
-### "Nick" Ugris, Head of Netrus 
+### "Nick" Ugris, Head of Netrus
 
 **Stats**: Hill Giant/Storm Giant, **Language**: Giant **Goal**: Keep Netrus Safe, **Weakness**: Rules only by force
 
@@ -25,7 +24,6 @@ Often found outside, "Giant Home" the spire in Netrus to overlook the wasteland 
 Nick does not interfere until he is asked with village disputes, but his decisions aren't questioned. The first time someone may act against Netrus he will simply warn the offender, next is exile and the hospitality of Netrus is gone. Any other acts against Netrus will make Nick hostile
 
 Nick will not leave the village for more than a few hours, believing Netrus will be attacked if it loses his protection (he is right)
-
 
 **Special Rewards**: Hill Giant Belt, and the ability to improve it up qualities
 
@@ -105,6 +103,19 @@ Each day something of value is thrown off the cliff as a sacrifice to the gods
 
 ## Dhuren Tol
 
+**Description:**
+
+Welcome to Duren Thol, one of the unique border towns of the Jhed Continent. This village, inhabited by around 50 dwarves, exudes an eerie yet bustling atmosphere. As you arrive, the first thing you notice is the constant presence of skeletons patrolling the streets and performing various menial tasks, albeit poorly. Despite the unsettling sight, the town is alive and its inhabitants are well.
+
+The dwarves of Duren Thol are resilient and industrious, primarily engaged in mining activities to extract stone and precious gems, which are their main trade resources. The town is known for its excellent quality stone and gems, making it a valuable settlement for obtaining mined materials.
+
+A unique agreement exists in Duren Thol: whenever a resident dies or reaches the end of their life, they are offered the chance to be converted into an undead worker, a practice regarded with honor and respect. These undead workers are called **The Volunteers** by the townsfolk, a title that reflects both reverence and practicality.
+
+The constant patrolling and laboring of these Volunteers contribute to the town's smooth functioning. However, it is obvious to any observer that a necromancer is present in the village, though their identity remains a mystery. The inhabitants understand that uncovering and eliminating the necromancer would be detrimental, as the undead workers kept underground would turn on the town. Thus, the necromancer's presence is tacitly accepted, and the town continues to run efficiently under this dark yet effective system.
+
+Necromancer (unknown) - controls undead, but lost in Jhed Wasteland
+Fizwidget - gnome inventor, crafter of The Gliding Cloud. Attempting to craft a ship to endure Jhed Wasteland
+
 ### Three Dwarves - Leader
 
 **Goal**: To make Dhuran Tol the center of the empire of J'hed
@@ -125,11 +136,9 @@ These three balance their talents with an army of "volunteers" undead to create 
 
 Fizwidget just wants to tinker and create, will create things on her own but can be inspired to a specific direction. Fizwidget is the only person that can craft a magic item, but doesn't know the process, simply an inspiration comes
 
-
 **Revelation**: will start crafting an army of animated objects and a mechanical moving shop that can burrow
 
-
-### Feature 
+### Feature
 
 The town of Dhuren Tol is poisoned through smoke, ash and chemical fumes. You are poisoned while in Dhuran Tol and take 1 poison damage each day.
 
@@ -148,18 +157,6 @@ Dhuren Tol is simply shaped as a castle wall, with the tight interious being the
 - Purchasable zombie slave work.
 - No one knows the necromancer.
 
-**Description:**
-
-Welcome to Durenthal, one of the unique border towns of the Jhed Continent. This village, inhabited by around 50 dwarves, exudes an eerie yet bustling atmosphere. As you arrive, the first thing you notice is the constant presence of skeletons patrolling the streets and performing various menial tasks, albeit poorly. Despite the unsettling sight, the town is alive and its inhabitants are well.
-
-The dwarves of Durenthal are resilient and industrious, primarily engaged in mining activities to extract stone and precious gems, which are their main trade resources. The town is known for its excellent quality stone and gems, making it a valuable settlement for obtaining mined materials.
-
-A unique agreement exists in Durenthal: whenever a resident dies or reaches the end of their life, they are offered the chance to be converted into an undead worker, a practice regarded with honor and respect. These undead workers are called **The Volunteers** by the townsfolk, a title that reflects both reverence and practicality.
-
-The constant patrolling and laboring of these Volunteers contribute to the town's smooth functioning. However, it is obvious to any observer that a necromancer is present in the village, though their identity remains a mystery. The inhabitants understand that uncovering and eliminating the necromancer would be detrimental, as the undead workers kept underground would turn on the town. Thus, the necromancer's presence is tacitly accepted, and the town continues to run efficiently under this dark yet effective system.
-
-Necromancer (unknown) - controls undead, but lost in Jhed Wasteland
-Fizwidget - gnome inventor, crafter of The Gliding Cloud. Attempting to craft a ship to endure Jhed Wasteland
 
 ## Oravilla
 
@@ -183,7 +180,7 @@ Nameless (Illithid) - village leader
 
 ### Nameless
 
-## NPCs - Population 60
+### NPCs - Population 60
 
 ### Nameless, Sage of Oravilla
 
