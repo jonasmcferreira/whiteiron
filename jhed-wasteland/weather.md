@@ -97,7 +97,7 @@ Ideally weather elements change planning and strategy
 | 24   | Typical  | Snow II.          |           |          |
 | 25   | Typical  | Wind II.          | Str       | 10/-     |
 | 26   | Typical  | Fog II.           |           |          |
-| 27   | Typical  | Cold              | Con       | 13/7     |
+| 27   | Typical  | Tremors II.       | Dex       | -/-/10   |
 | 28   | Typical  | Cold              | Con       | 13/7     |
 | 29   | Typical  | Fog               |           |          |
 | 30   | Typical  | Fog               |           |          |
@@ -239,6 +239,11 @@ Template
 
 26. **Fog II.**: 
    - **Endure:** lightly obscured vision past 150ft, heavily obscured past 300ft
+   
+27. **Tremors II.**: 
+   - Half distance travelled 
+   - **Combat:** Dexterity Save (DC 10) each round, else knocked prone
+
 
 21-24. **Hail/Rocks**: Massive Hail and Rocks are pelted sporadically through the skies
    - **Endure:** 1d8 Bludgeoning Damage, Constitution Save (DC 10), on a failed save gain a point of Exhaustion
