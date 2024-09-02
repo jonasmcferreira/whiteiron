@@ -8,7 +8,7 @@ Since Jhed is so rich in resources and is isolated once every two months a ship 
 
 **Name:** The Flaming Fools
 
-**Captain:** Captain Thaddeus Winterbourne
+**Captain:** Captain Thaddeus Winterbourne - Werewhale
 
 **Ship:** The Gliding Cloud
 
@@ -108,6 +108,12 @@ Brongrith confirms the corpse or person with a combination of Spead with Dead, o
 ### Plot
 
 If the party doesn't choose to be a bounty hunter, a rival party will. There is always active bounties, a considerable number of them are already dead, and just need to be collected and confirmed
+
+### Wanted
+
+Gregor Smith, human male - murder of town guard and his family (Werewolf)
+Ezilya Writter, elf female - stolen goods from Capital Academy (Great Works, found dead)
+Pablis Miner, dwarf female - slander against House Brenna Shortbeard (in Netrus)  
 
 ## Artisans of the Great Works
 
