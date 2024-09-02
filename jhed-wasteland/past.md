@@ -15,6 +15,8 @@ Kings whom have tried to conquer Jhed
  Architecture from Zeltrin Empire usually built to host both humanoid and giant sized denizens
 
  **Revelation:** Zeltrin has a fake burial in the Jhed Wasteland and still lives. He has learned the origin of the oozes and knows returning will simply bring the greater threat the the outer regions
+ 
+ T1: UnderRoc Bridge built by Zeltrin's Empire
 
 ## Osmin, Pretend King, 4112 years ago
 
@@ -26,6 +28,8 @@ Osmin's undead form gets more powerful each time he is killed. He can become an 
 
 **Revelation:** died in Jhed Continent and never made it to the wasteland during a mutany and his body was cannibalized. The harshness of Jhed took the lives of the mutinous. This betrayel cursed the population of Jhed and is the cause of the undead existing here, and Osmin still acts in many undead forms with a twisted mind.
 
+T1: Ghost that is haunting players
+
 ## Council of Five, 1901 years ago
 
  **Revelation:** in the attempts of completing "The Great Works" it transformed them into an ooze
@@ -35,6 +39,8 @@ The council of Five never controlled the entire Outer Region as Zeltrin, but wer
 By forming an alliance of the common interests in the persuits of arcane knowledge they became the most powerful spellcasters to exist. And they were friends, managing to have little dispute between themselves as they all wanted to learn these secrets.  
   
 To them Jhed was a fairytale and the stories of Zeltrin and his failed adventure silly a waste of effort. Eventually their studies brought samples of the arcane powers weaved into the very nature of Jhed, so two members were dispatched, they never work alone.
+
+T1: Teleportation Triangles
 
 ### "Fizra Bubbles" Female Gnome Inventor
 
@@ -74,9 +80,13 @@ This is the dragon the Kobolds are drawn to
 
 **Revelation:** Frozen in a glacier
 
+T1: Odd amount of underdark denizens in J'hed
+
 ## The Twins Ivis and Aluna 52 years ago
 
 These twins were identical in visuals and used this to great effect. It wasn't until their downfall that most knew there was two of them. May be possible that the Kobolds new knowledge of traps and sources of their material come from those theiving caravans
+
+T1: Thieves Key and smugglers past is the remnants of this empire
 
 ### "Ivis" Male Drow Assassin
 
