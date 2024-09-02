@@ -30,6 +30,20 @@ Bounty Hunter
 
 Missing Family
 
+## Languages (Get common and one other)
+
+Draconic
+Giant
+Undercommon
+Thieves Cant
+
+Dwarvish
+Elven
+
+**Primordial
+**Deepspeech
+**Abyssal
+
 ## creatures you'll find
 
 humanoids
@@ -53,13 +67,13 @@ Count as a spell caster for the purpose of attunement
 
 Spellcaster, can cast each spell once per long rest, Int is spellcasting Modifier
 
-|Level|Spell lvl|Spell Name|
-|----|----|----|
-|3|1|Jump|
-|5|2|Find Traps|
-|9|3|Blink|
-|13|4|Confusion|
-|17|5|Seeming|
+| Level | Spell lvl | Spell Name |
+|-------|-----------|------------|
+| 3     | 1         | Jump       |
+| 5     | 2         | Find Traps |
+| 9     | 3         | Blink      |
+| 13    | 4         | Confusion  |
+| 17    | 5         | Seeming    |
 
 lvl 6
 
@@ -97,11 +111,28 @@ lvl 6
 
 lvl 14
 
-### Fighter, Weapon Master (Charima?)
+### Fighter, Weapon Master
 
 Theme, showoff by changing weapons all the time to show how great they are
   
 Focus on ranged and melee weapon swapping
+
+lvl 3
+
+can both stow and draw a weapon as part of the attack action
+can equip a shield as a bonus action
+
+If you hit with a Ranged Weapon (not thrown), your next melee attack adds your Charisma modifier to damage as well
+
+lvl 7
+
+Fighting Styles that apply to a specific weapon type, apply to all weapons
+
+lvl 10
+
+lvl 15
+
+lvl 18
 
 ### Rogue, Bruiser (Dex Str based)
 
