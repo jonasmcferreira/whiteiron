@@ -4,15 +4,11 @@
 
 Eating fresh raw meat or fruits of Jhed wilderness have mostly positive effects. 
 
-|roll|meat|berry|humanoid|
-|----|----|-----|-----|
-|1|poisoned|-----|curse|
-|2-19|cold resistance 24 hours|-----|curse|
-|20|specific to mob|-----|curse|
-
-## Replacing Key NPCs
-
-Choices and consequences could lead to key NPC functions becoming unavailable, like the ability to remove curse depending on the party compositions. To replace an NPC the party has to convince an outsider of the Outer Regions to endure and live in Jhed, the easiest way to do this is gold, and it would be difficult for this cost to be less than 5,000gps
+| roll | meat                     | berry | humanoid |
+|------|--------------------------|-------|----------|
+| 1    | poisoned                 | ----- | curse    |
+| 2-19 | cold resistance 24 hours | ----- | curse    |
+| 20   | specific to mob          | ----- | curse    |
 
 ### Scavenging for food/water
 
@@ -22,6 +18,29 @@ Survival Check DC 16, on a success roll on wilderness table (to be built)
 
 Investigation Check DC 16, on a sucess roll on scavanged supplies table (to be built)
 
+
+## Replacing Key NPCs
+
+Choices and consequences could lead to key NPC functions becoming unavailable, like the ability to remove curse depending on the party compositions. To replace an NPC the party has to convince an outsider of the Outer Regions to endure and live in Jhed, the easiest way to do this is gold, and it would be difficult for this cost to be less than 5,000gps
+
+## Macguffin
+
+### Scaleplum 
+
+a deep blue fruit that grows on J'hed shrubs in the shape of a bumpy plum/acorn
+ - consuming one grants cold resist for 8 hours
+ - can be used to create combination healing/cold resist potion
+
+### Steel Quartz
+
+indestructable material found in J'hed, it can't be reshaped by any means
+   - immunity to all damage
+
+### Ooze Ichor
+
+remnants of oozes
+   - causes hallucinations when touched
+   
 ## Growth
 
 Each village/town will have some default growth conditions. These are mechanics to represent what players can do to improve or destabilize these areas. Every change should come with a new conflict, these should not be perceived as an exhaustive list, but just a suggestion on how to handle the village growths without overthinking
