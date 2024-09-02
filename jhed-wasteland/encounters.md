@@ -1,5 +1,20 @@
 # Encounters
 
+## Random Encounter Table
+
+| D100 | Creature   | CR | Notes |
+|------|------------|----|-------|
+| -    | -          | -  | -     |
+| 1    | Ooze       | -  | -     |
+| 1    | Undead     | -  | -     |
+| 1    | Kobold     | -  | -     |
+| 1    | Yuanti     | -  | -     |
+| 1    | Lizardfolk | -  | -     |
+| 1    | Fungi      | -  | -     |
+| 1    | Werewolf   | -  | -     |
+| 1    | Beast      | -  | -     |
+| 1    | Giant      | -  | -     |
+
 ## The Poison Merchant
 
 Vez'yen is a reclusive poison merchant found at the entrance of an abandoned mine. This encounter tests the party's resilience and wits through various challenges involving poison.
