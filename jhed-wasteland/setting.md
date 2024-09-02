@@ -109,6 +109,14 @@ To make Jhed the size of a continent and not just have players do 50 sessions of
 
 These Warp Points will be able to be modified to change where they go to as more is discovered about Jhed
 
+### People with Magic
+
+Though J'hed seems infused with magic, the Outer Region is limited. Casters with the ability of Cantrips can be found in most towns, but leveled spells are rare and beyond level two spells are only heard of by The Council Five.
+
+### Magic Items
+
+Fabricating common magic items is possible, however anything uncommon or greater are "unique". This means that their is only one on the entire plane. Bringing an magic item from another plane to this one causes the new one to fade from existence. These items are imbued uniquely from the weave thus become items of lore and legend
+
 ### Overland Travel
 
 Travelling in Jhed is not done in straight lines, so distances are very relative. When travelling you must take into account that the terrain is unmappable, as it is contantly shifting with storms and the nature of ice, plus getting lost and back on track is a common occurrence and skill in Jhed.
