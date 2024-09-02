@@ -70,6 +70,13 @@ These will combine with assisting and hindering your progression. Some factions 
 - **Missing:** no known reason what happened to this guild, even if thieves were well known
 - **Safe:** lower level exploration
 
+## Lizardfolk
+
+- Run into a large group of Lizardfolk and challenged
+- Offered to come to their settlement or captured
+- Challenge to Tame some beasts
+- They will help Netrus if they can be King of Netrus and build a Gladiator Arena
+
 ## Nomads
 
 Kobolds, Lizardfolk and Yuan'ti don't have consistent homes, but large groups of them are sometimes spotted entering into the J'hed Wasteland
