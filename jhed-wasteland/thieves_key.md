@@ -24,6 +24,8 @@ Short even to describe a dwarf, hairy even to describe a dwarf, grumpy even to d
 
 **Race**: Dwarf, **Trade**: "Mayor", **Goal**: rebuild thieves guild , **Weakness**: Ambition/Rare Ale,
 
+**Items:** Brimhest has a Sending Stone (first)
+
 ## Features
 
 Depressing would be the one word to describe the Thieves Key, a town of drunk traders and thieves not worth the hassle of law. There are a few signs of the old success, an extravagant piece of jewelry or tattered embossed formalwear, now just relics. Those running the town; Brimhest and his crew, seem to know everything that is going on. As long as business moves, there is no interference. 
@@ -54,6 +56,14 @@ Can warn party of the challenges of flight in Jhed, has pegleg. Only Aarakocra. 
 
 ### Loyalist 5 - Vez'yen Poison Merchant
 
+**Items:** Vez'yen has a Sending Stone (second)
+
+## Transport Costs
+
+Any delivery from Thieves Key to Netrus has a cost of transporation, this cost is per person required to haul the items
+
+Friendly - 17.4gp
+Neutral - 50gp
 
 ## Growth
 
@@ -75,4 +85,6 @@ Rival Leaders, not all thieves are Loyalists, as Thieves Key grows, rivals will 
 
 People will pay a lot of money to become lost in J'hed and The Bounty Hunter's success will tarnish Thieves Key reputation. Aiding the Bountry Hunters will help the Outer Empire while also shrinking The Thieves Key
 
+## Rival Southpost
 
+Southpost is part of the Outer Region and if Southpost gains enough wealth and power will take over Thieves Key
