@@ -2,93 +2,89 @@
 
 ## Random Encounter Table
 
-| D100 | Creature   | CR | Notes |
-|------|------------|----|-------|
-| -    | -          | -  | -     |
-| 1    | Ooze       | -  | -     |
-| 1    | Undead     | -  | -     |
-| 1    | Kobold     | -  | -     |
-| 1    | Yuanti     | -  | -     |
-| 1    | Lizardfolk | -  | -     |
-| 1    | Fungi      | -  | -     |
-| 1    | Werewolf   | -  | -     |
-| 1    | Beast      | -  | -     |
-| 1    | Giant      | -  | -     |
+| D100 | Creature               | CR | Notes |
+|------|------------------------|----|-------|
+| -    | -                      | -  | -     |
+| 1    | Ooze                   | -  | -     |
+| 2    | Undead                 | -  | -     |
+| 3    | Kobold                 | -  | -     |
+| 4    | Yuanti                 | -  | -     |
+| 5    | Lizardfolk             | -  | -     |
+| 6    | Fungi                  | -  | -     |
+| 7    | Werewolf               | -  | -     |
+| 8    | Beast                  | -  | -     |
+| 9    | Giant                  | -  | -     |
+| 10   | Chasm                  | -  | -     |
+| 11   | Lost                   | -  | -     |
+| 12   | Gambling Glacial Bears | -  | -     |
+| 13   | Dead Bodies            | -  | -     |
+| 14   | Vez'yen Poisoneer      | -  | -     |
 
-## The Poison Merchant
+### Chasm
 
-Vez'yen is a reclusive poison merchant found at the entrance of an abandoned mine. This encounter tests the party's resilience and wits through various challenges involving poison.
+A chasm blocks the pass as far as you can see, it is 45ft at the thinnest point.  
 
-When the party arrives for the first time, the entrance to the abandoned mine is dark and foreboding. Inside, the party finds a small, empty storage shed. Within the shed are a bell and two cups placed on a dusty table.
+Go around Survival Check DC 16, 1 day extra travel on success, 1d4 days on a failure
 
-The cups contain a mild poison which is sweet to the smell. Anyone who drinks from them must make a DC 10 Constitution saving throw. On a failure, they are poisoned for 24 hours.
+### Lost
 
-Ringing the bell will alert Vez'yen, an old drow with pock-marked skin, approximately 600 years old who usually is further into the mine, in his hidden laboratory.
+Add 1d4 days to travel
+
+### Gambling Glacial Bears
+
+Three bears are gambling and speaking common
+
+They don't know why they can speak
+
+They have a total of 1d4*100g between them
+
+### 1d4 Dead Bodies
+
+The remains of brave travellers
+
+### Vez'yen Poisoneer
+
+Over the corpse of a beast Vez'yen is extracting poison. He will inform the party of his shop and welcome them to join him
+
+## Vez'yen Poisoneer
+
+Vez'yen is a reclusive poison merchant found at the entrance of an abandoned mine. An old drow with pock-marked skin, approximately 600 years old. Vez'yen's demeanor is enigmatic and slightly sinister, always adding to the tension. Despite his mysterious nature, Vez'yen is an "honest" merchant
+
+**Items:** sending stone
+
+**Stat:** Assassin
+
+### Shop
+
+A wood sign creeks loudly with the wind as if an eerie welcome call at this haphazard mine entrance. It just seems to be planks barely held together
+
+Inside; empty crates, snow drifts, broken glass, the smell of fumes and a tarnished service bell at the desk. A heavy door blocks the mine passage (locked DC 16)
+
+Ringing the bell will alert Vez'yen, whom usually is further into the mine, in his laboratory.
 
 While waiting for Vez'yen, the party is exposed to toxic fumes, as a strong chemical smell seems to permeate the air. Each member must make a DC 13 Constitution saving throw. On a failure, they take 3d6 poison damage, or half as much on a successful save.
 
-Vez'yen's demeanor is enigmatic and slightly sinister, adding to the tension of the encounter. Despite his mysterious nature, Vez'yen is still a merchant, so he prefers if the party succeeds and becomes his customer.
-
-Vez'yen challenges the party to a test of mind. Each participant must take a shot of a potent poison and make a DC 13 Intelligence saving throw. On a failure, they suffer 3d6 psychic damage and are rendered unconscious for six seconds.
-
-### Outcome
-
-- If the party successfully overcomes the challenges, Vez'yen becomes a valuable resource. He can:
-  - Provide a variety of common poisons.
-  - Identify unknown poisons brought to him.
-  - Offer gold for creatures that can produce poison, encouraging the party to hunt specific beasts.
-
-### Additional Notes
-
-- The mine and the surrounding area have additional hidden entrances and escape routes that Vez'yen frequently uses.
-- If the party decides to attack Vez'yen, he will quickly slide into a secret trapdoor and go deeper into the mine, releasing a burst of toxic cloud into the mine entrance where the players are. Each player must make a DC 15 Constitution saving throw. On a failure, they fall unconscious for 2d4 hours; on a success, they take 3d8 poison damage. If they all fall unconscious, Vez'yen will take gold from the party and leave them at the entrance with a note explaining that he took money for the damages. His prices will go up until they complete a task for him.
+Vez'yen challenges anyone who does business with him the first time. Each participant must drink with him as he pours a glass. A potent poison make a DC 13 Intelligence saving throw. On a failure, they suffer 3d6 psychic damage and are rendered unconscious for a round.
 
 ### Shop Items
 
-Vez'yen offers a wide selection of poisons for sale, each carefully crafted and potent. All poisons priced under 1000 gp can be purchased here. For a detailed list of available poisons, please refer to the Dungeon Master's Guide (DMG), page 257.
+Vez'yen can sell all poisons priced under 1000gp. For a detailed list of available poisons, please refer to the Dungeon Master's Guide (DMG), page 257.
 
-Vez'yen also provides special quests for those seeking rarer and more dangerous poisons:
+Vez'yen is trying to acquire a Wyvern for the purpose of extracting poison, and can direct the party to a general location. This beast is also an interest to the Kobolds
 
-- **Hunting a Purple Worm**: Embark on a perilous journey to track and extract venom from a Purple Worm. Successfully completing this quest allows you to purchase or create Purple Worm Poison.
-- **Hunting a Wyvern**: Undertake the challenge of hunting a deadly Wyvern. Completing this quest grants access to Wyvern Poison.
+Ideally Vez'yen would collect a bunch to extract regularly but he would need constant help
 
-### Vez'yen, Reclusive Poison Merchant
+### Loyalist and Great Artisan
 
-**Medium humanoid (drow), neutral evil**
+Wanting to bolster the Thieves Key with the abilities he learns deep in J'hed
 
-**Armor Class**: 15 (studded leather armor)
-**Hit Points**: 75 (10d8 + 30)
-**Speed**: 30 ft.
+### Combat
 
-**STR**: 10 (+0)  
-**DEX**: 18 (+4)  
-**CON**: 14 (+2)  
-**INT**: 16 (+3)  
-**WIS**: 12 (+1)  
-**CHA**: 14 (+2)  
+Vez'yen will run deeper into his cavern until the party is overcome with Drow Poison (DC 13 Con Save each round). Vez'yen will then remove all the gold from the party for the hostilities and tell the Thieves Key of their actions. He will still do business with the party but the cost is double.
 
-**Skills**: Deception +6, Insight +5, Perception +5, Stealth +8
-**Senses**: Darkvision 120 ft., Passive Perception 15
-**Languages**: Common, Elvish, Undercommon
-**Challenge**: 4 (1,100 XP)
+### Joining Netrus
 
-**Abilities**:
-- **Fey Ancestry**: Vez'yen has advantage on saving throws against being charmed, and magic can't put him to sleep.
-- **Innate Spellcasting**: Vez'yen's spellcasting ability is Charisma (spell save DC 14). He can innately cast the following spells, requiring no material components:
-  - At will: *Dancing Lights*
-  - 1/day each: *Darkness*, *Faerie Fire*, *Levitate (self only)*
-- **Poison Resistance**: Vez'yen has advantage on saving throws against poison and resistance to poison damage.
-
-**Actions**:
-- **Multiattack**: Vez'yen makes two attacks with his poisoned dagger.
-- **Poisoned Dagger**: *Melee Weapon Attack*: +8 to hit, reach 5 ft., one target. *Hit*: 7 (1d4 + 4) piercing damage plus 10 (3d6) poison damage.
-- **Toxic Cloud (Recharge 5-6)**: Vez'yen releases a burst of toxic gas. Each creature within 10 feet of him must make a DC 15 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much on a successful one.
-
-**Reactions**:
-- **Escape Artist**: When Vez'yen is hit by an attack, he can use his reaction to move up to half his speed and hide.
-
-**Legendary Actions** (1/Day):
-- **Evasion**: If Vez'yen fails a Dexterity saving throw, he can choose to succeed instead.
+Vez'yen will join the village of Netrus if the Bounty Hunter's are driven out
 
 ## Emeal "Snowfur" The Tax Man
 
