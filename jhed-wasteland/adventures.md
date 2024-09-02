@@ -443,3 +443,37 @@ Door Puzzle? or Mcguffin to get in
 
 Mini Dungeon first time meeting The First Ones. Cannot communicate unless 1 lvl of madness. When party leaves this dungeon they will be located just outside Netrus
 
+
+## Lizardfolk
+
+To ally with the Lizardfolk, you must get Netrus agree for Kreg to become King of Netrus
+
+Cannot ally with Kobolds, kill on sight
+
+### Encounter One
+  
+Challenge of Combat
+
+A large crowd of Lizardfolk engage with the party, the party decides how many of them they can fight. 
+
+### Encounter Two
+
+Challenge of Beast
+
+Attempt to tame beasts
+
+### Encounter Three
+
+Challenge of Appetite
+
+### Encounter Four
+
+Challenge of Religion
+
+### Encounter Five
+
+Meet the King
+
+### King Kreg the Strong
+
+Wants make his denizens no longer nomadic and settle in Netrus
