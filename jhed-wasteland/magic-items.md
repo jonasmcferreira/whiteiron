@@ -2,6 +2,14 @@
 
 Aim for flavour not power
 
+## Bow of Absolute Precision
+
+**Weapon:** Short Bow
+
+**Rarity:** Uncommon
+
+Once per short rest: With your attack action you consume all arrows and all arrows within 5ft of you to deal 1d6 piercing damage to all creatures within 80ft that aren't behind total cover
+
 ## Perfect Pitons
 
 **Wonderous Item:** Pitons
