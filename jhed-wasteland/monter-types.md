@@ -12,18 +12,38 @@ The monsters in Jhed are as varied as the land itself. From undead laborers to a
 
 The undead are a common sight in Jhed, particularly in the village of Dhuren Tol, where they are often used as laborers. These creatures range from the mindless workers that serve the living to more malevolent spirits that haunt the land. As a Dungeon Master, you can use the undead to create a sense of unease and dread, reminding players that death is never far away in Jhed.
 
-- Zombies
-- Skeletons
-- Crawling Claw
-- Shadow
-- Banshee
-- Ghost
-- Death Knight
-- Demi Lich
-- Dracolich
-- Ghoul
-- Ghast
-- Flameskull, IceSkull?
+All up to CR 5 Viable for T1.
+
+| Type   | CR  | Monster           | Notes | Changes | Vuln        |
+|--------|-----|-------------------|-------|---------|-------------|
+| Undead | 0   | Crawling Claw     |       |         |             |
+| Undead | 1/4 | Zombie            |       |         |             |
+| Undead | 1/4 | Skeleton          |       |         | Bludgeoning |
+| Undead | 1/2 | Shadow            |       |         |             |
+| Undead | 1/2 | Warhorse Skeleton |       |         |             |
+| Undead | 1   | Spectre           |       |         |             |
+| Undead | 1   | Ghoul             |       |         |             |
+| Undead | 2   | Minataur Skeleton |       |         |             |
+| Undead | 2   | Ghast             |       |         |             |
+| Undead | 2   | Willo Wisp        |       |         |             |
+| Undead | 2   | Ogre Zombie       |       |         |             |
+| Undead | 3   | Weight            |       |         |             |
+| Undead | 3   | Wraith            |       |         |             |
+| Undead | 3   | Mummy             |       |         |             |
+| Undead | 4   | Flameskull        |       |         |             |
+| Undead | 4   | Banshee           |       |         |             |
+| Undead | 4   | Ghost             |       |         |             |
+| Undead | 4   | Bone Naga         |       |         |             |
+| Undead | 5   | Beholder Zombie   |       |         |             |
+| Undead | 5   | Vampire Spawn     |       |         |             |
+| Undead | 13  | Vampire           |       |         |             |
+| Undead | 14  | Death Tyrant      |       |         |             |
+| Undead | 15  | Mummy Lord        |       |         |             |
+| Undead | 15  | Mummy Lord        |       |         |             |
+| Undead | 17  | Death Knight      |       |         |             |
+| Undead | 17  | Draco Lich        |       |         |             |
+| Undead | 18  | Demi Lich         |       |         |             |
+| Undead | 21  | Lich              |       |         |             |
 
 ### Beasts
 
