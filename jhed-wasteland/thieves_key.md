@@ -52,7 +52,7 @@ If two or loyalists are killed, Loyalist 3 will abandon.
 
 ### Loyalist 4 -  Kraeta "pirate" Sweatclaw - Aarakokra
 
-Can warn party of the challenges of flight in Jhed, has pegleg. Only Aarakocra. Trying to build a plan to control Rocs or get by without killing them
+Can warn party of the challenges of flight in J'hed, has pegleg. Only Aarakocra. Trying to build a plan to control Rocs or get by without killing them
 
 ### Loyalist 5 - Vez'yen Poison Merchant
 
@@ -88,3 +88,7 @@ People will pay a lot of money to become lost in J'hed and The Bounty Hunter's s
 ## Rival Southpost
 
 Southpost is part of the Outer Region and if Southpost gains enough wealth and power will take over Thieves Key
+
+## Retaking UnderRoc
+
+Holding the UnderRoc bridge is an expensive process that the Outer Region currently doesn't care about. Letting Thieves Key hold the bridge will be a great boon. This will allow thieves to operate in Netrus
