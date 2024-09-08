@@ -98,7 +98,7 @@ Ideally weather elements change planning and strategy
 | 25   | Typical  | Wind II.          | Str       | 10/-     |
 | 26   | Typical  | Fog II.           |           |          |
 | 27   | Typical  | Tremors II.       | Dex       | -/-/10   |
-| 28   | Typical  | Cold              | Con       | 13/7     |
+| 28   | Typical  | Lightning II.     | Dex       | 10/-/7   |
 | 29   | Typical  | Fog               |           |          |
 | 30   | Typical  | Fog               |           |          |
 | 31   | Typical  | Fog               |           |          |
@@ -244,6 +244,10 @@ Template
    - Half distance travelled 
    - **Combat:** Dexterity Save (DC 10) each round, else knocked prone
 
+28. **Lightning II.**:
+   - **Endure:** Dexterity Save (DC 10) 1d10 Lightning Damage or half as much on a successful save
+   - **Combat:** Dexterity Save (DC 7) 1 Lightening Damage
+   
 
 21-24. **Hail/Rocks**: Massive Hail and Rocks are pelted sporadically through the skies
    - **Endure:** 1d8 Bludgeoning Damage, Constitution Save (DC 10), on a failed save gain a point of Exhaustion
