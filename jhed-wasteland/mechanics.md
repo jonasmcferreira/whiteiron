@@ -18,6 +18,13 @@ Survival Check DC 16, on a success roll on wilderness table (to be built)
 
 Investigation Check DC 16, on a sucess roll on scavanged supplies table (to be built)
 
+### Humanoid Flesh
+
+If a humanoid eats flesh of a humanoid, they gain the Madness of the Wendigo and lose all other Madness effects. After gaining the Madness of the Wendigo, you make a DC15 Wisdom Save everytime you eat humanoid flesh
+
+| Tier | Instant               | Ongoing (once per long rest)                                |
+|------|-----------------------|-------------------------------------------------------------|
+| 1    | Vision of the Wendigo | You can onsume humanoid flesh to remove an Exhaustion Level |
 
 ## Replacing Key NPCs
 
@@ -66,6 +73,45 @@ Exhaustion caused by cold exposure follows standard D&D rules:
 - Each level of exhaustion requires one full day of rest in a warm environment with adequate food and water.
 - Magical means (such as the *Greater Restoration* spell) can reduce exhaustion levels.
 
+
+## Setting Specific Madness
+
+When you gain a category of Madness, you select which one in the tier. Take 1d12 psycic damage when you fail to uphold to your madness
+
+
+### Madness of Consumption
+
+| Tier | Effect               |
+|------|----------------------|
+| 1    | Only eat meat        |
+| 1    | Only eat plants      |
+| 1    | Only eat fresh kills |
+| 1    | Taste all liquids    |
+| 1    | Only Drink Alcohol   |
+
+
+Gear Related
+
+* Must change gear
+* must burn gear
+* must be unarmoured
+* never sleep in armour
+* must be comfortable
+
+Warmth Related
+
+* avoids warms
+* always needs to be around fire
+
+### Madness of Apperance
+
+| Tier | Effect                                          |
+|------|-------------------------------------------------|
+| 1    | You will not change clothes                     |
+| 1    | You will change clothes every short rest        |
+| 1    | You will wear the most expensive clothing       |
+| 1    | You will always wear a mask                     |
+| 1    | You wear the clothing of creatures you defeated |
 
 
 ## Official Mechanics
