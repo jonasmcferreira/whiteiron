@@ -117,17 +117,23 @@ Though J'hed seems infused with magic, the Outer Region is limited. Casters with
 
 Fabricating common magic items is possible, however anything uncommon or greater are "unique". This means that their is only one on the entire plane. Bringing an magic item from another plane to this one causes the new one to fade from existence. These items are imbued uniquely from the weave thus become items of lore and legend
 
+### Locations  
+  
+Chapter 1 deals with the small village of Netrus and the potential future. Thieves Key is about 7 days and Southpost is another week beyond that. Most of the objectives will be within 4 days of Netrus
+
+You decide the future of the Netrus
+
 ### Overland Travel
 
 Travelling in Jhed is not done in straight lines, so distances are very relative. When travelling you must take into account that the terrain is unmappable, as it is contantly shifting with storms and the nature of ice, plus getting lost and back on track is a common occurrence and skill in Jhed.
 
-|                    | Durenthal | Netrus | Reef Village | Seat of the Noble Jhed | Witch's Nip |
-|--------------------|-----------|--------|--------------|------------------------|-------------|
-| **Durenthal**      | -         | 5      | 15           | 35                     | 30          |
-| **Netrus**         | 5         | -      | 10           | 30                     | 4           |
-| **Reef Village**   | 15        | 10     | -            | 20                     | 30          |
-| **Seat of the Noble Jhed** | 35 | 30     | 20           | -                      | 50          |
-| **Witch's Nip**    | 30        | 4      | 30           | 50                     | -           |
+|                            | Durenthal | Netrus | Reef Village | Seat of the Noble Jhed | Witch's Nip |
+|----------------------------|-----------|--------|--------------|------------------------|-------------|
+| **Durenthal**              | -         | 5      | 15           | 35                     | 30          |
+| **Netrus**                 | 5         | -      | 10           | 30                     | 4           |
+| **Reef Village**           | 15        | 10     | -            | 20                     | 30          |
+| **Seat of the Noble Jhed** | 35        | 30     | 20           | -                      | 50          |
+| **Witch's Nip**            | 30        | 4      | 30           | 50                     | -           |
 
 ### Thieves Key
 
