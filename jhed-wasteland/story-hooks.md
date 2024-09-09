@@ -1,6 +1,14 @@
 # Story Hooks
 # Mysteries
 
+## Siege of Netrus
+  
+Nick believes there will be an invasion on Netrus and wishes to bolster the defenses before the final attack. Ideally choosing an ally if possible
+
+## Night Hunter
+
+Throughout the campaign there is an Oni shapeshifting and hunting adventurers. Should be identified by a Glaive but overall be friendly and helpful to the party, as he wants to be lead to further treasures. The three sisters of Netrus are able to control him and get him into his servitude.
+
 ## The Cold Blooded
 
 Nomadic Yuan-ti with Giant Snakes, Lizardfolk with Dinosaurs, and Kobolds pillage through the lands normally unable to survive these harsh cold climates
