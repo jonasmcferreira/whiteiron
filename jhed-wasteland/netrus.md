@@ -55,3 +55,24 @@ Each day something of value is thrown off the cliff as a sacrifice to the variou
 The runes around the town are Explosive Glyphs crafted by Sammul, and he makes a new one each week
 
 **Madness**: Sammul's friendly demeanor is a fault of a madness, if removed he will revert back to a cultist
+
+
+### Dizrim Headhunter
+
+**Stats**: , **Language**: common,gnome  **Goal**: Collect Bounties, **Weakness**: Wants friendship, lonely
+
+Socially outcast due to the nature of the Code of Snow, but is dutiful in the works with Southpost. Dead or Alive bounties are plentiful, though most dead. Dizrim's hut is just outside Netrus proper and most parties spit past her home as they head out. Dizrim is lonely and will do many things to gain friendship, but she will abide her work
+
+### Expansion Problems
+
+Food Shortage - requires to hire hunting party (3) 1000gp from Thieves Key, or 3000gp from Outer Empire
+
+Growth - at population 30 there will be a conflict to the rule of Netrus
+
+Criminals - items start going missing
+
+Outer Empire - an extra tax
+
+### Hidden Arcane Complex
+
+Underneath Netrus is a small arcane chamber with an Ancient Relic. The glyphs and design of the sanctum reverse the magical emminations, specifically designed and attuned to this stone. This stone is the reason everyone in Netrus is charmed as the stones orginal purpose creates a madness of violence. If this chamber is destroyed, all creatures will become hostile to eachother in Netrus
