@@ -12,21 +12,25 @@ Dealing with the cold will be a component of Jhed, creating a character with col
 
 Family or Friend fled persecution from a crime: you wish to reconnect because ______
 
+You or your patron has heard of the indestructable material found in J'hed and you need a sample
+
+Rumored fruit of J'hed with intense properties
+
+Hunting a bounty
+
 ## Motive (a reason to adventure in Jhed as a party)
 
 Criminal Network: a lot of gold flows through Jhed and the last criminal organization has fallen, now is the time to begin
 
-fate of the missing Kings
+Treasure of the missing Kings
 
-understanding the Arcane Weather
+Understanding the Arcane Weather
 
 Fight the Giant Beasts of Jhed
 
 Treasure Hunting
 
 Cure of Lycanthrope
-
-Bounty Hunter
 
 Missing Family
 
@@ -57,15 +61,17 @@ Oozes
 
 ### Barbarian, Path of Arcane Winds
 
-lvl 3
+#### Level 3: Arcane Bludgeoning
 
-Magic Items wielded in one hand count as a Mace
+The arcane secrets are revealed into your mind, a method ignored by all others initiated with magic
 
-Magic Items wielded in two hands count as a Maul
+Magic Items wielded in one hand count as a Mace and in two hands count as a Maul
+
+#### Level 3: Limited Spell Caster 
 
 Count as a spell caster for the purpose of attunement
 
-Spellcaster, can cast each spell once per long rest, Int is spellcasting Modifier
+Spellcaster, can cast each spell once per long rest, Int is your spellcasting Modifier
 
 | Level | Spell lvl | Spell Name |
 |-------|-----------|------------|
@@ -75,62 +81,85 @@ Spellcaster, can cast each spell once per long rest, Int is spellcasting Modifie
 | 13    | 4         | Confusion  |
 | 17    | 5         | Seeming    |
 
-lvl 6
+#### Level 6: More Arcane Bludgeoning
 
-Uncommon Magic Items count as +1 magical weapons
-Rare Magic Items count as +2 magical weapons
-Very Rare Magic Items count as +3 magical weapons
+When you make an attack with an Uncommon Magic item, it counts as a +1 magical weapon. (Rare Magic Items +2, Very Rare Items +3)
 
-When Rage is activated you can drop attunement on one item, and or attune to one item
-While Raging 1d4 Force damage added to any attacks using a magic item
+#### Level 6: Arcane Adaption
 
+Gain one Resistance of your choice, you can change this Resistance a number of times per day equal to your Intelligence Modifier
 
-lvl 10
-While raging add a number of d4s of force damage equal to your int modifier
-Whenever you take the magic action, you can immediatly attack once as part of that action
+When you activate your Rage you can drop attunement on one item, and or attune to one item as part of the same Bonus Action
 
-lvl 14
+#### Level 10: Change of Fat
+
+Whenever you take the magic action, you can make one attack as a Bonus Action
+
+On a failed D20 Test, you can reroll a die and use the new results. You can use this a number of times per day equal to your Intelligence Modifier
+
+#### lvl 14
+
 As a reaction harness the protection of magic, gain temp HP equal to Barbarian Level to up to 6 allies. You can use this ability a number of times equal to your int mod
 
 Learn one spell from any spell list up to lvl 5, it loses material and verbal components and concentration. You can cast this spell once per long rest
 
-### Bard, College of the Coward (Cha Wis)
+### Bard, College of the Coward (Cha/Wis)
 Theme, sometimes convincing others to fight is the best option
 
-lvl 3 
+#### Level 3: Bravely Run Away 
 
-**Braveley Run Away**: 
+As a Bonus Action you can move 5 feet times Wis Mod away from the closest hostile creature. If you are under the freighten condition this can be part of the Move Action rather than the Bonus Action
 
-As a Bonus Action you can move 5ft*Wis Mod away from the closest hostile creature. If you are under the freighten condition this can be part of the Move Action rather than the Bonus Action
-
-**You do it**:
+#### Level 3: You do it
 
 You can spend your Action and expend a bardic inspiration to grant an ally within 10ft the use of an Action at the cost of their reaction. You can use this a number of times equal to your Wisdom Modifier
 
-lvl 6
+#### Level 6: Stop Hitting me!
 
-lvl 14
+When you are targetted by an attack or spell that only targets you, you can expend a bardic inspiration die to force the attack or spell to target an ally within 60ft.
 
-### Fighter, Weapon Master
+#### Level 14: Take Cover
+
+When initiative is rolled, a number of targets equal to your Wisdom Modifier can teleport up to 60ft to a place they can see
+
+### Cleric, Aspiration Domain (Str)
+
+#### Level 3  
+
+When an ally within 30ft misses with an attack or fails a save they gain a D6 Aspiration die that can be used on attacks or saving throws until the end of your allies next turn
+
+Spell List
+
+Heroism, Protection from Good and Evil, Shield of Faith
+  
+#### Level 6
+
+#### Level 17 
+
+### Fighter, Weapon Master (Charisma)
 
 Theme, showoff by changing weapons all the time to show how great they are
   
 Focus on ranged and melee weapon swapping
 
-lvl 3
+#### Level 3
 
-can both stow and draw a weapon as part of the attack action
+can both stow and or draw a weapon as part of the attack action
 can equip a shield as a bonus action
 
 If you hit with a Ranged Weapon (not thrown), your next melee attack adds your Charisma modifier to damage as well
 
-lvl 7
+#### Level 7
 
 Fighting Styles that apply to a specific weapon type, apply to all weapons
 
-lvl 10
+#### Level 10
 
-lvl 15
+If you hit with a Melee Weapon, your next Thrown Weapon attack adds your Charisma modifier to damage as well
+
+#### Level 15
+
+Blindsight 90ft
 
 lvl 18
 
@@ -138,11 +167,10 @@ lvl 18
 
 Theme, stealthy attacks with a brick
 
-### Ranger Rangler (int)
+### Ranger Wrangler (int)
 
 ### Druid of Lycanthrope
 
-### Cleric
 
 ### Paladin of the Prisoned One
 
