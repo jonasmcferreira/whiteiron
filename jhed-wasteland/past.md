@@ -86,7 +86,12 @@ T1: Odd amount of underdark denizens in J'hed
 
 These twins were identical in visuals and used this to great effect. It wasn't until their downfall that most knew there was two of them. May be possible that the Kobolds new knowledge of traps and sources of their material come from those theiving caravans
 
+
+#### Book One
+
 T1: Thieves Key and smugglers past is the remnants of this empire
+
+The remnants of the one of Monarch Twins are found in a nearby Labyrinth. If the party appears sympathetic to the idea, there are a few Loyalists that will reveal themselves to the party, wishing to rebuild their rule if they can find the missing heirs. Their major request would be to have the UnderRoc area made safe so they can take control of it.
 
 ### "Ivis" Male Drow Assassin
 
@@ -96,6 +101,7 @@ Master of Stealth
 Designed the Mega Dungeon for the assassin's smuggling route. This was based off the warp gates, they didn't build them but they used them and mapped them out
 
 An eccentric weapon collector
+
 
 ### "Aluna" Female Drow Assassin
 
@@ -112,6 +118,9 @@ Aluna learned a way to make a great poison, but it would require a substantial a
 
 **Revelation:** both of these are eligable for True ressurection
 
+#### Netrus
+
+Built by Council Five
 
 ## First Ones - Oozes
 
