@@ -1,10 +1,12 @@
 # Encounters
 
+Fighting: an opportunity to save a liked NPC, introduce another conflict, or wait for victory
+
+
 ## Random Encounter Table
 
 | D100 | Creature               | CR | Notes |
 |------|------------------------|----|-------|
-| -    | -                      | -  | -     |
 | 1    | Ooze                   | -  | -     |
 | 2    | Undead                 | -  | -     |
 | 3    | Kobold                 | -  | -     |
@@ -19,6 +21,83 @@
 | 12   | Gambling Glacial Bears | -  | -     |
 | 13   | Dead Bodies            | -  | -     |
 | 14   | Vez'yen Poisoneer      | -  | -     |
+| 15   | Thaddeus Winterbourne      | -  | -     |
+| 16   | The Flaming Fools      | -  | -     |
+| 17   | Ogers      | -  | -     |
+| 18   | Half-Ogers      | -  | -     |
+| 19   | Ogers and Half-Ogres      | -  | -     |
+
+
+### Ogres
+
+Lair Action Initiative 30: Stench
+
+Each creature that is completely within the lair at the start of its turn must make a DC 7 Constitution saving throw against poison. On a failed save, the creature spends its action that turn retching and reeling. Creatures that don't need to breathe or are immune to poison automatically succeed on this saving throw.
+
+
+#### 1d4 Ogres
+
+Reminder: Ogres listen to anything bigger than them, and very stupid
+
+| D4 | State               | Notes |
+|------|------------------------|-------|
+| 1    | Hungry and Hunting                     |  attacks     |
+| 2    | Camping                   |  Bone Carving or Splitting Treasure    |
+| 3    | Challenges                |  Ogre playing games   |
+| 4    | Fighting                 | Just completed a kill or about to     |
+| 5    | Enviroment                 | Trying to pass Chasm*     |
+| 6    | Lair                 |  Lair Action    |
+
+
+
+#### Half-Ogers and Ogres
+
+1 Ogre
+
+1d4  Half-Ogres
+
+Half-Ogres follow the Ogres orders without question
+
+| D4 | State               | Notes |
+|------|------------------------|-------|
+| 1    | Hungry and Hunting                     |  attacks     |
+| 2    | Camping                   |  Bone Carving or Splitting Treasure    |
+| 3    | Challenges                |  Ogre playing games with Half-Ogre to find the best one     |
+| 4    | Fighting                 | Just completed a kill or about to     |
+| 5    | Enviroment                 | Trying to pass Chasm*     |
+| 6    | Lair                 |  Lair Action    |
+
+#### Half-Ogers
+
+1d6 Half-Ogers
+
+When Half-Ogres are seperated from Ogres, they want friendship most of all but unfortunately are easily offended and sent into rage
+
+| D4 | State               | Notes |
+|------|------------------------|-------|
+| 1    | Arguing over treasure                     |  they belived used clothing is treasure     |
+| 2    | Camping Crafting Trinkets                   |  Bone Carving     |
+| 3    | Hungry                |  attacks     |
+| 4    | Running in defeat                 | Escaping and in need of help     |
+
+### The Flaming Fools
+
+A group of 3 Flaming Fools (50% chance to be with Figgus)
+
+| D4 | State               | Notes |
+|------|------------------------|-------|
+| 1    | Returning to Netrus                      |  warn what is ahead     |
+| 2    | Heading further out                   |  no info     |
+| 3    | Wounded                 |  needs supplies     |
+| 4    | Fighting                 | needs assistance     |
+
+
+
+### Thaddeus Winterbourne
+
+A crazed Thaddeus Winterbourne is wandering through the snowdrifts, Thaddeus will ignore the party but become hostile the moment they interact. Thaddeus will deal non lethal damage and run once he knocks out a member of the party
+
+Follow: if the party attempts to follow Thaddeus he will start running through enviromental hazards, eventually going underwater to an Underwater Shrine
 
 ### Chasm
 
