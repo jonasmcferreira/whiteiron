@@ -99,8 +99,8 @@ Ideally weather elements change planning and strategy
 | 26   | Typical  | Fog II.           |           |          |
 | 27   | Typical  | Tremors II.       | Dex       | -/-/10   |
 | 28   | Typical  | Lightning II.     | Dex       | 10/-/7   |
-| 29   | Typical  | Fog               |           |          |
-| 30   | Typical  | Fog               |           |          |
+| 29   | Typical  | Thunder II.               | Con          | 10         |
+| 30   | Typical  | Golden Snow               |           |          |
 | 31   | Typical  | Fog               |           |          |
 | 32   | Typical  | Fog               |           |          |
 | 33   | Typical  | Thunder           | Con       | 13/10    |
@@ -219,9 +219,8 @@ Template
 
 20. **Silver Snow**: A silvered glimmer in the snowfall 
    - heal 1d4 hitpoints
-  
-  
-21. **Open Skies**: An oddly opportune weather
+    
+21. **Open Skies**: Oddly opportune weather
     
 22. **Hail II.**: Hail and Rocks
    - **Endure:** Dexterity Save (DC 10), 1d8 Bludgeoning Damage or half as much on a successful save
@@ -248,10 +247,12 @@ Template
    - **Endure:** Dexterity Save (DC 10) 1d10 Lightning Damage or half as much on a successful save
    - **Combat:** Dexterity Save (DC 7) 1 Lightening Damage
    
+29. **Thunder II.**: A threatening crash of elemental thunder
+   - Constitution Save (DC 10) on a fail 1d6 Thunder Damage or half as much on a success (Endure or Shelter)
 
-21-24. **Hail/Rocks**: Massive Hail and Rocks are pelted sporadically through the skies
-   - **Endure:** 1d8 Bludgeoning Damage, Constitution Save (DC 10), on a failed save gain a point of Exhaustion
-   - **Shelter:** 1 Bludgeoning DamageShort Rest with no additional benefits.
+30. **Golden Snow**: A golden glimmer in the snowfall 
+   - **Combat:** At the start of your turn Gain 1 Temporary Hit Point
+
    
 25-28. **Cold**: Golden Arcane Snow chaotically drifts through the winds, sparkling to nothing as it touches solid surfaces
    - **Endure:** 1d6 Cold Damage, Constitution Save (DC 13), on a failed save gain a point of Exhaustion
