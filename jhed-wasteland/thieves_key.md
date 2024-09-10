@@ -8,6 +8,13 @@ This is a place to buy basic adventuring gear, illegal goods, information, boat 
 
 ## NPCs
 
+|Name | Statblock |
+|-- |-- |
+|Brimhest Deepbrew | Veteran |
+|Loyalist | Veteran |
+|Vez'yen | Assassin |
+| Kraeta "pirate" Sweatclaw  | aarakocra |
+
 ### Brimhest Deepbrew
 
 Short even to describe a dwarf, hairy even to describe a dwarf, grumpy even to describe a dwarf, with the reek of beer... that you expect from a dwarf. Scruffy black eyebrows covering the eyes making the oddest of expression. Brimhest acts without resistance and will take defiance as a joke; implying it better be a joke. The most impressive aspect is how efficiently the docks of Thieves Key run under this dunkard. She is short with her words to avoid giving away information
@@ -85,6 +92,8 @@ Interested in Ogres and Half-Ogres - Potential Conflict, No longer quiet and sec
 
 2000gps - Potential Conflict, intrigue thieves to venture to Netrus
 
+Kobold Allies - Potential Conflict, more disorganized
+
 ### Banes
 
 Helping Bounty Hunters - Potential Conflict, won't send courriers (as they can be Wanted)
@@ -96,6 +105,10 @@ Killing a Loyalist - Potential Conflict, will extort players
 ## Thieves Key and Bounty Hunters
 
 People will pay a lot of money to become lost in J'hed and The Bounty Hunter's success will tarnish Thieves Key reputation. Aiding the Bountry Hunters will help the Outer Empire while also shrinking The Thieves Key
+
+## Kobold Allies
+
+Kobold's are natural thieves and would be great pirate crews to bolster the ranks of Thieves Key, Kobolds will not do a great job following the strictness of Brimhest and become far more chaotic
 
 ## Rival Southpost
 
