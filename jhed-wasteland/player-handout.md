@@ -10,17 +10,28 @@ Dealing with the cold will be a component of Jhed, creating a character with col
 
 ## Personal Quests (a reason to go to Jhed)
 
-Family or Friend fled persecution from a crime: you wish to reconnect because ______
+Family or Friend fled persecution from a crime: you wish to reconnect because ____
 
 You or your patron has heard of the indestructable material found in J'hed and you need a sample
 
-Rumored fruit of J'hed with intense properties
-
 Hunting a bounty
+
+Fruit of J'hed - Rumors of a rare fruit of J'hed and you need to investigate
+
+Stolen Heirloom - tracking a thief to acquire an important item to the very ends
+
+Antiquities - you've been sent to confirm the existence of Relics from the different ages 
+
+Giant History - J'hed is a land known for Giants, collect their stories
+
+Undead - undead have surged in small villages. J'hed may be a source
+
+Haunted - literally annoyed by a ghost to get there
+
+Call of adventure - a large sum of gold
 
 ## Motive (a reason to adventure in Jhed as a party)
 
-Criminal Network: a lot of gold flows through Jhed and the last criminal organization has fallen, now is the time to begin
 
 Treasure of the missing Kings
 
@@ -33,6 +44,21 @@ Treasure Hunting
 Cure of Lycanthrope
 
 Missing Family
+
+Fruit of J'hed Continued - there limits of this reagent are unknown, it is time to experiment
+
+An Opportunity of Leadership - the control of J'hed is a mess and this could be an opportunity to create a house name
+
+Antiquities Continued - Netrus, Southpost or even Thieves Key may be a better source
+
+## Hidden Motives
+
+Debt 75,000 gps - returning without paying results in death
+
+Wanted - hidding and not yet known by Bounty Hunters
+
+Criminal Network: a lot of gold flows through Jhed and the last criminal organization has fallen, now is the time to begin
+
 
 ## Languages (Get common and one other)
 
@@ -128,13 +154,22 @@ When initiative is rolled, a number of targets equal to your Wisdom Modifier can
 
 When an ally within 30ft misses with an attack or fails a save they gain a D6 Aspiration die that can be used on attacks or saving throws until the end of your allies next turn
 
-Spell List
+Aspiration Spell List
 
-Heroism, Protection from Good and Evil, Shield of Faith
-  
+| Level | Spell lvl | Spell Name |
+|-------|-----------|------------|
+| 3 | 1 | Heroism |
+| 3 | 1 | Protection from Good and Evil |
+| 3 | 2 | Crown of Madness |
+| 3 | 2 | Enlarge Reduce |
+
 #### Level 6
 
+Aspiration Spells target up to one extra target
+
 #### Level 17 
+
+Aspiration Spells target up to two extra targets
 
 ### Fighter, Weapon Master (Charisma)
 
@@ -159,18 +194,59 @@ If you hit with a Melee Weapon, your next Thrown Weapon attack adds your Charism
 
 #### Level 15
 
-Blindsight 90ft
+Blindsight 60ft
 
-lvl 18
+#### Level 18 Nothing Stops the Show
+
+You can gain the benefits of the Freedom of Movement Spell for 1 hour, you can use this ability a number of times equal to your Cha Modifier
+
+### Druid: Circle Lycanthrope (Str)
+
+#### Level 3: WereShape
+
+When you Wildshape into a small or larger form you can also keep your Strength, and you can also keep a humanoid shape allowing you to apply your gear onto the Wildshape form
+
+#### Level 3: spells
+
+#### Level 6: Big Beasts
+
+When you Wildshape, you can select a size one greater than the beast form
+
+#### Level 10:
+
+Gain resistance to non silvered Blugeoning, Slashing and Piercing Damage
+
+#### Level 14:
+
+Retain your spellcasting ability while Wildshaped
+
+### Monk Way of Point
+
+#### Level 3: Blowgun
+
+Once per turn when you make an attack you can make an extra attack with a Blowgun
+
+Targets who are hit by your Blowgun needle can't gain Hit Points until the start of your next turn
+
+#### Level 6: Darts
+
+You can replace your extra Blowgun attack with a Dart attack
+
+Targets who are hit by your Dart are poisoned until the start of your next turn
+
+#### Level 11:
+
+You gain both the Dart and Blowgun attack
+
+#### Level 17:
+
+Dart attacks break concentration
 
 ### Rogue, Bruiser (Dex Str based)
 
 Theme, stealthy attacks with a brick
 
 ### Ranger Wrangler (int)
-
-### Druid of Lycanthrope
-
 
 ### Paladin of the Prisoned One
 
@@ -183,8 +259,6 @@ False Appearance: A number of times equal to your Dex Mod you can use your Bonus
 ### Wizard of the Great Works
 
 ### Artificer Demolitionist
-
-### Monk Way of Exile
 
 ### Warlock of Rot
 
