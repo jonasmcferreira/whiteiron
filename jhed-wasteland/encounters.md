@@ -26,7 +26,55 @@ Fighting: an opportunity to save a liked NPC, introduce another conflict, or wai
 | 17   | Ogers      | -  | -     |
 | 18   | Half-Ogers      | -  | -     |
 | 19   | Ogers and Half-Ogres      | -  | -     |
+| 20   | Ghost of the Past      | -  | -     |
+| 21   | Kresh and Crew      | -  | -     |
+| 22   | Oniteth Adventurer Inc.      | -  | -     |
+| 23   | Ogre Mage      | -  | -     |
 
+### Ogre Mage
+
+Oni Statblock - if noticed will go invisible and run
+DM note: avoid giving another NPC a glaive
+
+| D4 | State               | Notes |
+|------|------------------------|-------|
+| 1    | felling a beast                     |   consuming a beast     |
+| 2    | chatting with Giants                   |  Ogres or Hill Giant    |
+| 3    | wandering                | alone in the snow  |
+| 4    | willing to help     | offers a magic item to be left alone     |
+
+Gauntlets of Ogre Strength
+
+### Oniteth Adventurer Inc.
+
+Oniteth(**) and 1d4 Adventurers
+
+Inspired by your acts Oniteth is attempting to build his own squad
+
+| D4 | State               | Notes |
+|------|------------------------|-------|
+| 1    | fallen ally                     |  Oniteth is returning back to Netrus     |
+| 2    | camp                   |  taking a moment of respite    |
+| 3    | needs help                | losing to weak foes  |
+| 4    | low on supplies                 | needs 3d4 rations or ally may die     |
+
+
+### Kresh and Crew
+
+Always exploding out of the most random locations, Kresh wants to boast about his latest adventures
+
+| D4 | State               | Notes |
+|------|------------------------|-------|
+| 1    | Duel                     |  hostile if party against Lizardfolk     |
+| 2    | Trade                   |  Has some potions and gold    |
+| 3    | Boast                | Entertain eachother    |
+| 4    | Help                 | Will sell his services     |
+
+### Ghost of the Past
+
+Appears without needing to say anything, will just comment on approval or disapproval
+
+Examples: "I'm surpised you did X" / "I'm happy with what you've done" / "I worry you aren't enough"
 
 ### Ogres
 
@@ -39,7 +87,7 @@ Each creature that is completely within the lair at the start of its turn must m
 
 Reminder: Ogres listen to anything bigger than them, and very stupid
 
-| D4 | State               | Notes |
+| D6 | State               | Notes |
 |------|------------------------|-------|
 | 1    | Hungry and Hunting                     |  attacks     |
 | 2    | Camping                   |  Bone Carving or Splitting Treasure    |
@@ -58,7 +106,7 @@ Reminder: Ogres listen to anything bigger than them, and very stupid
 
 Half-Ogres follow the Ogres orders without question
 
-| D4 | State               | Notes |
+| D6 | State               | Notes |
 |------|------------------------|-------|
 | 1    | Hungry and Hunting                     |  attacks     |
 | 2    | Camping                   |  Bone Carving or Splitting Treasure    |
