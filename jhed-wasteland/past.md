@@ -82,41 +82,8 @@ This is the dragon the Kobolds are drawn to
 
 T1: Odd amount of underdark denizens in J'hed
 
-## The Twins Ivis and Aluna 52 years ago
-
-These twins were identical in visuals and used this to great effect. It wasn't until their downfall that most knew there was two of them. May be possible that the Kobolds new knowledge of traps and sources of their material come from those theiving caravans
 
 
-#### Book One
-
-T1: Thieves Key and smugglers past is the remnants of this empire
-
-The remnants of the one of Monarch Twins are found in a nearby Labyrinth. If the party appears sympathetic to the idea, there are a few Loyalists that will reveal themselves to the party, wishing to rebuild their rule if they can find the missing heirs. Their major request would be to have the UnderRoc area made safe so they can take control of it.
-
-### "Ivis" Male Drow Assassin
-
-Master of Blade
-Master of Stealth
-
-Designed the Mega Dungeon for the assassin's smuggling route. This was based off the warp gates, they didn't build them but they used them and mapped them out
-
-An eccentric weapon collector
-
-
-### "Aluna" Female Drow Assassin
-
-Master of Poison
-Master of Disguise
-
-Aluna learned a way to make a great poison, but it would require a substantial amount of her own blood. Ivis blood was suitable, and so she restrained him and bled him. Eventually he broke free killing Aluna, but without having much left in him, he died as well.
-
-    - an thieve empire finally taking control of the outer regions
-    - successful for a time but eventually pushed out
-    - last bastion of the Keys and Jhed Continent
-    - remaining a smuggling ring in Jhed unable to be fully defeated
-    - Then suddenly missing
-
-**Revelation:** both of these are eligable for True ressurection
 
 #### Netrus
 
@@ -128,3 +95,34 @@ Oozes are the remnants of another plane, a plane transformed entirely into a pri
 
 If playing through the late arcs of Jhed (lvl 13+), these Oozes need to be removed from the plane to prevent a similar fate. These oozes aren't acting in a way to destroy the plane but simply their existence causes problems
 
+## Book One
+
+### "The Twins" or "Twin Kings" Ivis and Aluna (52 years ago) 
+
+Intrigues for Book2
+
+Identical drow twins that used this to great effect. In J'hed it is suspected their antics may have inspired the Kobold's knowledge of traps and sources of their material. Though The Twins once had a large claim of The Outer Regions, as their rule was surpressed they fled into the unconquered lands of J'hed, making a last stand in Thieves Key and smuggling routes around the UnderRoc Bridge. The Outer Empire left The Twins alone, as a minor naucence but 52 years ago, their operations within J'hed simply vanished without a trace and persumed dead
+
+#### "Ivis" Male Drow Assassin King
+
+Master of blade and stealth
+
+Designed the Mega Dungeon for the assassin's smuggling route and to hide his treasures
+
+#### Location First Cave of Ivis
+
+Beneath UnderRoc Bridge
+
+Oniteth is searching this
+
+Darren BlackAle  Deuregar (Grey Dwarf) Weapon Collector is searching for this
+
+
+
+### "Aluna" Female Drow Assassin
+
+Master of poisons and disguise
+
+Aluna learned a way to make a terrible poison, but it would require a substantial amount of her own blood. Ivis blood was suitable, and so she restrained him and bled him. Eventually he broke free killing Aluna, but fell shortly after from his wounds
+
+Vez'yen is trying to learn this secret
