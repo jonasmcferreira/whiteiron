@@ -2,9 +2,23 @@
 
 ## Thieves Post - Starter town
 
-To be defined
+A small collection of buildings illuminated by wandering torches, just above a cavern cove. These illegal docks are for cutthroats, pirates, brigands and any business that does not want to be questioned. Everything that happens in this small port goes through Brimhest, you don't need to explain but Brimhest knows or it doesn't happen
+
+This is a place to buy basic adventuring gear, illegal goods, information, boat repairs and a place to disappear
 
 ## NPCs
+
+### Brimhest Deepbrew
+
+Short even to describe a dwarf, hairy even to describe a dwarf, grumpy even to describe a dwarf, with the reek of beer... that you expect from a dwarf. Scruffy black eyebrows covering the eyes making the oddest of expression. Brimhest acts without resistance and will take defiance as a joke; implying it better be a joke. The most impressive aspect is how efficiently the docks of Thieves Key run under this dunkard. She is short with her words to avoid giving away information
+
+**Race**: Female Dwarf, **Trade**: Dockmaster,
+
+**Items:** Brimhest has a Sending Stone (first)
+
+Brimhest's post, overlooks the entirety of the dock with a hidden second floor built into the stone above functioning as her home. First she keeps the Thieves Key functioning as it is the last legacy of the Royal Twins, missing presumed dead Monarchs, and she has a great pride in her work on the Thieves Key. Second, anything that could be used to grow her influence and assist her network expansion is of great interest to her.
+
+As all with with faults, Brimhest has a particular weakness for rare, quality or expensive alcohols. If she is going to let something slide, this is why
 
 ### Don (Donald) Vras
 
@@ -18,27 +32,28 @@ Major Visual Feature: Eyepatch
 
 Provides information about Jhed to players and detailed book keeper
 
-### Brimhest
-
-Short even to describe a dwarf, hairy even to describe a dwarf, grumpy even to describe a dwarf, with the reek of beer... that you expect from a dwarf. Scruffy black eyebrows covering the eyes making the oddest of expression. Brimhest acts without resistance and will take defiance as a joke; implying it better be a joke. The most impressive aspect is how efficiently the docks of Thieves Key run under this dunkard.
-
-**Race**: Dwarf, **Trade**: "Mayor", **Goal**: rebuild thieves guild , **Weakness**: Ambition/Rare Ale,
-
-**Items:** Brimhest has a Sending Stone (first)
-
 ## Features
 
-Depressing would be the one word to describe the Thieves Key, a town of drunk traders and thieves not worth the hassle of law. There are a few signs of the old success, an extravagant piece of jewelry or tattered embossed formalwear, now just relics. Those running the town; Brimhest and his crew, seem to know everything that is going on. As long as business moves, there is no interference. 
+Depressing would be the one word to describe the Thieves Key, a town of drunk traders and thieves not worth the hassle of law. There are a few signs of the old success, an extravagant piece of jewelry or tattered embossed formalwear. Those running the town; Brimhest and his crew, seem to know everything that is going on. As long as business moves, there is no interference. 
 
 ## Travel
 
-The only safe way to Jhed is the smuggling route through ice tunnels. Any overland travel is made hopeless due to Roc territory. It is a 5-8 day travel through the pass, but damage from tremors may have changed this
+The only safe way to Jhed is the smuggling route through ice tunnels. Any overland travel is made hopeless due to Roc territory. It is a 5-8 day travel through the pass, but recently shipments have failed
+
+### Transport Costs
+
+Any delivery from Thieves Key to Netrus has a cost of transporation, this cost is per person required to haul the items
+
+Friendly - 17.4gp
+Neutral - 50gp
 
 ## The Docks
 
 Contrary to the tone of the town, Thieves Key has talented and elaborate dockworks. Given resources they can craft specialized tools to travel through Jhed. They specialize in quicker and stealthier crafts but are flexible to demand
 
 ## Loyalists
+
+Veteran Statblock
 
 There are 5 loyalists of old Thieve Kings, if all five are killed or abandon, the village will die out, or fall under the influence of the outer empires
 
@@ -58,28 +73,25 @@ Can warn party of the challenges of flight in J'hed, has pegleg. Only Aarakocra.
 
 **Items:** Vez'yen has a Sending Stone (second)
 
-## Transport Costs
+## Boons and Banes
 
-Any delivery from Thieves Key to Netrus has a cost of transporation, this cost is per person required to haul the items
+You want the players actions to shape the towns they interact with, consider what a town gains and loses as the party helps. Tie these actions directly so players feel the benefits and consequences of those actions
 
-Friendly - 17.4gp
-Neutral - 50gp
+### Boons
 
-## Growth
+Helping Vez'yen - Potential Conflict, Vez'yen could overthrow Brimhest
 
-+1 Clearing the Smugglers Route and paying gold
+Interested in Ogres and Half-Ogres - Potential Conflict, No longer quiet and secretive
 
-+1 Finding a route from Dhuren Tol or Oravilla 
+2000gps - Potential Conflict, intrigue thieves to venture to Netrus
 
-+1 Relics of the Twin Kings
+### Banes
 
--1 removing 2 Loyalists (can happen twice)
+Helping Bounty Hunters - Potential Conflict, won't send courriers (as they can be Wanted)
 
-Thieves Key can help found a thieving network, fall entirely, become a port of the Outer Empire, or linger
+Helping The Flaming Fools - Potential Conflict, won't sell information
 
-### Growth Conflict
-
-Rival Leaders, not all thieves are Loyalists, as Thieves Key grows, rivals will come to challenge Brimhest and sway the party to their side. This conflict makes Thieves Key more vulnerable to the Outer Empires. The players could choose to be this rival faction
+Killing a Loyalist - Potential Conflict, will extort players
 
 ## Thieves Key and Bounty Hunters
 
@@ -89,6 +101,6 @@ People will pay a lot of money to become lost in J'hed and The Bounty Hunter's s
 
 Southpost is part of the Outer Region and if Southpost gains enough wealth and power will take over Thieves Key
 
-## Retaking UnderRoc
+## Retaking UnderRoc (not Book 1)
 
 Holding the UnderRoc bridge is an expensive process that the Outer Region currently doesn't care about. Letting Thieves Key hold the bridge will be a great boon. This will allow thieves to operate in Netrus
