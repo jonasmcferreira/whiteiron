@@ -1,10 +1,26 @@
 # Thieves Key
 
-## Thieves Post - Starter town
+## Thieves Post - population 100ish
 
-A small collection of buildings illuminated by wandering torches, just above a cavern cove. These illegal docks are for cutthroats, pirates, brigands and any business that does not want to be questioned. Everything that happens in this small port goes through Brimhest, you don't need to explain but Brimhest knows or it doesn't happen
+A collection of buildings built into the mouth of a cove illuminated by wandering lanterns. These illegal docks are for cutthroats, pirates, brigands and any business that does not want to be questioned. Everything that happens in this small port goes through Brimhest, you don't need to explain but Brimhest knows or it doesn't happen
+
+This town is not above slavery, but aware that people paid little sell their secrets cheap
 
 This is a place to buy basic adventuring gear, illegal goods, information, boat repairs and a place to disappear
+
+## Locations
+
+### Dockworks
+
+The vast majority of Thieves Key is the pier, docks and drydocks. Demands shouted, wood sawed, metal hammering, ropes hoisted all over the icy planks. Dock workers are visibly branded on their hand and face, making it difficult for them to share information unnoticed. A few gruesome displays in cages or posts with birds pick at the bodies, "Traitor". 
+
+### Brimhest's Nest
+
+Overlooking the entirety of the docks built into the top of the cove like a crowsnest. A few rope ladders dangle below along a hoisted elevator, as each new face or business passes through Brimhest's Nest and there is always a line waiting for their audience with Brimhest  
+
+### Loose Coin - inn
+
+A terrible inn best described as office cubicles
 
 ## NPCs
 
@@ -23,7 +39,7 @@ Short even to describe a dwarf, hairy even to describe a dwarf, grumpy even to d
 
 **Items:** Brimhest has a Sending Stone (first)
 
-Brimhest's post, overlooks the entirety of the dock with a hidden second floor built into the stone above functioning as her home. First she keeps the Thieves Key functioning as it is the last legacy of the Royal Twins, missing presumed dead Monarchs, and she has a great pride in her work on the Thieves Key. Second, anything that could be used to grow her influence and assist her network expansion is of great interest to her.
+with a hidden second floor built into the stone. above functioning as her home. First she keeps the Thieves Key functioning as it is the last legacy of the Royal Twins, missing presumed dead Monarchs, and she has a great pride in her work on the Thieves Key. Second, anything that could be used to grow her influence and assist her network expansion is of great interest to her.
 
 As all with with faults, Brimhest has a particular weakness for rare, quality or expensive alcohols. If she is going to let something slide, this is why
 
@@ -54,10 +70,6 @@ Any delivery from Thieves Key to Netrus has a cost of transporation, this cost i
 Friendly - 17.4gp
 Neutral - 50gp
 
-## The Docks
-
-Contrary to the tone of the town, Thieves Key has talented and elaborate dockworks. Given resources they can craft specialized tools to travel through Jhed. They specialize in quicker and stealthier crafts but are flexible to demand
-
 ## Loyalists
 
 Veteran Statblock
@@ -79,6 +91,8 @@ Can warn party of the challenges of flight in J'hed, has pegleg. Only Aarakocra.
 ### Loyalist 5 - Vez'yen Poison Merchant
 
 **Items:** Vez'yen has a Sending Stone (second)
+
+### Agent of Southpost
 
 ## Boons and Banes
 
