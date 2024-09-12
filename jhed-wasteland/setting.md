@@ -40,6 +40,21 @@ In the vast, unpredictable wilderness of Jhed, the weather is more than just a b
 
 The Outer Empire has had rumors for some time, that the weather of J'hed combines natural and arcane forces but the source or cause is unclear. Consider a character curious to arcane secrets, maybe a desire to harness this wild force, even a nature focused hermit wanting to soothe or understand this disturbance of harmony
 
+### Language
+
+Giant - treaties between kingdoms are written in Giant, a tradition from the Zeltrin Empire. During political disputes treaties written in Giant are upheld before all others
+
+Elf and Gnomish - language of magic and causes many feuds
+
+Draconic - language of power
+
+Dwarvish - currency
+
+Hafling Gnomish - guilds
+
+Orcish - maps
+
+
 ### Weather (DM)
 
 Wind, snow, thunder, lightning, magical effects, tremors
@@ -82,6 +97,8 @@ Cutthroat town, and compition of Outer Empire
 - Southport is two weeks away from next Outer Empire trade post
 - Peninsula and island keys connect to the continent of J'hed.
 - The Outer Empire is intentionally left vague, and players should not be encouraged to visit Southpost. The Outer Empire is everything beyond the scope of J'hed and Thieves Key. It is not one kingdom, but the political mess of the outside world, but Southpost can be convinced to destroy the Thieves Key and begin to take rule over J'hed
+
+ - Great Houses of the Outer Empire are usually Dwarf, Elf, Halfling or Gnome due to their extended lifetimes allowing more political stability
 
 ## Magic
 
