@@ -23,6 +23,22 @@ The Three Sisters are required to assist if the party wants to ally with Oniteth
 
 Oni Glaive (attunement): If you are larger than Medium size, Oni Glaive gains an extra 1d10 Slashing Damage. If you size the Oni Glaive will always change size with you, if you shapechange you can have the Oni Glaive not transform into you
 
+## Twin Kings plots
+
+Missing for 52 years ago, the Twin Kings were the last of the 5 empires to attempt to conquer J'hed
+
+5 known empires have made some attempt to establish themselves in J'hed and each of them it was their final act before their Kings went missing
+
+### Mallus BlackAle (Outer Empire)
+
+Mallus BlackAle is looking for his family's treasure, his brother a traitor to his house was a high ranked guard of the Twin Kings. Mallus expects his brother Dullin to have died, but in the 10 years in J'hed has uncovered nothing. Mallus suggests that the Kobold's may have some information or better scouts due to their numbers and carelessness. Mallus belives that restoring his family treasure will help remove the stain of the BlackAle name 
+
+BlackAle sigil - Black Rectangle with copper, silver and gold coin
+
+### Kobold Treaty
+
+They believe they have found a dragon, but all that enter the lair don't return. Get the Kobolds an audience with dragon and they will search for Dullin BlackAle
+
 ## The Cold Blooded
 
 Nomadic Yuan-ti with Giant Snakes, Lizardfolk with Dinosaurs, and Kobolds pillage through the lands normally unable to survive these harsh cold climates
@@ -35,9 +51,7 @@ Scaleplum - grants cold resistance for a day
 
 ## Twin Kings
 
-Missing for 52 years ago, the Twin Kings were the last of the 5 empires to attempt to conquer J'hed
 
-5 known empires have made some attempt to establish themselves in J'hed and each of them it was their final act before their Kings went missing
 
 ## Ancient Relics
 
