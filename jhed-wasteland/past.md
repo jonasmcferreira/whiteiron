@@ -97,9 +97,13 @@ If playing through the late arcs of Jhed (lvl 13+), these Oozes need to be remov
 
 ## Book One
 
-### "The Twins" or "Twin Kings" Ivis and Aluna (52 years ago) 
+### "The Twins" or "Twin Kings" Ivis and Aluna (52 years ago) - 400 year reign
 
-Intrigues for Book2
+#### Houses Divided
+
+Houses betrayed their loyalties and joined arms with The Twins, many that aligned with the Twin Kings are in the process of regaining their status in The Outer Empire. Much of this discord is possible because of the mysterious vanishment of these Kings, but if documentation would be found it could easily be the end of great houses.
+
+#### Intrigues for Book2
 
 Identical drow twins that used this to great effect. In J'hed it is suspected their antics may have inspired the Kobold's knowledge of traps and sources of their material. Though The Twins once had a large claim of The Outer Regions, as their rule was surpressed they fled into the unconquered lands of J'hed, making a last stand in Thieves Key and smuggling routes around the UnderRoc Bridge. The Outer Empire left The Twins alone, as a minor naucence but 52 years ago, their operations within J'hed simply vanished without a trace and persumed dead
 
