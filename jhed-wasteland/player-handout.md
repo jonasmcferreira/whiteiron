@@ -12,9 +12,11 @@ Dealing with the cold will be a component of Jhed, creating a character with col
 
 Family or Friend fled persecution from a crime: you wish to reconnect because ____
 
+A letter from an old friend "I may have cursed the family ____ "
+
 You or your patron has heard of the indestructable material found in J'hed and you need a sample
 
-Hunting a bounty
+Hunting a bounty - trailing since Outer Empire
 
 Fruit of J'hed - Rumors of a rare fruit of J'hed and you need to investigate
 
@@ -23,6 +25,8 @@ Stolen Heirloom - tracking a thief to acquire an important item to the very ends
 Antiquities - you've been sent to confirm the existence of Relics from the different ages 
 
 Giant History - J'hed is a land known for Giants, collect their stories
+
+Boat - The flaming fools have a cool boat, and you want one
 
 Undead - undead have surged in small villages. J'hed may be a source
 
@@ -51,6 +55,8 @@ An Opportunity of Leadership - the control of J'hed is a mess and this could be 
 
 Antiquities Continued - Netrus, Southpost or even Thieves Key may be a better source
 
+Madness - why madness is so common
+
 ## Hidden Motives
 
 Debt 75,000 gps - returning without paying results in death
@@ -59,6 +65,7 @@ Wanted - hidding and not yet known by Bounty Hunters
 
 Criminal Network: a lot of gold flows through Jhed and the last criminal organization has fallen, now is the time to begin
 
+Cleaning Family Name: family was tied with Twin Kings and want to put to rest all that information
 
 ## Languages (Get common and one other)
 
@@ -84,6 +91,23 @@ Monstrosities
 Oozes
 
 ## Homebrew Subclasses
+
+| Subclass | Str | Dex | Con | Wis | Int | Cha |
+|--|--|--|--|--|--|--|
+| Barbarian | 2 | 1 | 1 |--|1|--|
+|Bard|--|--|--|1|--|2|
+|Cleric|1|--|--|2|--|--|
+|Fighter|2|2|--|--|--|1|
+|Monk|--|2|--|1|1|--|
+|Druid|1|--|--|2|--|--|
+|Paladin|2|--|--|1|--|1|
+|Ranger|--|2|--|1|--|--|
+|Rogue|--|2|--|--|1|--|
+|Sorcerer|--|--|--|--|--|2|
+|Warlock|--|--|--|--|--|2|
+|Wizard|--|--|--|--|2|--|
+|Artificer|--|--|--|--|2|--|
+
 
 ### Barbarian, Path of Arcane Winds
 
@@ -242,13 +266,35 @@ You gain both the Dart and Blowgun attack
 
 Dart attacks break concentration
 
+
+### Paladin of Imprisonment (St/Cha/Wis)
+
+#### Level 3: 
+
+Consume channel divinity, when you hit a target, it can't move further than 15 ft away from you
+
+#### Level 3: spell list
+
+#### Level 7: Freedom for Friends
+
+Allies in aura can't be restrained
+
+#### Level 15
+
+Target effected by your channel divinity, you can expend their reaction and move them how you want
+
+#### Level 20
+
+Large force bubble, 60ft radius. Creatures can move in but not out
+
+### Ranger Wrangler (int)
+
+
 ### Rogue, Bruiser (Dex Str based)
 
 Theme, stealthy attacks with a brick
 
-### Ranger Wrangler (int)
 
-### Paladin of the Prisoned One
 
 ### Sorcerer, Ooze Origin (Cha Dex)
 
