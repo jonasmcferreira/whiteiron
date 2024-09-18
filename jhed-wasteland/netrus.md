@@ -1,21 +1,17 @@
 # Netrus Village
-
 Breaking the snowdrift is a constant plume of smoke, a village teetering at the cliffs to overlook the J'hed Bay. The left, a lonely stone spire jutting towards the expanse. Then a collection of dark wooden longhouses flickering a dim glow of business and respite. The closest structure, a modest two story watch tower signalling your presence has been noticed.
 
 ## Features
 
 ### Grey Spire
-
 A grey spire is the main feature of Netrus at one end of this horseshoe shaped village. Naturally formed on one half with snow clinging like moss; the rest cleft by stonework turned to brick, for a circular platform. Harsh winds keep the snow from settling on the smooth cut stone at the arched passage, none but Nick Elder enter. Deep groves crafted to Arcane Sigils adorn this place, different others found in Netrus. The Grey Spire watches over the expanse of J'hed, tips of mountains peaking above a heavy fog 
 
 The glyphs of Grey Spire appear to be difficult to decypher but they are clearly there to ward away the unwanted
 
 ### Unlit Pyre
-
 Nestled in the center is a large unlit pyre, clearly of ceremonial purpose but not used in some time. Placed upon the stones around are silver coins, and as each resident of Netrus passes, they add another coin.
 
 ### Sisters Home
-
 A two story darkwood longhome sits at the other end of the horseshoe. An inviting plume of smoke, as the cracks in the structure flicker with firelight, clearly the heart of this small community. Carvings with a dim glow on the side of the building and doors sized for giants, with two smaller rounded huts attached at the side.
 
 The smell of smoked meat fills the air, the chants and cheers as bone cups clatter and slosh a wonderful contrast to the bleak climate. Hung from the fur thatched roof, dried game casting dancing shadows as they sway. Three strikingly beautiful women serve and cook the patrons in this open hall from a few large simmering cauldrons. Tired and accomplished denizens sleeping on the floor, slumped drink, boasting of their hunts. 
@@ -23,7 +19,7 @@ The smell of smoked meat fills the air, the chants and cheers as bone cups clatt
 As anyone enters everyone raises their cup and yell "To the South, we drink today"
 
 ### Chapel of Worship
-Sammul
+A thin stave church-like building with three floors is near the Unlit Pyre. A dim but constant glow emminating an intense warmth for both the body and spirit. This humble darkwood structure is near empty, makeshift shrines scattered about, only what is needed. Sammul is found there to converse, it is a private space for those to reflect on the realities of these southlands in the comfort of a guiding faith
 
 ### Watch Tower
 
@@ -51,30 +47,29 @@ food
 
 Language - common
 
+| stat          | name              | notes                            |
+|---------------|-------------------|----------------------------------|
+| stone giant** | Nick Elder        | vilage elder                     |
+| custom        | Sammul            | runepriest                       |
+| hag           | Ulga              | cooker / potion brewer           |
+| hag           | Elga              | cooker / potion brewer           |
+| hag           | Ylga              | cooker / potion brewer           |
+| stat          | Dizrim Headhunter | Bounty Hunter                    |
+| stat          | Mallun BlackAle   | Weapon Collector / General Goods |
+| stat          | name              | notes                            |
+| stat          | watch party 1     | notes                            |
+| stat          | watch party 1     | notes                            |
+| stat          | watch party 2     | notes                            |
+| stat          | watch party 2     | notes (wanted)                   |
+| stat          | animal husbandry  | notes                            |
+| stat          | animal husbandry  | notes                            |
+| stat          | hunting party 1   | notes                            |
+| stat          | hunting party 1   | notes                            |
+| stat          | hunting party 1   | notes                            |
+| stat          | hunting party 2   | notes                            |
+| stat          | hunting party 2   | notes                            |
+| stat          | hunting party 2   | notes                            |
 
-
-|stat | name | notes |
-| -- | -- | -- |
-|stone giant** | Nick Elder | vilage elder |
-| custom | Sammul | runepriest |
-| hag | Ulga | cooker / potion brewer |
-| hag | Elga | cooker / potion brewer |
-| hag | Ylga | cooker / potion brewer |
-|stat | Dizrim Headhunter | Bounty Hunter |
-|stat | General Goods / Crafter | Weapon Collector |
-|stat | name | notes |
-|stat | watch party 1 | notes |
-|stat | watch party 1 | notes |
-|stat | watch party 2 | notes |
-|stat | watch party 2 | notes (wanted) |
-|stat | animal husbandry | notes |
-|stat | animal husbandry | notes |
-|stat | hunting party 1 | notes |
-|stat | hunting party 1 | notes |
-|stat | hunting party 1 | notes |
-|stat | hunting party 2 | notes |
-|stat | hunting party 2 | notes |
-|stat | hunting party 2 | notes |
 
 ### "Nick" Ugris, Head of Netrus
 
@@ -137,22 +132,17 @@ The runes around the town are Explosive Glyphs crafted by Sammul, and he makes a
 
 Socially outcast due to the nature of the Code of Snow, but is dutiful in the works with Southpost. Dead or Alive bounties are plentiful, though most dead. Dizrim's hut is just outside Netrus proper and most parties spit past her home as they head out. Dizrim is lonely and will do many things to gain friendship, but she will abide her work
 
-### Darren BlackAle
+### Mallun BlackAle
 
 **Stats**: veteran, **Language**: common,dwarf  **Goal**: Collect weapons, **Weakness**: gambler
 
 
 ## Boons and Banes
-
 ### Boon
-
 Growth - at population 30 there will be a conflict to the rule of Netrus
 
 ### Bane
-
 Food Shortage - requires to hire hunting party (3) 1000gp from Thieves Key, or 3000gp from Outer Empire
-
-
 
 Criminals - items start going missing
 
@@ -161,3 +151,24 @@ Outer Empire - an extra tax
 ### Hidden Arcane Complex
 
 Underneath Netrus is a small arcane chamber with an Ancient Relic. The glyphs and design of the sanctum reverse the magical emminations, specifically designed and attuned to this stone. This stone is the reason everyone in Netrus is charmed as the stones orginal purpose creates a madness of violence. If this chamber is destroyed, all creatures will become hostile to eachother in Netrus
+
+
+## Class Clues - long rest activities (7 days)
+
+Barbarian
+Bard
+Cleric
+
+### Druid
+druidcraft
+
+Fighter
+Monk
+Paladin
+Ranger
+### Rogue
+Thieves Cant
+
+Sorcerer
+Warlock
+Wizard
