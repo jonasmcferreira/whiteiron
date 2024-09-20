@@ -69,8 +69,8 @@ Ideally weather elements change planning and strategy
 
 ## Weather
 
-| d100 | Category | Effect            | Save/Type | DC E/S/C |
-|------|----------|-------------------|-----------|----------|
+| d100 | Category | Effect            | Save/Type | DC E/S/C | DMG
+|------|----------|-------------------|-----------|----------| -- |
 | 01   | Calm     | Cold              | N/A       |          |
 | 02   | Calm     | Snow              | N/A       |          |
 | 03   | Calm     | Hail              | N/A       |          |
@@ -101,8 +101,8 @@ Ideally weather elements change planning and strategy
 | 28   | Typical  | Lightning II.     | Dex       | 10/-/7   |
 | 29   | Typical  | Thunder II.               | Con          | 10         |
 | 30   | Typical  | Golden Snow               |           |          |
-| 31   | Typical  | Fog               |           |          |
-| 32   | Typical  | Fog               |           |          |
+| 31   | Typical  | Cold III.               |           |          |
+| 32   | Typical  | Snow Wind III.               |           |          |
 | 33   | Typical  | Thunder           | Con       | 13/10    |
 | 34   | Typical  | Thunder           | Con       | 13/10    |
 | 35   | Typical  | Thunder           | Con       | 13/10    |
@@ -253,6 +253,11 @@ Template
 30. **Golden Snow**: A golden glimmer in the snowfall 
    - **Combat:** At the start of your turn Gain 1 Temporary Hit Point
 
+31. **Cold III.**: 
+   2 Cold Damage
+
+32. **Snow III Wind III.**: 
+   - **Endure:** Movement Speed Reduced by 5ft, lightly obscured vision past 150ft, heavily obscured past 300ft
    
 25-28. **Cold**: Golden Arcane Snow chaotically drifts through the winds, sparkling to nothing as it touches solid surfaces
    - **Endure:** 1d6 Cold Damage, Constitution Save (DC 13), on a failed save gain a point of Exhaustion
