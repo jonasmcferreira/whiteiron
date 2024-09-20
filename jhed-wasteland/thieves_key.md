@@ -20,7 +20,11 @@ Overlooking the entirety of the docks built into the top of the cove like a crow
 
 ### Loose Coin - inn
 
-A terrible inn best described as office cubicles
+A terrible inn best described as shanty cubicles, intentionally designed to make keeping secrets challenging, because Brimhest wants to know everything. An aroma of magic as the only cleaning that seems to happen is prestidigitation, but it is a place to rest for a few copper
+
+### Private Quarters
+
+100g a night, if your business isn't worth that much there is no value in your privacy
 
 ## NPCs
 
@@ -30,6 +34,9 @@ A terrible inn best described as office cubicles
 |Loyalist | Veteran |
 |Vez'yen | Assassin |
 | Kraeta "pirate" Sweatclaw  | aarakocra |
+| "Don" (Donald) Vras  | Veteran |
+| Dinalya  | Tiefling |
+
 
 ### Brimhest Deepbrew
 
@@ -54,6 +61,9 @@ Don Vras appears almost as a cliche. Heavy-patched fur garment; matching colour 
 Major Visual Feature: Eyepatch
 
 Provides information about Jhed to players and detailed book keeper
+
+### Dinalya
+Private quarters organizer
 
 ## Features
 
@@ -93,6 +103,7 @@ Can warn party of the challenges of flight in J'hed, has pegleg. Only Aarakocra.
 **Items:** Vez'yen has a Sending Stone (second)
 
 ### Agent of Southpost
+Dinalya is an informant for Southpost
 
 ## Boons and Banes
 
