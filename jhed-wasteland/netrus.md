@@ -1,9 +1,11 @@
 # Netrus Village
+
 Breaking the snowdrift is a constant plume of smoke, a village teetering at the cliffs to overlook the J'hed Bay. The left, a lonely stone spire jutting towards the expanse. Then a collection of dark wooden longhouses flickering a dim glow of business and respite. The closest structure, a modest two story watch tower signalling your presence has been noticed.
 
 ## Features
 
 ### Grey Spire
+
 A grey spire is the main feature of Netrus at one end of this horseshoe shaped village. Naturally formed on one half with snow clinging like moss; the rest cleft by stonework turned to brick, for a circular platform. Harsh winds keep the snow from settling on the smooth cut stone at the arched passage, none but Nick Elder enter. Deep groves crafted to Arcane Sigils adorn this place, different others found in Netrus. The Grey Spire watches over the expanse of J'hed, tips of mountains peaking above a heavy fog 
 
 The glyphs of Grey Spire appear to be difficult to decypher but they are clearly there to ward away the unwanted
@@ -136,7 +138,6 @@ Socially outcast due to the nature of the Code of Snow, but is dutiful in the wo
 
 **Stats**: veteran, **Language**: common,dwarf  **Goal**: Collect weapons, **Weakness**: gambler
 
-
 ### Founding Reasons
 
     - Northmost tradepost in the Jhed Continent
@@ -153,10 +154,9 @@ Socially outcast due to the nature of the Code of Snow, but is dutiful in the wo
 
     - glacial bears, arctic wolves, sabertooths, Vegetarian animal?
 
-
 ### Law
 
-    - Village Four has a noble seat and only desires taxes, the amount is never set.
+    - Seat of Jhed taxes Netrus, the amount is never set.
     - Most disputes are settled through Sammul, else Nick is the final decision
     - The denizens of Netrus don't care about affairs outside of Netrus that don't directly involve them
     - Outside of outward hostility, and theft Netrus only cares about protection of the village
@@ -178,10 +178,13 @@ Socially outcast due to the nature of the Code of Snow, but is dutiful in the wo
     - If the village expands it won't all be under the effects of the charm, and Nick won't have enough power to control through force. This will limit potion supply but increase options
 
 ## Boons and Banes
+
 ### Boon
+
 Growth - at population 30 there will be a conflict to the rule of Netrus
 
 ### Bane
+
 Food Shortage - requires to hire hunting party (3) 1000gp from Thieves Key, or 3000gp from Outer Empire
 
 Criminals - items start going missing
@@ -206,6 +209,7 @@ Fighter
 Monk
 Paladin
 Ranger
+
 ### Rogue
 Thieves Cant
 
