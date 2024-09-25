@@ -48,8 +48,15 @@ Module: 1-4
     - Defend Netrus (ideally with Ally)
     
 
+## Level one Adventure: Journey To Netrus
 
-## Introduction: Journey To Netrus (lvl 1)
+### Introduction
+
+Leaving Thieves Key the party is sheltered on a small covered boat with Don Vras. Two unnamed figures navigate the waters from outside and this opportunity is the last to gain anymore knowledge about Jhed for now. The vessel lists and rocks chaotically on the frigid water for two days before reaching the smuggler's route but there are merryment in drink, meat and fruit.  
+
+The quest? delivering a package to the edge of the world at a time supply routes are cut. 600gp to simply deliver a small 50 lbs package, and any other 20 lbs crate they can bring is another 100gp in rewards. However any crate lost is -150gp, and no reward if the 50 lbs package isn't delivered. The last courier team to Netrus has gone missing  
+
+### Session Zero
 
 Goals.
 
@@ -57,18 +64,7 @@ Goals.
     Setup the Gritty Realism resting system (short rest 8 hours, long rest 7 days)
     Encounter Reptiles, Kobolds, Undead, Oozes, Weather and Madness (look 6 encounters)
 
-Leaving Thieves Key the party is sheltered on a small covered boat with Don Vras. Two unnamed figures navigate the waters from outside and this opportunity is the last to gain anymore knowledge about Jhed for now. The vessel lists and rocks chaotically on the frigid water for two days before reaching the smuggler's route but there are merryment in drink, meat and fruit.  
-
-
-
-
-### Session Zero
-
-The quest? delivering a package to the edge of the world at a time supply routes are cut. 600gp to simply deliver a small 50 lbs package, and any other 20 lbs crate they can bring is another 100gp in rewards. However any crate lost is -150gp, and no reward if the 50 lbs package isn't delivered. The last courier team to Netrus has gone missing  
-
-Thieves Key
-
-### Intro
+### Thieves Key
 
 2 day travel on water to smuggler tunnel
 
@@ -367,6 +363,7 @@ Attack the highest hitpoint target as the ooze 3d6+1 damage and can crit. If the
 
 **Plots:**
 
+
 ## Level Two Adventure: Securing the Ice Sled
 
 ### Adventure Outline: "The Lost Volunteer"
@@ -484,7 +481,7 @@ The piece of equipment is a mechanical cog with an embedded rune. Despite its da
 
 
 
-## Missing Scouts
+### Missing Scouts
 
 A peak to the southeast had veteran scouts not return (party of 6). It is not uncommon for people to go missing in J'hed but an entire squad of veterans this close, odd.   
   
