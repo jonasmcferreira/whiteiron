@@ -58,6 +58,9 @@ The party begins their journey sheltered in a small covered boat with Don Vras. 
 
 ### Travel Overview
 
+The adventurers should have left South Post, the most southern point of the continent by boat. The trip to Jhed usually goes through the thieves key, and then continues into jhed. In Jhed the entry is through a smugglers tunnel.
+The seas and the initial area of Jhed is being covered and guarded by a giant Roc.
+
 Leaving Thieves Key
 
 2 day travel on water to smuggler tunnel
