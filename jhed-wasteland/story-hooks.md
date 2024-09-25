@@ -1,38 +1,65 @@
 # Story Hooks
 # Mysteries
 
+## Netrus - Village
+
+Inside Netrus, everyone is friendly and helpful; charmed to each other in Netrus
+
+The cause is buried deep beneath
+
+## Siege of Netrus
+  
+Nick Elder believes there will be a takeover of Netrus and wishes to bolster the defenses. Suggesting to chat with the giants around to see who will join the ranks
+
+There is no set time for this attack, but it should happen when players are level 4
+
+## Traitor - Oniteth
+
+Throughout the campaign there is an Oni shapeshifting and hunting adventurers. Should be identified by a Glaive but overall be friendly and helpful to the party, as he wants to be lead to further treasures. The three sisters of Netrus are able to control him and get him into his servitude. Her goal is chaos and collecting magic items
+
+Originally found near the UnderRoc bridge is the Hunter that people are looking for, using the Bounty Hunters as easy opportunity to kill without remorse
+
+The Three Sisters are required to assist if the party wants to ally with Oniteth
+
+Oni Glaive (attunement): If you are larger than Medium size, Oni Glaive gains an extra 1d10 Slashing Damage. If you size the Oni Glaive will always change size with you, if you shapechange you can have the Oni Glaive not transform into you
+
+## Twin Kings plots
+
+Missing for 52 years ago, the Twin Kings were the last of the 5 empires to attempt to conquer J'hed
+
+5 known empires have made some attempt to establish themselves in J'hed and each of them it was their final act before their Kings went missing
+
+### Mallus BlackAle (Outer Empire)
+
+Mallus BlackAle is looking for his family's treasure, his brother a traitor to his house was a high ranked guard of the Twin Kings. Mallus expects his brother Dullin to have died, but in the 10 years in J'hed has uncovered nothing. Mallus suggests that the Kobold's may have some information or better scouts due to their numbers and carelessness. Mallus belives that restoring his family treasure will help remove the stain of the BlackAle name 
+
+BlackAle sigil - Black Rectangle with copper, silver and gold coin
+
+### Kobold Treaty
+
+They believe they have found a dragon, but all that enter the lair don't return. Get the Kobolds an audience with dragon and they will search for Dullin BlackAle
+
 ## The Cold Blooded
 
 Nomadic Yuan-ti with Giant Snakes, Lizardfolk with Dinosaurs, and Kobolds pillage through the lands normally unable to survive these harsh cold climates
 
-## The Villages
+Eating local beasts and Scaleplum grant the ability to survive these climates
 
-Empires have failed, Kings have gone missing, invading armies forgotten yet these four villages remain through everything. Netrus, Dhuren Tol, Oravilla and The Seat of J'hed hold secrets
+## Vegitation
 
-## Kings of J'hed
+Scaleplum - grants cold resistance for a day
 
-5 known empires have made some attempt to establish themselves in J'hed and each of them it was their final act before their Kings went missing
+## Twin Kings
 
-## Unmapped and Warpgates
 
-The distance between villages and travel makes little sense in J'hed making it unmapped. Warpgates are scattered making travel passable, but little is known of them or even that people use them as they travel
 
-  
-## Ancient Artifacts
+## Ancient Relics
 
-Artifacts older than even the Kings of J'hed
-
-## Revelations of J'hed
-
-There is a madness that permiates through the denizens of J'hed and if cured they will reveal new details of what J'hed really is
+Relics older than even the Kings of J'hed, these cause madness
 
 ## Oozes
 
 Too many oozes, a fragment of an ancient past The First Ones and a source of the madness and concentrated power of J'hed
-
-## Other Explorers and Factions
-
-These will combine with assisting and hindering your progression. Some factions and Explorers will complete or fail the tasks you didn't take. The world isn't paused without you, but their goals their true goals may not match the players interests
 
 ## Curses
 
@@ -70,6 +97,13 @@ These will combine with assisting and hindering your progression. Some factions 
 - **Missing:** no known reason what happened to this guild, even if thieves were well known
 - **Safe:** lower level exploration
 
+## Lizardfolk
+
+- Run into a large group of Lizardfolk and challenged
+- Offered to come to their settlement or captured
+- Challenge to Tame some beasts
+- They will help Netrus if they can be King of Netrus and build a Gladiator Arena
+
 ## Nomads
 
 Kobolds, Lizardfolk and Yuan'ti don't have consistent homes, but large groups of them are sometimes spotted entering into the J'hed Wasteland
@@ -89,3 +123,6 @@ The Thieves Key is interested in controlling the Rocs not killing them. Their ex
 - **Oozing Ruins(2-4):** Reagents for better potions East
 
 
+## Unmapped and Warpgates (book2)
+
+The distance between villages and travel makes little sense in J'hed making it unmapped. Warpgates are scattered making travel passable, but little is known of them or even that people use them as they travel

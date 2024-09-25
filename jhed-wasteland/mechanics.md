@@ -4,15 +4,11 @@
 
 Eating fresh raw meat or fruits of Jhed wilderness have mostly positive effects. 
 
-|roll|meat|berry|humanoid|
-|----|----|-----|-----|
-|1|poisoned|-----|curse|
-|2-19|cold resistance 24 hours|-----|curse|
-|20|specific to mob|-----|curse|
-
-## Replacing Key NPCs
-
-Choices and consequences could lead to key NPC functions becoming unavailable, like the ability to remove curse depending on the party compositions. To replace an NPC the party has to convince an outsider of the Outer Regions to endure and live in Jhed, the easiest way to do this is gold, and it would be difficult for this cost to be less than 5,000gps
+| roll | meat                     | berry | humanoid |
+|------|--------------------------|-------|----------|
+| 1    | poisoned                 | ----- | curse    |
+| 2-19 | cold resistance 24 hours | ----- | curse    |
+| 20   | specific to mob          | ----- | curse    |
 
 ### Scavenging for food/water
 
@@ -22,6 +18,36 @@ Survival Check DC 16, on a success roll on wilderness table (to be built)
 
 Investigation Check DC 16, on a sucess roll on scavanged supplies table (to be built)
 
+### Humanoid Flesh
+
+If a humanoid eats flesh of a humanoid, they gain the Madness of the Wendigo and lose all other Madness effects. After gaining the Madness of the Wendigo, you make a DC15 Wisdom Save everytime you eat humanoid flesh
+
+| Tier | Instant               | Ongoing (once per long rest)                                |
+|------|-----------------------|-------------------------------------------------------------|
+| 1    | Vision of the Wendigo | You can onsume humanoid flesh to remove an Exhaustion Level |
+
+## Replacing Key NPCs
+
+Choices and consequences could lead to key NPC functions becoming unavailable, like the ability to remove curse depending on the party compositions. To replace an NPC the party has to convince an outsider of the Outer Regions to endure and live in Jhed, the easiest way to do this is gold, and it would be difficult for this cost to be less than 5,000gps
+
+## Macguffin
+
+### Scaleplum 
+
+a deep blue fruit that grows on J'hed shrubs in the shape of a bumpy plum/acorn
+ - consuming one grants cold resist for 8 hours
+ - can be used to create combination healing/cold resist potion
+
+### Steel Quartz
+
+indestructable material found in J'hed, it can't be reshaped by any means
+   - immunity to all damage
+
+### Ooze Ichor
+
+remnants of oozes
+   - causes hallucinations when touched
+   
 ## Growth
 
 Each village/town will have some default growth conditions. These are mechanics to represent what players can do to improve or destabilize these areas. Every change should come with a new conflict, these should not be perceived as an exhaustive list, but just a suggestion on how to handle the village growths without overthinking
@@ -47,6 +73,45 @@ Exhaustion caused by cold exposure follows standard D&D rules:
 - Each level of exhaustion requires one full day of rest in a warm environment with adequate food and water.
 - Magical means (such as the *Greater Restoration* spell) can reduce exhaustion levels.
 
+
+## Setting Specific Madness
+
+When you gain a category of Madness, you select which one in the tier. Take 1d12 psycic damage when you fail to uphold to your madness
+
+
+### Madness of Consumption
+
+| Tier | Effect               |
+|------|----------------------|
+| 1    | Only eat meat        |
+| 1    | Only eat plants      |
+| 1    | Only eat fresh kills |
+| 1    | Taste all liquids    |
+| 1    | Only Drink Alcohol   |
+
+
+Gear Related
+
+* Must change gear
+* must burn gear
+* must be unarmoured
+* never sleep in armour
+* must be comfortable
+
+Warmth Related
+
+* avoids warms
+* always needs to be around fire
+
+### Madness of Apperance
+
+| Tier | Effect                                          |
+|------|-------------------------------------------------|
+| 1    | You will not change clothes                     |
+| 1    | You will change clothes every short rest        |
+| 1    | You will wear the most expensive clothing       |
+| 1    | You will always wear a mask                     |
+| 1    | You wear the clothing of creatures you defeated |
 
 
 ## Official Mechanics

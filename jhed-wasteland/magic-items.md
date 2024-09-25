@@ -2,6 +2,22 @@
 
 Aim for flavour not power
 
+## Giant Sigil
+
+**Armor:** Shield
+
+**Rarity:** Uncommon (requires attunement)
+
+You can spend 1 minute yelling loudly in Giant, calling for the blessing of immensity. Your size changes to Huge for 1 hour.
+
+## Volley Bow
+
+**Weapon:** Short Bow
+
+**Rarity:** Uncommon (requires attunement)
+
+**Volley** You can use your action to make a ranged attack against any number of creatures within 30 feet of a point you can see within your weapon’s range. You consume all ammunition, and you make a separate attack roll for each target. You can use this ability once per long rest
+
 ## Perfect Pitons
 
 **Wonderous Item:** Pitons

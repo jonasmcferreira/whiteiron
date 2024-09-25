@@ -22,134 +22,117 @@ Hidden among the glaciers and ice fields are remote valleys and ice caves, offer
 
 Due to its extreme latitude, the Jhed Wastelands experience prolonged periods of twilight, where the sun barely rises above the horizon, casting a perpetual twilight over the land. This creates an eerie, otherworldly atmosphere, with long shadows and a sky that transitions through shades of deep blue and purple. The lack of clear daylight can be disorienting, making navigation even more challenging and contributing to the land's reputation as an endless, desolate wilderness.
 
-### Not a Globe
+### Unexplored and Not a Globe (player handout)
 
-The world that J'hed exists is not a globe, the continent is designed that it can be added to other settings but importantly there is an edge of the world (at least one) and it is in J'hed
+The universe that J'hed exists in is not a globe, there are many postulations but as J'hed is unmapped it remains heated debate. Navigation guilds would pay a huge sum to answer some of these questions but the proof is harder to obtain. Maps of J'hed are inaccurate and fabrications of fantasy, trinkets to bolster a charlatan's story or fleece a misguided trader. But a true map of J'hed would be a treasure; consider this a potential ambition of your character to venture or explore where few have been and push even further into these hostile lands.
 
-### Time
+### Time (player handout)
 
-The Jhed Wasteland seems broken in time, as dusk shifts to dawn or day to night without transition. No assurance of how long these moments of light or dark last. Even the stary veil appears random hindering navigation making those that risk such a journey unaware of how long they've been gone. But the beasts who roam and the monstrosities that linger the Jhed Wastelands is a hunting ground. Because of this oddity, denizens of J'hed aren't really aware of how old they are, or how much time passes as there is no constant with weather or migration patterns
+The campaign of J'hed uses the Gritty Realism optional ruleset (Short Rest 8 hours, Long Rest 7 days). One of the design goals this accomplishes is to make a much longer period of time unfold during the adventure. Keep in mind this means that a Standard Adventuring Day more means events that happen over a week, rather than everything happening all in the same day. Another element of gameplay this emboldens is hunting, No longer a night and your quarry is fully restored.
 
-### Weather
-In the vast, unpredictable wilderness of Jhed, the weather is more than just a backdrop—it's an ever-present force that shapes the fate of both friend and foe alike. The harsh conditions are not selective; whether you're a weary adventurer or a lurking predator, the elements will have their say. Yet, Jhed's weather is as capricious as it is brutal. While it can bring bone-chilling cold and blinding blizzards, it also has moments of strange benevolence, where even the most dangerous storms can bring unexpected boons.
+### Time (DM only)
 
-#### The Dual Nature of Jhed's Weather
+In universe J'hed seems broken in time, as dusk shifts to dawn or day to night without transition. No assurance of how long these moments of light or dark last. Even the stary veil appears random hindering navigation. The beasts and denizens whom roam, the monstrosities that linger in J'hed are unphased by this oddity. This constant fluxuation of time makes it difficult to know how long anyone has been in J'hed to the frustration of Thieves Key and the Outer Empire
 
-The weather in Jhed should be a constant, dynamic element in your campaign, influencing both combat and exploration. It's a living, breathing force that does not distinguish between hero and villain. When a storm rolls in, everyone must contend with it. This creates an environment where both sides might find themselves hindered or helped by the same weather conditions.
+### Weather (player handout)
 
-**In Combat:**
-- **Blizzards:** During a battle, a sudden blizzard might reduce visibility to nearly nothing, forcing both sides to fight blind. This could lead to more cautious, tactical combat where both parties must rely on sound and intuition rather than sight.
-- **Icy Winds:** Gale-force winds can make it difficult to maintain footing or aim ranged attacks, affecting both the party and their enemies. The winds might also shift during combat, potentially giving one side an advantage before turning against them moments later.
-- **Frozen Ground:** The ground beneath your feet can suddenly freeze over, making movement treacherous for everyone involved. Even a mighty frost giant could slip and fall if not careful, just as a nimble rogue might find their agility tested.
+In the vast, unpredictable wilderness of Jhed, the weather is more than just a backdrop—it's an ever-present force that shapes the fate of both friend and foe alike. The harsh conditions are not selective; whether you're a weary adventurer or a lurking predator, the elements will have their say. Yet, J'hed's weather is as capricious as it is brutal. While it can bring bone-chilling winds and blinding blizzards, it also has moments of strange benevolence, where even the most dangerous storms can bring unexpected boons. 
 
-**Out of Combat:**
-- **Travel:** On the road, the weather can be a great equalizer. A storm that hinders the party's progress might also slow down pursuing enemies, buying the heroes precious time to escape or prepare.
-- **Rest:** Setting up camp in a sheltered spot during a storm can grant both the party and their foes a much-needed respite, leading to an uneasy truce as everyone seeks refuge from the elements.
-- **Navigation:** Arcane winds might temporarily clear the skies, allowing for easier navigation or even revealing hidden paths that would otherwise be obscured by the snow. However, these same winds could aid a rival group in finding their way to a key location.
+The Outer Empire has had rumors for some time, that the weather of J'hed combines natural and arcane forces but the source or cause is unclear. Consider a character curious to arcane secrets, maybe a desire to harness this wild force, even a nature focused hermit wanting to soothe or understand this disturbance of harmony
 
-#### Anomalies and Beneficial Arcane Winds
+### Language
 
-Jhed is not just a land of relentless hardship; it is also a place where magic intertwines with the natural world in unpredictable ways. Sometimes, the very forces that seek to freeze and obscure can turn on a dime, offering a brief respite or even unexpected advantages.
+Giant - treaties between kingdoms are written in Giant, a tradition from the Zeltrin Empire. During political disputes treaties written in Giant are upheld before all others
 
-- **Arcane Winds:** These rare and mystical breezes can blow through the land, invigorating those who feel their touch. An arcane wind might temporarily boost the magical abilities of anyone in its path, allowing for more potent spellcasting or quicker recovery of spent resources. However, this boon is shared by all, meaning both the party and their enemies could suddenly find themselves empowered.
-  
-- **Warm Fronts:** In the midst of an unrelenting cold, a warm front might sweep through, melting ice and snow, and easing the burdens of travel. These fronts are often short-lived, but they provide a welcome break from the frostbite-inducing temperatures. Yet, they also thaw out dangerous creatures that had been dormant, leading to unexpected encounters.
+Elf and Gnomish - language of magic and causes many feuds
 
-- **Restorative Storms:** While most storms in Jhed are brutal, some carry a strange restorative energy. Those caught in these storms might find their wounds healing faster, or their fatigue lifted, as if the storm itself were breathing life back into them. But be wary—such storms are fickle, and their effects can end just as suddenly as they began.
+Draconic - language of power
 
-### Using Weather
+Dwarvish - currency
 
-As a Dungeon Master, you can use Jhed's weather to create dynamic and unpredictable encounters that challenge your players to think on their feet. Encourage your players to consider the weather not just as an obstacle, but as a tool. They might choose to wait out a storm to gain its benefits, or they could try to lure enemies into an exposed position during a blizzard. The key is to make the weather feel like an integral part of the world, one that is as likely to help as it is to harm.
+Hafling Gnomish - guilds
 
-### Tectonics
+Orcish - maps
 
-Recently Jhed has experienced a few powerful tectonic events, news that doesn't reach the other regions. Clearly something has disturbed these glacial wastes, but also created a new opportunity for uncovered riches and knowledge. Entrances lost to thousand year snow now uncovered, but even more now lurks the lands and seas.
 
-## Map/World Logistics
+### Weather (DM)
 
-The known maps of J'hed are horribly incorrect, and part of this adventure will be figuring out what J'hed really looks like, what it holds and what information is shared to the wider world
+Wind, snow, thunder, lightning, magical effects, tremors
 
-### Communication
+### J'hed
 
-Bringing information about J'hed to the Outer Regions can bring treasure hunters, political rivals, opportunists or a helping hand.
+Consists of 
 
-### Path to J'hed
-
-- Two months travel from the closest trade point outside of Jhed, South Port, to the nearest trade post in Jhed, Netrus.
-- Peninsula and island keys connect to the continent of Jhed.
-
-### J'hed Continent
+#### J'hed Mainland
 
 - Physically akin to Antarctica for placeholder description.
-- 4 small villages for trade at the edge of the Continent and Wasteland.
-- These towns mark the southernmost settlements in existence.
-- The continent is considered lower-level zones.
-- Ambitious kings have tried to conquer J'hed and beyond but have all failed.
+- 4 small villages Netrus, Dhuren'Tol, Oravilla, Seat of J'hed
 
-### J'hed Coast
+#### J'hed Coast
 
-The coast can be considered the 1-2 day journey from the cliffs of the continent into J'hed. A very lucrative exploration but not the intensity of the rest
+The coast can be considered the 1-2 day journey from the cliffs of the continent into J'hed. A very lucrative exploration but dangerous
 
-### J'hed Bay
+#### J'hed Bay and Wasteland
 
-J'hed forms a bay with cliffed landmass, and this region though extremely dangerous is protected compared to the Wasteland, there is a cliffed region in the center of the Bay 
+For another book
 
-### J'hed Wasteland
+### Locations  
 
-- This is the "frozen ocean" of exploration and the source of a gold rush.
-- Erratic, unstable, and traveling beasts are required for longer distances.
-- No maps or known landmarks.
-- Seems lost in time (roll if day or night every short rest).
-- Blindspots to gods and devils - within the Wasteland, it seems higher entities simply don't see into the wasteland or even believe it exists.
-- A chaotic wilderness that doesn't make geological sense.
+#### Netrus
 
-### Warp Points
+The majority of this adventure is expected to be taken in Netrus
 
-To make Jhed the size of a continent and not just have players do 50 sessions of travelling in snow, there are key points that bring players from point A to point B. These will not be directly in towns and a guarded secret. So for example in Overland Travel: Netrus to Durenthal would be more accurately represented by, 2 days from Netrus to a Warp Point, and another 3 days from the Warp Point to Durenthal
+#### UnderRoc Bridge
 
-These Warp Points will be able to be modified to change where they go to as more is discovered about Jhed
+Fortification between Netrus and Thieves Key
+
+Zeltrin Empire, built and the smuggling route simply took advantage of its continued existence
+
+#### Thieves Key
+
+Cutthroat town, and compition of Outer Empire
+
+#### Southpost - Outer Empire
+
+- Southport is two weeks away from next Outer Empire trade post
+- Peninsula and island keys connect to the continent of J'hed.
+- The Outer Empire is intentionally left vague, and players should not be encouraged to visit Southpost. The Outer Empire is everything beyond the scope of J'hed and Thieves Key. It is not one kingdom, but the political mess of the outside world, but Southpost can be convinced to destroy the Thieves Key and begin to take rule over J'hed
+
+ - Great Houses of the Outer Empire are usually Dwarf, Elf, Halfling or Gnome due to their extended lifetimes allowing more political stability
+
+## Magic
+
+### People with Magic (player handout)
+
+Though J'hed seems infused with magic, the Outer Region is limited. Casters with the ability of Cantrips can be found in most towns, but leveled spells are rare and beyond level two spells are only heard of by The Council Five.
+
+### Magic Items
+
+Fabricating common magic items is possible, however anything uncommon or greater are "unique". This means that their is only one on the entire plane. Bringing an magic item from another plane to this one causes the new one to fade from existence. These items are imbued uniquely from the weave thus become items of lore and legend
 
 ### Overland Travel
 
 Travelling in Jhed is not done in straight lines, so distances are very relative. When travelling you must take into account that the terrain is unmappable, as it is contantly shifting with storms and the nature of ice, plus getting lost and back on track is a common occurrence and skill in Jhed.
 
-|                    | Durenthal | Netrus | Reef Village | Seat of the Noble Jhed | Witch's Nip |
-|--------------------|-----------|--------|--------------|------------------------|-------------|
-| **Durenthal**      | -         | 5      | 15           | 35                     | 30          |
-| **Netrus**         | 5         | -      | 10           | 30                     | 4           |
-| **Reef Village**   | 15        | 10     | -            | 20                     | 30          |
-| **Seat of the Noble Jhed** | 35 | 30     | 20           | -                      | 50          |
-| **Witch's Nip**    | 30        | 4      | 30           | 50                     | -           |
+|                            | Theives Key | UnderRoc Bridge | Netrus | Southport |
+|----------------------------|-----------|--------|--------------|------------------------|
+| **Thieves Key**              | -         | 5      | 7           | 7                     | 
+| **UnderRoc Bridge**                 | 5         | -      | 2           | 10                     | 
+| **Netrus**           | 7        | 2     | -            | 14                     | 
+| **Southport** | 7        | 10     | 14           | -                      | 
+
+
+|                            | Durenthal | Netrus | Reef Village | Seat of the Noble Jhed | Witch's Nip |
+|----------------------------|-----------|--------|--------------|------------------------|-------------|
+| **Durenthal**              | -         | 5      | 15           | 35                     | 30          |
+| **Netrus**                 | 5         | -      | 10           | 30                     | 4           |
+| **Reef Village**           | 15        | 10     | -            | 20                     | 30          |
+| **Seat of the Noble Jhed** | 35        | 30     | 20           | -                      | 50          |
 
 ### Thieves Key
 
 - small key of islands is the most direct path to Jhed, these thieves are the last remnants of the Thieves Kings
 
-## The Code of the Snow
 
-    Survive or Perish, survival is the balance between community and sacrifice.
-    
-    Render not aid if it means the demise of the group. All understand and accept this law.
-    
-    Kill not thy kin, but the dead have no feelings. Should they perish, their flesh may sustain thee.
-    
-    Jhed has no memory of who ye were before. Thy past matters not; only thy deeds in Jhed.
-    
-    Break not thy word; keep all bargains. Trust is sacred.
-    
-    Once a village elder or leader decrees, there shall be no appeal nor argument. The decision is final.
-    
-    Hold no grudges, for they serve no purpose. Let bygones be bygones for the sake of survival.
-    
-    Punishments: Three punishments there be: branded, exiled, and death. The branded shall not enter the villages of Jhed.
 
-## Expansion
-
-- each village in Jhed is sitting on a semi known but untapped potential of resources
-- connecting to villages increases the ability to trade
-- connecting to outer regions is a greater effort of time and will create a tension of politics
-- attempting to expand into Jhed Wasteland fails
-- improving defenses is the first goal, each village spends too mcuh resources stopping raiders
-- all villages want to help party raid Jhed, making them take the risk
-- the frost syndicate comes
 

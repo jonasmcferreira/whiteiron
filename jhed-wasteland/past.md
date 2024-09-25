@@ -15,6 +15,8 @@ Kings whom have tried to conquer Jhed
  Architecture from Zeltrin Empire usually built to host both humanoid and giant sized denizens
 
  **Revelation:** Zeltrin has a fake burial in the Jhed Wasteland and still lives. He has learned the origin of the oozes and knows returning will simply bring the greater threat the the outer regions
+ 
+ T1: UnderRoc Bridge built by Zeltrin's Empire
 
 ## Osmin, Pretend King, 4112 years ago
 
@@ -26,6 +28,8 @@ Osmin's undead form gets more powerful each time he is killed. He can become an 
 
 **Revelation:** died in Jhed Continent and never made it to the wasteland during a mutany and his body was cannibalized. The harshness of Jhed took the lives of the mutinous. This betrayel cursed the population of Jhed and is the cause of the undead existing here, and Osmin still acts in many undead forms with a twisted mind.
 
+T1: Ghost that is haunting players
+
 ## Council of Five, 1901 years ago
 
  **Revelation:** in the attempts of completing "The Great Works" it transformed them into an ooze
@@ -35,6 +39,8 @@ The council of Five never controlled the entire Outer Region as Zeltrin, but wer
 By forming an alliance of the common interests in the persuits of arcane knowledge they became the most powerful spellcasters to exist. And they were friends, managing to have little dispute between themselves as they all wanted to learn these secrets.  
   
 To them Jhed was a fairytale and the stories of Zeltrin and his failed adventure silly a waste of effort. Eventually their studies brought samples of the arcane powers weaved into the very nature of Jhed, so two members were dispatched, they never work alone.
+
+T1: Teleportation Triangles
 
 ### "Fizra Bubbles" Female Gnome Inventor
 
@@ -74,34 +80,14 @@ This is the dragon the Kobolds are drawn to
 
 **Revelation:** Frozen in a glacier
 
-## The Twins Ivis and Aluna 52 years ago
+T1: Odd amount of underdark denizens in J'hed
 
-These twins were identical in visuals and used this to great effect. It wasn't until their downfall that most knew there was two of them. May be possible that the Kobolds new knowledge of traps and sources of their material come from those theiving caravans
 
-### "Ivis" Male Drow Assassin
 
-Master of Blade
-Master of Stealth
 
-Designed the Mega Dungeon for the assassin's smuggling route. This was based off the warp gates, they didn't build them but they used them and mapped them out
+#### Netrus
 
-An eccentric weapon collector
-
-### "Aluna" Female Drow Assassin
-
-Master of Poison
-Master of Disguise
-
-Aluna learned a way to make a great poison, but it would require a substantial amount of her own blood. Ivis blood was suitable, and so she restrained him and bled him. Eventually he broke free killing Aluna, but without having much left in him, he died as well.
-
-    - an thieve empire finally taking control of the outer regions
-    - successful for a time but eventually pushed out
-    - last bastion of the Keys and Jhed Continent
-    - remaining a smuggling ring in Jhed unable to be fully defeated
-    - Then suddenly missing
-
-**Revelation:** both of these are eligable for True ressurection
-
+Built by Council Five
 
 ## First Ones - Oozes
 
@@ -109,3 +95,38 @@ Oozes are the remnants of another plane, a plane transformed entirely into a pri
 
 If playing through the late arcs of Jhed (lvl 13+), these Oozes need to be removed from the plane to prevent a similar fate. These oozes aren't acting in a way to destroy the plane but simply their existence causes problems
 
+## Book One
+
+### "The Twins" or "Twin Kings" Ivis and Aluna (52 years ago) - 400 year reign
+
+#### Houses Divided
+
+Houses betrayed their loyalties and joined arms with The Twins, many that aligned with the Twin Kings are in the process of regaining their status in The Outer Empire. Much of this discord is possible because of the mysterious vanishment of these Kings, but if documentation would be found it could easily be the end of great houses.
+
+#### Intrigues for Book2
+
+Identical drow twins that used this to great effect. In J'hed it is suspected their antics may have inspired the Kobold's knowledge of traps and sources of their material. Though The Twins once had a large claim of The Outer Regions, as their rule was surpressed they fled into the unconquered lands of J'hed, making a last stand in Thieves Key and smuggling routes around the UnderRoc Bridge. The Outer Empire left The Twins alone, as a minor naucence but 52 years ago, their operations within J'hed simply vanished without a trace and persumed dead
+
+#### "Ivis" Male Drow Assassin King
+
+Master of blade and stealth
+
+Designed the Mega Dungeon for the assassin's smuggling route and to hide his treasures
+
+#### Location First Cave of Ivis
+
+Beneath UnderRoc Bridge
+
+Oniteth is searching this
+
+Darren BlackAle  Deuregar (Grey Dwarf) Weapon Collector is searching for this
+
+
+
+### "Aluna" Female Drow Assassin
+
+Master of poisons and disguise
+
+Aluna learned a way to make a terrible poison, but it would require a substantial amount of her own blood. Ivis blood was suitable, and so she restrained him and bled him. Eventually he broke free killing Aluna, but fell shortly after from his wounds
+
+Vez'yen is trying to learn this secret
