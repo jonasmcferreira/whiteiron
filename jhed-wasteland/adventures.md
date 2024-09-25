@@ -6,13 +6,13 @@ The default rules for encounters recommend aiming for 6 to 8 medium to deadly en
 
 Be mindful that weather is an important factor. Be sure to factor in the weather system.
 
-Encounters with purpose - encounters should:
+**Encounters with Purpose**: Encounters should:
+- Create conflict
+- Reinforce plot
+- Add intrigue
 
-    - Create conflict
-    - Reinforce plot
-    - Add intrigue
+### Check Template
 
-Template to Remember checks
 
 | Check           | DC   | Result |
 |-----------------|------|--------|
@@ -40,47 +40,37 @@ Template to Remember checks
 | Performance     | ---- | ----   |
 | Persuasion      | ---- | ----   |
 
-Module: 1-4
+### Module: Levels 1-4
 
-    - Get to Netrus (undead, Kobolds, Fungi, Beasts, Madness)
-    - Short Quest ("save" animals for sled?) (werewolf)
-    - Get Sled and meet up with (remaining) waring tribes. (Kobold, Lizardfolk, Yuan-ti)
-    - Defend Netrus (ideally with Ally)
-    
+- **Get to Netrus**: Encounter undead, Kobolds, Fungi, Beasts, Madness.
+- **Short Quest**: "Save" animals for sled (potential werewolf encounter).
+- **Acquire Sled**: Meet warring tribes (Kobold, Lizardfolk, Yuan-ti).
+- **Defend Netrus**: Ideally with the help of an ally.
 
-## Level one Adventure: Journey To Netrus
+## Level One Adventure: Journey To Netrus
 
 ### Introduction
 
-Leaving Thieves Key the party is sheltered on a small covered boat with Don Vras. Two unnamed figures navigate the waters from outside and this opportunity is the last to gain anymore knowledge about Jhed for now. The vessel lists and rocks chaotically on the frigid water for two days before reaching the smuggler's route but there are merryment in drink, meat and fruit.  
+The party begins their journey sheltered in a small covered boat with Don Vras. Two unnamed figures navigate the frigid waters outside. This is the last chance to gather knowledge about Jhed. The boat rocks chaotically on the frigid waters for two days before reaching the smuggler's route, but there is merriment in drink, meat, and fruit.
 
-The quest? delivering a package to the edge of the world at a time supply routes are cut. 600gp to simply deliver a small 50 lbs package, and any other 20 lbs crate they can bring is another 100gp in rewards. However any crate lost is -150gp, and no reward if the 50 lbs package isn't delivered. The last courier team to Netrus has gone missing  
+**The Quest**: Deliver a package to the edge of the world while supply routes are cut. The party is offered 600 gp to deliver a small 50 lbs package. Any additional 20 lbs crate they bring along rewards them with 100 gp each. However, any lost crate results in a 150 gp penalty, and no reward is given if the 50 lbs package isn't delivered. The last courier team to Netrus has gone missing.
 
-### Session Zero
 
-Goals.
+### Travel Overview
 
-    Get a feel for 6 to 8 encounter before short rest
-    Setup the Gritty Realism resting system (short rest 8 hours, long rest 7 days)
-    Encounter Reptiles, Kobolds, Undead, Oozes, Weather and Madness (look 6 encounters)
-
-### Thieves Key
+Leaving Thieves Key
 
 2 day travel on water to smuggler tunnel
-
 1 day travel on smuggler tunnel river
-
-### Step 1:
-
 1-2 day travel in tunnel to UnderRoc Bridge (2 days if stealth, 1 day if normal pace)
 
 The frozen path follows a gentle incline, centered on two rails but there is no light further ahead
 
-#### Encounter 1a: Boarded Walls 
+#### Encounter 1a: Boarded Walls
 
-DM note: this is meant as a bypass to "A Wall of Ice" if players explore early or fail to get up
+*DM Note*: This encounter is meant as a bypass to "A Wall of Ice" if players explore early or fail to climb up.
 
-Each time Boarded walls are marked with Thieves cant, a rogue investigating can be told the result of the roll before destroying the blockade. Each path must be travelled for about 30 minutes before the result happens
+Scattered along the path are boarded walls marked with Thieves' Cant. A rogue investigating can be told the result of their roll before destroying the blockade. Each path must be traveled for about 30 minutes before the result happens.
 
 Reference Image: IceCave
 
@@ -93,22 +83,20 @@ Reference Image: IceCave
 | 5  | Split       |
 | 6  | Bypass   |
 
-1. The path is long and cold, 1 Cold Damage as you travel
-2. Investigation Check (DC10) to notice trap: Dexterity Save (DC10) 1d4 Bludgeoning Damage as roof caves in, impassible
-3. A corpse slumped to the ground wearing scraps (Zombie): Party is surprised if move towards
-4. Half eaten Kobold near a deep hole. Investigation 13: water in the hole. Can be Lizardfolk ambush
-5. Path splits to two, each path is a new D6 and can split again
-6. Hour down path, the pass returns to the main route allowing you to bypass an obstacle
+1. **Too Cold**: The path is long and cold. The party takes 1 Cold Damage.
+2. **Trap**: Investigation Check (DC 10) to notice the trap. Dexterity Save (DC 10) to avoid 1d4 Bludgeoning Damage as the roof caves in, making the path impassable.
+3. **Dead**: A corpse slumped to the ground, wearing scraps (Zombie). The party is surprised if they move towards it.
+4. **Danger Hole**: A half-eaten Kobold lies near a deep hole. Investigation (DC 13): There's water in the hole. It could trigger a Lizardfolk ambush.
+5. **Split**: The path splits in two. Each path requires a new D6 roll and can split again.
+6. **Short Cut**: An hour down the path reveals a shortcut. If the party has already found this, replace it with a "Too Cold" result.
 
-#### Ghost of the Past 
+### Ghost of the Past I
 
-DM note: Ghost of the Past never speaks more than one sentence, always cryptic
+**Trigger**: After the party wakes from their first short rest.
 
-**Trigger**: after the party wakes from their first short rest
+**An ethereal form, barely visible through refractions of light in the ice, sits beside your camp. "Will you be any different?" the cavernous wind speaks in old Common.**
 
-**An ethereal form, barely visible through refractions of light in the ice sits aside your camp. "Will you be any different?" the cavernous wind speaks in an old common.**   
-
-The form fades away without interacting
+The form fades away without interacting further.
 
 #### Encounter 1b: A Wall of Ice
 

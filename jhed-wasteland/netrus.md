@@ -137,6 +137,46 @@ Socially outcast due to the nature of the Code of Snow, but is dutiful in the wo
 **Stats**: veteran, **Language**: common,dwarf  **Goal**: Collect weapons, **Weakness**: gambler
 
 
+### Founding Reasons
+
+    - Northmost tradepost in the Jhed Continent
+    - Thief Twin Kings created underground smuggling route from Thieves Key to Netrus
+    - Water around Netrus contain intense arcane traces, perfect potion brewing
+
+### Oddities
+
+    - stone's/glyphs of warding everywhere in Netrus
+    - charmed when entering, assumed to be from a glyph, hidden truth: relic village is built over
+    - fighting arena for disputes/fun/gambling outside of charmed region
+
+### Beasts of Burden info
+
+    - glacial bears, arctic wolves, sabertooths, Vegetarian animal?
+
+
+### Law
+
+    - Village Four has a noble seat and only desires taxes, the amount is never set.
+    - Most disputes are settled through Sammul, else Nick is the final decision
+    - The denizens of Netrus don't care about affairs outside of Netrus that don't directly involve them
+    - Outside of outward hostility, and theft Netrus only cares about protection of the village
+
+### Food
+
+    - fish and meat in abundance
+
+### Allies, Enemies and Neutral
+
+    - The villagers ask nothing of the party while offering potions, food, and lodging at no cost
+    - If the party helps through tasks, donations and protection; this improves the quality and value of these offers
+    - Acting against Netrus will come as three warnings, the first being a loss of free support, then exile, and then open hostility on the Jhed Continent
+
+### Expansion and Loss
+
+    - If the population of Netrus shrinks below 10, the village risks total failure and needs the parties help
+    - Securing the trade route to the Keys is the best way to expand the population of Jhed while sending out valuable items to begin a gold rush
+    - If the village expands it won't all be under the effects of the charm, and Nick won't have enough power to control through force. This will limit potion supply but increase options
+
 ## Boons and Banes
 ### Boon
 Growth - at population 30 there will be a conflict to the rule of Netrus
