@@ -54,6 +54,9 @@ Hafling Gnomish - guilds
 
 Orcish - maps
 
+### Religion
+
+In the Outer Empires there is a vast array of theologies and acts or powers that are believed to be that of divine interference, but there is no single faith that have taken hold of the major population. J'hed has a population too small for any meaningful organization of faiths, and fueding in these believes is too detrimental in these small communities. However the general isolation of J'hed makes it more common to find what may be considered distasteful or darker faiths that have no need to be hidden here.
 
 ### Weather (DM)
 
