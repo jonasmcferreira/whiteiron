@@ -8,8 +8,8 @@ Recently news of earthquakes in Jhed causing chaos and discovery have been rumor
 
 Dealing with the cold will be a component of Jhed, creating a character with cold resistance could be interpreted as an "easier" option but by no means will break any elements of the campaign.
 
-## Personal Quests (a reason to go to Jhed)
-
+## Quests
+### Personal Quests (a reason to go to Jhed)
 Family or Friend fled persecution from a crime: you wish to reconnect because ____
 
 A letter from an old friend "I may have cursed the family ____ "
@@ -34,9 +34,9 @@ Haunted - literally annoyed by a ghost to get there
 
 Call of adventure - a large sum of gold
 
-## Motive (a reason to adventure in Jhed as a party)
+The Great Works - everyone else has failed, but I need to know the secrets
 
-
+### Motive (a reason to adventure in Jhed as a party)
 Treasure of the missing Kings
 
 Understanding the Arcane Weather
@@ -57,8 +57,9 @@ Antiquities Continued - Netrus, Southpost or even Thieves Key may be a better so
 
 Madness - why madness is so common
 
-## Hidden Motives
+The Great Works II. - you have found a piece and it grants an incredible power but there is more
 
+### Hidden Motives
 Debt 75,000 gps - returning without paying results in death
 
 Wanted - hidding and not yet known by Bounty Hunters
@@ -68,7 +69,6 @@ Criminal Network: a lot of gold flows through Jhed and the last criminal organiz
 Cleaning Family Name: family was tied with Twin Kings and want to put to rest all that information
 
 ## Languages (Get common and one other)
-
 Draconic
 Giant
 Undercommon
@@ -82,7 +82,6 @@ Elven
 **Abyssal
 
 ## creatures you'll find
-
 humanoids
 Giants
 Beasts
@@ -92,25 +91,25 @@ Oozes
 
 ## Homebrew Subclasses
 
-| Subclass | Str | Dex | Con | Wis | Int | Cha |
-|--|--|--|--|--|--|--|
-| Barbarian | 2 | 1 | 1 |--|1|--|
-|Bard|--|--|--|1|--|2|
-|Cleric|1|--|--|2|--|--|
-|Fighter|2|2|--|--|--|1|
-|Monk|--|2|--|1|1|--|
-|Druid|1|--|--|2|--|--|
-|Paladin|2|--|--|1|--|1|
-|Ranger|--|2|--|1|--|--|
-|Rogue|--|2|--|--|1|--|
-|Sorcerer|--|--|--|--|--|2|
-|Warlock|--|--|--|--|--|2|
-|Wizard|--|--|--|--|2|--|
-|Artificer|--|--|--|--|2|--|
+| Subclass  | Str | Dex | Con | Wis | Int | Cha |
+|-----------|-----|-----|-----|-----|-----|-----|
+| Barbarian | 2   | 1   | 1   | --  | 1*  | --  |
+| Bard      | --  | --  | --  | 1   | --  | 2   |
+| Cleric    | 1   | --  | --  | 2   | --  | --  |
+| Fighter   | 2   | 2   | --  | --  | --  | 1*  |
+| Monk      | --  | 2   | --  | 1   | 1   | --  |
+| Druid     | 1   | --  | --  | 2   | --  | --  |
+| Paladin   | 2   | --  | --  | 1   | --  | 1   |
+| Ranger    | --  | 2   | --  | 1   | --  | --  |
+| Rogue     | 2*  | 2   | --  | --  | 1   | --  |
+| Sorcerer  | --  | --  | --  | --  | --  | 2   |
+| Warlock   | --  | --  | --  | --  | --  | 2   |
+| Wizard    | --  | --  | --  | --  | 2   | --  |
+| Artificer | --  | --  | --  | --  | 2   | --  |
+| Weight    | 10  | 9   | 1   | 8   | 7   | 8   |
 
 
 ### Barbarian, Path of Arcane Winds
-
 #### Level 3: Arcane Bludgeoning
 
 The arcane secrets are revealed into your mind, a method ignored by all others initiated with magic
@@ -125,11 +124,11 @@ Spellcaster, can cast each spell once per long rest, Int is your spellcasting Mo
 
 | Level | Spell lvl | Spell Name |
 |-------|-----------|------------|
-| 3     | 1         | Jump       |
-| 5     | 2         | Find Traps |
-| 9     | 3         | Blink      |
-| 13    | 4         | Confusion  |
-| 17    | 5         | Seeming    |
+| 3     | 1         | Comprehend Language     |
+| 5     | 2         | Find Traps              |
+| 9     | 3         | Blink                   |
+| 13    | 4         | Locate Creature         |
+| 17    | 5         | Creation                |
 
 #### Level 6: More Arcane Bludgeoning
 
@@ -290,9 +289,20 @@ Large force bubble, 60ft radius. Creatures can move in but not out
 ### Ranger Wrangler (int)
 
 
-### Rogue, Bruiser (Dex Str based)
+### Rogue, Bruiser/Brute (Dex Str based)
 
 Theme, stealthy attacks with a brick
+#### Level 3: Anything is a weapon
+Can apply sneak attack to Simple Martial and Improvised Weapons that deal Bludgeoning damage
+
+#### Level 9: Sap
+After you hit an enemy, if they have less than your rogue level in Hit Points remaining, they are knocked unconscious
+
+#### Level 13 Cunning Strike: Brick
+As a reaction when you are hit with an attack, you can attack with an improved weapon
+
+#### Level 17: Intelligence of a Simple Mind
+Gain the Benefits of the Mind Blank spell
 
 
 
@@ -302,11 +312,13 @@ lvl 3,
 
 False Appearance: A number of times equal to your Dex Mod you can use your Bonus Action to blend into the surroundings as a pool of water/oil/ice
 
+### Warlock of Rot
+
 ### Wizard of the Great Works
 
 ### Artificer Demolitionist
 
-### Warlock of Rot
+
 
 ## Homebrew Spells
 shouldn't be damage spells
