@@ -28,7 +28,7 @@ Osmin's undead form gets more powerful each time he is killed. He can become an 
 
 **Revelation:** died in Jhed Continent and never made it to the wasteland during a mutany and his body was cannibalized. The harshness of Jhed took the lives of the mutinous. This betrayel cursed the population of Jhed and is the cause of the undead existing here, and Osmin still acts in many undead forms with a twisted mind.
 
-T1: Ghost that is haunting players
+T1: Ghost that is haunting players, will always answer one question cryptically and then fade away
 
 ## Council of Five, 1901 years ago
 
@@ -113,14 +113,13 @@ Master of blade and stealth
 
 Designed the Mega Dungeon for the assassin's smuggling route and to hide his treasures
 
-#### Location First Cave of Ivis
+#### Location First Treasure of Ivis
 
-Beneath UnderRoc Bridge
+Above UnderRoc Bridge
 
-Oniteth is searching this
+Oniteth and Darren BlackAle  Deuregar (Grey Dwarf) Weapon Collector searching this
 
-Darren BlackAle  Deuregar (Grey Dwarf) Weapon Collector is searching for this
-
+Need to bring MACGUFFIN to the UnderRoc bridge, and the Roc will give the party a ride to the First Treasure
 
 
 ### "Aluna" Female Drow Assassin
