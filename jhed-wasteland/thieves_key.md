@@ -28,12 +28,12 @@ A terrible inn best described as shanty cubicles, intentionally designed to make
 
 ## NPCs
 
-|Name | Statblock |
-|-- |-- |
-|Brimhest Deepbrew | Veteran |
+|Name | Statblock |Notes|
+|-- |-- |-- |
+|Brimhest Deepbrew | Veteran/Dwarf |
 |Loyalist | Veteran |
 |Vez'yen | Assassin |
-| Kraeta "pirate" Sweatclaw  | aarakocra |
+| Kraeta "pirate" Sweatclaw  | Aarakocra |
 | "Don" (Donald) Vras  | Veteran |
 | Dinalya  | Tiefling |
 
@@ -89,6 +89,7 @@ There are 5 loyalists of old Thieve Kings, if all five are killed or abandon, th
 ### Loyalist 1 - Brimhest
 
 ### Loyalist 2 - Don Vras
+Safeguards passangers of interest from Southport to Thieves Key, and Thieves Key to Smuggling Route. Charismatic and welcoming and always trying to convince people of their cause. 
 
 ### Loyalist 3 - unnamed coward
 
@@ -103,11 +104,14 @@ Can warn party of the challenges of flight in J'hed, has pegleg. Only Aarakocra.
 **Items:** Vez'yen has a Sending Stone (second)
 
 ### Agent of Southpost
-Dinalya is an informant for Southpost
+Dinalya is an informant for Southpost, though she is considered a Loyalist. If the party makes it known that their interests do not line up with Thieves Key, Dinalya should show interest in them through indirect means
 
 ## Boons and Banes
 
 You want the players actions to shape the towns they interact with, consider what a town gains and loses as the party helps. Tie these actions directly so players feel the benefits and consequences of those actions
+
+### Coin
+There is always a price, even if you act against the Thieves Key, there can be an amount of coin and support to get Brimhest to ignore this transgression 
 
 ### Boons
 
@@ -119,6 +123,8 @@ Interested in Ogres and Half-Ogres - Potential Conflict, No longer quiet and sec
 
 Kobold Allies - Potential Conflict, more disorganized
 
+Becoming a Loyalist - by taking a major personal sacrifice a party member can prove themselves a Loyalist if they can be discrete about working for the cause of rebuilding the Thief Empire
+
 ### Banes
 
 Helping Bounty Hunters - Potential Conflict, won't send courriers (as they can be Wanted)
@@ -126,6 +132,8 @@ Helping Bounty Hunters - Potential Conflict, won't send courriers (as they can b
 Helping The Flaming Fools - Potential Conflict, won't sell information
 
 Killing a Loyalist - Potential Conflict, will extort players
+
+Halting Trade - helping Netrus to not depend on the help of Southport or Thieves Key 
 
 ## Thieves Key and Bounty Hunters
 
