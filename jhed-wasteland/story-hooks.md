@@ -31,13 +31,17 @@ Missing for 52 years ago, the Twin Kings were the last of the 5 empires to attem
 
 ### Mallus BlackAle (Outer Empire)
 
-Mallus BlackAle is looking for his family's treasure, his brother a traitor to his house was a high ranked guard of the Twin Kings. Mallus expects his brother Dullin to have died, but in the 10 years in J'hed has uncovered nothing. Mallus suggests that the Kobold's may have some information or better scouts due to their numbers and carelessness. Mallus belives that restoring his family treasure will help remove the stain of the BlackAle name 
+Mallus BlackAle is looking for his family's treasure, his brother a traitor to his house was a high ranked guard of the Twin Kings. Mallus expects his brother Dullin to have died, but in the 10 years in J'hed has uncovered nothing. Mallus suggests that the Kobold's may have some information or better scouts due to their numbers and carelessness. Mallus believes that restoring his family treasure will help remove the stain of the BlackAle name 
 
 BlackAle sigil - Black Rectangle with copper, silver and gold coin
 
 ### Kobold Treaty
 
 They believe they have found a dragon, but all that enter the lair don't return. Get the Kobolds an audience with dragon and they will search for Dullin BlackAle
+
+### Yuan-ti Treaty
+
+Yuan-ti will allow you to use a bloodstone to speak with "The Guide", to get information on how to find Mallus BlackAle
 
 ## The Cold Blooded
 
@@ -47,11 +51,27 @@ Eating local beasts and Scaleplum grant the ability to survive these climates
 
 ## Vegitation
 
-Scaleplum - grants cold resistance for a day
+Scaleplum(fungi) Blue - grants cold resistance for a day
 
-## Twin Kings
+Grow wild and chaotically, there doesn't seem to be a pattern for them
 
+### Hags
+Warn players about them, and tell them they can brew potions with them (Cold Resistance initially)
 
+### Cold Blooded
+### Treant - Mush
+
+Around some Scaleplum are deep rootlike footprints wandering to the distance. Following them can lead to a Fungal Treant that is planting some Scaleplums. The Treant finds these plants sacred and urges the party not to eat them, and will talk about the scourge of those that eat them. To ally with the Treant, they must act against all the Lizardfolk, Kobolds and Yuan'ti
+
+Knowledge of Mush - if the Garden of Scaleplum is made in Netrus, they will create an aura of protection against the cold, but these Scaleplums can't be harvested
+
+## Werefolk
+
+### Bounty of Ghen The Immortal
+When Ghen visits Netrus, his bounty is well known and left uncollected even boasting about all that have failed. Ghen will go as far as offer anyone to follow him in an attempt to collect the bounty.
+
+### Transformed Beasts
+Encountering a pack of Were cursed animals can inflict the curse to the party where only 
 
 ## Ancient Relics
 
@@ -70,7 +90,6 @@ Too many oozes, a fragment of an ancient past The First Ones and a source of the
 
 ### Lycanthrope
 
-- (hook) Bounty: target seems impervious to damage
 - (hook) Bitten: player bitten by a beast gets the curse of lycanthrope
 - (investigate) Clues: learn about Lycanthrope and Silvered Weapons
 - (conflict) Prep: NPC that can craft Silvered Weapons (100g each)
@@ -113,6 +132,14 @@ Kobolds, Lizardfolk and Yuan'ti don't have consistent homes, but large groups of
 These giant hunting birds will give a reason not to fly and reason other empires haven't flown into Jhed. But these Rocs hunt in groups and are immensly powerful foes. Clearing a path will open flying travel to Jhed
 
 The Thieves Key is interested in controlling the Rocs not killing them. Their existence makes the area less desirable and harder to invade, but if they could command them, they would smuggle faster
+
+### UnderRoc Bridge
+
+The Roc will be perched on the UnderRoc bridge but have no interest in the party and leave
+
+### UnderRoc Bridge Passage
+
+Bringing an offering of a Scaleplum will make the Roc take you too Twin Kings first test
 
 ## Netrus Plot Progressions (lvl)
 
