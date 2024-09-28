@@ -2,6 +2,16 @@
 
 Aim for flavour not power
 
+## Vez'yen's Blade
+
+**Weapon:** Dagger
+
+**Rarity:** rare (requires attunement)
+
+A creature hit by this blade is subjected to a poison and must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also unconscious while poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
+
+Wielded by Vez'yen
+
 ## Giant Sigil
 
 **Armor:** Shield
