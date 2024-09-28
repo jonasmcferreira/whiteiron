@@ -4,27 +4,21 @@
 
 Eating fresh raw meat or fruits of Jhed wilderness have mostly positive effects. 
 
-| roll | meat                     | berry | humanoid |
+| roll | beast/monstrosity        | plant | humanoid |
 |------|--------------------------|-------|----------|
-| 1    | poisoned                 | ----- | curse    |
-| 2-19 | cold resistance 24 hours | ----- | curse    |
+| 1-4  | poisoned                 | ----- | curse    |
+| 5-19 | cold resistance 24 hours | ----- | curse    |
 | 20   | specific to mob          | ----- | curse    |
+
+Kobolds, Lizardfolk and Yuan-ti ignore the curse of eating humanoids
 
 ### Scavenging for food/water
 
-There is no easy meal or prey in J'hed,
+There is no easy meal or prey in J'hed, scavenging takes the 8 hour day
 
 Survival Check DC 16, on a success roll on wilderness table (to be built)
 
 Investigation Check DC 16, on a sucess roll on scavanged supplies table (to be built)
-
-### Humanoid Flesh
-
-If a humanoid eats flesh of a humanoid, they gain the Madness of the Wendigo and lose all other Madness effects. After gaining the Madness of the Wendigo, you make a DC15 Wisdom Save everytime you eat humanoid flesh
-
-| Tier | Instant               | Ongoing (once per long rest)                                |
-|------|-----------------------|-------------------------------------------------------------|
-| 1    | Vision of the Wendigo | You can onsume humanoid flesh to remove an Exhaustion Level |
 
 ## Replacing Key NPCs
 
@@ -34,7 +28,7 @@ Choices and consequences could lead to key NPC functions becoming unavailable, l
 
 ### Scaleplum 
 
-a deep blue fruit that grows on J'hed shrubs in the shape of a bumpy plum/acorn
+a deep blue fruit that grows on J'hed fungi in the shape of a bumpy plum/acorn
  - consuming one grants cold resist for 8 hours
  - can be used to create combination healing/cold resist potion
 
@@ -45,12 +39,8 @@ indestructable material found in J'hed, it can't be reshaped by any means
 
 ### Ooze Ichor
 
-remnants of oozes
    - causes hallucinations when touched
    
-## Growth
-
-Each village/town will have some default growth conditions. These are mechanics to represent what players can do to improve or destabilize these areas. Every change should come with a new conflict, these should not be perceived as an exhaustive list, but just a suggestion on how to handle the village growths without overthinking
 
 ## Cold Exposure (simplified)
 
@@ -74,9 +64,11 @@ Exhaustion caused by cold exposure follows standard D&D rules:
 - Magical means (such as the *Greater Restoration* spell) can reduce exhaustion levels.
 
 
-## Setting Specific Madness
+## Setting Specific Madness - 
 
-When you gain a category of Madness, you select which one in the tier. Take 1d12 psycic damage when you fail to uphold to your madness
+ribbon // good // bad // ribbon // good // bad // ribbon // good // bad
+
+When you gain a category of Madness, you select which one in the tier. Take 1d12 psycic damage when you fail to uphold to your madness one per day, once your Madness reaches 4 it can no longer be removed with Remove Curse spell
 
 
 ### Madness of Consumption
@@ -105,14 +97,58 @@ Warmth Related
 
 ### Madness of Apperance
 
-| Tier | Effect                                          |
-|------|-------------------------------------------------|
+| Tier | Effect                                          |Ongoing (once per long rest)                      |
+|------|-----------------------|-------------------------------------------------------------|
 | 1    | You will not change clothes                     |
 | 1    | You will change clothes every short rest        |
 | 1    | You will wear the most expensive clothing       |
 | 1    | You will always wear a mask                     |
 | 1    | You wear the clothing of creatures you defeated |
 
+### Madness of the Dead
+
+| Tier | Effect                                          |
+|------|-------------------------------------------------|
+| 1    | no longer need to eat or drink                     |
+| 2    | resistance to poison        |
+| 2    | resistance to exhaustion       |
+| 3    | vulnerable to radiant damage                     |
+| 4    | don't need to sleep during a long rest |
+| 5    | con save to prevent death |
+| 5    | necrotic resistance |
+| 6    | Undead - quest for lichdom? |
+
+## Madness of  Flesh
+
+If a humanoid eats flesh of a humanoid, they gain the Madness of the Wendigo and lose all other Madness effects. After gaining the Madness of the Wendigo, you make a DC15 Wisdom Save everytime you eat humanoid flesh
+
+| Tier | Instant               | Ongoing (once per long rest)                                |
+|------|-----------------------|-------------------------------------------------------------|
+| 1    | Vision of the Wendigo | -- |
+| 2    | You can consume humanoid flesh to remove an Exhaustion Level       |
+| 2    | Resistance to Cold Damage        |
+| 3    | Can only eat humanoid flesh       |
+| 4    | advantage on stealth vs undead                     |
+| 5    | Climb Speed |
+| 5    | Ignore Difficult Terrain |
+| 6    | Windego |
+
+### Madness of Fire
+
+| Tier | Effect                                          |
+|------|-------------------------------------------------|
+| 1    | Must always be within 60ft of a fire                     |
+| 2    | resistance to fire damage        |
+| 2    | can deal 1d4 fire damage once per round       |
+| 3    | vulnerable to cold damage                     |
+| 4    | wants to touch the temperature of everything |
+| 5    | sheds a bright light |
+| 5    | truesight |
+| 6    | engulfed in flame |
+
+## Boon and Bane
+
+Netrus is being assisted by both Southport but mostly Thieves Key. The party will make decisions to assist one of those three locations and this will create an immediate benefit that the party has access and should also create a complication due to this change, the party will be sculpting the future of J'hed.
 
 ## Official Mechanics
 
