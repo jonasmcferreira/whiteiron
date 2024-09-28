@@ -342,13 +342,17 @@ Attack the highest hitpoint target as the ooze 3d6+1 damage and can crit. If the
 
 ### Encounter 5: Tower II
 
-    Recently taken by Lizardfolk after driving the Kobold's out, 20ish (should be clear it isn't winnable fight)
+    The fog frames the bridge into the glacier with a tower built into the side maybe 50ft high; the natural ice walls stretch beyond the cloudy vision. Broad scaled humanoid shapes are seen tossing objects aside the stone bridge. A horn blows with a deep hum along a draconic greeting "You may pass but no more, Kreg has claimed this tower for now"
 
-    Praised for the party strengths and told they should search them out
-
+    If they are asked about denizens of the tower, they only found corpses and kobolds
     Will not let the party enter the tower but will let the party pass
+
+    Recently taken by Lizardfolk after driving the Kobold's out, 20ish (should be clear it isn't winnable fight)
+    Praised for the party strengths and told they should search them out, but for now they are busy
     
     Consider letting Kresh escort the party past if they have met
+
+    The Lizardfolk are digging around the tower, looking for specimens 
 
 
 ### Encounter 6: Open Wasteland
