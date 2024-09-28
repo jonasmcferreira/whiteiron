@@ -95,7 +95,33 @@ Statblock Bandit Captain
 - **Rescue and Recovery Missions:** The players are rescued by the Flaming Fools after being stranded in a blizzard. They must work off their debt to the Fools through labor or services.
 - **Information and Intelligence Gathering:** The Flaming Fools provide settlements with vital information about weather patterns, creature movements, and potential dangers, allowing townsfolk to prepare and seek shelter.
 
-## Vaulted Ones (draft)
+## Vaulted Ones
+
+| Vaulted Ones                  | Statblock      |
+|-------------------------------|----------------|
+| Vault | Gynosphynx    |
+| Kron             | Goliath Warrior |
+| Vaulted Ones                          | Veteran         |
+
+### Gynosphynx - Vault
+
+Anyone who fails Vault can either be destroyed or become in service to bring her the crowns she is looking for 
+
+Reward: ???
+
+### Kron
+Grey Skinned
+
+Knows location of The Vault, but will not share it
+
+can ritually cast identify
+
+Kron will purchase most goods as he doesn't understand what he is looking for and once he can't carry anymore he ventures to the vault before returning
+
+Kron fell into the service of Vault when he failed the riddle
+
+### Lair
+Beneath an ice lake, needing to be broken at a certain point
 
 **Vaulted Ones**
 
@@ -104,42 +130,15 @@ Statblock Bandit Captain
     - bringing relics to a hidden "vault"
     - travel between villages and tribes of the south
     - dim witted trade brutes, adorned with one or a couple of bells
-    - hidden info (the vault has a sphyx which Vaulted Ones have failed riddle)
     - buffed by sphyx which allows them to travel solo in Jhed Continent
 
-**Kron**
 
-    - Leader of Vaulted Ones
-    - Grey Skinned Goliath
-    - Has Gem of Seeing to authenticate, will not trade this item away
-    - Only member to know the location of Vault
-    - Will pay extra gold for items, and has no issues getting gold through violence
+### Riddle
 
-**Origin**
-
-    - Sphyx Lair, riddle is to bring her a gift (wants a crown from one of the kings)
-
-**Sphyx**
-
-    - Riddle: "give me a gift, one for blood that is not mine. The most powerful mundane trinket"
+    - Riddle: "I want a gift, one for blood that is not mine. The most powerful mundane trinket what do I want"
     - Answer: wants a crown from one of the fallen kings in Jhed
 
-**How villages interact**
-
-    - They purchase trinkets of little value, so liked as a source of trade
-    - Nomadic movement makes them ideal to use for trading between villages
-    - Not exactly trusted as they do trade with bandits and hoards
-
-**Benfits friendship**
-
-    - They can purchase items for you that they find, and trade them to players
-    - Location of the Vault
-
-**Issues enemies**
-
-    - Risk ambush when collecting relics
-    - Lower trade rates of Relics
-    - Sphyx will not offer help
+    - each player answers independantly (can choose the same answer)
 
 ## Bounty Hunters
 
@@ -205,8 +204,13 @@ drove the council of five mad
 
 ## Other Adventurers
 
-Two main groups of adventurers, one rival (opposite goals and allies), the other supportive (group 3 each)
+Three main groups of adventurers, one rival (opposite goals and allies), the other supportive (group 3 each)
 
+Barbarian, Druid, Ranger - nature theme - ???
+
+Cleric, Paladin, Fighter - religion theme - Relics
+
+Wizard, Sorcerer, Bard - magic theme - Great Works
 
 ## Shessaar Yuan-ti
 
@@ -218,26 +222,35 @@ They pilgrimage from Bloodstone to Bloodstone following visions.
   
 Locations of more Bloodstones
 
-To be the faithkeepers of Netrus
+To be the faithkeepers of Netrus - Sammul has to step down and replaced with a Medusa "Greater"
+
+Build a shrine of Shessaar
 
 ### Faith
 
-Consumption and Travel, the great snake leads further and further to the unknown
+Consumption and Travel, the great snake leads further and further to the unknown to feed and to grow and be beyond what your origins are
 
-### Bloodstones or Red Glass
+### Bloodstones or The Red Glass
 
 Putting your blood upon the Bloodstone grants a vision, you cannot use any Bloodstone more than once.
 
-## Ogres
+## Giants
 
-Always follows larger Giants
+Though the giants are independant Nick has the ability to turn Netrus into a village for giants
 
-### Ograllion 
+### Ogres
+
+Always follows larger Giants, names begin with Og-
 
 Og - GutBust
 Og - BloodKnuckle
 Og - BrokenTooth
-Og - PussEye
-Og - SkullEater (wanted)
+Og - DripEye
+
+#### Og - SkullEater (wanted)
+
+#### Ograllion 
+
+
 
 
