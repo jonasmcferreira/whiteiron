@@ -25,7 +25,7 @@ A thin stave church-like building with three floors is near the Unlit Pyre. A di
 
 ### Watch Tower
 
-rotation of Watch Party
+The first building in Netrus is 30ft high wooden watchtower. Three guards rotating and greeting travellers and denizens, notififying the village of arrivals and prepared to aid as any journey into J'hed is dangerous and with peril. It would not be able to survive any meaningful seige
 
 ### General Goods
 
@@ -200,10 +200,14 @@ Underneath Netrus is a small arcane chamber with an Ancient Relic. The glyphs an
 
 Barbarian
 Bard
-Cleric
+
+### Cleric
+Bolstering faith - attempt to convert someone to your faith 
+
+Guidance - assist Sammul and gain a rumor
 
 ### Druid
-druidcraft
+Druidcraft - there is something trying to grow here, I don't know if it should
 
 Fighter
 Monk
@@ -211,8 +215,30 @@ Paladin
 Ranger
 
 ### Rogue
-Thieves Cant
+Thieves Cant - Seek Vez'yen
+
+Buried treasure rumors
 
 Sorcerer
 Warlock
-Wizard
+
+
+### Wizard
+Great Works - grains of sand imbued with innate magical energies scattered about
+
+Assist Nick with Glyphs
+
+
+## Underneath Netrus
+
+### Storage 
+supplies under pyre
+
+### Nick's Cave
+underneath supplies, Giant Shrine
+
+### Hag's Chamber
+Pool of important liquid
+
+### Arcane Chamber
+Source of Charm
