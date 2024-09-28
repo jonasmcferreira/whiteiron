@@ -30,6 +30,23 @@ Fighting: an opportunity to save a liked NPC, introduce another conflict, or wai
 | 21   | Kresh and Crew      | -  | -     |
 | 22   | Oniteth Adventurer Inc.      | -  | -     |
 | 23   | Ogre Mage      | -  | -     |
+| 24   | Kron Vaulted One      | -  | -     |
+| 25   | Vaulted Ones      | -  | -     |
+
+### Kron Vaulted One
+
+Kron with 1d4 vaulted ones
+
+| D4 | State               | Notes |
+|------|------------------------|-------|
+| 1    | willing to help                     |   --    |
+| 2    | returning to Netrus                   |  Found a Magic item    |
+| 3    | returning to Netrus                | Found Garbage  |
+| 4    | needs help     | needs resources to continue     |
+
+### Vaulted Ones
+
+2d6 dead vaulted ones around a cursed magic item
 
 ### Ogre Mage
 
