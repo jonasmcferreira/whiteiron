@@ -14,49 +14,107 @@ The undead are a common sight in Jhed, particularly in the village of Dhuren Tol
 
 All up to CR 5 Viable for T1.
 
-| Type   | CR  | Monster           | Notes                  | Changes | Vuln        |
-|--------|-----|-------------------|------------------------|---------|-------------|
-| Undead | 0   | Crawling Claw     |                        |         |             |
-| Undead | 1/4 | Zombie            |                        |         |             |
-| Undead | 1/4 | Skeleton          |                        |         | Bludgeoning |
-| Undead | 1/2 | Shadow            |                        |         |             |
-| Undead | 1/2 | Warhorse Skeleton |                        |         |             |
-| Undead | 1   | Spectre           |                        |         |             |
-| Undead | 1   | Ghoul             |                        |         |             |
-| Undead | 2   | Minataur Skeleton |                        |         |             |
-| Undead | 2   | Ghast             |                        |         |             |
-| Undead | 2   | Willo Wisp        |                        |         |             |
-| Undead | 2   | Ogre Zombie       |                        |         |             |
-| Undead | 3   | Weight            |                        |         |             |
-| Undead | 3   | Wraith            |                        |         |             |
-| Undead | 3   | Mummy             |                        |         |             |
-| Undead | 4   | Flameskull        |                        |         |             |
-| Undead | 4   | Banshee           |                        |         |             |
-| Undead | 4   | Ghost             |                        |         |             |
-| Undead | 4   | Bone Naga         |                        |         |             |
-| Undead | 5   | Beholder Zombie   |                        |         |             |
-| Undead | 5   | Vampire Spawn     |                        |         |             |
-| Undead | 13  | Vampire           |                        |         |             |
-| Undead | 14  | Death Tyrant      |                        |         |             |
-| Undead | 15  | Mummy Lord        |                        |         |             |
-| Undead | 15  | Mummy Lord        |                        |         |             |
-| Undead | 17  | Death Knight      |                        |         |             |
-| Undead | 17  | Draco Lich        |                        |         |             |
-| Undead | 18  | Demi Lich         |                        |         |             |
-| Undead | 21  | Lich              |                        |         |             |
-| Giant  | 1   | Half-Ogre         | Pulling Team           |         |             |
-| Giant  | 2   | Ogre              | Ogre Power Gloves      |         |             |
-| Giant  | 2   | Ettin             | Cultist                |         |             |
-| Giant  | 5   | Hill Giant        | Belt of Giant Strength |         |             |
-| Giant  | 5   | Troll             | Greater Healing Potion |         |             |
-| Giant  | 6   | Cyclops           | Anti Faith             |         |             |
-| Giant  | 7   | Oni               | Hunting                |         |             |
-| Giant  | 7   | Stone Giant       | Nick Elder             |         |             |
-| Giant  | 8   | Femorian          | Great Works            |         |             |
-| Giant  | 8   | Frost Giant       | Book2                  |         |             |
-| Giant  | 9   | Cloud Giant       | Book2                  |         |             |
-| Giant  | 9   | Fire Giant        | Book2                  |         |             |
-| Giant  | 13  | Storm Giant       | Book2                  |         |             |
+| Type        | CR  | Monster                | Notes                    | Changes | Vuln        |
+|-------------|-----|------------------------|--------------------------|---------|-------------|
+| Undead      | 0   | Crawling Claw          |                          |         |             |
+| Undead      | 1/4 | Zombie                 |                          |         |             |
+| Undead      | 1/4 | Skeleton               |                          |         | Bludgeoning |
+| Undead      | 1/2 | Shadow                 |                          |         |             |
+| Undead      | 1/2 | Warhorse Skeleton      |                          |         |             |
+| Undead      | 1   | Spectre                |                          |         |             |
+| Undead      | 1   | Ghoul                  |                          |         |             |
+| Undead      | 2   | Minataur Skeleton      |                          |         |             |
+| Undead      | 2   | Ghast                  |                          |         |             |
+| Undead      | 2   | Willo Wisp             |                          |         |             |
+| Undead      | 2   | Ogre Zombie            |                          |         |             |
+| Undead      | 3   | Weight                 |                          |         |             |
+| Undead      | 3   | Wraith                 |                          |         |             |
+| Undead      | 3   | Mummy                  |                          |         |             |
+| Undead      | 4   | Flameskull             |                          |         |             |
+| Undead      | 4   | Banshee                |                          |         |             |
+| Undead      | 4   | Ghost                  |                          |         |             |
+| Undead      | 4   | Bone Naga              |                          |         |             |
+| Undead      | 5   | Beholder Zombie        |                          |         |             |
+| Undead      | 5   | Vampire Spawn          |                          |         |             |
+| Undead      | 13  | Vampire                |                          |         |             |
+| Undead      | 14  | Death Tyrant           |                          |         |             |
+| Undead      | 15  | Mummy Lord             |                          |         |             |
+| Undead      | 15  | Mummy Lord             |                          |         |             |
+| Undead      | 17  | Death Knight           |                          |         |             |
+| Undead      | 17  | Draco Lich             |                          |         |             |
+| Undead      | 18  | Demi Lich              |                          |         |             |
+| Undead      | 21  | Lich                   |                          |         |             |
+| Giant       | 1   | Half-Ogre              | Pulling Team             |         |             |
+| Giant       | 2   | Ogre                   | Ogre Power Gloves        |         |             |
+| Giant       | 2   | Ettin                  | Cultist                  |         |             |
+| Giant       | 5   | Hill Giant             | Belt of Giant Strength   |         |             |
+| Giant       | 5   | Troll                  | Greater Healing Potion   |         |             |
+| Giant       | 6   | Cyclops                | Anti Faith               |         |             |
+| Giant       | 7   | Oni                    | Hunting                  |         |             |
+| Giant       | 7   | Stone Giant            | Nick Elder               |         |             |
+| Giant       | 8   | Femorian               | Great Works              |         |             |
+| Giant       | 8   | Frost Giant            | Book2                    |         |             |
+| Giant       | 9   | Cloud Giant            | Book2                    |         |             |
+| Giant       | 9   | Fire Giant             | Book2                    |         |             |
+| Giant       | 13  | Storm Giant            | Book2                    |         |             |
+| Monstrosity | 1/2 | cockatrice             |                          |         |             |
+| Monstrosity | 1/2 | darkmantle             |                          |         |             |
+| Monstrosity | 1/2 | piercer                |                          |         |             |
+| Monstrosity | 1/2 | rust monster           |                          |         |             |
+| Monstrosity | 1   | Harpy                  |                          |         |             |
+| Monstrosity | 1   | Hippogriff             |                          |         |             |
+| Monstrosity | 2   | Grick                  | fake yuanti              |         |             |
+| Monstrosity | 2   | Griffon                |                          |         |             |
+| Monstrosity | 2   | Merrow                 |                          |         |             |
+| Monstrosity | 2   | Peryton                |                          |         |             |
+| Monstrosity | 2   | Carrion Crawler        |                          |         |             |
+| Monstrosity | 3   | Basalisk               | Lizardfolk Mount         |         |             |
+| Monstrosity | 3   | Hook Horror            |                          |         |             |
+| Monstrosity | 3   | Displacer Beast        |                          |         |             |
+| Monstrosity | 3   | Doppleganger           |                          |         |             |
+| Monstrosity | 3   | Manticore              |                          |         |             |
+| Monstrosity | 3   | Minotaur               |                          |         |             |
+| Monstrosity | 3   | Yeti                   |                          |         |             |
+| Monstrosity | 4   | Lamia                  |                          |         |             |
+| Monstrosity | 5   | Gorgon                 |                          |         |             |
+| Monstrosity | 5   | Young remorhaz         |                          |         |             |
+| Monstrosity | 5   | roper                  |                          |         |             |
+| Monstrosity | 5   | Bulette                |                          |         |             |
+| Monstrosity | 6   | Chimera                | false dragon for Kobolds |         |             |
+| Monstrosity | 6   | Drider                 |                          |         |             |
+| Monstrosity | 6   | Medusa                 | Yuanti servent           |         |             |
+| Monstrosity | 7   | Alpha Grick            | fake yuanti              |         |             |
+| Monstrosity | 8   | Hydra                  |                          |         |             |
+| Monstrosity | 8   | Spirit Naga            | Yuanti corruptor         |         |             |
+| Monstrosity | 9   | Abominable Yeti        |                          |         |             |
+| Monstrosity | 10  | Guardian Naga          | Yuanti traitor           |         |             |
+| Monstrosity | 11  | remorhaz               |                          |         |             |
+| Monstrosity | 11  | roc                    |                          |         |             |
+| Monstrosity | 11  | gynosphynx             |                          |         |             |
+| Monstrosity | 11  | Behir                  |                          |         |             |
+| Monstrosity | 15  | Purple Worm            |                          |         |             |
+| Monstrosity | 17  | androsphynx            |                          |         |             |
+| Monstrosity | 21  | Kraken                 |                          |         |             |
+| Monstrosity | 30  | Tarrasque              |                          |         |             |
+| Plant       | 0   | Myconid Sprout         |                          |         |             |
+| Plant       | 0   | Shrieker               |                          |         |             |
+| Plant       | 1/8 | Twig Blight            |                          |         |             |
+| Plant       | 1/4 | Needle Blight          |                          |         |             |
+| Plant       | 1/4 | Violet Fungus          |                          |         |             |
+| Plant       | 1/2 | Vine Blight            |                          |         |             |
+| Plant       | 1/2 | Gas Spore              |                          |         |             |
+| Plant       | 1   | Quaggoth Spore Servant |                          |         |             |
+| Plant       | 1/2 | Myconid Adult          |                          |         |             |
+| Plant       | 2   | Myconid Sovereign      |                          |         |             |
+| Plant       | 2   | Awakened Tree          |                          |         |             |
+| Plant       | 5   | Shambling Mound        |                          |         |             |
+| Plant       | 9   | Treant                 |                          |         |             |
+
+
+
+
+
+
 
 ### Beasts
 
