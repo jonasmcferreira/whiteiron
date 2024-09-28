@@ -214,7 +214,7 @@ Kobolds would rather complete a trade and run away. They search for food, treasu
     If Kobolds alerted, 18 seconds after combat D4 Javalins thrown from top of tower from Part3 Kobolds
     
     
-**Tower Ground Floor**     
+**Tower Ground I Floor**     
 
 Alchemist's Fire drops on first person to walk through door, can cause panick combat
 
@@ -336,13 +336,30 @@ Attack the highest hitpoint target as the ooze 3d6+1 damage and can crit. If the
     
     Just like most Kobold fights should involve traps, undead fights should involve poison
 
-### Encounter 4: Open Wasteland
+### Encounter 4: Roc
+
+    Roc perched in the middle of the bridge, will fly off when approached
+
+### Encounter 5: Tower II
+
+    Recently taken by Lizardfolk after driving the Kobold's out, 20ish (should be clear it isn't winnable fight)
+
+    Praised for the party strengths and told they should search them out
+
+    Will not let the party enter the tower but will let the party pass
+    
+    Consider letting Kresh escort the party past if they have met
+
+
+### Encounter 6: Open Wasteland
 
     Brush with large deep blue "berries" 1d4
 
     Attacked by 1d4 poisonous snake, and 1 giant poisonous snake 
 
     These berries are important and grow randomly through Jhed
+    
+
 
 **Code of Snow:** Sammul the religious leader of Netrus will explain to the party that though their task is lawful, Jhed is a place of new beginnings and that actions taken before someone has reached Jhed are not held against their character. The village of Netrus will even offer the gold reward of the bounty to ignore it.
 
@@ -520,4 +537,15 @@ Meet the King
 ### King Kreg the Strong
 
 Wants make his denizens no longer nomadic and settle in Netrus
+
+
+## Shessaar - Yuan-ti
+
+### Medusa "Greater"
+find a Bloodstone
+
+### Visions of Glass
+
+### Head of Kreg
+
 
