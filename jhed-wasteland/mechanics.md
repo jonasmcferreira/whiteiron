@@ -22,9 +22,11 @@ Investigation Check DC 16, on a sucess roll on scavanged supplies table (to be b
 
 ## Replacing Key NPCs
 
-Choices and consequences could lead to key NPC functions becoming unavailable, like the ability to remove curse depending on the party compositions. To replace an NPC the party has to convince an outsider of the Outer Regions to endure and live in Jhed, the easiest way to do this is gold, and it would be difficult for this cost to be less than 5,000gps
+Choices and consequences could lead to key NPC functions becoming unavailable, like the ability to remove curse depending on the party compositions. To replace an NPC the party has to convince an outsider of the Outer Region or Thieves to endure and live in J'hed, the easiest way to do this is gold, and it would be difficult for this cost to be less than 5,000gps. Sourcing this assistance from Outer Region or Thieves Key also will grant those locations influence on Netrus
 
-## Macguffin
+The party may also want to bolster the facilities available to Netrus, don't discourage this as the party should feel the mark they have on the location.
+
+## Macguffins
 
 ### Scaleplum 
 
@@ -40,7 +42,10 @@ indestructable material found in J'hed, it can't be reshaped by any means
 ### Ooze Ichor
 
    - causes hallucinations when touched
-   
+   - can become Bloodstone
+
+### Bloodstone
+   Melt outside of J'hed
 
 ## Cold Exposure (simplified)
 
@@ -64,87 +69,123 @@ Exhaustion caused by cold exposure follows standard D&D rules:
 - Magical means (such as the *Greater Restoration* spell) can reduce exhaustion levels.
 
 
-## Setting Specific Madness - 
+## Setting Specific Madness - considering max 4
 
-ribbon // good // bad // ribbon // good // bad // ribbon // good // bad
+ribbon // good // bad // locked
 
-When you gain a category of Madness, you select which one in the tier. Take 1d12 psycic damage when you fail to uphold to your madness one per day, once your Madness reaches 4 it can no longer be removed with Remove Curse spell
+When you gain a category of Madness, you select which one in the tier. Take 1d12 psycic damage when you fail to uphold to your madness once per day, once your Madness reaches 4 it can no longer be removed with Remove Curse spell
+
+Madness are formatted for first level to be flavor, second to be a buff, third debuff, 4th plot
 
 
 ### Madness of Consumption
 
 | Tier | Effect               |
 |------|----------------------|
-| 1    | Only eat meat        |
-| 1    | Only eat plants      |
-| 1    | Only eat fresh kills |
-| 1    | Taste all liquids    |
-| 1    | Only Drink Alcohol   |
+| 1    | Desire to only eat meat        |
+| 1    | Desire to only eat plants      |
+| 1    | Desire to taste all liquids    |
+| 1    | Must eat three times as much   |
+| 2    | Resistance to Poison Damage    |
+| 2    | Advantage to Resist effects against Poison   |
+| 3    | Wants to poison everyones food |
+| 4    | --  |
 
 
-Gear Related
+### Madness of Apperance 
 
-* Must change gear
-* must burn gear
-* must be unarmoured
-* never sleep in armour
-* must be comfortable
-
-Warmth Related
-
-* avoids warms
-* always needs to be around fire
-
-### Madness of Apperance
-
-| Tier | Effect                                          |Ongoing (once per long rest)                      |
-|------|-----------------------|-------------------------------------------------------------|
+| Tier | Effect                                          |
+|------|-------------------------------------------------|
+| 1    | never sleep in armour                    |
+| 1    | new clothes everyday                     |
+| 1    | never change clothes                     |
+| 1    | You will always wear a mask                     |
 | 1    | You will not change clothes                     |
 | 1    | You will change clothes every short rest        |
 | 1    | You will wear the most expensive clothing       |
-| 1    | You will always wear a mask                     |
 | 1    | You wear the clothing of creatures you defeated |
+| 2    | advantage on performance checks                |
+| 2    | disguise self once per day                                 |
+| 3    | destroy unused clothing                |
+| 4    | --                                       |
+
 
 ### Madness of the Dead
 
 | Tier | Effect                                          |
 |------|-------------------------------------------------|
 | 1    | no longer need to eat or drink                     |
-| 2    | resistance to poison        |
+| 2    | resistance to necrotic        |
 | 2    | resistance to exhaustion       |
+| 2    | don't need to sleep during a long rest |
 | 3    | vulnerable to radiant damage                     |
-| 4    | don't need to sleep during a long rest |
-| 5    | con save to prevent death |
-| 5    | necrotic resistance |
-| 6    | Undead - quest for lichdom? |
+| 4    | -- |
 
 ## Madness of  Flesh
 
 If a humanoid eats flesh of a humanoid, they gain the Madness of the Wendigo and lose all other Madness effects. After gaining the Madness of the Wendigo, you make a DC15 Wisdom Save everytime you eat humanoid flesh
 
-| Tier | Instant               | Ongoing (once per long rest)                                |
-|------|-----------------------|-------------------------------------------------------------|
-| 1    | Vision of the Wendigo | -- |
+| Tier | Instant               | 
+|------|-----------------------|
+| 1    | Vision of the Wendigo | 
 | 2    | You can consume humanoid flesh to remove an Exhaustion Level       |
-| 2    | Resistance to Cold Damage        |
+| 2    | You can consume humanoid flesh to gain Resistance to Cold Damage        |
 | 3    | Can only eat humanoid flesh       |
-| 4    | advantage on stealth vs undead                     |
-| 5    | Climb Speed |
-| 5    | Ignore Difficult Terrain |
-| 6    | Windego |
+| 4    | --              |
 
 ### Madness of Fire
 
 | Tier | Effect                                          |
 |------|-------------------------------------------------|
 | 1    | Must always be within 60ft of a fire                     |
+| 1    | wants to touch the temperature of everything |
 | 2    | resistance to fire damage        |
+| 2    | sheds a bright light |
 | 2    | can deal 1d4 fire damage once per round       |
 | 3    | vulnerable to cold damage                     |
-| 4    | wants to touch the temperature of everything |
-| 5    | sheds a bright light |
-| 5    | truesight |
-| 6    | engulfed in flame |
+| 4    | -- |
+
+### Madness of Lycanthrope
+
+| Tier | Effect                                          |
+|------|-------------------------------------------------|
+| 1    | must destroy all silver                    |
+| 2    | +1 AC        |
+| 2    | +1 health per lvl       |
+| 3    | vulnerable to silvered weapons          |
+| 4    | gain a wildshape to specific animal  |
+
+### Madness of Giants
+
+| Tier | Effect                                          |
+|------|-------------------------------------------------|
+| 1    | more likely to believe larger creatures        |
+| 2    | +5ft movement speed        |
+| 2    | increased carry capacity       |
+| 2    | 5ft reach       |
+| 3    | fire vulnerability                     |
+| 4    | -- |
+
+
+### Madness of Snakes
+
+| Tier | Effect                                          |
+|------|-------------------------------------------------|
+| 1    | --                    |
+| 2    | --        |
+| 2    | --       |
+| 3    | --                     |
+| 4    | -- |
+
+### Madness of Dragons
+
+| Tier | Effect                                          |
+|------|-------------------------------------------------|
+| 1    | --                    |
+| 2    | --        |
+| 2    | --       |
+| 3    | --                     |
+| 4    | -- |
 
 ## Boon and Bane
 
