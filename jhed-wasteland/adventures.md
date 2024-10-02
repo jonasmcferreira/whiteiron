@@ -89,8 +89,6 @@ The **Roc**, a massive bird that patrols the skies over Jhed, is a constant thre
 
 Don Vras, a seasoned smuggler with a **dark past**, will be your ferry captain. As you set sail, he fills the air with tales of the dangers ahead—how the Roc claims vast stretches of territory and how the last crew that attempted this route vanished without a trace. He describes how the Roc’s shadow darkens the waters, a grim omen for anyone daring enough to cross its domain. He has sailed to the **Witch's Nip** many times before.
 
-From there, the **Smuggler’s Tunnel** will take you into **Netrus**, but it's a long journey through twisting, icy passages. The tunnel itself is not without its dangers, as **monsters, traps, and even the elements** will conspire to make the journey as deadly as possible.
-
 #### Tasks Before You Leave
 
 Before leaving Thieves Key, you need to make final preparations. You’ll have the chance to **purchase supplies**, gather **information**, and meet with key NPCs who may offer assistance—or try to sabotage your efforts.
