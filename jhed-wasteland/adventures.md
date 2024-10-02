@@ -6,6 +6,7 @@ The default rules for encounters recommend aiming for 6 to 8 medium to deadly en
 
 Be mindful that weather is an important factor. Be sure to factor in the weather system.
 
+
 **Encounters with Purpose**: Encounters should:
 - Create conflict
 - Reinforce plot
@@ -295,28 +296,17 @@ Casting a cantrip within 30ft of the door causes it the fail but the door glow a
 
 Setting off Ward: All creatures within 30ft of the door Intelligence Save DC13, 1d6 psycic damage on a failed save 
 
-With a plume of red smoke the arcane lock is opened and the door will remain open for 1 hour (even if forced open). 
-
-    Arcane Lock Puzzle to Enter
-    Insane Officer
-    Sesheenahassimilhaesh - written on wall, madness check to read, or say
-    Pitch Black fleshy (eyelike) orb
-    Three Beasts to unlock, elk, bull, ram
-    elk, bull, ram, bird, wolf, bear, boar, 
-
-**Loot**
-
-    Note#1: The commander has kept himself locked in his quarter for weeks, there is a lot of noise but we can't get in, we have sent for aid
+With a plume of red smoke the arcane lock is opened and the door will remain open for 1 hour (even if forced open)
 
 ### Encounter 2b: Underpass
 
-Squeezing through a tight corridor leads underneath the UnderRoc bridge revealing a hidden yet very intentional passage through the middle that can be crawled through. The stonework can be almost too clean
+    Squeezing through a tight corridor leads underneath the UnderRoc bridge revealing a hidden yet very intentional passage through the middle that can be crawled through. The stonework can be almost too clean
   
-Investigation Check DC13: The stonework seems to be washed by acid
+    Investigation Check DC13: The stonework seems to be washed by acid
 
-Grey Ooze: moving along the corridor is a grey ooze, a still oil slick patch of wet stone and will attack when the party crosses. 
+    Grey Ooze: moving along the corridor is a grey ooze, a still oil slick patch of wet stone and will attack when the party crosses. 
 
-Attack the highest hitpoint target as the ooze 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack the who is leading the party
+    Attack the highest hitpoint target as the ooze 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack the who is leading the party
   
 ### Encounter 3: Pass 
 
@@ -338,11 +328,13 @@ Attack the highest hitpoint target as the ooze 3d6+1 damage and can crit. If the
 
 ### Encounter 4: Roc
 
-    Roc perched in the middle of the bridge, will fly off when approached
+    Peering through the midst a cracked beak of a Gargantuan bird; black with purple tipped feathers. Tt has noticed the tresspassers letting out a rapid clicking noise before the wings unfurrel and takes flight. Strength save DC 19 or knocked prone on a failure 
+
+    Players can return to this Roc later with Thieves Sigil, to gain passage to Smuggler's Peak
 
 ### Encounter 5: Tower II
 
-    The fog frames the bridge into the glacier with a tower built into the side maybe 50ft high; the natural ice walls stretch beyond the cloudy vision. Broad scaled humanoid shapes are seen tossing objects aside the stone bridge. A horn blows with a deep hum along a draconic greeting "You may pass but no more, Kreg has claimed this tower for now"
+    The fog frames the bridge into the glacier with a tower built into the side maybe 50ft high; the natural ice walls stretch beyond the cloudy vision. Broad scaled humanoid shapes are seen tossing objects aside the stone bridge. A horn blows with a deep hum along a draconic greeting "You may pass but no more, Kreeg has claimed this tower for now"
 
     If they are asked about denizens of the tower, they only found corpses and kobolds
     Will not let the party enter the tower but will let the party pass
@@ -352,8 +344,8 @@ Attack the highest hitpoint target as the ooze 3d6+1 damage and can crit. If the
     
     Consider letting Kresh escort the party past if they have met
 
-    The Lizardfolk are digging around the tower, looking for specimens 
-
+    The Lizardfolk are digging around the tower, looking for specimens
+    FIGHT: The Lizardfolk will knock the party unconscious and drag them to the fighting pit, see Trial One: of Combat
 
 ### Encounter 6: Open Wasteland
 
@@ -510,46 +502,264 @@ Mini Dungeon first time meeting The First Ones. Cannot communicate unless 1 lvl 
 
 ## Lizardfolk
 
-To ally with the Lizardfolk, you must get Netrus agree for Kreg to become King of Netrus
+Ritualistic behaviours
 
-Cannot ally with Kobolds, kill on sight
+### Ally
+    Ally with the Lizardfolk, get Netrus agree for Kreg to become King of Netrus
 
-### Encounter One
-  
-Challenge of Combat
+    Gain Allosaurus sled pulling team (1 per player +1)
 
-A large crowd of Lizardfolk engage with the party, the party decides how many of them they can fight. 
+### Boon 
+    Lizardfolk can be organized to take over Thieves Key or Southport, 
 
-### Encounter Two
+### Bane
+    Lizardfolk taking over both Southport and Thieves Key will attempt to take on Netrus
 
-Challenge of Beast
+### Seeking Out the Lizardfolk
 
-Attempt to tame beasts
+    Players should easily be able to learn that Lizardfolk mostly live in caverns but since they are nomadic there is no central point. There is the Unthil Peaks (2 days east), that have caverns as well as through the Smuggling Route (1 day South). The best way to figure out their location is by asking beasts and humanoids in The J'hed Wilds but let player's come up with clever solutions to how they want to find the clan. If they return to UnderRoc Tower II. it is not gauranteed the Lizardfolk are still there
 
-### Encounter Three
 
-Challenge of Appetite
+### Trial One: Of Combat 9+3d6 Lizardfolk
 
-### Encounter Four
+    Lizardfolk believe in demonstrations of power, physical or magical so to gain an audiance or respect they first need to know the talent of whom they deal with.
 
-Challenge of Religion
+    When the players socialize/engage with the Lizardfolk, they will begin to surround them as they speak as one speaks in broken common "How many; fight?". The number the party responds with first, that many Lizardfolk will run in and start a battle, and they intend to kill.
 
-### Encounter Five
+    "The moment a number is spoken as if poised for battle, that many Lizardfolk lunge forward with the intent to feast"
 
-Meet the King
+    Once the party dispatches these Lizardfolk, they will have a short period to ask questions but the Lizardfolk quickly become bored "More, More, Fun, Fun" this time, with a playful attitude they all begin to attack. They will knock the players out at this point rather than deliver a killing blow; if the entire party becomes incapacitated the Lizardfolk will drag them safetly back to Netrus and leave as they earned their respect, the party will gain one exhaustion level.
 
-### King Kreg the Strong
+    If the party kills all the Lizardfolk and did not fight playfully, they lose the respect of the Lizardfolk and become hostile unless the party can solve this through clever means
 
-Wants make his denizens no longer nomadic and settle in Netrus
+
+### Trial Two: Of Beast
+
+    Lizardfolk Shaman "Kraw" visits Netrus with a message for the party "Trial, Unthil Peaks, Follow, Days Three"
+
+    The party will be lead to Unthil Peaks and up a series of three difficult 40ft climbs. Consider a default Athletics DC13, on a fail they can take 1d6 bludgeoning damage or a point of exhaustion for each cliff, but let players be creative here, grant advantage for teamwork. 
+
+    "Birds, Ride, Impress" Kraw announces mentioning towards nesting Pternadons. 
+    
+    These tiered cliffs are about 40ft from the ridges below where the Pternadons are. The goal is to stay on the Pteranodon's as long as possible. And the Lizardfolk Shaman just wants to see each member of the party make an attempt to ride the Pteranadons. 
+
+    Pteranodon
+
+    At the start of each turn you make an animal handling check, on a success you can direct the Pteraodon's movement, on a failure it moves randomly and up 10ft
+    At the end of each turn make a Dexterity Saving Throw or be knocked prone off the Pternadon
+
+    After falling, the riden Pternadon will attack the associated player. Once the Trial is complete the Shaman will leave 
+
+    
+|Turn| Animal Handling    | Dexterity Save   |
+|-------|------|------------|
+|1| DC 10 | DC 13                  |
+|2| DC 13 | DC 16                  |
+|3| DC 16 | DC 19                  |
+|4| DC 19 | DC 22                  |
+|5| DC 22 | DC 25                  |
+|6| DC 25 | DC 28                  |
+
+    Kobolds: the cliffs are the territory of the Kobolds, consider them appearing after the trail. They can offer a place for a Long Rest (7 days) if the party needs it in exchange for them to investigate some Dragon Ruins. They can be hostile if the party wasn't appropriately challenged, or just an opportunity for players to see some winged Kobolds
+
+### Trial Three: Of Feast
+
+    The party is invited to dine with the Lizardfolk Clan, to bring a gift that would honour Kreg and note that insulting Kreg could lead to terrible consequences
+
+    In a makeshift cave hall, lined with bones stripped of slesh a great stone slab is inlayed at the center filled with flesh and freezing blood. The party must demonstrate their ravenous appetite and boast their abilities while other Lizardfolk and chained dinosaurs eat, getting louder and louder, and starting to fight eachother as the feast continues. All while these eyes leer from the darkness
+    
+    A test of performance and intimidation.
+
+    What does success look like? players stealing food from other Lizardfolk and punching them out so that they can eat more
+
+    Once they get the attention of the crowd, Kreg the Strong walks along the table to the party
+
+### Trial Five: Of Honour
+
+    King Kreg the Strong stands silently, waiting...
+
+    The party has to impress Kreg, however they see fit (even fighting him)
+
+    If Kreg is unimpressed the party will be told to leave and no alliance is formed
+    If Kreg is insulted the party is attacked as Kreg and his Shamans leave
+
+    Wants make his denizens no longer nomadic and settle in Netrus, but he will not serve under Nick, he will be the King
+
+    Party can convince Kreg to invade Thieves Key, or Southport but they will have to supply the resources for such an invasion (not cheap)
+
 
 
 ## Shessaar - Yuan-ti
+Only refer to Lesser, Greater or Equal, very spiritual
 
-### Medusa "Greater"
-find a Bloodstone
+### Ally
 
-### Visions of Glass
+    Players may want to create an alliance with the Yuant-ti, to ally, they want to be the spiritual leader of Netrus to guide those into the Wasteland
 
-### Head of Kreg
+    Sled team of Giant Constrictor Snakes
 
+### Enemy
+
+    Yuan-ti will attack Netrus through a cloud of snow, slithering and striking fast while a second team slithers through the cliffside and strikes during the chaos attempting to breach the Arcane Sanctum
+
+### Boon
+
+    Access to some 4th level spells
+
+    The most Loyal of allies, dedicated as long as they are respected
+
+### Bane
+
+    No interest in interfering with Thieves Key or Outer Region
+
+    Conflict as part of the Yuan-ti are being mislead by a false Avatar (Spirit Naga)
+
+    Yuan-ti are generally disliked, making it the most difficult faction for the denizens of Netrus to get along. Players will need to actively resolve these conflicts else the Yuan-ti will drive them out forcefully slowly turning Netrus into a Yuan-ti Village
+
+### First Encounter: Bloodstone
+
+    The party discovers a Bloodstone, and while inspecting it the Yuan-ti arrive
+
+### Second Encounter: Medusa "Greater"
+
+    Greater explains to the party that the Yuan-ti have no concerns about them and only seek the Bloodstones
+
+    Find one for them, and they will show them how they work
+
+### Third Encounter: Visions of Glass
+
+    By drawing enough blood 1d6 slash damage and pouring it onto the Red Glass, you fall unconscious and gain a vision
+
+    Let's party know there are imposters amung the Yuan-ti and they need to be cleansed
+
+    Must find another Red Glass to commune again
+
+### Commune with the Snakes
+
+    Go into the Wilds of J'hed and bring the largest snake possible to the Medusa
+
+### Lost Temple
+
+    The Yuan-ti Guide is imprisoned, and the Yuan-ti are searching how to help them escape. If you offer to assist with these efforts and dedicate a shrine in Netrus for Medusa to practice. Their service at the defense of Netrus will be yours
+
+
+
+## Kobolds
+    Kobolds alliances are always short term and they want more and more each time, but they also don't resent you killing them
+
+    They need treasure and a dragon shrine in Netrus
+
+### Ally
+    Kobold pulling team
+
+### Enemy
+    will attack netrus from above on Gliders + Wyvern
+
+### Boon
+
+    Can be send to Southport, Thieves Key or Netrus to assist, but they add chaos
+
+    Can point out Ruins they haven't explored
+
+    Can find the Rocs Nest
+
+    Plentiful and no issue dying
+
+### Bane
+
+    Always want more treasure for their Dragonshrines, and they will break an alliance once they stop getting treasure
+
+    Needs food
+
+### First Encounter
+    Hidden caves in cliffs, Kobold Aspirant
+
+### 2nd Encounter: Dragon Ruins
+    Kobolds want players to investigate the caves they have found, certain it contains dragons. But no kobolds have returned, so if the party will secure it for them, they will offer a place in the cliffs for a Long Rest (7 days) and lead them to the entrance. They can even have a Kobold guide for assistance (normal kobold)
+
+    Faerie Dragon Lair (8) - puzzle dungeon 
+
+    Bloodstone in the Ruins can be used to progress Yuan-ti
+
+### 3rd
+    To lure a dragon we need to build a Glorious Nest, secure a location for the Kobolds to build their central point of worship
+
+    Ulthin's Rest (top of Ulthin Peaks)
+
+    UnderRoc Bridge
+
+    Roc's Nest 
+
+    Netrus (if convinced to ally)
+
+    Howling Mill (werefolk)
+
+    Creative player locations are fine
+
+### 4th
+    Treasure to get attention of dragons - Young White Dragon will appear
+
+    Giant Weapon - Nick
+
+    Power Source - Tesla Coil
+
+    Ancient Relic from UnderRoc - Insanity Orb
+
+    Kreeg's Throne -
+
+### 5th
+    Wyverns, steal a large clutch of Wyvern eggs for the Kobolds to breed
+
+
+## Werefolk
+
+    Stat Adjustment to Werewolves: 
+
+    Completely heal if they start their turn and haven't taken damage from a Silvered Weapon and are above 0HP
+
+ ### Ally
+    Cannot Ally with Werefolk and Yuan-ti, the nature of their blessings make them hate eachother in a primal way
+
+    If they are welcomed to Netrus, Silver must be banned, and they won't be too friendly of Sammus but overtime will relax
+
+    Lycanthropes will not go to Southport or Thieves Key, they seek isolation and resist expansion of the Outer Empire due to their Curse
+
+    
+### Boon 
+    Were-animal pulling team
+
+    
+
+### Bane
+
+    Yuan-ti and Werefolk should not be able to ally
+
+    Village will be concerned they Lycanthropes want to convert the rest of the village (they are right)
+
+### Bitten
+
+    all appropriate animals have the Madness of Lycanthrope(curse), once bitten the Curse begins to take hold. Sammul can remove this curse, and be a source of minor information and leads
+
+    Bear/Tiger(sabortooth)/Wolf/Whale/fox/rat/boar/mammoth
+
+
+### The Immortal
+
+    one denizen of Netrus (bounty) seems unkillable and boasts about it, telling people they can attempt to claim the bounty but he will kill them. If the party engages he takes no damage
+
+### Clues
+
+    Netrus use to have a major issue with Lycanthropes, but since Sammul arrived his faith has warded them off (Sammul offers protection by placing Silver coins in areas he blesses)
+
+    Animal Marks changing to human marks/human marks to animal marks when trying to follow The Immortal
+
+    The Yuan-ti can suggest using a Bloodstone for guidance
+
+### Silvered Weapons
+
+    Sammul can craft bless and Silver a weapon, for 100g, and 1 weeks downtime (each), he doesn't have the ability by default the party needs to convince him to do it
+
+### Howling Fields
+
+    An abandoned Mill, where an alliance can be forged where the werefolk use to camp, there is a Bloodstone near the mill
 
