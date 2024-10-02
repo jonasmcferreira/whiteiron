@@ -1,49 +1,8 @@
 # Adventures
 
-## Structure Reminder
+## Module: Levels 1-4
 
-The default rules for encounters recommend aiming for 6 to 8 medium to deadly encounters per long rest. If you seek a greater challenge, consider using the "Gritty Realism" variant, where a short rest is 8 hours and a long rest is 7 days.
-
-Be mindful that weather is an important factor. Be sure to factor in the weather system.
-
-
-**Encounters with Purpose** Encounters should:
-- Create conflict
-- Reinforce plot
-- Add intrigue
-
-### Check Template
-
-
-| Check           | DC   | Result |
-|-----------------|------|--------|
-| **Str**         | ---- | ----   |
-| Athletics       | ---- | ----   |
-| **Dex**         | ---- | ----   |
-| Acrobatics      | ---- | ----   |
-| Sleight of Hand | ---- | ----   |
-| Stealth         | ---- | ----   |
-| **Int**         | ---- | ----   |
-| Arcana          | ---- | ----   |
-| History         | ---- | ----   |
-| Investigation   | ---- | ----   |
-| Nature          | ---- | ----   |
-| Religion        | ---- | ----   |
-| **Wis**         | ---- | ----   |
-| Animal Handling | ---- | ----   |
-| Insight         | ---- | ----   |
-| Medicine        | ---- | ----   |
-| Perception      | ---- | ----   |
-| Survival        | ---- | ----   |
-| **Cha**         | ---- | ----   |
-| Deception       | ---- | ----   |
-| Intimidation    | ---- | ----   |
-| Performance     | ---- | ----   |
-| Persuasion      | ---- | ----   |
-
-### Module: Levels 1-4
-
-- **Get to Netrus** Encounter undead, Kobolds, Fungi, Beasts, Madness.
+- **Journey to Netrus** Encounter undead, Kobolds, Fungi, Beasts, Madness.
 - **Short Quest** "Save" animals for sled (potential werewolf encounter).
 - **Acquire Sled** Meet warring tribes (Kobold, Lizardfolk, Yuan-ti).
 - **Defend Netrus** Ideally with the help of an ally.
@@ -141,9 +100,7 @@ As the party steps into the tunnel, the cold seems to tighten its grip around th
 
 As you prepare to enter, a single torch flares to life in the darkness—a reminder that **someone or something** may be waiting ahead.
 
-#### The First Challenge: The Cold
 
-Before venturing too far into the tunnel, the party must brace themselves for the freezing temperatures. Each character must make a **Constitution Saving Throw (DC 10)** to resist the cold. Those who fail take **1 Cold Damage**. Warm clothing or magical protection from the cold can negate this check.
 
 #### Encounter 1a: Boarded Walls
 
