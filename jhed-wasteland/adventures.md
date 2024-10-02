@@ -62,9 +62,10 @@ This is where your journey begins—a **final taste of warmth and drink** before
 
 #### Why You're Here
 
-For weeks, the smuggler's route between **Netrus**—a small but vital frontier town in Jhed—and Thieves Key has gone cold. The last crew sent with essential supplies and trade goods never returned. Netrus relies heavily on these deliveries to survive the harsh winters and trade their discoveries from the frozen wastes. If the route is not re-established, The town will collapse, and the situation is dire enough that Brimhest has approved your expedition to deliver a 50 lbs package critical to their survival.
+For weeks, the smuggler's route between **Netrus**—a small but vital frontier town in Jhed—and Thieves Key has gone cold. The last crew sent with essential supplies and trade goods never returned. Netrus relies heavily on these deliveries to survive the harsh winters and to offload the discoveries from the frozen wastes. If the route is not re-established, the town will collapse, and the situation is dire enough that Brimhest has approved your expedition to deliver a **50 lbs package** critical to their survival.
 
 You have been promised **600 gp** to deliver this package, with an additional **100 gp per extra crate** you can carry, but be warned: any lost cargo will cost you **150 gp in penalties**, and if the main package isn't delivered, the entire deal is void.
+
 
 #### Motivations for Your Journey
 
@@ -86,6 +87,8 @@ Your immediate goal is to reach **Netrus** by navigating the **Smuggler's Tunnel
 
 The **Roc**, a massive bird that patrols the skies over Jhed, is a constant threat, forcing smugglers to use these dangerous underground routes. Any attempt to travel overland would end in certain death beneath its talons.
 
+Don Vras, a seasoned smuggler with a **dark past**, will be your ferry captain. As you set sail, he fills the air with tales of the dangers ahead—how the Roc claims vast stretches of territory and how the last crew that attempted this route vanished without a trace. He describes how the Roc’s shadow darkens the waters, a grim omen for anyone daring enough to cross its domain. He has sailed to the **Witch's Nip** many times before.
+
 From there, the **Smuggler’s Tunnel** will take you into **Netrus**, but it's a long journey through twisting, icy passages. The tunnel itself is not without its dangers, as **monsters, traps, and even the elements** will conspire to make the journey as deadly as possible.
 
 #### Tasks Before You Leave
@@ -105,7 +108,19 @@ Your quest is simple: **deliver the package**, survive the journey, and perhaps 
 
 But beware—the last courier crew never made it back.
 
-### Arrival at The Witch's Nip
+### Sail and Arrival at The Witch's Nip
+
+Don Vras is a silent individual, as he's ferried his share of adventurers to the **Witch's Nip**
+
+    Here's some sayings that Don Vras will spout out at random times:
+    - "Batten down the hatches! Once we set out, the only thing worse than the cold is the company you keep... and I ain’t talking about my fine self."
+    - "I’ll navigate you through these waters, but you’ll have to watch your own backs. You can’t trust anyone out here."
+    - "That Roc has a hunger that would put a troll to shame. Stay low and keep your wits about you—if you see a shadow, choose quickly if you want death at the Roc's stomach or an icy death."
+    - "Remember, lads and lasses, fortune favors the bold! Or was it the stupid? Either way, make sure it’s you with the gold in the end."
+    - "Look at those cliffs—nature’s way of reminding you how small you really are. Don’t get too cozy; the ground is icy and so are the hearts of those who wander here."
+    - "You see that tunnel? It’s not a path to riches; it’s a corridor of doom! Bring back tales of your brave friends... or just their heads. Whichever's easier."
+    - "In my experience, when things get quiet, that’s when you should be worried. Silence is just the calm before the madness takes over."
+    - "This place is a real gem—if by gem, you mean a frozen wasteland where dreams come to die. Hope you brought a good shovel for digging your graves."
 
 After days at sea, navigating treacherous icy waters and avoiding the sharp gaze of the Roc, the sloop finally sails into a narrow inlet known as **The Witch’s Nip**. The biting cold seems to intensify as the boat glides between the towering, jagged cliffs that guard the cove like the fangs of a giant beast. As the crew secures the sloop to the frost-covered dock, a strange, echoing silence replaces the rhythmic lapping of the waves, broken only by the faint, distant howl of the wind.
 
