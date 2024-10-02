@@ -78,50 +78,35 @@ When you gain a category of Madness, you select which one in the tier. Take 1d12
 Madness are formatted for first level to be flavor, second to be a buff, third debuff, 4th plot
 
 
-### Madness of Consumption
+### Madness of Consumption/Dead
 
 | Tier | Effect               |
 |------|----------------------|
-| 1    | Desire to only eat meat        |
-| 1    | Desire to only eat plants      |
-| 1    | Desire to taste all liquids    |
-| 1    | Must eat three times as much   |
-| 2    | Resistance to Poison Damage    |
-| 2    | Advantage to Resist effects against Poison   |
-| 3    | Wants to poison everyones food |
-| 4    | --  |
+| 1    | Desire to only eat meat                       |
+| 1    | Desire to only eat plants                     |
+| 1    | Will not eat Rations                          |
+| 1    | Must eat three times as much                  |
+| 2    | Resistance to Poison Damage                   |
+| 2    | Advantage to Resist effects against Poison    |
+| 2    | resistance to necrotic damage                 |
+| 3    | Only eats poisonous foods                     |
+| 4    | vulnerable to radiant damage                  |
 
 
 ### Madness of Apperance 
 
 | Tier | Effect                                          |
 |------|-------------------------------------------------|
-| 1    | never sleep in armour                    |
-| 1    | new clothes everyday                     |
-| 1    | never change clothes                     |
 | 1    | You will always wear a mask                     |
-| 1    | You will not change clothes                     |
 | 1    | You will change clothes every short rest        |
 | 1    | You will wear the most expensive clothing       |
 | 1    | You wear the clothing of creatures you defeated |
-| 2    | advantage on performance checks                |
-| 2    | disguise self once per day                                 |
-| 3    | destroy unused clothing                |
-| 4    | --                                       |
+| 2    | advantage on performance checks                 |
+| 2    | disguise self once per day                      |
+| 3    | destroy unused clothing                         |
+| 4    | --                                              |
 
-
-### Madness of the Dead
-
-| Tier | Effect                                          |
-|------|-------------------------------------------------|
-| 1    | no longer need to eat or drink                     |
-| 2    | resistance to necrotic        |
-| 2    | resistance to exhaustion       |
-| 2    | don't need to sleep during a long rest |
-| 3    | vulnerable to radiant damage                     |
-| 4    | -- |
-
-## Madness of  Flesh
+## Madness of Flesh
 
 If a humanoid eats flesh of a humanoid, they gain the Madness of the Wendigo and lose all other Madness effects. After gaining the Madness of the Wendigo, you make a DC15 Wisdom Save everytime you eat humanoid flesh
 
@@ -137,29 +122,37 @@ If a humanoid eats flesh of a humanoid, they gain the Madness of the Wendigo and
 
 | Tier | Effect                                          |
 |------|-------------------------------------------------|
-| 1    | Must always be within 60ft of a fire                     |
+| 1    | Must always be within 60ft of a fire              |
 | 1    | wants to touch the temperature of everything |
-| 2    | resistance to fire damage        |
-| 2    | sheds a bright light |
-| 2    | can deal 1d4 fire damage once per round       |
-| 3    | vulnerable to cold damage                     |
-| 4    | -- |
+| 1    | wants to burn something once per Rest |
+| 1    | doesn't want to be submerged in water |
+| 2    | sheds a dim light 20ft |
+| 2    | can deal 1d6 fire damage once per Short Rest       |
+| 3    | Curious to what can be burned                       |
+| 4    | Resistance to Fire Damage, Vulnerable to Cold Damage |
 
 ### Madness of Lycanthrope
 
 | Tier | Effect                                          |
 |------|-------------------------------------------------|
 | 1    | must destroy all silver                    |
+| 1    | desire to bite things                    |
+| 1    | howl at the moon                    |
+| 1    | --                    |
 | 2    | +1 AC        |
-| 2    | +1 health per lvl       |
+| 2    | gain the tough origin feat       |
+| 2    | gain a wildshape to specific animal  |
 | 3    | vulnerable to silvered weapons          |
-| 4    | gain a wildshape to specific animal  |
+| 4    | --  |
 
 ### Madness of Giants
 
 | Tier | Effect                                          |
 |------|-------------------------------------------------|
 | 1    | more likely to believe larger creatures        |
+| 1    | disbelieve smaller creatures        |
+| 1    | play games of strength        |
+| 1    | collect 10+ lb rocks        |
 | 2    | +5ft movement speed        |
 | 2    | increased carry capacity       |
 | 2    | 5ft reach       |
