@@ -3,35 +3,135 @@
 Fighting: an opportunity to save a liked NPC, introduce another conflict, or wait for victory
 
 
-## Random Encounter Table
+## Random Encounter Table: Level 2-4
 
-| D100 | Creature               | CR | Notes |
-|------|------------------------|----|-------|
-| 1    | Ooze                   | -  | -     |
-| 2    | Undead                 | -  | -     |
-| 3    | Kobold                 | -  | -     |
-| 4    | Yuanti                 | -  | -     |
-| 5    | Lizardfolk             | -  | -     |
-| 6    | Fungi                  | -  | -     |
-| 7    | Werewolf               | -  | -     |
-| 8    | Beast                  | -  | -     |
-| 9    | Giant                  | -  | -     |
-| 10   | Chasm                  | -  | -     |
-| 11   | Lost                   | -  | -     |
-| 12   | Gambling Glacial Bears | -  | -     |
-| 13   | Dead Bodies            | -  | -     |
-| 14   | Vez'yen Poisoneer      | -  | -     |
-| 15   | Thaddeus Winterbourne      | -  | -     |
-| 16   | The Flaming Fools      | -  | -     |
-| 17   | Ogers      | -  | -     |
-| 18   | Half-Ogers      | -  | -     |
-| 19   | Ogers and Half-Ogres      | -  | -     |
-| 20   | Ghost of the Past      | -  | -     |
-| 21   | Kresh and Crew      | -  | -     |
-| 22   | Oniteth Adventurer Inc.      | -  | -     |
-| 23   | Ogre Mage      | -  | -     |
-| 24   | Kron Vaulted One      | -  | -     |
-| 25   | Vaulted Ones      | -  | -     |
+| D100 | Creature                   | CR | Notes               |
+|------|----------------------------|----|---------------------|
+| 1    | Ooze                       | -  | -                   |
+| 2    | Undead                     | -  | -                   |
+| 3    | Kobold                     | -  | -                   |
+| 4    | Yuanti                     | -  | -                   |
+| 5    | Lizardfolk                 | -  | -                   |
+| 6    | Fungi                      | -  | -                   |
+| 7    | Werewolf                   | -  | -                   |
+| 8    | Beast                      | -  | -                   |
+| 9    | Giant                      | -  | -                   |
+| 10   | Chasm                      | -  | -                   |
+| 11   | Lost                       | -  | -                   |
+| 12   | Gambling Glacial Bears     | -  | -                   |
+| 13   | Dead Bodies                | -  | -                   |
+| 14   | Vez'yen Poisoneer          | -  | -                   |
+| 15   | Thaddeus Winterbourne      | -  | -                   |
+| 16   | The Flaming Fools          | -  | -                   |
+| 17   | Ogers                      | -  | -                   |
+| 18   | Half-Ogers                 | -  | -                   |
+| 19   | Ogers and Half-Ogres       | -  | -                   |
+| 20   | Ghost of the Past          | -  | -                   |
+| 21   | Kresh and Crew             | -  | -                   |
+| 22   | Oniteth Adventurer Inc.    | -  | -                   |
+| 23   | Ogre Mage                  | -  | -                   |
+| 24   | Kron Vaulted One           | -  | Vaulted Ones        |
+| 25   | Vaulted Ones               | -  | -                   |
+| 26   | Medusa "Greater" - Yuan-ti | -  | emassary of Yuan-ti |
+| 27   | Yuan-ti                    | -  | -                   |
+| 28   | Snakes                     | -  | Yuan-ti forces      |
+| 29   | Roc                        | -  | -                   |
+| 30   | Improvised Pit Fight       | -  | -                   |
+| 31   | Allosaurus                 | -  | Lizardfolk          |
+| 32   | Pteranodon                 | -  | Lizardfolk          |
+| 33   | Lizardfolk Shaman          | -  | Lizardfolk          |
+| 34   | Lizardfolk King Kreeg      | -  | Lizardfolk          |
+| 35   | Red Glass / Bloodstone     | -  | Yuan-ti             |
+| 36   | Were-animal                | -  | Werefolk            |
+| 37   | Were-folk                  | -  | Werefolk            |
+| 38   | Mad Wanderer               | -  | --                  |
+| 39   | Faerie Dragon              | -  | Kobold              |
+| 40   | Wounded Wyvern             | -  | Kobold/Vez'yen      |
+
+
+### 40 Wounded Wyvern
+
+1 Wounded Wyvern, half health and no stinger attack
+
+### 39 Faerie Dragon
+
+1d4 Dragons
+
+The dragons only trying to annoy the players and collect treasure, they will leave them alone once they are given enough gold
+
+The pseudodragon will only be a familiar with a player that keeps it entertained
+
+| D8 | State               | Notes |
+|------|------------------------|-------|
+| 1    | red                    |    --    |
+| 2    | orange                   |    --    |
+| 3    | yellow                 |    --    |
+| 4    | green                    |    --    |
+| 5    | blue                   |    --    |
+| 6    | indigo                   |    --    |
+| 7    | violet                   |    --    |
+| 8    | pseudodragon                   |    --    |
+
+### 38 Mad Wanderer
+
+    Interacting causes a random madness to a party member
+
+    Returning Mad Wanderer causes another random madness
+
+### 37 Were-folk
+
+| D4 | State               | Notes |
+|------|------------------------|-------|
+| 1    | wererat                    |    --    |
+| 2    | wereboar                   |    --    |
+| 3    | weretiger(saber)           |    --    |
+| 4    | werefox                    |    --    |
+| 5    | werewolf                   |    --    |
+| 6    | werebear                   |    --    |
+
+
+### 36 Were-animal  
+
+
+| D4 | State               | Notes |
+|------|------------------------|-------|
+| 1    | rat                    |    --    |
+| 2    | boar                   |    --    |
+| 3    | tiger(saber)           |    --    |
+| 4    | fox                    |    --    |
+| 5    | wolf                   |    --    |
+| 6    | bear                   |    --    |
+
+
+### 35: Bloodstone
+
+### 34: Lizardfolk King
+    will ignore the party unless they have acted against the Lizardfolk
+
+### 33: Lizardfolk Shaman
+
+### 32: Pteranodon
+
+    1d6 Pteranodon swoop down attacking and trying to pick up and drop the players
+
+### 31: Allosaurus
+
+    1d6 Wild Allosaurus
+
+    1d4 Tamed, 1d4 Lizardfolk
+
+### 30: Improvised Pit Fight 
+    Lizardfolk have set up a small arena to challenge for strength, party can join in our bet
+
+    
+
+### 26: Medusa "Greater" - Yuan-ti
+### 27: Yuan-ti
+### 28: Snakes
+### 29: Roc
+    have a large/huge beast surprise and attack the party like a Mammoth
+
+    on initiative count 0 roc picks up this beast and flies away
 
 ### Kron Vaulted One
 
