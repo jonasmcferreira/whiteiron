@@ -123,7 +123,7 @@ After days at sea, navigating treacherous icy waters and avoiding the sharp gaze
 
 Before you lies the entrance to the **Smuggler’s Tunnel**—a gaping, dark maw in the rock face, partially hidden by snow drifts and worn ice sculptures of unknown origin. The passage is lined with makeshift torch holders, though none are lit, casting the entire scene in a blue twilight glow. Deep within, the faint, rhythmic sound of dripping water is the only sign that the tunnel hasn't been abandoned for centuries.
 
-#### The Smuggler's Tunnel
+### The Smuggler's Tunnel
 
 The **Smuggler’s Tunnel** is a lifeline between **Thieves Key** and **Netrus**, cutting through miles of treacherous terrain that would otherwise take weeks to navigate overland. While at first glance the tunnel may seem like a marvel of ancient craftsmanship, closer inspection reveals its more improvised nature. The stonework is uneven, as if hastily carved by many hands over time, with sections reinforced with mismatched materials. Cracks riddle the walls, and patches of ice creep in through the roof. A narrow river of freezing water snakes through the middle of the tunnel, glistening under the sparse light, barely held back by makeshift barriers.
 
@@ -140,7 +140,7 @@ As the party steps into the tunnel, the cold seems to tighten its grip around th
 
 As you prepare to enter, a single torch flares to life in the darkness—a reminder that **someone or something** may be waiting ahead.
 
-### The First Challenge: The Cold
+#### The First Challenge: The Cold
 
 Before venturing too far into the tunnel, the party must brace themselves for the freezing temperatures. Each character must make a **Constitution Saving Throw (DC 10)** to resist the cold. Those who fail take **1 Cold Damage**. Warm clothing or magical protection from the cold can negate this check.
 
@@ -172,7 +172,7 @@ A rogue investigating can be told the result of their roll before destroying the
 5. **Split** The path splits in two. Each path requires a new D6 roll and can split again.
 6. **Short Cut** An hour down the path reveals a shortcut. If the party has already found this, replace it with a "Too Cold" result.
 
-### Ghost of the Past I
+#### Ghost of the Past I
 
 *DM Note*:  After the party wakes from their first short rest.
 
@@ -378,7 +378,7 @@ Setting off Ward: All creatures within 30ft of the door Intelligence Save DC13, 
 
 With a plume of red smoke the arcane lock is opened and the door will remain open for 1 hour (even if forced open)
 
-### Encounter 2b: Underpass
+#### Encounter 2b: Underpass
 
 Squeezing through a tight corridor leads underneath the UnderRoc bridge revealing a hidden yet very intentional passage through the middle that can be crawled through. The stonework can be almost too clean
 
@@ -388,7 +388,7 @@ Grey Ooze: moving along the corridor is a grey ooze, a still oil slick patch of 
 
 Attack the highest hitpoint target as the ooze 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack the who is leading the party
 
-### Encounter 3: Pass 
+#### Encounter 3: Pass 
 
 Dispersing Green Haze: Constitution Save DC 7, poisoned on a failure for 8 hours.
 
@@ -406,13 +406,13 @@ Investigation Check DC 13: There is residue of a powerful poison and the Green H
 
 Just like most Kobold fights should involve traps, undead fights should involve poison
 
-### Encounter 4: Roc
+#### Encounter 4: Roc
 
 Peering through the midst a cracked beak of a Gargantuan bird; black with purple tipped feathers. Tt has noticed the tresspassers letting out a rapid clicking noise before the wings unfurrel and takes flight. Strength save DC 19 or knocked prone on a failure 
 
 Players can return to this Roc later with Thieves Sigil, to gain passage to Smuggler's Peak
 
-### Encounter 5: Tower II
+#### Encounter 5: Tower II
 
 The fog frames the bridge into the glacier with a tower built into the side maybe 50ft high; the natural ice walls stretch beyond the cloudy vision. Broad scaled humanoid shapes are seen tossing objects aside the stone bridge. A horn blows with a deep hum along a draconic greeting "You may pass but no more, Kreeg has claimed this tower for now"
 
@@ -427,7 +427,7 @@ Consider letting Kresh escort the party past if they have met
 The Lizardfolk are digging around the tower, looking for specimens
 FIGHT: The Lizardfolk will knock the party unconscious and drag them to the fighting pit, see Trial One: of Combat
 
-### Encounter 6: Open Wasteland
+#### Encounter 6: Open Wasteland
 
 Brush with large deep blue "berries" 1d4
 
