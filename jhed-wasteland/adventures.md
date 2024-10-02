@@ -66,18 +66,6 @@ For weeks, the smuggler's route between **Netrus**—a small but vital frontier 
 
 You have been promised **600 gp** to deliver this package, with an additional **100 gp per extra crate** you can carry, but be warned: any lost cargo will cost you **150 gp in penalties**, and if the main package isn't delivered, the entire deal is void.
 
-#### The Voyage: Thieves Key to the Witch’s Nip
-
-Your next step is securing transportation to **The Witch’s Nip**, the entrance to the **Smuggler’s Tunnel** leading into Jhed. The tunnel is a vital lifeline between Thieves Key and the frozen continent, but first, you'll have to **sail across treacherous waters**. The journey to the Witch’s Nip is dangerous, as the waters surrounding Jhed are known to be frigid and volatile. 
-
-You have a choice:
-1. **Purchase a Sloop**: A small but sturdy vessel capable of carrying you and your cargo across the icy waters. You can negotiate with **Brimhest** or a local merchant, offering **100 gp** for a reliable boat.
-2. **Acquire by Other Means**: If you're light on coin but heavy on wit, you may attempt to steal or barter for a sloop. There are opportunities to acquire a boat through **gambling**, **theft**, or **making a deal with the locals**, but doing so will put you on the radar of Thieves Key’s more unsavory characters.
-
-**Sloop Features**:
-- A sloop can comfortably carry your party and up to **500 lbs of cargo**.
-- Requires a **sailor’s check** (Survival or Dexterity) to navigate the icy waters safely. Fail and your journey will take longer or take you where you do not want to go. 
-
 #### Motivations for Your Journey
 
 As you prepare for the perilous trek ahead, you each reflect on why you’ve taken this risk:
@@ -146,7 +134,7 @@ Before venturing too far into the tunnel, the party must brace themselves for th
 
 #### Encounter 1a: Boarded Walls
 
-*DM Note*: This encounter is meant as a bypass to "A Wall of Ice" if players explore early or fail to climb up.
+    DM Note: This encounter is meant as a bypass to "A Wall of Ice" if players explore early or fail to climb up.
 
 As the tunnel twists and narrows, the party will come across several makeshift wooden barriers erected by past smugglers and thieves. Each is marked with **Thieves’ Cant**, warning of the dangers ahead. A **Rogue** or anyone who can read the code will recognize the symbols, which indicate traps, potential ambushes, or secret passages hidden behind the walls.
 
@@ -174,7 +162,7 @@ A rogue investigating can be told the result of their roll before destroying the
 
 #### Ghost of the Past I
 
-*DM Note*:  After the party wakes from their first short rest.
+    DM Note:  After the party wakes from their first short rest.
 
 As the party rests for the first time inside the tunnel, something unsettling happens. In the stillness of the frozen caverns, as the campfire flickers and begins to die down, an ethereal form materializes. Barely visible, refracted through the ice walls, it speaks in a voice that is both chilling and mournful:
 
@@ -184,7 +172,7 @@ This ghostly figure does not engage the players directly but serves as a hauntin
 
 #### Encounter 1b: A Wall of Ice
 
-DM note: quick simple obstacle
+    DM note: quick simple obstacle
 
 The cavern opens wide with chunks of debris stacking up to 15ft slumped along a wall of ice. As if the passage was split by an immense tremor. The top of this wall of jagged ice seems 25ft above the highest pile of debris and a Kobold (two others hidden) can be seen taking interest before running off
 
@@ -203,11 +191,9 @@ You can make this more challenging by making Kobolds hide and shove (or cut rope
 | Perception    | 16  | Shadows of Kobolds hint they are moving away |  |                                     |
 | Investigation | 13 | Tracks lead back, and go into Boarded Walls (bypass)   |  |  |
 
-
-
 #### Encounter 1c: Kresh and Krew
 
-DM note: Use this option if party is stuck
+    DM note: Use this option if party is stuck
 
 The faint sound of iron against ice echoes before stalagtites above you buckles and breaks. Three hulking Lizardfolk fall from above.  
   
@@ -227,7 +213,7 @@ If the party moves closer or investigates around the bodies 2-4 Zombies will sur
 
 **Oniteth Scouter** - Female Goliath (frost) Survivor 
 
-DM note: avoid giving another NPC a glaive
+    DM note: avoid giving another NPC a glaive
 
 Behind the makeshift wooden barrier and through a crawlspace Oniteth is hidding, and will make his presence known calling for help. Oniteth is gaunt looking as if close to death, shaking while gripping his glaive (he will not give it up). Oniteth wears the garment of the Outer Empire
 
@@ -246,7 +232,7 @@ Behind the makeshift wooden barrier and through a crawlspace Oniteth is hidding,
 
 #### Encounter 3a: UnderRoc Tower
 
-DM Note: A series of 3 combats in one. Stay in initiative order, and if players don't act after 3 rounds, the Kobolds will act. Kobold's in J'hed should always involve traps. Kobold's will always attack to gain pact tactics and retreat when 1 is left
+    DM Note: A series of 3 combats in one. Stay in initiative order, and if players don't act after 3 rounds, the Kobolds will act. Kobold's in J'hed should always involve traps. Kobold's will always attack to gain pact tactics and retreat when 1 is left
   
 Charisma Checks Disadvantage if not using Draconic with Kobolds
 
