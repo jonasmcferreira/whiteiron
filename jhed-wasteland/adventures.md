@@ -300,60 +300,60 @@ With a plume of red smoke the arcane lock is opened and the door will remain ope
 
 ### Encounter 2b: Underpass
 
-    Squeezing through a tight corridor leads underneath the UnderRoc bridge revealing a hidden yet very intentional passage through the middle that can be crawled through. The stonework can be almost too clean
-  
-    Investigation Check DC13: The stonework seems to be washed by acid
+Squeezing through a tight corridor leads underneath the UnderRoc bridge revealing a hidden yet very intentional passage through the middle that can be crawled through. The stonework can be almost too clean
 
-    Grey Ooze: moving along the corridor is a grey ooze, a still oil slick patch of wet stone and will attack when the party crosses. 
+Investigation Check DC13: The stonework seems to be washed by acid
 
-    Attack the highest hitpoint target as the ooze 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack the who is leading the party
-  
+Grey Ooze: moving along the corridor is a grey ooze, a still oil slick patch of wet stone and will attack when the party crosses. 
+
+Attack the highest hitpoint target as the ooze 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack the who is leading the party
+
 ### Encounter 3: Pass 
 
-    Dispersing Green Haze: Constitution Save DC 7, poisoned on a failure for 8 hours.
+Dispersing Green Haze: Constitution Save DC 7, poisoned on a failure for 8 hours.
 
-    4 Bodies around a broken caravan, once the party investigates they attack
-    
-    2 zombies, 2 skeletons
-    
-    A horse per round charges through the fog charging attacking and running away
-    
-    3 warhorse skeletons
-    
-    There is dead kobolds all around the bridge (Kobolds were fighting the undead)
-    
-    Investigation Check DC 13: There is residue of a powerful poison and the Green Haze
-    
-    Just like most Kobold fights should involve traps, undead fights should involve poison
+4 Bodies around a broken caravan, once the party investigates they attack
+
+2 zombies, 2 skeletons
+
+A horse per round charges through the fog charging attacking and running away
+
+3 warhorse skeletons
+
+There is dead kobolds all around the bridge (Kobolds were fighting the undead)
+
+Investigation Check DC 13: There is residue of a powerful poison and the Green Haze
+
+Just like most Kobold fights should involve traps, undead fights should involve poison
 
 ### Encounter 4: Roc
 
-    Peering through the midst a cracked beak of a Gargantuan bird; black with purple tipped feathers. Tt has noticed the tresspassers letting out a rapid clicking noise before the wings unfurrel and takes flight. Strength save DC 19 or knocked prone on a failure 
+Peering through the midst a cracked beak of a Gargantuan bird; black with purple tipped feathers. Tt has noticed the tresspassers letting out a rapid clicking noise before the wings unfurrel and takes flight. Strength save DC 19 or knocked prone on a failure 
 
-    Players can return to this Roc later with Thieves Sigil, to gain passage to Smuggler's Peak
+Players can return to this Roc later with Thieves Sigil, to gain passage to Smuggler's Peak
 
 ### Encounter 5: Tower II
 
-    The fog frames the bridge into the glacier with a tower built into the side maybe 50ft high; the natural ice walls stretch beyond the cloudy vision. Broad scaled humanoid shapes are seen tossing objects aside the stone bridge. A horn blows with a deep hum along a draconic greeting "You may pass but no more, Kreeg has claimed this tower for now"
+The fog frames the bridge into the glacier with a tower built into the side maybe 50ft high; the natural ice walls stretch beyond the cloudy vision. Broad scaled humanoid shapes are seen tossing objects aside the stone bridge. A horn blows with a deep hum along a draconic greeting "You may pass but no more, Kreeg has claimed this tower for now"
 
-    If they are asked about denizens of the tower, they only found corpses and kobolds
-    Will not let the party enter the tower but will let the party pass
+If they are asked about denizens of the tower, they only found corpses and kobolds
+Will not let the party enter the tower but will let the party pass
 
-    Recently taken by Lizardfolk after driving the Kobold's out, 20ish (should be clear it isn't winnable fight)
-    Praised for the party strengths and told they should search them out, but for now they are busy
-    
-    Consider letting Kresh escort the party past if they have met
+Recently taken by Lizardfolk after driving the Kobold's out, 20ish (should be clear it isn't winnable fight)
+Praised for the party strengths and told they should search them out, but for now they are busy
 
-    The Lizardfolk are digging around the tower, looking for specimens
-    FIGHT: The Lizardfolk will knock the party unconscious and drag them to the fighting pit, see Trial One: of Combat
+Consider letting Kresh escort the party past if they have met
+
+The Lizardfolk are digging around the tower, looking for specimens
+FIGHT: The Lizardfolk will knock the party unconscious and drag them to the fighting pit, see Trial One: of Combat
 
 ### Encounter 6: Open Wasteland
 
-    Brush with large deep blue "berries" 1d4
+Brush with large deep blue "berries" 1d4
 
-    Attacked by 1d4 poisonous snake, and 1 giant poisonous snake 
+Attacked by 1d4 poisonous snake, and 1 giant poisonous snake 
 
-    These berries are important and grow randomly through Jhed
+These berries are important and grow randomly through Jhed
     
 
 
