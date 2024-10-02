@@ -142,7 +142,7 @@ As you prepare to enter, a single torch flares to life in the darkness—a remin
 
 ### The First Challenge: The Cold
 
-Before venturing too far into the tunnel, the party must brace themselves for the freezing temperatures. Each character must make a **Constitution Saving Throw (DC 12)** to resist the cold. Those who fail take **1d4 Cold Damage** and gain a level of **Exhaustion** if they fail by 5 or more. Warm clothing or magical protection from the cold can negate this check.
+Before venturing too far into the tunnel, the party must brace themselves for the freezing temperatures. Each character must make a **Constitution Saving Throw (DC 10)** to resist the cold. Those who fail take **1 Cold Damage**. Warm clothing or magical protection from the cold can negate this check.
 
 #### Encounter 1a: Boarded Walls
 
