@@ -7,7 +7,7 @@ The default rules for encounters recommend aiming for 6 to 8 medium to deadly en
 Be mindful that weather is an important factor. Be sure to factor in the weather system.
 
 
-**Encounters with Purpose**: Encounters should:
+**Encounters with Purpose** Encounters should:
 - Create conflict
 - Reinforce plot
 - Add intrigue
@@ -43,40 +43,118 @@ Be mindful that weather is an important factor. Be sure to factor in the weather
 
 ### Module: Levels 1-4
 
-- **Get to Netrus**: Encounter undead, Kobolds, Fungi, Beasts, Madness.
-- **Short Quest**: "Save" animals for sled (potential werewolf encounter).
-- **Acquire Sled**: Meet warring tribes (Kobold, Lizardfolk, Yuan-ti).
-- **Defend Netrus**: Ideally with the help of an ally.
+- **Get to Netrus** Encounter undead, Kobolds, Fungi, Beasts, Madness.
+- **Short Quest** "Save" animals for sled (potential werewolf encounter).
+- **Acquire Sled** Meet warring tribes (Kobold, Lizardfolk, Yuan-ti).
+- **Defend Netrus** Ideally with the help of an ally.
 
 ## Level One Adventure: Journey To Netrus
 
 ### Introduction
 
-The party begins their journey sheltered in a small covered boat with Don Vras. Two unnamed figures navigate the frigid waters outside. This is the last chance to gather knowledge about Jhed. The boat rocks chaotically on the frigid waters for two days before reaching the smuggler's route, but there is merriment in drink, meat, and fruit.
+Your journey begins at **Thieves Key**, a notorious halfway point between the civilized world and the icy wilderness of Jhed. Perched in a cove with creaking piers and flickering lanterns, this is a place where **secrets are traded as often as goods**. Thieves, cutthroats, pirates, and outcasts gather here under the watchful eyes of **Brimhest Deepbrew**, the gruff, beer-stained dwarf who runs this lawless haven. Nothing happens here without Brimhest knowing, or at least approving.
 
-**The Quest**: Deliver a package to the edge of the world while supply routes are cut. The party is offered 600 gp to deliver a small 50 lbs package. Any additional 20 lbs crate they bring along rewards them with 100 gp each. However, any lost crate results in a 150 gp penalty, and no reward is given if the 50 lbs package isn't delivered. The last courier team to Netrus has gone missing.
+The Thieves Key is not for the faint of heart. It's a dark, grimy port where ships come to unload illicit goods and repair battered hulls before venturing further south. The **Dockworks** are filled with the sound of hammering, shouting, and the creak of wooden ships. Dockworkers, visibly branded with marks of loyalty, toil under the ever-present threat of betrayal—a **caged corpse** with a sign reading "Traitor" serves as a stark reminder of what happens to those who cross the wrong people.
 
+Overlooking it all is **Brimhest's Nest**, a lofty perch built into the cliffs, from where Brimhest watches the comings and goings of everyone in Thieves Key. To meet with Brimhest, you'll need to wait your turn in line, or if you're smart, grease the right palms to skip it. Below, in the **Loose Coin**, adventurers and thieves alike seek shelter, though the inn is little more than a series of shanty cubicles where **privacy is a luxury no one can afford**.
 
-### Travel Overview
+This is where your journey begins—a **final taste of warmth and drink** before stepping into the cold jaws of the Jhed Continent.
 
-The adventurers should have left South Post, the most southern point of the continent by boat. The trip to Jhed usually goes through the thieves key, and then continues into jhed. In Jhed the entry is through a smugglers tunnel.
-The seas and the initial area of Jhed is being covered and guarded by a giant Roc.
+#### Why You're Here
 
-Leaving Thieves Key
+For weeks, the smuggler's route between **Netrus**—a small but vital frontier town in Jhed—and Thieves Key has gone cold. The last crew sent with essential supplies and trade goods never returned. Netrus relies heavily on these deliveries to survive the harsh winters and trade their discoveries from the frozen wastes. If the route is not re-established, The town will collapse, and the situation is dire enough that Brimhest has approved your expedition to deliver a 50 lbs package critical to their survival.
 
-2 day travel on water to smuggler tunnel
-1 day travel on smuggler tunnel river
-1-2 day travel in tunnel to UnderRoc Bridge (2 days if stealth, 1 day if normal pace)
+You have been promised **600 gp** to deliver this package, with an additional **100 gp per extra crate** you can carry, but be warned: any lost cargo will cost you **150 gp in penalties**, and if the main package isn't delivered, the entire deal is void.
 
-The frozen path follows a gentle incline, centered on two rails but there is no light further ahead
+#### The Voyage: Thieves Key to the Witch’s Nip
+
+Your next step is securing transportation to **The Witch’s Nip**, the entrance to the **Smuggler’s Tunnel** leading into Jhed. The tunnel is a vital lifeline between Thieves Key and the frozen continent, but first, you'll have to **sail across treacherous waters**. The journey to the Witch’s Nip is dangerous, as the waters surrounding Jhed are known to be frigid and volatile. 
+
+You have a choice:
+1. **Purchase a Sloop**: A small but sturdy vessel capable of carrying you and your cargo across the icy waters. You can negotiate with **Brimhest** or a local merchant, offering **100 gp** for a reliable boat.
+2. **Acquire by Other Means**: If you're light on coin but heavy on wit, you may attempt to steal or barter for a sloop. There are opportunities to acquire a boat through **gambling**, **theft**, or **making a deal with the locals**, but doing so will put you on the radar of Thieves Key’s more unsavory characters.
+
+**Sloop Features**:
+- A sloop can comfortably carry your party and up to **500 lbs of cargo**.
+- Requires a **sailor’s check** (Survival or Dexterity) to navigate the icy waters safely. Fail and your journey will take longer or take you where you do not want to go. 
+
+#### Motivations for Your Journey
+
+As you prepare for the perilous trek ahead, you each reflect on why you’ve taken this risk:
+
+- **Fortune Seekers** Jhed promises unimaginable riches, from rare gems to ancient artifacts hidden beneath the ice. This expedition could set you up for life—if you survive.
+  
+- **Knowledge Seekers** The icy expanse of Jhed holds **arcane secrets and lost knowledge** from ancient civilizations. You’ve heard rumors of powerful magic trapped in the glaciers, waiting to be unlocked.
+  
+- **Exiles and Outcasts** Some of you have come to Jhed because there’s nowhere else to go. The world behind you holds **only danger or disgrace**, and the endless snow is the perfect place to disappear.
+  
+- **Adventurers and Survivalists** For you, Jhed is the **ultimate challenge**—a frozen wasteland that will test every skill and instinct you possess. You crave the thrill of survival against impossible odds.
+
+Whatever your reason, you’ve banded together for this journey. The weather, the creatures, and even the very land itself will try to kill you, but together you might just survive.
+
+### The Smuggler's Tunnel: Your First Steps Into Jhed
+
+Your immediate goal is to reach **Netrus** by navigating the **Smuggler's Tunnel**, which starts at **The Witch’s Nip**, a foreboding entrance to an underground path leading into Jhed. Before you can even think about crossing into the frozen continent, you must survive the **two-day journey by boat** from Thieves Key, through treacherous waters and into the heart of **Roc territory**.
+
+The **Roc**, a massive bird that patrols the skies over Jhed, is a constant threat, forcing smugglers to use these dangerous underground routes. Any attempt to travel overland would end in certain death beneath its talons.
+
+From there, the **Smuggler’s Tunnel** will take you into **Netrus**, but it's a long journey through twisting, icy passages. The tunnel itself is not without its dangers, as **monsters, traps, and even the elements** will conspire to make the journey as deadly as possible.
+
+#### Tasks Before You Leave
+
+Before leaving Thieves Key, you need to make final preparations. You’ll have the chance to **purchase supplies**, gather **information**, and meet with key NPCs who may offer assistance—or try to sabotage your efforts.
+
+- **Supplies**: Ensure you have enough food, cold-weather gear, and rations to last several days in freezing conditions. The journey to Netrus is long and treacherous.
+- **Transport**: Secure or steal a sloop to sail to the Witch’s Nip. Don Vras, a seasoned smuggler with a **dark past**, may offer his services as a navigator.
+- **Package**: Don’t forget the **50 lbs package** you’ve been entrusted to deliver. If anything happens to it, your mission will fail.
+- **Information**: Speak with **Brimhest**, **Don Vras**, and others in the Thieves Key. They may offer **clues** about the dangers ahead, or tips on how to survive the journey. Some may even have ulterior motives.
+
+### The Journey Begins
+
+With your supplies packed and your nerves steeled, you prepare to leave Thieves Key. The smuggler’s boat awaits, its dark wood creaking as it sways on the icy water. Your last taste of warmth fades as the cold air of Jhed creeps closer. From here, you’ll travel through the **Smuggler’s Tunnel**, past the **UnderRoc Bridge**, and into the heart of **Netrus**.
+
+Your quest is simple: **deliver the package**, survive the journey, and perhaps uncover the untold riches of the **frozen wilderness** beyond.
+
+But beware—the last courier crew never made it back.
+
+### Arrival at The Witch's Nip
+
+After days at sea, navigating treacherous icy waters and avoiding the sharp gaze of the Roc, the sloop finally sails into a narrow inlet known as **The Witch’s Nip**. The biting cold seems to intensify as the boat glides between the towering, jagged cliffs that guard the cove like the fangs of a giant beast. As the crew secures the sloop to the frost-covered dock, a strange, echoing silence replaces the rhythmic lapping of the waves, broken only by the faint, distant howl of the wind.
+
+Before you lies the entrance to the **Smuggler’s Tunnel**—a gaping, dark maw in the rock face, partially hidden by snow drifts and worn ice sculptures of unknown origin. The passage is lined with makeshift torch holders, though none are lit, casting the entire scene in a blue twilight glow. Deep within, the faint, rhythmic sound of dripping water is the only sign that the tunnel hasn't been abandoned for centuries.
+
+#### The Smuggler's Tunnel
+
+The **Smuggler’s Tunnel** is a lifeline between **Thieves Key** and **Netrus**, cutting through miles of treacherous terrain that would otherwise take weeks to navigate overland. While at first glance the tunnel may seem like a marvel of ancient craftsmanship, closer inspection reveals its more improvised nature. The stonework is uneven, as if hastily carved by many hands over time, with sections reinforced with mismatched materials. Cracks riddle the walls, and patches of ice creep in through the roof. A narrow river of freezing water snakes through the middle of the tunnel, glistening under the sparse light, barely held back by makeshift barriers.
+
+Your journey through the tunnel will be as dangerous as the Roc-haunted skies above. The path ahead is dark, cold, and fraught with hazards—both natural and unnatural.
+
+**The Tunnel’s Features:**
+- The entrance is wide enough for a small boat to enter  and moor, but the river that flows within is more of a sluggish stream than a navigable waterway. It seems to be residual water seeping down from the higher parts of the tunnel.
+- Much of the tunnel has an upward incline, making it more of a trek than a leisurely walk. The party will need to watch their footing, as patches of ice make travel treacherous.
+- Crude, ice-coated railings line parts of the passage, hinting at past traffic, though they are worn and unreliable in many places.
+- The residual water flows slowly but steadily, forming shallow pools and slick surfaces. Sharp rocks and ice floes occasionally jut out, making movement tricky. Any attempts to traverse the tunnel will require **Survival or Dexterity checks** to avoid slipping on the ice or navigating hazardous terrain.
+- As the party ventures deeper, they discover that the tunnel isn’t as simple as a straight path. While the main passage stretches onward, there are occasional forks, offshoots, and side passages. These side tunnels lead into smaller alcoves or dead ends—remnants of old excavation attempts, collapsed tunnels, or secret storage areas from smuggling days gone by. Some forks are clearly marked with old **Thieves' Cant symbols** for those trained in its use.
+
+As the party steps into the tunnel, the cold seems to tighten its grip around them. The sound of their boots crunching on the ice and the muted drip of melting snow echoes off the stone walls. The once-bustling trade route now feels eerily deserted, with only the fading remnants of ancient travel signs offering a hint of what once was.
+
+As you prepare to enter, a single torch flares to life in the darkness—a reminder that **someone or something** may be waiting ahead.
+
+### The First Challenge: The Cold
+
+Before venturing too far into the tunnel, the party must brace themselves for the freezing temperatures. Each character must make a **Constitution Saving Throw (DC 12)** to resist the cold. Those who fail take **1d4 Cold Damage** and gain a level of **Exhaustion** if they fail by 5 or more. Warm clothing or magical protection from the cold can negate this check.
 
 #### Encounter 1a: Boarded Walls
 
 *DM Note*: This encounter is meant as a bypass to "A Wall of Ice" if players explore early or fail to climb up.
 
-Scattered along the path are boarded walls marked with Thieves' Cant. A rogue investigating can be told the result of their roll before destroying the blockade. Each path must be traveled for about 30 minutes before the result happens.
+As the tunnel twists and narrows, the party will come across several makeshift wooden barriers erected by past smugglers and thieves. Each is marked with **Thieves’ Cant**, warning of the dangers ahead. A **Rogue** or anyone who can read the code will recognize the symbols, which indicate traps, potential ambushes, or secret passages hidden behind the walls.
 
-Reference Image: IceCave
+Scattered along the path, **boarded walls** present a challenge: **destroy them and risk traps** or **find another way around**. Some paths behind the walls could be shortcuts, while others may hide deadly hazards. The decision is up to the players.
+
+A rogue investigating can be told the result of their roll before destroying the blockade. Each path must be traveled for about 30 minutes before the result happens.
+
+![Ice Cave](images/IceCave.jpg)
 
 | D6 | Behind Wall |
 |----|-------------|
@@ -87,20 +165,22 @@ Reference Image: IceCave
 | 5  | Split       |
 | 6  | Bypass   |
 
-1. **Too Cold**: The path is long and cold. The party takes 1 Cold Damage.
-2. **Trap**: Investigation Check (DC 10) to notice the trap. Dexterity Save (DC 10) to avoid 1d4 Bludgeoning Damage as the roof caves in, making the path impassable.
-3. **Dead**: A corpse slumped to the ground, wearing scraps (Zombie). The party is surprised if they move towards it.
-4. **Danger Hole**: A half-eaten Kobold lies near a deep hole. Investigation (DC 13): There's water in the hole. It could trigger a Lizardfolk ambush.
-5. **Split**: The path splits in two. Each path requires a new D6 roll and can split again.
-6. **Short Cut**: An hour down the path reveals a shortcut. If the party has already found this, replace it with a "Too Cold" result.
+1. **Too Cold** The path is long and cold. The party takes 1 Cold Damage.
+2. **Trap** Investigation Check (DC 10) to notice the trap. Dexterity Save (DC 10) to avoid 1d4 Bludgeoning Damage as the roof caves in, making the path impassable.
+3. **Dead** A corpse slumped to the ground, wearing scraps (Zombie). The party is surprised if they move towards it.
+4. **Danger Hole** A half-eaten Kobold lies near a deep hole. Investigation (DC 13): There's water in the hole. It could trigger a Lizardfolk ambush.
+5. **Split** The path splits in two. Each path requires a new D6 roll and can split again.
+6. **Short Cut** An hour down the path reveals a shortcut. If the party has already found this, replace it with a "Too Cold" result.
 
 ### Ghost of the Past I
 
-**Trigger**: After the party wakes from their first short rest.
+*DM Note*:  After the party wakes from their first short rest.
 
-**An ethereal form, barely visible through refractions of light in the ice, sits beside your camp. "Will you be any different?" the cavernous wind speaks in old Common.**
+As the party rests for the first time inside the tunnel, something unsettling happens. In the stillness of the frozen caverns, as the campfire flickers and begins to die down, an ethereal form materializes. Barely visible, refracted through the ice walls, it speaks in a voice that is both chilling and mournful:
 
-The form fades away without interacting further.
+**"Will you be any different?"** it asks in **Old Common**, the words echoing in the icy wind. The figure lingers for only a moment before fading into the frozen darkness.
+
+This ghostly figure does not engage the players directly but serves as a haunting reminder that many have come before them—and not all made it out.
 
 #### Encounter 1b: A Wall of Ice
 
@@ -351,11 +431,9 @@ FIGHT: The Lizardfolk will knock the party unconscious and drag them to the figh
 
 Brush with large deep blue "berries" 1d4
 
-Attacked by 1d4 poisonous snake, and 1 giant poisonous snake 
+Attacked by 1d4 poisonous snake, and 1 giant poisonous snake
 
 These berries are important and grow randomly through Jhed
-    
-
 
 **Code of Snow:** Sammul the religious leader of Netrus will explain to the party that though their task is lawful, Jhed is a place of new beginnings and that actions taken before someone has reached Jhed are not held against their character. The village of Netrus will even offer the gold reward of the bounty to ignore it.
 
@@ -374,7 +452,7 @@ These berries are important and grow randomly through Jhed
 
 ### Introduction
 
-**Hook**: While the party is in Netrus, a wandering undead laborer, known as a "volunteer," stumbles into the village, lost and in disrepair. The appearance of this undead worker, typically found only in Dhuren Tol, raises concern among the villagers and curiosity in the party.
+**Hook** While the party is in Netrus, a wandering undead laborer, known as a "volunteer," stumbles into the village, lost and in disrepair. The appearance of this undead worker, typically found only in Dhuren Tol, raises concern among the villagers and curiosity in the party.
 
 ### Act 1: The Lost Volunteer
 
@@ -407,21 +485,21 @@ Beside the text, a rough sketch of an ice sled is drawn, with a specific symbol 
 The piece of equipment is a mechanical cog with an embedded rune. Despite its damaged state, it emits a faint, magical aura.
 
 **Investigation and Deciphering**:
-   - **Intelligence (Investigation) DC 12**: Recognize that the note is partially ciphered.
-   - **Wisdom (Perception) DC 10**: Notice the matching rune symbol on both the note and equipment piece.
+   - **Intelligence (Investigation) DC 12** Recognize that the note is partially ciphered.
+   - **Wisdom (Perception) DC 10** Notice the matching rune symbol on both the note and equipment piece.
    - **Consulting Sammul**:
      - Sammul can assist with the cipher.
-     - **Intelligence (Arcana) DC 15**: Sammul explains that the symbol is an old rune associated with navigation and frost magic.
-   - **Intelligence (History) DC 12**: Recognize references to ancient frost magic and artifacts used in Jhed.
-   - **Intelligence (Investigation) DC 15**: Fully decipher the message in the note.
+     - **Intelligence (Arcana) DC 15** Sammul explains that the symbol is an old rune associated with navigation and frost magic.
+   - **Intelligence (History) DC 12** Recognize references to ancient frost magic and artifacts used in Jhed.
+   - **Intelligence (Investigation) DC 15** Fully decipher the message in the note.
 
 **Deciphered Message**:
    - Indicates that the volunteers are malfunctioning and behaving erratically.
    - Suggests seeking out the Frostfinder, a magical compass, necessary to navigate to Dhuren Tol and find The Frostrunner ice sled.
 
 **After Deciphering**:
-   - **Information**: The deciphered note clearly indicates that the volunteers are failing. The note suggests seeking out the Frostfinder to repair The Frostrunner ice sled.
-   - **Guidance**: The mention of the Frostfinder gives the party a clear objective. They learn that the Frostfinder can be found in a cave infested with ice trolls, led by Gragnar the Frostbite.
+   - **Information** The deciphered note clearly indicates that the volunteers are failing. The note suggests seeking out the Frostfinder to repair The Frostrunner ice sled.
+   - **Guidance** The mention of the Frostfinder gives the party a clear objective. They learn that the Frostfinder can be found in a cave infested with ice trolls, led by Gragnar the Frostbite.
    - **Next Steps**:
      - The party knows they must secure the Frostfinder to navigate effectively and reach Dhuren Tol.
      - The broken equipment piece is a part of The Frostrunner’s navigation system, highlighting the importance of repairing the sled for safe travel.
@@ -446,9 +524,9 @@ The piece of equipment is a mechanical cog with an embedded rune. Despite its da
 
 5. **Preparing the Ice Sled**:
    - Upon finding The Frostrunner, the party needs to prepare it for the journey. Depending on their skills and resources, they can choose to:
-     - **Pull by Dogs**: If they can handle animals and have access to sled dogs.
-     - **Push by Hand**: If they lack animals but have enough strength and manpower.
-     - **Pull by People**: If they prefer to pull it themselves, utilizing their teamwork and endurance.
+     - **Pull by Dogs** If they can handle animals and have access to sled dogs.
+     - **Push by Hand** If they lack animals but have enough strength and manpower.
+     - **Pull by People** If they prefer to pull it themselves, utilizing their teamwork and endurance.
 
 ### Act 3: Journey to Dhuren Tol
 
@@ -472,16 +550,16 @@ The piece of equipment is a mechanical cog with an embedded rune. Despite its da
 
 ### Key NPCs
 
-- **Nick Ugris**: The Hill Giant leader of Netrus, who tasks the party with investigating Dhuren Tol.
-- **Sammul**: The Tortle Runepriest who provides spiritual guidance and helps decipher the clues.
-- **Thoren Coldwind**: A savvy merchant in Netrus who provides crucial information in exchange for a favor.
+- **Nick Ugris** The Hill Giant leader of Netrus, who tasks the party with investigating Dhuren Tol.
+- **Sammul** The Tortle Runepriest who provides spiritual guidance and helps decipher the clues.
+- **Thoren Coldwind** A savvy merchant in Netrus who provides crucial information in exchange for a favor.
 - **Council of Elders**:
-  - **Elder Rurik Stonebeard**: The head of the council, a wise and seasoned miner.
-  - **Elder Thrain Gemcutter**: A master jeweler known for his intricate gem work.
-  - **Elder Hilda Ironfist**: A formidable blacksmith and warrior who defends the village.
-- **Ice Troll Leader**: Gragnar the Frostbite, the menacing leader of the ice trolls in the cave.
-- **Kobold Leader**: Snivvik the Sly, the mischievous kobold who leads the band that stole the artifact.
-- **Ice Sled**: The Frostrunner, a specially designed sled for travel across the icy terrain of Jhed.
+  - **Elder Rurik Stonebeard** The head of the council, a wise and seasoned miner.
+  - **Elder Thrain Gemcutter** A master jeweler known for his intricate gem work.
+  - **Elder Hilda Ironfist** A formidable blacksmith and warrior who defends the village.
+- **Ice Troll Leader** Gragnar the Frostbite, the menacing leader of the ice trolls in the cave.
+- **Kobold Leader** Snivvik the Sly, the mischievous kobold who leads the band that stole the artifact.
+- **Ice Sled** The Frostrunner, a specially designed sled for travel across the icy terrain of Jhed.
 
 
 
