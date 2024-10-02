@@ -64,113 +64,115 @@ Tremors
 Lightning/Thunder
 Magic Conjuration Necromancy Evocation Abjuration Transmutation Divination Enchantment Illusion
 Madness
+Restoration
 
 Ideally weather elements change planning and strategy
 
 ## Weather
 
-| d100 | Category | Effect                 | Save/Type | DC E/S/C | DMG           |
-|------|----------|------------------------|-----------|----------|---------------|
-| 01   | Calm     | Cold                   | N/A       |          |               |
-| 02   | Calm     | Snow                   | N/A       |          |               |
-| 03   | Calm     | Hail                   | N/A       |          |               |
-| 04   | Calm     | Breeze                 | N/A       |          |               |
-| 05   | Calm     | Dispersed Fog          | N/A       |          |               |
-| 06   | Calm     | Rumbling               | N/A       |          |               |
-| 07   | Calm     | Thunder                | N/A       |          |               |
-| 08   | Calm     | Lightning              | N/A       |          |               |
-| 09   | Calm     | Conjuring Snow         | N/A       |          |               |
-| 10   | Calm     | Distant Voices         | N/A       |          |               |
-| 11   | Calm     | Cold I.                | N/A       |          |               |
-| 12   | Calm     | Snow I.                | N/A       |          |               |
-| 13   | Calm     | Hail I.                | N/A       |          |               |
-| 14   | Calm     | Wind I.                | N/A       |          |               |
-| 15   | Calm     | Fog I.                 | N/A       |          |               |
-| 16   | Calm     | Tremors I.             | N/A       |          |               |
-| 17   | Calm     | Lighting I.            | N/A       |          |               |
-| 18   | Calm     | Thunder I.             | N/A       |          |               |
-| 19   | Calm     | Telepathy              | N/A       |          |               |
-| 20   | Calm     | Silver Snow            | N/A       |          |               |
-| 21   | Typical  | Clear Skies            | N/A       |          |               |
-| 22   | Typical  | Hail II.               | Dex       | 10/-     |               |
-| 23   | Typical  | Cold II.               | Con       | 10/-     |               |
-| 24   | Typical  | Snow II.               |           |          |               |
-| 25   | Typical  | Wind II.               | Str       | 10/-     |               |
-| 26   | Typical  | Fog II.                |           |          |               |
-| 27   | Typical  | Tremors II.            | Dex       | -/-/10   |               |
-| 28   | Typical  | Lightning II.          | Dex       | 10/-/7   |               |
-| 29   | Typical  | Thunder II.            | Con       | 10       |               |
-| 30   | Typical  | Golden Snow            |           |          |               |
-| 31   | Typical  | Cold III.              |           |          |               |
-| 32   | Typical  | Snow Wind III.         |           |          |               |
-| 33   | Typical  | Wind Fog III.          | Str       | 10/-/-   |               |
-| 34   | Typical  | Thunder Lightning III. | Con/Dex   | 10/10/-  |               |
-| 35   | Typical  | Enlarge Reduce         | Con       | 10/10/10 |               |
-| 36   | Typical  | Tremors Madness III.   | Con       | 13/10    |               |
-| 37   | Typical  | Acid Snow              | no save   |          | acid          |
-| 38   | Typical  | Fire Hail              | Dex       |          | fire          |
-| 39   | Typical  | Steel Winds            | AC        |          | force         |
-| 40   | Typical  | Poisoned Fog           |           |          | poison        |
-| 41   | Typical  | Radiant Fissures       | Cha       | 10/10    | radiant       |
-| 42   | Typical  | Madness III.           | Wis       | 10/10    | lost supplies |
-| 43   | Typical  | Blizzard               | Str       | 16/10    |               |
-| 44   | Typical  | Blizzard               | Str       | 16/10    |               |
-| 45   | Typical  | Lightning              | Dex       | 13/7     |               |
-| 46   | Typical  | Lightning              | Dex       | 13/7     |               |
-| 47   | Typical  | Lightning              | Dex       | 13/7     |               |
-| 48   | Typical  | Lightning              | Dex       | 13/7     |               |
-| 49   | Typical  | Haunting Whispers      | Wis       | 13/10    |               |
-| 50   | Typical  | Haunting Whispers      | Wis       | 13/10    |               |
-| 51   | Typical  | Haunting Whispers      | Wis       | 13/10    |               |
-| 52   | Typical  | Haunting Whispers      | Wis       | 13/10    |               |
-| 53   | Typical  | Still Silence          |           |          |               |
-| 54   | Typical  | Still Silence          |           |          |               |
-| 55   | Typical  | Still Silence          |           |          |               |
-| 56   | Typical  | Still Silence          |           |          |               |
-| 57   | Typical  | Snow Glyphs            | Int       | 13       |               |
-| 58   | Typical  | Snow Glyphs            | Int       | 13       |               |
-| 59   | Typical  | Snow Glyphs            | Int       | 13       |               |
-| 60   | Typical  | Snow Glyphs            | Int       | 13       |               |
-| 61   | Rough    | Glass Hail             | Dex       | 13       |               |
-| 62   | Rough    | Glass Hail             | Dex       | 13       |               |
-| 63   | Rough    | Glass Hail             | Dex       | 13       |               |
-| 64   | Rough    | Glass Hail             | Dex       | 13       |               |
-| 65   | Rough    | Deafening Winds        | Surv      | 19       |               |
-| 66   | Rough    | Deafening Winds        | Surv      | 19       |               |
-| 67   | Rough    | Deafening Winds        | Surv      | 19       |               |
-| 68   | Rough    | Deafening Winds        | Surv      | 19       |               |
-| 69   | Rough    | Intensity              | Str       | 16/10    |               |
-| 70   | Rough    | Intensity              | Str       | 16/10    |               |
-| 71   | Rough    | Intensity              | Str       | 16/10    |               |
-| 72   | Rough    | Intensity              | Str       | 16/10    |               |
-| 73   | Rough    | Memories               | Cha       | 16       |               |
-| 74   | Rough    | Memories               | Cha       | 16       |               |
-| 75   | Rough    | Memories               | Cha       | 16       |               |
-| 76   | Rough    | Memories               | Cha       | 16       |               |
-| 77   | Rough    | Acid Rain              |           |          |               |
-| 78   | Rough    | Acid Rain              |           |          |               |
-| 79   | Rough    | Acid Rain              |           |          |               |
-| 80   | Rough    | Acid Rain              |           |          |               |
-| 81   | Storm    | Polymorph              |           |          |               |
-| 82   | Storm    | Polymorph              |           |          |               |
-| 83   | Storm    | Polymorph              |           |          |               |
-| 84   | Storm    | Polymorph              |           |          |               |
-| 85   | Storm    | Undead Winds           | Con       | 13       |               |
-| 86   | Storm    | Undead Winds           | Con       | 13       |               |
-| 87   | Storm    | Undead Winds           | Con       | 13       |               |
-| 88   | Storm    | Undead Winds           | Con       | 13       |               |
-| 89   | Storm    | Anti Magic             |           |          |               |
-| 90   | Storm    | Anti Magic             |           |          |               |
-| 91   | Storm    | Anti Magic             |           |          |               |
-| 92   | Storm    | Anti Magic             |           |          |               |
-| 93   | Storm    | Food Rot               | Con       | 16       |               |
-| 94   | Storm    | Food Rot               | Con       | 16       |               |
-| 95   | Storm    | Food Rot               | Con       | 16       |               |
-| 96   | Plot     | Netrus                 |           |          |               |
-| 97   | Plot     | Dhuran Tol             |           |          |               |
-| 98   | Plot     | Oravilla               |           |          |               |
-| 99   | Plot     | Seat of Jhed           |           |          |               |
-| 100  | Wild     | ????                   |           |          |               |
+| d100 | Category | Effect                         | Save/Type | DC E/S/C | DMG           |          |
+|------|----------|--------------------------------|-----------|----------|---------------|----------|
+| 01   | Calm     | Cold                           | N/A       |          |               |          |
+| 02   | Calm     | Snow                           | N/A       |          |               |          |
+| 03   | Calm     | Hail                           | N/A       |          |               |          |
+| 04   | Calm     | Breeze                         | N/A       |          |               |          |
+| 05   | Calm     | Dispersed Fog                  | N/A       |          |               |          |
+| 06   | Calm     | Rumbling                       | N/A       |          |               |          |
+| 07   | Calm     | Thunder                        | N/A       |          |               |          |
+| 08   | Calm     | Lightning                      | N/A       |          |               |          |
+| 09   | Calm     | Conjuring Snow                 | N/A       |          |               |          |
+| 10   | Calm     | Distant Voices                 | N/A       |          |               |          |
+| 11   | Calm     | Cold I.                        | N/A       |          |               |          |
+| 12   | Calm     | Snow I.                        | N/A       |          |               |          |
+| 13   | Calm     | Hail I.                        | N/A       |          |               |          |
+| 14   | Calm     | Wind I.                        | N/A       |          |               |          |
+| 15   | Calm     | Fog I.                         | N/A       |          |               |          |
+| 16   | Calm     | Tremors I.                     | N/A       |          |               |          |
+| 17   | Calm     | Lighting I.                    | N/A       |          |               |          |
+| 18   | Calm     | Thunder I.                     | N/A       |          |               |          |
+| 19   | Calm     | Telepathy                      | N/A       |          |               |          |
+| 20   | Calm     | Silver Snow                    | N/A       |          |               |          |
+| 21   | Typical  | Clear Skies                    | N/A       |          |               |          |
+| 22   | Typical  | Hail II.                       | Dex       | 10/-     |               |          |
+| 23   | Typical  | Cold II.                       | Con       | 10/-     |               |          |
+| 24   | Typical  | Snow II.                       |           |          |               |          |
+| 25   | Typical  | Wind II.                       | Str       | 10/-     |               |          |
+| 26   | Typical  | Fog II.                        |           |          |               |          |
+| 27   | Typical  | Tremors II.                    | Dex       | -/-/10   |               |          |
+| 28   | Typical  | Lightning II.                  | Dex       | 10/-/7   |               |          |
+| 29   | Typical  | Thunder II.                    | Con       | 10       |               |          |
+| 30   | Typical  | Golden Snow                    |           |          |               |          |
+| 31   | Typical  | Cold III.                      |           |          |               |          |
+| 32   | Typical  | Snow Wind III.                 |           |          |               |          |
+| 33   | Typical  | Wind Fog III.                  | Str       | 10/-/-   |               |          |
+| 34   | Typical  | Thunder Lightning III.         | Con/Dex   | 10/10/-  |               |          |
+| 35   | Typical  | Enlarge Reduce**               | Con       | 10/10/10 |               |          |
+| 36   | Typical  | Tremors Madness III.           | Con       | 13/10    |               |          |
+| 37   | Typical  | Acid Snow                      | no save   |          | acid          |          |
+| 38   | Typical  | Fire Hail                      | Dex       |          | fire          |          |
+| 39   | Typical  | Steel Winds                    | AC        |          | force         |          |
+| 40   | Typical  | Poisoned Fog                   |           |          | poison        |          |
+| 41   | Typical  | Radiant Fissures               | Cha       | 10/10    | radiant       |          |
+| 42   | Typical  | Madness III.                   | Wis       | 10/10    | lost supplies |          |
+| 43   | Typical  | Arcane Lock                    |           | 10/10    |               |          |
+| 44   | Typical  | Exhaustion                     | --        | --       | Exhaustion    |          |
+| 45   | Typical  | Drain                          | Str       | 10/--    |               |          |
+| 46   | Typical  | Winds of Time                  | Cha       | 10       | age           |          |
+| 47   | Typical  | Soothing Fog                   | --        | --       | heal          |          |
+| 48   | Typical  | Chaotic Winds                  | Str       | 10/10    |               |          |
+| 49   | Typical  | Still snow                     | Int       | 10/10    |               | movement |
+| 50   | Typical  | Bless/Bane                     | Cha       | 10/10    | buff/debuff   |          |
+| 51   | Typical  | Chaotic Thunder                | --        | --       | --            |          |
+| 52   | Typical  | Haunting Whispers              | Wis       | 13/10    |               |          |
+| 53   | Typical  | Still Silence                  |           |          |               |          |
+| 54   | Typical  | Still Silence                  |           |          |               |          |
+| 55   | Typical  | Still Silence                  |           |          |               |          |
+| 56   | Typical  | Still Silence                  |           |          |               |          |
+| 57   | Typical  | Snow Glyphs                    | Int       | 13       |               |          |
+| 58   | Typical  | Snow Glyphs                    | Int       | 13       |               |          |
+| 59   | Typical  | Snow Glyphs                    | Int       | 13       |               |          |
+| 60   | Typical  | Haste/Slow**                   | Wis       | 10       | buff/debuff   |          |
+| 61   | Rough    | Glass Hail                     | Dex       | 13       |               |          |
+| 62   | Rough    | Glass Hail                     | Dex       | 13       |               |          |
+| 63   | Rough    | Glass Hail                     | Dex       | 13       |               |          |
+| 64   | Rough    | Glass Hail                     | Dex       | 13       |               |          |
+| 65   | Rough    | Deafening Winds                | Surv      | 19       |               |          |
+| 66   | Rough    | Deafening Winds                | Surv      | 19       |               |          |
+| 67   | Rough    | Deafening Winds                | Surv      | 19       |               |          |
+| 68   | Rough    | Deafening Winds                | Surv      | 19       |               |          |
+| 69   | Rough    | Intensity                      | Str       | 16/10    |               |          |
+| 70   | Rough    | Polymorph**                    | Wis       | 13/      |               |          |
+| 71   | Rough    | Intensity                      | Str       | 16/10    |               |          |
+| 72   | Rough    | Intensity                      | Str       | 16/10    |               |          |
+| 73   | Rough    | Memories                       | Cha       | 16       |               |          |
+| 74   | Rough    | Memories                       | Cha       | 16       |               |          |
+| 75   | Rough    | Memories                       | Cha       | 16       |               |          |
+| 76   | Rough    | Memories                       | Cha       | 16       |               |          |
+| 77   | Rough    | Acid Rain                      |           |          |               |          |
+| 78   | Rough    | Acid Rain                      |           |          |               |          |
+| 79   | Rough    | Acid Rain                      |           |          |               |          |
+| 80   | Rough    | Antipathy/Sympathy**       Wis |           |          |               |          |
+| 81   | Rough    | Polymorph                      |           |          |               |          |
+| 82   | Rough    | Polymorph                      |           |          |               |          |
+| 83   | Rough    | Polymorph                      |           |          |               |          |
+| 84   | Rough    | Polymorph                      |           |          |               |          |
+| 85   | Rough    | Undead Winds                   | Con       | 13       |               |          |
+| 86   | Storm    | Undead Winds                   | Con       | 13       |               |          |
+| 87   | Storm    | Undead Winds                   | Con       | 13       |               |          |
+| 88   | Storm    | Undead Winds                   | Con       | 13       |               |          |
+| 89   | Storm    | Anti Magic                     |           |          |               |          |
+| 90   | Storm    | Anti Magic                     |           |          |               |          |
+| 91   | Storm    | Anti Magic                     |           |          |               |          |
+| 92   | Storm    | Anti Magic                     |           |          |               |          |
+| 93   | Storm    | Food Rot                       | Con       | 16       |               |          |
+| 94   | Storm    | Food Rot                       | Con       | 16       |               |          |
+| 95   | Storm    | Food Rot                       | Con       | 16       |               |          |
+| 96   | Wild     | Netrus                         |           |          |               |          |
+| 97   | Wild     | Dhuran Tol                     |           |          |               |          |
+| 98   | Wild     | Oravilla                       |           |          |               |          |
+| 99   | Wild     | Seat of Jhed                   |           |          |               |          |
+| 100  | Wild     | ????                           |           |          |               |          |
+
 
 
 
@@ -297,10 +299,33 @@ Template
 42. **Madness III.**
    - Wisdom Save (DC10) on a fail you must leave behind 15g worth of supplies
 
-25-28. **Cold**: Golden Arcane Snow chaotically drifts through the winds, sparkling to nothing as it touches solid surfaces
-   - **Endure:** 1d6 Cold Damage, Constitution Save (DC 13), on a failed save gain a point of Exhaustion
-   - **Shelter:** 1 Cold Damage, Constitution Save (DC 7), on a failed save gain a point of Exhaustion
-   
+43. **Arcane Lock**: Arcane energies lock all containers.
+   All containers, backpacks, sacs, etc become under the effect of Arcane Lock for 8 hours
+
+44. **Exhaustion**: 
+   - gain a level of exhaustion
+
+45. **Drain**:
+   - **Endure:** Str Save (DC10), on a failed save expend a hit die, if you cannot gain a point of Exhaustion
+
+46. **Winds of Time**: 
+   - Charisma Save (DC10), on a failed save Age +1d4/-1d4 years, all Rations spoil
+
+47. **Soothing Fog**
+   - **Endure:** lightly obscured vision past 150ft, heavily obscured past 300ft, heal 3d4 hit points
+
+48. **Chaotic Winds**
+   - Str Save DC10, on a fail creature cannot fly
+
+49. **Still Snow**
+   - **Endure:** Intelligence Save DC10, on a failed save you "fly" equal to your swim speed as gravity no longer effects you
+
+50. **Bless/Bane**
+   - Charisma Save DC10, on a failed save you gain the effect of Bless or Bane (50/50 chance) for 8 hours
+
+51. **Chaotic Thunder**: 
+   - Cannot concentrate
+
 29-32. **Fog**: The air is thick, almost as walking through ethereal spririts
    - **Endure:** Heavily Obscure past 120ft, Lightly Obscure Past 30ft
    - **Shelter:** Heavily Obscure past 120ft, Lightly Obscure Past 30ft
