@@ -4,7 +4,7 @@
 
 Welcome, brave adventurers, to the Jhed Wastelands! This land stretches endlessly with an expanse of ice, a frozen desert as vast as Antarctica. Here, the cold is your constant companion, and the wind howls with the voices of ancient spirits. The Jhed Wastelands are a realm of stark beauty and hidden peril, where only the strongest survive and the boldest thrive.
 
-![](images/setting.webp)
+![](images/setting.jpg)
 
 Imagine a world where the horizon is an unbroken line of white, where snow and ice dominate the landscape, and the ground beneath your feet is perpetually frozen. Towering glaciers, like ancient titans, loom over the landscape, their jagged peaks piercing the sky. These massive ice formations move imperceptibly, carving out valleys and creating sheer cliffs of ice, constantly reminding you of nature's raw, unyielding power.
 

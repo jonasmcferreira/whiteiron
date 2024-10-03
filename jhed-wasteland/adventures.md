@@ -100,8 +100,6 @@ As the party steps into the tunnel, the cold seems to tighten its grip around th
 
 As you prepare to enter, a single torch flares to life in the darkness—a reminder that **someone or something** may be waiting ahead.
 
-
-
 #### Encounter 1a: Boarded Walls
 
     DM Note: This encounter is meant as a bypass to "A Wall of Ice" if players explore early or fail to climb up.
@@ -112,7 +110,7 @@ Scattered along the path, **boarded walls** present a challenge: **destroy them 
 
 A rogue investigating can be told the result of their roll before destroying the blockade. Each path must be traveled for about 30 minutes before the result happens.
 
-![Ice Cave](images/IceCave.jpg)
+![Ice Cave](images/ice-cave.jpg)
 
 | D6 | Behind Wall |
 |----|-------------|
@@ -145,6 +143,8 @@ This ghostly figure does not engage the players directly but serves as a hauntin
     DM note: quick simple obstacle
 
 The cavern opens wide with chunks of debris stacking up to 15ft slumped along a wall of ice. As if the passage was split by an immense tremor. The top of this wall of jagged ice seems 25ft above the highest pile of debris and a Kobold (two others hidden) can be seen taking interest before running off
+
+![ice wall](images/map-1-ice-wall.jpeg)
 
 1 Piercing Damage to Climb the Wall of Ice represented by the sharp terrain if just using Climb Speed
 
