@@ -89,7 +89,10 @@ The **Smuggler’s Tunnel** is a lifeline between **Thieves Key** and **Netrus**
 
 Your journey through the tunnel will be as dangerous as the Roc-haunted skies above. The path ahead is dark, cold, and fraught with hazards—both natural and unnatural.
 
+![Ice Cave](images/ice-cave.jpg)
+
 **The Tunnel’s Features:**
+
 - The entrance is wide enough for a small boat to enter  and moor, but the river that flows within is more of a sluggish stream than a navigable waterway. It seems to be residual water seeping down from the higher parts of the tunnel.
 - Much of the tunnel has an upward incline, making it more of a trek than a leisurely walk. The party will need to watch their footing, as patches of ice make travel treacherous.
 - Crude, ice-coated railings line parts of the passage, hinting at past traffic, though they are worn and unreliable in many places.
@@ -100,17 +103,18 @@ As the party steps into the tunnel, the cold seems to tighten its grip around th
 
 As you prepare to enter, a single torch flares to life in the darkness—a reminder that **someone or something** may be waiting ahead.
 
-#### Encounter 1a: Boarded Walls
+    DM Note:
+    The journey through the Smuggler's Tunnel doesn’t need to follow a linear path. Tailor the experience based on the party’s composition and decisions. They may navigate primarily through the Boarded Walls or face the Ice Wall.
 
-    DM Note: This encounter is meant as a bypass to "A Wall of Ice" if players explore early or fail to climb up.
+    If the party gets stuck, introduce Kresh and Krew to assist them. The goal is to keep the adventure dynamic and engaging, ensuring that each encounter feels fresh and responsive to their actions.
+
+#### Encounter: Boarded Wall
 
 As the tunnel twists and narrows, the party will come across several makeshift wooden barriers erected by past smugglers and thieves. Each is marked with **Thieves’ Cant**, warning of the dangers ahead. A **Rogue** or anyone who can read the code will recognize the symbols, which indicate traps, potential ambushes, or secret passages hidden behind the walls.
 
 Scattered along the path, **boarded walls** present a challenge: **destroy them and risk traps** or **find another way around**. Some paths behind the walls could be shortcuts, while others may hide deadly hazards. The decision is up to the players.
 
 A rogue investigating can be told the result of their roll before destroying the blockade. Each path must be traveled for about 30 minutes before the result happens.
-
-![Ice Cave](images/ice-cave.jpg)
 
 | D6 | Behind Wall |
 |----|-------------|
@@ -128,7 +132,7 @@ A rogue investigating can be told the result of their roll before destroying the
 5. **Split** The path splits in two. Each path requires a new D6 roll and can split again.
 6. **Short Cut** An hour down the path reveals a shortcut. If the party has already found this, replace it with a "Too Cold" result.
 
-#### Ghost of the Past I
+#### Encounter: Ghost of the Past I
 
     DM Note:  After the party wakes from their first short rest.
 
@@ -138,32 +142,7 @@ As the party rests for the first time inside the tunnel, something unsettling ha
 
 This ghostly figure does not engage the players directly but serves as a haunting reminder that many have come before them—and not all made it out.
 
-#### Encounter 1b: A Wall of Ice
-
-    DM note: quick simple obstacle
-
-The cavern opens wide with chunks of debris stacking up to 15ft slumped along a wall of ice. As if the passage was split by an immense tremor. The top of this wall of jagged ice seems 25ft above the highest pile of debris and a Kobold (two others hidden) can be seen taking interest before running off
-
-![ice wall](images/map-1-ice-wall.jpeg)
-
-1 Piercing Damage to Climb the Wall of Ice represented by the sharp terrain if just using Climb Speed
-
-Athletics Check DC 13 to Climb, with some assistance and no climb speed (climbing gear, rope, pitons)
-
-1d6 Bludgeoning Damage from fall on failed check, 2d6 bludgeoning damage if failed by 10 or more (3). This represents falling at the 10ft point, or 20ft point
-
-You can make this more challenging by making Kobolds hide and shove (or cut rope) characters when they reach the top
-
-| Check         | DC | Result                                        | DC | Result                              |
-|---------------|----|-----------------------------------------------|----|-------------------------------------|
-| Athletics        | 13 | on fail, 1d6 Bludgeoning damage                           | 3 | 2d6 Bludgeoning Damage             |
-| Survival       | 13 | Climbable wall, but will hurt a bit              |    |                                     |
-| Perception    | 16  | Shadows of Kobolds hint they are moving away |  |                                     |
-| Investigation | 13 | Tracks lead back, and go into Boarded Walls (bypass)   |  |  |
-
-#### Encounter 1c: Kresh and Krew
-
-    DM note: Use this option if party is stuck
+#### Encounter: Kresh and Krew
 
 The faint sound of iron against ice echoes before stalagtites above you buckles and breaks. Three hulking Lizardfolk fall from above.  
   
@@ -173,13 +152,36 @@ Kresh and Krew won't stick around to help the party further and dig down to the 
 
 Lizardfolk names should all start with "Kr"
 
-#### Encounter 2: Remnants of the Trade Party
+#### Encounter: A Wall of Ice
+
+    DM note: quick simple obstacle
+
+The cavern opens wide, with chunks of debris stacked up along a wall of ice, as if the passage was split by an immense tremor. The top of this wall of jagged ice stands 25 feet above the highest pile of debris, and a Kobold (with two others hidden) can be seen taking interest before running off.
+
+![ice wall](images/map-1-ice-wall.jpeg)
+
+Characters attempting to climb the wall will take **1 piercing damage** from the sharp terrain if they use their climb speed.
+
+Characters without climb speed will need assistance (climbing gear, rope, or pitons).
+
+You can increase the challenge by having the Kobolds hide and shove (or cut the rope of) characters when they reach the top.
+
+
+
+| Check         | DC | Pass                                        | Fail                              |
+|---------------|----|---------------------------------------------|-----------------------------------|
+| Athletics     | 13 | Climb over the wall                         | 1d6 bludgeoning damage, 2d6 if failed by 10 or more |
+| Survival      | 13 | Learn that the was is climbable wall, but will hurt a bit        |                                   |
+| Perception     | 16 | Shadows of Kobolds hint they are moving away |                                   |
+| Investigation  | 13 | Tracks lead back, and go into Boarded Walls (bypass) |                                   |
+
+#### Encounter : Remnants of the Trade Party
 
 As the main tunnel forks, a Boarded Wall to the left is smashed open with trails of blood leading in both directions
 
-Just a little past the Boarded Wall, tucked in an alcove is a makeshift wooden barrier with a few corpses (6) scattered about wearing tattered clothing of the Outer Empire. They have no weapons, armor or gold, as if picked clean, though it appears something taking large bites from the bodies (something Giant sized and smaller bites too)
+Just a little past the Boarded Wall, tucked in an alcove is a makeshift wooden barrier with a few corpses (6) scattered about wearing tattered clothing of the Outer Empire. They have no weapons, armor or gold, as if picked clean, though it appears something took large bites from the bodies (something Giant sized and smaller bites too)
 
-If the party moves closer or investigates around the bodies 2-4 Zombies will surprise them
+If the party moves closer or investigates around the bodies 2-4 of the bodies will surprise them, Zombies!
 
 **Oniteth Scouter** - Female Goliath (frost) Survivor 
 
@@ -189,7 +191,7 @@ Behind the makeshift wooden barrier and through a crawlspace Oniteth is hidding,
 
 "Apologies and thank you, I hate it but I can't handle the frontline now. I have an important letter for Nick Elder of Netrus it is the only thing I could safeguard"
 
-"I was stationed at UnderRoc searching for this group, something Giant started thrashing me about and I just took where I couldn't be grabbed"
+"I was stationed at UnderRoc searching for this group, something Giant started thrashing me about and I just hid."
 
 | Check         | DC | Result                                        | DC | Result                                        | 
 |---------------|----|-----------------------------------------------|----|-----------------------------------------------|
@@ -198,25 +200,31 @@ Behind the makeshift wooden barrier and through a crawlspace Oniteth is hidding,
 |Investigation  |13 | Boarded Wall was broken from the outside | -- | -- |
 |Medicine  |10 | Oniteth is Exhausted | 13 | Remnants of poison (unknown) powder on the dead   |
 
-**Hostile:** will cast charm person / sleep / gaseous form to escape
+**If party is Hostile to Oniteth:** will cast charm person / sleep / gaseous form to escape
 
-#### Encounter 3a: UnderRoc Tower
+#### Encounter : UnderRoc Tower
 
-    DM Note: A series of 3 combats in one. Stay in initiative order, and if players don't act after 3 rounds, the Kobolds will act. Kobold's in J'hed should always involve traps. Kobold's will always attack to gain pact tactics and retreat when 1 is left
-  
-Charisma Checks Disadvantage if not using Draconic with Kobolds
+    DM Note: A series of 3 combats in one. Stay in initiative order, and if players don't act after 3 rounds, the Kobolds will act (either run attack or bargain). Kobold's in J'hed should always involve traps. Kobold's will always attack to gain pact tactics and retreat when 1 is left
+
+
+Charisma Checks at a Disadvantage if not using Draconic with Kobolds
 
 | Weather | Normal | Lightly Obscure | Heavily Obscure |
 |---------|--------|-----------------|-----------------|
 | Fog     | 60ft   | 60ft+            | ----            |
 
-| Part | Creature | #  | Notes            |
+| Encounter | Creature | #  | Notes            |
 |------|----------|----|------------------|
-| 1    | Kobold   | 4  | Hunters Trap     |
-| 2    | Kobold   | 3+ | Alchemist's Fire |
-| 3    | Kobold   | 6+ | Caltrops         |
+| Outside tower    | Kobold   | 4  | Hunters Trap     |
+| Ground floor    | Kobold   | 3+ | Alchemist's Fire |
+| Top Floor    | Kobold   | 6+ | Caltrops         |
 
-The stone tower to the left is built into the icy cliffs, it appears to be two floors with arrow slits and vantage points. Domed and covered at the top 
+
+The tunnel opens up to a cliff side.
+There is a bridge between two cliffs
+a stone tower is built into the icy cliffs next to the bridge. There is another one at the end of the bridge.
+The tower appears to be two floors with arrow slits and vantage points. Domed and covered at the top.
+The bridge is 600ft long.
 
 **Bridge Entrance** 
 
@@ -231,45 +239,42 @@ Kobolds would rather complete a trade and run away. They search for food, treasu
 | History   | 16   | bridge built by Zeltrim Empire                                 |
 | Investigation   | 13   | Hunters Trap in snow      |
 | **Wis**         | ---- | ----                                                     |
-| Insight         | 10   | Kobolds seem ready to move                               |
-| Perception      | 10   | Kobolds speaking Draconic, waiting for Aspirant's orders |
+| Insight         | 10   | Kobolds seem ready to act                               |
+| Perception      | 10   | Kobolds speaking Draconic, waiting for a Kobold Aspirant's orders |
 | **Cha**         | ---- | ----                                                     |
 | Intimidation    | 13   | Kobolds retreat into keep                                |
 | Persuasion      | 10   | trade for passage**                                      |
 
+    DM Note: If you guide the characters or if they prefer to avoid combat, then there is a cost involved. They must trade at a loss.
 
-**Trade:** Trade 1 Quest Crate, and one of the following, 
+**Trade:** The Kobolds are very demanding and when they see you carrying the crates, they become very interested if you wish you can trade for passage **1 Quest Crate**, and one of the following: all your rations, all your coins, or all your weapons. Kobolds don't have the patience to do numbers so they only like to trade in all or nothing values.
 
-    all rations 
-    all coins 
-    all weapons 
+**Combat:**
 
-**Combat:** 
+First player to move triggers a Hunters Trap  
+If Kobolds are killed before they act, group Stealth DC13 and other Kobolds not alerted. (refer to group checks in the PHB 2014)
+If Kobolds alerted, 18 seconds after combat (3 rounds) D4 Javelins thrown from top of tower from upper level 3 Kobolds
 
-    First player to move triggers a Hunters Trap  
-    If Kobolds killed before they act, group Stealth DC13 and other Kobolds not alerted
-    If Kobolds alerted, 18 seconds after combat D4 Javalins thrown from top of tower from Part3 Kobolds
-    
-    
-**Tower Ground I Floor**     
+**Tower Ground Floor**
 
-Alchemist's Fire drops on first person to walk through door, can cause panick combat
+Alchemist's Fire drops on first person to walk through door, can cause panic combat
 
 **Combat:** if alerted
 
-    3 Kobolds + part 1 remaining, hide in crates. Surprise attack once, then run to top floor
-    Alchemist's Fire drops on first person to walk through door
+3 Kobolds + part 1 remaining, hide in crates. Surprise attack once, then run to top floor
+Alchemist's Fire drops on first person to walk through door
     
 **Non Combat:**
 
-    Party can be permitted to lower tower floor and stairs, but opening top floor leads to combat
-    Crawl space behind looted shelf
+Party can be permitted to lower tower floor and stairs, but opening top floor leads to combat
+Crawl space behind looted shelf
 
 **Crawl Space:**
 
     dead guard - Outer Empire clothing, (chain shirt), two notes, 7gp, 14sp, 98cp
     note one - Yalna I told you I was coming home soon I know I could have done better wish I wasn't such a coward in these moments but I am trying
     note two - Captain Faotil has locked in his chamber for weeks, a delivery came for him and he hasn't left. Scouts report sightings of lurking creatures encroaching the pass - no confirmations. The undead have increased in forces, we have requested aid. Everyone is on edge.
+
 
 | Check           | DC   | Result                                                   |
 |-----------------|------|----------------------------------------------------------|
@@ -286,34 +291,14 @@ Alchemist's Fire drops on first person to walk through door, can cause panick co
 | Intimidation    | 13   | Kobolds retreat into keep                                |
 | Persuasion      | 10   | trade for passage**                                      |
 
-**Stairs Captains Quarter** 
 
-**Part 4** 
-    
-**Another Route Two:**
-    Investigation Check High (Autopass if Thieves Cant): a tunnel enough to crawl and move crates seems to snake its way near the bridge but it is not large enough for the caravan or rams. Proceed to Underpass
-    
-**Fight:**
+**Officer Quarters:**
 
-    three Kobolds will jump from crates and attack (count as prone)
-    extra Kobolds will be halfway up stairs, all will move to run to top of tower
-    Initiative Count 10: surprise trap, Dexterity Save DC 8, 1d4 piercing damage
-    retreat quickly when 1 remains
-    
-**Tower Top:** 6 Kobolds, 1 Kobold Aspirant (+ Entrance Tower)
+(puzzle)
 
-    Stealth High (autofail if alerted): will see 6+ Kobolds ready to escape
+An intricate inverted triangular closed stone door, about 9ft tall. There is no consistent pattern upon the frame or door, but a stone brazier is carved into it.
 
-**Fight:**
-    Kobolds will all throw javalin at players for action before swinging down drop to escape
-    They will cut any extra lines
-    Can keep a few Kobolds behind for a fight
-
-**Officer Quarter (puzzle):**
-
-An intricate inverted triangular closed door, about 9ft tall. There is no consistent pattern upon the frame or door, but stone brazier carved into it.
-
-Casting a cantrip within 30ft of the door causes it the fail but the door glow as the casters feels the energy of the spell drawn to it. Brandishing a magic item will have a similar effect but not remove the magical properties of the item
+Casting a cantrip within 30ft of the door fails but the door glows as the casters feels the energy of the spell drawn to it. Brandishing a magic item will have a similar effect but not remove the magical properties of the item
 
 | Check         | DC | Result                                        | DC | Result                              |
 |---------------|----|-----------------------------------------------|----|-------------------------------------|
@@ -334,15 +319,30 @@ Setting off Ward: All creatures within 30ft of the door Intelligence Save DC13, 
 
 With a plume of red smoke the arcane lock is opened and the door will remain open for 1 hour (even if forced open)
 
-#### Encounter 2b: Underpass
 
-Squeezing through a tight corridor leads underneath the UnderRoc bridge revealing a hidden yet very intentional passage through the middle that can be crawled through. The stonework can be almost too clean
+**Tower Top:** 
+
+6 Kobolds, 1 Kobold Aspirant (+ kobolds that fled here)
+
+Stealth High (autofail if alerted): will see 6+ Kobolds ready to escape
+
+**Fight:**
+Kobolds will all throw javalin at players for action before swinging down drop to escape
+They will cut any extra lines
+Can keep a few Kobolds behind for a fight
+
+**Another Route :**
+Investigation Check High (Autopass if Thieves Cant): a tunnel big enough to crawl and move crates seems to snake its way near the bridge but it is not large enough for a wagon. Proceed to Underpass
+
+#### Encounter: Underpass
+
+Squeezing through a tight corridor leads underneath the UnderRoc bridge revealing a hidden yet very intentional passage through the middle that can be crawled through. The stonework can be almost too clean.
 
 Investigation Check DC13: The stonework seems to be washed by acid
 
 Grey Ooze: moving along the corridor is a grey ooze, a still oil slick patch of wet stone and will attack when the party crosses. 
 
-Attack the highest hitpoint target as the ooze 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack the who is leading the party
+    DM Note: Attack the highest hitpoint target as the ooze does 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack the who is leading the party
 
 #### Encounter 3: Pass 
 
