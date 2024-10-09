@@ -146,29 +146,69 @@ Though Lawful the code of the snow makes them unliked. All contracts are dead or
 
 ### Dizrim
 
-Confirms the corpse or person with a combination of Speak with Dead, or Zone of Truth. He just wants justice to be served and even though is unliked without Jhed, tries but fails to be part of the community.
+Confirms the corpse or person with Zone of Truth. He just wants justice to be served and even though is unliked without Jhed, tries but fails to be part of the community.
 
 300gp for fake bounty
 
-Services: Speak with Dead 300g, or Zone of Truth 200g
+Services: Zone of Truth 200gps
+
+**Wanted Dead or Alive**: Generic value 100gps dead, 200gps alive per 1CR of target. Value listed is dead
 
 ### Plot
 
 If the party doesn't choose to be a bounty hunter, a rival party will. There is always active bounties, a considerable number of them are already dead, and just need to be collected and confirmed
 
-### Wanted Dead or Alive
+### Pablis Miner 100gps - female duergar
 
-Gregor Smith, human male - murder of town guard and his family (Werewolf)
-Ezilya Writter, elf female - stolen goods from Capital Academy (Great Works, found dead)
-Pablis Miner, dwarf female - slander against House Brenna Shortbeard (in Netrus)  
+    crime: slander against Brenna of House Shortbeard accused Brenna of assisting the Thief Kings
 
-#### Og-SkullEater
+    After how the Outer Region treats Duergar, she would kill any Shortbeard she comes across
 
-2,000gps Alive 1,000gps Dead 
+    Hunting Party 2 (orc,human) will protect Pablis
 
-For the murder of 7 residents of Southpost, stealing a vessel and assumidly eating the crew
+    Bane: Netrus will need another hunting team to maintain supplies
 
-Last spotted West in the Flat Dunes
+    Bane: If denizens of Netrus suspect the party killed Pablis, they will no longer offer free services
+
+    Boon: Southport will send a shipment, and can make supplies available in Netrus
+
+
+### Gregor "The Immortal" 300gps, human male -  (Werewolf)
+
+    crime: murder of town guard and his family
+
+    Boastful jerk, not evenliked in Werefolk, but they stick together
+
+    Bane: More difficult to ally with Werefolk 
+
+    Boon: Can teach Netrus how to deal with Werefolk, and bring in a Silversmith from Southport
+
+
+
+### Ezilya Writter, elf female - stolen goods from Capital Academy (Great Works, found dead)
+
+
+### Og-SkullEater 200gps, Ogre 
+
+    crime: For the murder of 7 residents of Southpost, stealing a vessel and assumidly eating the crew
+
+    Adjustments: Og-SkullEater (at will) cast Reduce as a Bonus Action (Con Save DC10) 
+
+    Last spotted North West in the flats
+
+    Boon: Southport learns of your reputation
+
+#### SkullEater Cave
+
+    A cavern filled with a light fog, the stench of flesh
+    
+    Cave entrance, two rooms and a lower level where Og-SkullEater ambushes his prey
+
+    Grey Ooze with SkullEater
+
+    Og-SkullEater will be chatting, but it will appear as if talking to himself complaining that he can't keep all the things, because something bigger wants them. He is talking to Oniteth that uses a combination of invisibility and or gaseous form to leave the cave undetected. Alternatively consider having Oniteth there as a prisoner that needs to be saved
+
+    Loot: Small Quartz Steel shard, 1d100 copper, 1d100 silver, 1d100 gold
 
 ## Artisans of the Great Works
 
@@ -251,6 +291,7 @@ Og - DripEye
 
 #### Ograllion 
 
+## Kobolds
 
 
 
