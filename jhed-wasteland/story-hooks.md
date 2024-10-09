@@ -1,6 +1,20 @@
 # Story Hooks
 # Mysteries
 
+## To Netrus
+
+## Lvl 2
+
+### Wanted - Og-SkullEater
+
+    Find a SkySilver
+
+    Sled
+
+    Learn that Og-SkullEater was instructed to find magic items
+
+    Yes there is a plot against Netrus
+
 ## Netrus - Village
 
 Inside Netrus, everyone is friendly and helpful; charmed to each other in Netrus
