@@ -156,56 +156,55 @@ Lizardfolk names should all start with "Kr"
 
     DM note: quick simple obstacle
 
-The cavern opens wide, with chunks of debris stacked up along a wall of ice, as if the passage was split by an immense tremor. The top of this wall of jagged ice stands 25 feet above the highest pile of debris, and a Kobold (with two others hidden) can be seen taking interest before running off.
+As the party ventures deeper into the Smuggler’s Tunnel, the cavern opens wide, revealing a formidable wall of ice that blocks the way forward. Chunks of debris are haphazardly stacked, remnants of a violent tremor that once split the passage. The jagged ice wall looms 25 feet above the highest pile of debris, and a shadowy figure—a Kobold—can be glimpsed at the top, briefly taking interest before darting away, leaving a sense of foreboding in its wake.
+
 
 ![ice wall](images/map-1-ice-wall.jpeg)
 
-Characters attempting to climb the wall will take **1 piercing damage** from the sharp terrain if they use their climb speed.
+Characters attempting to climb the wall will suffer 1 piercing damage from the sharp terrain if they use their climb speed. Those without a climb speed will require assistance (e.g., climbing gear, rope, or pitons).
 
-Characters without climb speed will need assistance (climbing gear, rope, or pitons).
-
-You can increase the challenge by having the Kobolds hide and shove (or cut the rope of) characters when they reach the top.
-
-
+You may increase the challenge by having the Kobolds use the opportunity to ambush the party, hiding in the shadows and potentially shoving characters or cutting ropes when they reach the top.
 
 | Check         | DC | Pass                                        | Fail                              |
 |---------------|----|---------------------------------------------|-----------------------------------|
 | Athletics     | 13 | Climb over the wall                         | 1d6 bludgeoning damage, 2d6 if failed by 10 or more |
-| Survival      | 13 | Learn that the was is climbable wall, but will hurt a bit        |                                   |
+| Survival      | 13 | Learn that the wall is climbable, but will hurt a bit |                                   |
 | Perception     | 16 | Shadows of Kobolds hint they are moving away |                                   |
-| Investigation  | 13 | Tracks lead back, and go into Boarded Walls (bypass) |                                   |
+| Investigation  | 13 | Tracks lead back into the Boarded Walls (bypass) |                                   |
 
 #### Encounter : Remnants of the Trade Party
 
-As the main tunnel forks, a Boarded Wall to the left is smashed open with trails of blood leading in both directions
+As the main tunnel forks, a **Boarded Wall** to the left has been smashed open, and trails of blood lead in both directions, hinting at recent violence. 
 
-Just a little past the Boarded Wall, tucked in an alcove is a makeshift wooden barrier with a few corpses (6) scattered about wearing tattered clothing of the Outer Empire. They have no weapons, armor or gold, as if picked clean, though it appears something took large bites from the bodies (something Giant sized and smaller bites too)
+Just past the boarded wall, tucked in an alcove, lies a makeshift wooden barrier behind which a few corpses (six in total) are scattered about. They wear the tattered clothing of the **Outer Empire**, but they are devoid of weapons, armor, or gold, as if they were picked clean. Something large has taken bites from the bodies, with evidence of both giant-sized and smaller bites.
 
-If the party moves closer or investigates around the bodies 2-4 of the bodies will surprise them, Zombies!
+**Surprise Encounter**:  If the party moves closer or investigates around the bodies, **2-4** of the corpses will suddenly rise as **Zombies**, surprising the party and adding a sense of urgency to the encounter.
 
-**Oniteth Scouter** - Female Goliath (frost) Survivor 
+**Oniteth the Scouter**: Female Goliath (frost) Survivor.
 
     DM note: avoid giving another NPC a glaive
 
-Behind the makeshift wooden barrier and through a crawlspace Oniteth is hidding, and will make his presence known calling for help. Oniteth is gaunt looking as if close to death, shaking while gripping his glaive (he will not give it up). Oniteth wears the garment of the Outer Empire
+Among the chaos, hiding behind the makeshift wooden barrier and through a crawlspace, **Oniteth**, a female Goliath survivor, is trembling with fear. She looks gaunt and close to death, shaking while gripping her glaive tightly (she will not give it up). Oniteth wears the garments of the **Outer Empire** and appears visibly shaken.
 
-"Apologies and thank you, I hate it but I can't handle the frontline now. I have an important letter for Nick Elder of Netrus it is the only thing I could safeguard"
+**Dialogue:**
+> "Apologies, and thank you! I hate it, but I can't handle the frontline now. I have an important letter for Nick Elder of Netrus; it's the only thing I could safeguard."
+>
+> "I was stationed at UnderRoc searching for this group when something giant started thrashing about, and I just hid."
 
-"I was stationed at UnderRoc searching for this group, something Giant started thrashing me about and I just hid."
+| Check          | DC | Pass                                           |
+|----------------|----|------------------------------------------------|
+| Survival       | 10 | Easily fortified area for a Short Rest        |
+| Insight        | 10  | She's in shock and trying to survive          |
+| Insight        | 19 | She is hiding something                        |
+| Investigation   | 13 | The Boarded Wall was broken from the outside  |
+| Medicine       | 10 | Oniteth is Exhausted                          |
+| Medicine       | 13 | Remnants of poison (unknown) powder on the dead |
 
-| Check         | DC | Result                                        | DC | Result                                        | 
-|---------------|----|-----------------------------------------------|----|-----------------------------------------------|
-|Survival |10 | easily fortified for a Short Rest| --| --|
-|Insight  |-- | she's in shock and trying to survive | 19 | she is hidding something |
-|Investigation  |13 | Boarded Wall was broken from the outside | -- | -- |
-|Medicine  |10 | Oniteth is Exhausted | 13 | Remnants of poison (unknown) powder on the dead   |
-
-**If party is Hostile to Oniteth:** will cast charm person / sleep / gaseous form to escape
+**If party is Hostile to Oniteth:** If the party shows hostility towards her, Oniteth will cast **Charm Person**, **Sleep**, or **Gaseous Form** to escape, trying to protect herself in her vulnerable state.
 
 #### Encounter : UnderRoc Tower
 
     DM Note: A series of 3 combats in one. Stay in initiative order, and if players don't act after 3 rounds, the Kobolds will act (either run attack or bargain). Kobold's in J'hed should always involve traps. Kobold's will always attack to gain pact tactics and retreat when 1 is left
-
 
 Charisma Checks at a Disadvantage if not using Draconic with Kobolds
 
@@ -219,29 +218,24 @@ Charisma Checks at a Disadvantage if not using Draconic with Kobolds
 | Ground floor    | Kobold   | 3+ | Alchemist's Fire |
 | Top Floor    | Kobold   | 6+ | Caltrops         |
 
-
 The tunnel opens up to a cliff side.
 There is a bridge between two cliffs
 a stone tower is built into the icy cliffs next to the bridge. There is another one at the end of the bridge.
 The tower appears to be two floors with arrow slits and vantage points. Domed and covered at the top.
 The bridge is 600ft long.
 
-**Bridge Entrance** 
+**Bridge Entrance**
 
 Kobolds would rather complete a trade and run away. They search for food, treasures and dragons
 
 | Check           | DC   | Result                                                   |
 |-----------------|------|----------------------------------------------------------|
-| **Dex**         | ---- | ----                                                     |
 | Sleight of Hand | 13   | disarm Hunter Trap if noticed                            |
 | Stealth         | 7    | party backs away to find another path                    |
-| **Int**         | ---- | ----                                                     |
 | History   | 16   | bridge built by Zeltrim Empire                                 |
 | Investigation   | 13   | Hunters Trap in snow      |
-| **Wis**         | ---- | ----                                                     |
 | Insight         | 10   | Kobolds seem ready to act                               |
 | Perception      | 10   | Kobolds speaking Draconic, waiting for a Kobold Aspirant's orders |
-| **Cha**         | ---- | ----                                                     |
 | Intimidation    | 13   | Kobolds retreat into keep                                |
 | Persuasion      | 10   | trade for passage**                                      |
 
