@@ -36,6 +36,8 @@ Call of adventure - a large sum of gold
 
 The Great Works - everyone else has failed, but I need to know the secrets
 
+Agent or Member of House Shortbeard (dwarf) - Pablis Miner has acted against House Shortbeard and illuded capture by journeying to J'hed, find her and cut out her tongue 
+
 ### Motive (a reason to adventure in Jhed as a party)
 Treasure of the missing Kings
 

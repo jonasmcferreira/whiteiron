@@ -705,8 +705,25 @@ Only refer to Lesser, Greater or Equal, very spiritual
 
     Needs food
 
-### First Encounter
-    Hidden caves in cliffs, Kobold Aspirant
+### First Encounter: Dragon(ish) Tomb (Encora KingsGuard)
+
+    Ruins recently uncovered due to earthquakes and tremors that a team from Netrus was planning to explore
+
+    Kobolds have been slowly exploring as they sense a presence of a Dragon, another group but haven't returned
+
+    Traps, Zombies Skeletons, Grey Ooze(2)  
+
+    Puzzles - symbols to open doors
+
+    Room1: hidden corridor (thieves cant), drawing on the door gets you through "Craft your own path Travellers". Corridor is filled with skeletons
+
+    Hints of Twin Kings
+
+    Dragonborn Tomb -
+
+    Loot - 1 scroll, 1 weapon, 1 armour
+
+    Fluff - I'm sorry to have failed you, you served Loyally till the end
 
 ### 2nd Encounter: Dragon Ruins
     Kobolds want players to investigate the caves they have found, certain it contains dragons. But no kobolds have returned, so if the party will secure it for them, they will offer a place in the cliffs for a Long Rest (7 days) and lead them to the entrance. They can even have a Kobold guide for assistance (normal kobold)

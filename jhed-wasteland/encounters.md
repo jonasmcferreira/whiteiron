@@ -47,6 +47,42 @@ Fighting: an opportunity to save a liked NPC, introduce another conflict, or wai
 | 38   | Mad Wanderer               | -  | --                  |
 | 39   | Faerie Dragon              | -  | Kobold              |
 | 40   | Wounded Wyvern             | -  | Kobold/Vez'yen      |
+| 41   | Treant                     | -  | Scaleplum           |
+| 42   | Scaleplum                  | -  | Scaleplum           |
+| 43   | Netrus Hunting Party 1     | -  | Scaleplum           |
+| 44   | Pablis and Hunting Party   | -  | WANTED              |
+| 45   | Gregor "The Immortal"      | -  | Werefolk            |
+| 46   | The Tax Collector          | -  | Werefolk            |
+| 47   | Kobold Aspirant            | -  | -                   |
+
+
+### 47 Kobold Aspirant
+
+### 46 The Tax Collector
+
+    Rakshasa looking like a Leonin, just wants a tribute of taxes to the Seat of J'hed
+
+    Fight: will just hit one and leave
+
+### 45 Gregor "The Immortal"
+
+    If the party doesn't have Silvered Weapons, Gregor will just knock a few unconscious and leave. He indulges in tormenting rather than killing
+
+### 43 Netrus Hunting Party 1
+
+    They can assist retuning to Netrus or you can assist with a Hunt
+
+### 44 Pablis and Hunting Party
+
+    Wanted
+
+### 42 Scaleplum
+
+    Scaleplum plant with 1d4 fruit
+
+### 41 Treant
+
+    Fungal Treant wandering looking for Scaleplums
 
 
 ### 40 Wounded Wyvern

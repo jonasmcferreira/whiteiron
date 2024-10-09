@@ -35,7 +35,7 @@ The first building in Netrus is 30ft high wooden watchtower. Three guards rotati
 
 ### Cliffs
 
-### Docks
+### Docks (abandoned)
 
 ## Resources
 
@@ -51,27 +51,32 @@ Language - common
 
 | stat          | name              | notes                            |
 |---------------|-------------------|----------------------------------|
-| stone giant** | Nick Elder        | vilage elder                     |
-| custom        | Sammul            | runepriest                       |
-| hag           | Ulga              | cooker / potion brewer           |
-| hag           | Elga              | cooker / potion brewer           |
-| hag           | Ylga              | cooker / potion brewer           |
-| stat          | Dizrim Headhunter | Bounty Hunter                    |
-| stat          | Mallun BlackAle   | Weapon Collector / General Goods |
-| stat          | name              | notes                            |
-| stat          | watch party 1     | notes                            |
-| stat          | watch party 1     | notes                            |
-| stat          | watch party 2     | notes                            |
-| stat          | watch party 2     | notes (wanted)                   |
-| stat          | animal husbandry  | notes                            |
-| stat          | animal husbandry  | notes                            |
-| stat          | hunting party 1   | notes                            |
-| stat          | hunting party 1   | notes                            |
-| stat          | hunting party 1   | notes                            |
-| stat          | hunting party 2   | notes                            |
-| stat          | hunting party 2   | notes                            |
-| stat          | hunting party 2   | notes                            |
+| stone giant** | Nick Elder            | vilage elder                     |
+| custom        | Sammul                | runepriest                       |
+| hag           | Ulga                  | cooker / potion brewer           |
+| hag           | Elga                  | cooker / potion brewer           |
+| hag           | Ylga                  | cooker / potion brewer           |
+| stat          | Dizrim Headhunter     | Bounty Hunter                    |
+| stat          | Mallun BlackAle       | Weapon Collector / General Goods |
+| stat          | name                  | notes                            |
+| stat          | watch party 1         | aasimar**                        |
+| stat          | watch party 1         | wood elf**                       |
+| stat          | watch party 2         | Orc**                            |
+| stat          | watch party 2         | Tiefling                         |
+| stat          | animal husbandry      | Dragonborn**                          |
+| stat          | animal husbandry      | halfing**                        |
+| stat          | hunting party 1       | goliath**                        |
+| stat          | hunting party 1       | human**                          |
+| stat          | hunting party 1       | orc**                            |
+| dwarf         | Pablis Miner(dwarf - Duergar) | WANTED hunting party 2   |
+| stat          | hunting party 2       | goliath**                        |
+| stat          | hunting party 2       | human**                          |
+| stat          | backstory tie in      | --                               |
+| oni           | Oniteth               | "adventure's inc"                |
+| Werewolf      | Gregor(human) "The Immortal" |  WANTED                          |
 
+
+    **suggested
 
 ### "Nick" Ugris, Head of Netrus
 
@@ -128,15 +133,24 @@ The runes around the town are Explosive Glyphs crafted by Sammul, and he makes a
 **Madness**: Sammul's friendly demeanor is a fault of a madness, if removed he will revert back to a cultist
 
 
-### Dizrim Headhunter
+### Dizrim Headhunter (Bounty Hunter - Outer Regions)
 
 **Stats**: veteran, **Language**: common,gnome  **Goal**: Collect Bounties, **Weakness**: Wants friendship, lonely
 
-Socially outcast due to the nature of the Code of Snow, but is dutiful in the works with Southpost. Dead or Alive bounties are plentiful, though most dead. Dizrim's hut is just outside Netrus proper and most parties spit past her home as they head out. Dizrim is lonely and will do many things to gain friendship, but she will abide her work
+    Socially outcast due to the nature of the Code of Snow, but is dutiful in the works with Southpost. Dead or Alive bounties are plentiful, though most dead. Dizrim's hut is just outside Netrus proper and most parties spit past her home as they head out. Dizrim is lonely and will do many things to gain friendship, but she will abide her work
+
+**Quests** see independent factions
 
 ### Mallun BlackAle
 
 **Stats**: veteran, **Language**: common,dwarf  **Goal**: Collect weapons, **Weakness**: gambler
+
+
+### Oniteth "Adventurer's Inc."
+
+Should look like a Southport guard
+
+**Stats**: Oni, **Language**: common,giant  **Goal**: hunting for fun, **Weakness**: 
 
 ### Founding Reasons
 
@@ -198,10 +212,10 @@ Underneath Netrus is a small arcane chamber with an Ancient Relic. The glyphs an
 
 ## Class Clues - long rest activities (7 days)
 
-Barbarian
+Barbarian - Fighter
 Bard
 
-### Cleric
+### Cleric // Paladin
 Bolstering faith - attempt to convert someone to your faith 
 
 Guidance - assist Sammul and gain a rumor
@@ -209,9 +223,9 @@ Guidance - assist Sammul and gain a rumor
 ### Druid
 Druidcraft - there is something trying to grow here, I don't know if it should
 
-Fighter
+
 Monk
-Paladin
+
 Ranger
 
 ### Rogue
@@ -219,12 +233,12 @@ Thieves Cant - Seek Vez'yen
 
 Buried treasure rumors
 
-Sorcerer
+
 Warlock
 
 
-### Wizard
-Great Works - grains of sand imbued with innate magical energies scattered about
+### Wizard - Sorcerer
+Great Works - flecks of crystal imbued with innate magical energies scattered about
 
 Assist Nick with Glyphs
 
@@ -242,3 +256,24 @@ Pool of important liquid
 
 ### Arcane Chamber
 Source of Charm
+
+
+## Events
+
+    Dead Villager - Netrus is shrinking and they need more denizens, good to tie in with Oniteth's Aventuring group so she comes across as incompetent
+
+    "Volunteers" - arrive
+
+    Rakshasa taxcollector - brawl
+
+
+## Siege of Netrus
+  
+    Nick Elder believes there will be a takeover of Netrus and wishes to bolster the defenses. Suggesting to chat with the giants and other kin around to see who will join the ranks to defend against the assault. Netrus is a desired location regardless of it's seemingly unimpressive value, and the party will either sway allies to help or create new enemies to assist the Siege; the real treasure is the Arcane Chamber beneath
+
+
+    There is no set time for this attack, but it should happen when players are level 4, the siege should happen over 4 days and players should be rewarded for organizing and suggesting styles of defenses: walls/trenches, pallicades, extra forces
+
+    The players could also betray netrus, learning of the Arcane Chamber and using it to their own ends
+
+
