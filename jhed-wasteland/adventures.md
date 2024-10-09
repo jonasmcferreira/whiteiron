@@ -100,6 +100,8 @@ As the party steps into the tunnel, the cold seems to tighten its grip around th
 
 As you prepare to enter, a single torch flares to life in the darkness—a reminder that **someone or something** may be waiting ahead.
 
+
+
 #### Encounter 1a: Boarded Walls
 
     DM Note: This encounter is meant as a bypass to "A Wall of Ice" if players explore early or fail to climb up.
@@ -110,7 +112,7 @@ Scattered along the path, **boarded walls** present a challenge: **destroy them 
 
 A rogue investigating can be told the result of their roll before destroying the blockade. Each path must be traveled for about 30 minutes before the result happens.
 
-![Ice Cave](images/ice-cave.jpg)
+![Ice Cave](images/IceCave.jpg)
 
 | D6 | Behind Wall |
 |----|-------------|
@@ -143,8 +145,6 @@ This ghostly figure does not engage the players directly but serves as a hauntin
     DM note: quick simple obstacle
 
 The cavern opens wide with chunks of debris stacking up to 15ft slumped along a wall of ice. As if the passage was split by an immense tremor. The top of this wall of jagged ice seems 25ft above the highest pile of debris and a Kobold (two others hidden) can be seen taking interest before running off
-
-![ice wall](images/map-1-ice-wall.jpeg)
 
 1 Piercing Damage to Climb the Wall of Ice represented by the sharp terrain if just using Climb Speed
 
@@ -705,8 +705,25 @@ Only refer to Lesser, Greater or Equal, very spiritual
 
     Needs food
 
-### First Encounter
-    Hidden caves in cliffs, Kobold Aspirant
+### First Encounter: Dragon(ish) Tomb (Encora KingsGuard)
+
+    Ruins recently uncovered due to earthquakes and tremors that a team from Netrus was planning to explore
+
+    Kobolds have been slowly exploring as they sense a presence of a Dragon, another group but haven't returned
+
+    Traps, Zombies Skeletons, Grey Ooze(2)  
+
+    Puzzles - symbols to open doors
+
+    Room1: hidden corridor (thieves cant), drawing on the door gets you through "Craft your own path Travellers". Corridor is filled with skeletons
+
+    Hints of Twin Kings
+
+    Dragonborn Tomb -
+
+    Loot - 1 scroll, 1 weapon, 1 armour
+
+    Fluff - I'm sorry to have failed you, you served Loyally till the end
 
 ### 2nd Encounter: Dragon Ruins
     Kobolds want players to investigate the caves they have found, certain it contains dragons. But no kobolds have returned, so if the party will secure it for them, they will offer a place in the cliffs for a Long Rest (7 days) and lead them to the entrance. They can even have a Kobold guide for assistance (normal kobold)
