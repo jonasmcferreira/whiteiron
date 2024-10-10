@@ -103,7 +103,7 @@ As the party steps into the tunnel, the cold seems to tighten its grip around th
 
 As you prepare to enter, a single torch flares to life in the darkness—a reminder that **someone or something** may be waiting ahead.
 
-    DM Note:
+>    DM Note:
     The journey through the Smuggler's Tunnel doesn’t need to follow a linear path. Tailor the experience based on the party’s composition and decisions. They may navigate primarily through the Boarded Walls or face the Ice Wall.
 
     If the party gets stuck, introduce Kresh and Krew to assist them. The goal is to keep the adventure dynamic and engaging, ensuring that each encounter feels fresh and responsive to their actions.
@@ -134,7 +134,7 @@ A rogue investigating can be told the result of their roll before destroying the
 
 #### Encounter: Ghost of the Past I
 
-    DM Note:  After the party wakes from their first short rest.
+>    DM Note:  After the party wakes from their first short rest.
 
 As the party rests for the first time inside the tunnel, something unsettling happens. In the stillness of the frozen caverns, as the campfire flickers and begins to die down, an ethereal form materializes. Barely visible, refracted through the ice walls, it speaks in a voice that is both chilling and mournful:
 
@@ -154,7 +154,7 @@ Lizardfolk names should all start with "Kr"
 
 #### Encounter: A Wall of Ice
 
-    DM note: quick simple obstacle
+>    DM note: quick simple obstacle
 
 As the party ventures deeper into the Smuggler’s Tunnel, the cavern opens wide, revealing a formidable wall of ice that blocks the way forward. Chunks of debris are haphazardly stacked, remnants of a violent tremor that once split the passage. The jagged ice wall looms 25 feet above the highest pile of debris, and a shadowy figure—a Kobold—can be glimpsed at the top, briefly taking interest before darting away, leaving a sense of foreboding in its wake.
 
@@ -182,7 +182,7 @@ Just past the boarded wall, tucked in an alcove, lies a makeshift wooden barrier
 
 **Oniteth the Scouter**: Female Goliath (frost) Survivor.
 
-    DM note: avoid giving another NPC a glaive
+>    DM note: avoid giving another NPC a glaive
 
 Among the chaos, hiding behind the makeshift wooden barrier and through a crawlspace, **Oniteth**, a female Goliath survivor, is trembling with fear. She looks gaunt and close to death, shaking while gripping her glaive tightly (she will not give it up). Oniteth wears the garments of the **Outer Empire** and appears visibly shaken.
 
@@ -204,129 +204,111 @@ Among the chaos, hiding behind the makeshift wooden barrier and through a crawls
 
 #### Encounter : UnderRoc Tower
 
-    DM Note: A series of 3 combats in one. Stay in initiative order, and if players don't act after 3 rounds, the Kobolds will act (either run attack or bargain). Kobold's in J'hed should always involve traps. Kobold's will always attack to gain pact tactics and retreat when 1 is left
+>    DM Note: A series of 3 combats in one. Stay in initiative order, and if players don't act after 3 rounds, the Kobolds will act (either run, attack, or bargain). Kobolds in J'héd always involve traps and will attack to gain Pact Tactics, retreating when only one is left.
 
-Charisma Checks at a Disadvantage if not using Draconic with Kobolds
+**Weather Conditions:**
 
 | Weather | Normal | Lightly Obscure | Heavily Obscure |
 |---------|--------|-----------------|-----------------|
-| Fog     | 60ft   | 60ft+            | ----            |
+| Fog     | 60ft   | 60ft+           | ----            |
 
-| Encounter | Creature | #  | Notes            |
-|------|----------|----|------------------|
-| Outside tower    | Kobold   | 4  | Hunters Trap     |
-| Ground floor    | Kobold   | 3+ | Alchemist's Fire |
-| Top Floor    | Kobold   | 6+ | Caltrops         |
+**Encounter Breakdown:**
 
-The tunnel opens up to a cliff side.
-There is a bridge between two cliffs
-a stone tower is built into the icy cliffs next to the bridge. There is another one at the end of the bridge.
-The tower appears to be two floors with arrow slits and vantage points. Domed and covered at the top.
-The bridge is 600ft long.
+| Encounter         | Creature | Number | Notes            |
+|-------------------|----------|--------|------------------|
+| Outside Tower     | Kobold   | 4      | Hunter's Trap     |
+| Ground Floor      | Kobold   | 3+     | Alchemist's Fire  |
+| Top Floor         | Kobold   | 6+     | Caltrops          |
 
-**Bridge Entrance**
+The tunnel opens up to a cliffside where a bridge connects two towering cliffs. At either end of the bridge stands a stone tower, each two floors high with arrow slits and vantage points, domed and covered at the top. The bridge stretches a daunting **600 feet** long, shrouded in fog.
 
-Kobolds would rather complete a trade and run away. They search for food, treasures and dragons
+##### Bridge Entrance
 
-| Check           | DC   | Result                                                   |
-|-----------------|------|----------------------------------------------------------|
-| Sleight of Hand | 13   | disarm Hunter Trap if noticed                            |
-| Stealth         | 7    | party backs away to find another path                    |
-| History   | 16   | bridge built by Zeltrim Empire                                 |
-| Investigation   | 13   | Hunters Trap in snow      |
-| Insight         | 10   | Kobolds seem ready to act                               |
-| Perception      | 10   | Kobolds speaking Draconic, waiting for a Kobold Aspirant's orders |
-| Intimidation    | 13   | Kobolds retreat into keep                                |
-| Persuasion      | 10   | trade for passage**                                      |
+The Kobolds would rather complete a trade and run away. They search for food, treasures, and dragons.
 
-    DM Note: If you guide the characters or if they prefer to avoid combat, then there is a cost involved. They must trade at a loss.
+| Check           | DC | Result                                                   |
+|-----------------|----|----------------------------------------------------------|
+| Sleight of Hand | 13 | Disarm the Hunter Trap if noticed                       |
+| Stealth         | 7  | The party backs away to find another path               |
+| History         | 16 | The bridge was built by the Zeltrin Empire              |
+| Investigation    | 13 | Identify the Hunter's Trap in the snow                  |
+| Insight         | 10 | The Kobolds seem ready to act                            |
+| Perception      | 10 | Hear Kobolds speaking Draconic, waiting for orders from a Kobold Aspirant |
+| Intimidation    | 13 | The Kobolds retreat into the keep                        |
+| Persuasion      | 10 | Trade for passage                                        |
 
-**Trade:** The Kobolds are very demanding and when they see you carrying the crates, they become very interested if you wish you can trade for passage **1 Quest Crate**, and one of the following: all your rations, all your coins, or all your weapons. Kobolds don't have the patience to do numbers so they only like to trade in all or nothing values.
+>    DM Note: If the characters prefer to avoid combat, there is a cost involved; they must trade at a loss.
 
-**Combat:**
+**Trade**: The Kobolds are very demanding. When they see the party carrying the crates, they become very interested. If you wish to trade for passage, they will ask for **1 Quest Crate** and one of the following: all your rations, all your coins, or all your weapons. The Kobolds don't have the patience to do numbers, so they only like to trade in all-or-nothing values.
 
-First player to move triggers a Hunters Trap  
-If Kobolds are killed before they act, group Stealth DC13 and other Kobolds not alerted. (refer to group checks in the PHB 2014)
-If Kobolds alerted, 18 seconds after combat (3 rounds) D4 Javelins thrown from top of tower from upper level 3 Kobolds
-
-**Tower Ground Floor**
-
-Alchemist's Fire drops on first person to walk through door, can cause panic combat
-
-**Combat:** if alerted
-
-3 Kobolds + part 1 remaining, hide in crates. Surprise attack once, then run to top floor
-Alchemist's Fire drops on first person to walk through door
-    
-**Non Combat:**
-
-Party can be permitted to lower tower floor and stairs, but opening top floor leads to combat
-Crawl space behind looted shelf
-
-**Crawl Space:**
-
-    dead guard - Outer Empire clothing, (chain shirt), two notes, 7gp, 14sp, 98cp
-    note one - Yalna I told you I was coming home soon I know I could have done better wish I wasn't such a coward in these moments but I am trying
-    note two - Captain Faotil has locked in his chamber for weeks, a delivery came for him and he hasn't left. Scouts report sightings of lurking creatures encroaching the pass - no confirmations. The undead have increased in forces, we have requested aid. Everyone is on edge.
+**Combat**: The first player to move triggers a Hunter's Trap. If Kobolds are killed before they act, do group Stealth DC 13 to not alert the other Kobolds. (Refer to group checks in the PHB 2014). If the Kobolds are alerted, 18 seconds after combat (3 rounds), D4 Javelins will be thrown from the top of the tower by 3 Kobolds.
 
 
-| Check           | DC   | Result                                                   |
-|-----------------|------|----------------------------------------------------------|
-| **Dex**         | ---- | ----                                                     |
-| Sleight of Hand | 13   | disarm Alchemist's Fire if noticed                            |
-| **Int**         | ---- | ----                                                     |
-| History   | 16   | bridge built by Zeltrim Empire                                 |
-| Investigation   | 16   | Alchemist's Fire above door      |
-| Investigation   | 13   | Crawl space behind looted shelf      |
-| **Wis**         | ---- | ----                                                     |
-| Medicine         | 10   | Guard starved to death                               |
-| Perception      | 10   | Kobolds speaking Draconic, waiting for Aspirant's orders |
-| **Cha**         | ---- | ----                                                     |
-| Intimidation    | 13   | Kobolds retreat into keep                                |
-| Persuasion      | 10   | trade for passage**                                      |
+##### Tower Ground Floor
 
+Upon entering the floor is cluttered with broken crates and remnants of supplies. A scarred wooden table in the center holds stained maps to Netrus, while a barricade of crates conceals a few alert Kobolds. A sudden crash from above echoes through the chamber, hinting at chaos within.
 
-**Officer Quarters:**
+**Alchemist's Fire** drops on the first person to walk through the door, which can cause panic during combat.
 
-(puzzle)
+**Combat Mechanics**: If alerted, 3 Kobolds plus the ones that fled from outside hide in crates. They surprise attack once, then run to the top floor. The Alchemist's Fire will drop on the first person to walk through the door.
 
-An intricate inverted triangular closed stone door, about 9ft tall. There is no consistent pattern upon the frame or door, but a stone brazier is carved into it.
+**Non-Combat Option**: The party can be permitted to lower the tower floor and stairs, but opening the top floor leads to combat. A crawl space behind a looted shelf can also be discovered.
 
-Casting a cantrip within 30ft of the door fails but the door glows as the casters feels the energy of the spell drawn to it. Brandishing a magic item will have a similar effect but not remove the magical properties of the item
+##### Crawl Space
 
-| Check         | DC | Result                                        | DC | Result                              |
-|---------------|----|-----------------------------------------------|----|-------------------------------------|
-| Arcana        | 10 | Door Magically Shut                           | 16 | Arcane Symbol for Fire              |
-| History       | 13 | Stonework resembles Council Five              |    |                                     |
-| Perception    | 7  | ash and soot marks on floor, wall and ceiling | 13 |                                     |
-| Investigation | 10 | burnt parchment and broken glass in brazier   | 16 | loose brick hiding Fog Cloud scroll |
+Inside the crawl space, the party finds a **dead guard** in Outer Empire clothing (wearing a chain shirt), along with two notes, **7gp, 14sp, and 98cp**.
 
+- **Note One**: "Yalna, I told you I was coming home soon. I know I could have done better. I wish I wasn't such a coward in these moments, but I am trying."
+- **Note Two**: "Captain Faotil has been locked in his chamber for weeks. A delivery came for him, and he hasn't left. Scouts report sightings of lurking creatures encroaching the pass—no confirmations. The undead have increased in numbers, and we have requested aid. Everyone is on edge."
+
+| Check           | DC | Result                                                   |
+|-----------------|----|----------------------------------------------------------|
+| Sleight of Hand | 13 | Disarm the Alchemist's Fire if noticed                  |
+| History         | 16 | The bridge was built by the Zeltrin Empire              |
+| Investigation    | 16 | Alchemist's Fire above the door                          |
+| Investigation    | 13 | Discover the crawl space behind the looted shelf         |
+| Medicine        | 10 | The guard starved to death                               |
+| Perception      | 10 | Hear Kobolds speaking Draconic, waiting for orders from a Kobold Aspirant |
+| Intimidation    | 13 | The Kobolds retreat into the keep                        |
+| Persuasion      | 10 | Trade for passage                                        |
+
+##### Officer Quarters
+
+**Puzzle Mechanics**: Halfway up the steps to the top floor An intricate inverted triangular stone door, about 9ft tall, stands before the adventurers. There is no consistent pattern upon the frame or door, but a stone brazier is carved into it.
+
+Casting a cantrip within 30ft of the door fails, but the door glows as the caster feels the energy of the spell drawn to it. Brandishing a magic item will have a similar effect, but will not remove the magical properties of the item.
+
+| Check         | DC | Result                                          |
+|---------------|----|-------------------------------------------------|
+| Arcana        | 10 | Door Magically Shut                            |
+| Arcana        | 16 | Arcane Symbol for Fire                         |
+| History       | 13 | Stonework resembles Council Five               |
+| Perception    | 7  | Ash and soot marks on floor, wall, and ceiling|
+| Perception    | 13 | Shadows indicate movement nearby               |
+| Investigation | 10 | Burnt parchment and broken glass in brazier   |
+| Investigation | 16 | Loose brick hiding Fog Cloud scroll            |
 
 | Solution                               | Effect                      |
 |----------------------------------------|-----------------------------|
-| Burn Spell Scroll or Potion in brazier | Door Opens                  |
-| Cast Leveled Spell                     | Door Opens                  |
-| Force it open DC19 Athletics           | Door Opens setting off Ward |
-| Thieves Tools DC19 Sleight of Hand     | Door Opens setting off Ward |
+| Burn a spell scroll or potion in the brazier | The door opens                  |
+| Cast a leveled spell                     | The door opens                  |
+| Force it open with DC 19 Athletics      | The door opens, setting off a ward |
+| Use Thieves' Tools with DC 19 Sleight of Hand | The door opens, setting off a ward |
 
-Setting off Ward: All creatures within 30ft of the door Intelligence Save DC13, 1d6 psycic damage on a failed save 
+**Setting Off the Ward**: All creatures within 30ft of the door must make an Intelligence Save DC 13, taking 1d6 psychic damage on a failed save.
 
-With a plume of red smoke the arcane lock is opened and the door will remain open for 1 hour (even if forced open)
+With a plume of red smoke, the arcane lock opens, and the door will remain open for 1 hour (even if forced open).
 
+##### Tower Top
 
-**Tower Top:** 
+At the top of the tower, the party will encounter 6 Kobolds and 1 Kobold Aspirant, plus any Kobolds that fled earlier.
 
-6 Kobolds, 1 Kobold Aspirant (+ kobolds that fled here)
+**Stealth Check (High):** Automatic failure if alerted; the party will notice 6 or more Kobolds preparing to flee.
 
-Stealth High (autofail if alerted): will see 6+ Kobolds ready to escape
-
-**Fight:**
-Kobolds will all throw javalin at players for action before swinging down drop to escape
-They will cut any extra lines
-Can keep a few Kobolds behind for a fight
+**Combat**: The Kobolds will all throw javelins at the players before swinging down to escape. They will cut any extra lines and can keep a few Kobolds behind for a fight.
 
 **Another Route :**
-Investigation Check High (Autopass if Thieves Cant): a tunnel big enough to crawl and move crates seems to snake its way near the bridge but it is not large enough for a wagon. Proceed to Underpass
+An Investigation Check (High, automatic pass if using Thieves' Cant) reveals a tunnel big enough to crawl through and move crates. It seems to snake its way near the bridge but is not large enough for a wagon. The party can then proceed to the Underpass.
 
 #### Encounter: Underpass
 
@@ -336,7 +318,7 @@ Investigation Check DC13: The stonework seems to be washed by acid
 
 Grey Ooze: moving along the corridor is a grey ooze, a still oil slick patch of wet stone and will attack when the party crosses. 
 
-    DM Note: Attack the highest hitpoint target as the ooze does 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack the who is leading the party
+>    DM Note: Attack the highest hitpoint target as the ooze does 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack the who is leading the party
 
 #### Encounter 3: Pass 
 
