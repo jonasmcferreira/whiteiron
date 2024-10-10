@@ -318,7 +318,7 @@ Investigation Check DC13: The stonework seems to be washed by acid
 
 Grey Ooze: moving along the corridor is a grey ooze, a still oil slick patch of wet stone and will attack when the party crosses. 
 
->    DM Note: Attack the highest hitpoint target as the ooze does 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack the who is leading the party
+>    DM Note: Attack the highest hitpoint target as the ooze does 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack who is leading the party
 
 #### Encounter 3: Pass 
 
@@ -374,8 +374,6 @@ These berries are important and grow randomly through Jhed
 **Ascended Kobold:**
 
     Twice per long rest: bless, inflict wounds
-
-**Plots:**
 
 
 ## Level Two Adventure: Securing the Ice Sled
