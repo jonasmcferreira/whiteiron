@@ -67,22 +67,9 @@ But beware—the last courier crew never made it back.
 
 ### Sail and Arrival at The Witch's Nip
 
-Don Vras is a silent individual, as he's ferried his share of adventurers to the **Witch's Nip**
-
-Here's some sayings that Don Vras will spout out at random times:
-
->    - "Batten down the hatches! Once we set out, the only thing worse than the cold is the company you keep... and I ain’t talking about my fine self."
->    - "I’ll navigate you through these waters, but you’ll have to watch your own backs. You can’t trust anyone out here."
->    - "That Roc has a hunger that would put a troll to shame. Stay low and keep your wits about you—if you see a shadow, choose quickly if you want death at the Roc's stomach or an icy death."
->    - "Remember, lads and lasses, fortune favors the bold! Or was it the stupid? Either way, make sure it’s you with the gold in the end."
->    - "Look at those cliffs—nature’s way of reminding you how small you really are. Don’t get too cozy; the ground is icy and so are the hearts of those who wander here."
->    - "You see that tunnel? It’s not a path to riches; it’s a corridor of doom! Bring back tales of your brave friends... or just their heads. Whichever's easier."
->    - "In my experience, when things get quiet, that’s when you should be worried. Silence is just the calm before the madness takes over."
->    - "This place is a real gem—if by gem, you mean a frozen wasteland where dreams come to die. Hope you brought a good shovel for digging your graves."
+Don Vras is a gruff individual, but he is talkative as he's ferried his share of adventurers to the **Witch's Nip**
 
 After days at sea, navigating treacherous icy waters and avoiding the sharp gaze of the Roc, the sloop finally sails into a narrow inlet known as **The Witch’s Nip**. The biting cold seems to intensify as the boat glides between the towering, jagged cliffs that guard the cove like the fangs of a giant beast. As the crew secures the sloop to the frost-covered dock, a strange, echoing silence replaces the rhythmic lapping of the waves, broken only by the faint, distant howl of the wind.
-
-Before you lies the entrance to the **Smuggler’s Tunnel**—a gaping, dark maw in the rock face, partially hidden by snow drifts and worn ice sculptures of unknown origin. The passage is lined with makeshift torch holders, though none are lit, casting the entire scene in a blue twilight glow. Deep within, the faint, rhythmic sound of dripping water is the only sign that the tunnel hasn't been abandoned for centuries.
 
 ### The Smuggler's Tunnel
 
@@ -94,13 +81,10 @@ Your journey through the tunnel will be as dangerous as the Roc-haunted skies ab
 
 **The Tunnel’s Features:**
 
-- The entrance is wide enough for a small boat to enter  and moor, but the river that flows within is more of a sluggish stream than a navigable waterway. It seems to be residual water seeping down from the higher parts of the tunnel.
 - Much of the tunnel has an upward incline, making it more of a trek than a leisurely walk. The party will need to watch their footing, as patches of ice make travel treacherous.
 - Crude, ice-coated railings line parts of the passage, hinting at past traffic, though they are worn and unreliable in many places.
-- The residual water flows slowly but steadily, forming shallow pools and slick surfaces. Sharp rocks and ice floes occasionally jut out, making movement tricky. Any attempts to traverse the tunnel will require **Survival or Dexterity checks** to avoid slipping on the ice or navigating hazardous terrain.
+- The residual water flows slowly but steadily, forming shallow pools and slick surfaces. Sharp rocks and ice floes occasionally jut out, making movement tricky.
 - As the party ventures deeper, they discover that the tunnel isn’t as simple as a straight path. While the main passage stretches onward, there are occasional forks, offshoots, and side passages. These side tunnels lead into smaller alcoves or dead ends—remnants of old excavation attempts, collapsed tunnels, or secret storage areas from smuggling days gone by. Some forks are clearly marked with old **Thieves' Cant symbols** for those trained in its use.
-
-As the party steps into the tunnel, the cold seems to tighten its grip around them. The sound of their boots crunching on the ice and the muted drip of melting snow echoes off the stone walls. The once-bustling trade route now feels eerily deserted, with only the fading remnants of ancient travel signs offering a hint of what once was.
 
 As you prepare to enter, a single torch flares to life in the darkness—a reminder that **someone or something** may be waiting ahead.
 

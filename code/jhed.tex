@@ -1,7 +1,16 @@
-% This is jhed.tex without the documentclass
+% Use fontspec package
+\usepackage{fontspec}
 
-\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+% Set the main font to EB Garamond using the fonts in the local project folder
+\setmainfont[
+  Path = ./fonts/,                   % Path to the fonts folder in your project
+  UprightFont = {EBGaramond-Regular.ttf},         % Regular variant
+  BoldFont = {EBGaramond-Bold.ttf},               % Bold variant
+  ItalicFont = {EBGaramond-Italic.ttf},           % Italic variant
+  BoldItalicFont = {EBGaramond-BoldItalic.ttf},   % BoldItalic variant
+]{EB Garamond}
+
+% Adjust margins and other settings
+\usepackage[left=0.5in, right=0.5in, top=0.5in, bottom=0.5in]{geometry}
 \usepackage{graphicx}
 \usepackage{amsmath}
-
-% Any other custom LaTeX settings go here
