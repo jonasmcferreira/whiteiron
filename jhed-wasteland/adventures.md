@@ -42,7 +42,7 @@ Whatever your reason, you’ve banded together for this journey. The weather, th
 
 ### The Smuggler's Tunnel: Your First Steps Into Jhed
 
-Your immediate goal is to reach **Netrus** by navigating the **Smuggler's Tunnel**, which starts at **The Witch’s Nip**, a foreboding entrance to an underground path leading into Jhed. Before you can even think about crossing into the frozen continent, you must survive the **two-day journey by boat** from Thieves Key, through treacherous waters and into the heart of **Roc territory**.
+Your immediate goal is to reach **Netrus** by navigating the **Smuggler's Tunnel**, which starts at **The Witch’s Nip**, a foreboding entrance to an underground path leading into Jhed. It's a **two-day journey by boat** from Thieves Key, through treacherous waters and into the heart of **Roc territory**.
 
 The **Roc**, a massive bird that patrols the skies over Jhed, is a constant threat, forcing smugglers to use these dangerous underground routes. Any attempt to travel overland would end in certain death beneath its talons.
 
@@ -52,10 +52,10 @@ Don Vras, a seasoned smuggler with a **dark past**, will be your ferry captain. 
 
 Before leaving Thieves Key, you need to make final preparations. You’ll have the chance to **purchase supplies**, gather **information**, and meet with key NPCs who may offer assistance—or try to sabotage your efforts.
 
-- **Supplies**: Ensure you have enough food, cold-weather gear, and rations to last several days in freezing conditions. The journey to Netrus is long and treacherous.
-- **Transport**: Secure or steal a sloop to sail to the Witch’s Nip. Don Vras, a seasoned smuggler with a **dark past**, may offer his services as a navigator.
-- **Package**: Don’t forget the **50 lbs package** you’ve been entrusted to deliver. If anything happens to it, your mission will fail.
-- **Information**: Speak with **Brimhest**, **Don Vras**, and others in the Thieves Key. They may offer **clues** about the dangers ahead, or tips on how to survive the journey. Some may even have ulterior motives.
+Ensure you have enough food, cold-weather gear, and rations to last several days in freezing conditions. The journey to Netrus is long and treacherous.
+
+
+Speak with **Brimhest**, **Don Vras**, and others in the Thieves Key. They may offer **clues** about the dangers ahead, or tips on how to survive the journey. Some may even have ulterior motives.
 
 ### The Journey Begins
 
@@ -73,9 +73,7 @@ After days at sea, navigating treacherous icy waters and avoiding the sharp gaze
 
 ### The Smuggler's Tunnel
 
-The **Smuggler’s Tunnel** is a lifeline between **Thieves Key** and **Netrus**, cutting through miles of treacherous terrain that would otherwise take weeks to navigate overland. While at first glance the tunnel may seem like a marvel of ancient craftsmanship, closer inspection reveals its more improvised nature. The stonework is uneven, as if hastily carved by many hands over time, with sections reinforced with mismatched materials. Cracks riddle the walls, and patches of ice creep in through the roof. A narrow river of freezing water snakes through the middle of the tunnel, glistening under the sparse light, barely held back by makeshift barriers.
-
-Your journey through the tunnel will be as dangerous as the Roc-haunted skies above. The path ahead is dark, cold, and fraught with hazards—both natural and unnatural.
+The **Smuggler’s Tunnel** is a lifeline between **Thieves Key** and **Netrus**, cutting through miles of treacherous terrain that would otherwise take weeks to navigate overland. While at first glance the tunnel may seem like a marvel of ancient craftsmanship, closer inspection reveals its more improvised nature. The stonework is uneven, as if hastily carved by many hands over time, with sections reinforced with mismatched materials. Cracks riddle the walls, and patches of ice creep in through the roof.
 
 ![Ice Cave](images/ice-cave.jpg)
 
@@ -85,8 +83,6 @@ Your journey through the tunnel will be as dangerous as the Roc-haunted skies ab
 - Crude, ice-coated railings line parts of the passage, hinting at past traffic, though they are worn and unreliable in many places.
 - The residual water flows slowly but steadily, forming shallow pools and slick surfaces. Sharp rocks and ice floes occasionally jut out, making movement tricky.
 - As the party ventures deeper, they discover that the tunnel isn’t as simple as a straight path. While the main passage stretches onward, there are occasional forks, offshoots, and side passages. These side tunnels lead into smaller alcoves or dead ends—remnants of old excavation attempts, collapsed tunnels, or secret storage areas from smuggling days gone by. Some forks are clearly marked with old **Thieves' Cant symbols** for those trained in its use.
-
-As you prepare to enter, a single torch flares to life in the darkness—a reminder that **someone or something** may be waiting ahead.
 
 >    DM Note:
 >    The journey through the Smuggler's Tunnel doesn’t need to follow a linear path. Tailor the experience based on the party’s composition and decisions. They may navigate primarily through the Boarded Walls or face the Ice Wall.
