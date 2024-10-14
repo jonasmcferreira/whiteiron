@@ -305,3 +305,470 @@ Grey Ooze: moving along the corridor is a grey ooze, a still oil slick patch of 
 
 >    DM Note: Attack the highest hitpoint target as the ooze does 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack who is leading the party
 
+#### Encounter 3: Pass 
+
+Dispersing Green Haze: Constitution Save DC 7, poisoned on a failure for 8 hours.
+
+4 Bodies around a broken caravan, once the party investigates they attack
+
+2 zombies, 2 skeletons
+
+A horse per round charges through the fog charging attacking and running away
+
+3 warhorse skeletons
+
+There is dead kobolds all around the bridge (Kobolds were fighting the undead)
+
+Investigation Check DC 13: There is residue of a powerful poison and the Green Haze
+
+Just like most Kobold fights should involve traps, undead fights should involve poison
+
+#### Encounter 4: Roc
+
+Peering through the midst a cracked beak of a Gargantuan bird; black with purple tipped feathers. Tt has noticed the tresspassers letting out a rapid clicking noise before the wings unfurrel and takes flight. Strength save DC 19 or knocked prone on a failure 
+
+Players can return to this Roc later with Thieves Sigil, to gain passage to Smuggler's Peak
+
+#### Encounter 5: Tower II
+
+The fog frames the bridge into the glacier with a tower built into the side maybe 50ft high; the natural ice walls stretch beyond the cloudy vision. Broad scaled humanoid shapes are seen tossing objects aside the stone bridge. A horn blows with a deep hum along a draconic greeting "You may pass but no more, Kreeg has claimed this tower for now"
+
+If they are asked about denizens of the tower, they only found corpses and kobolds
+Will not let the party enter the tower but will let the party pass
+
+Recently taken by Lizardfolk after driving the Kobold's out, 20ish (should be clear it isn't winnable fight)
+Praised for the party strengths and told they should search them out, but for now they are busy
+
+Consider letting Kresh escort the party past if they have met
+
+The Lizardfolk are digging around the tower, looking for specimens
+FIGHT: The Lizardfolk will knock the party unconscious and drag them to the fighting pit, see Trial One: of Combat
+
+#### Encounter 6: Open Wasteland
+
+Brush with large deep blue "berries" 1d4
+
+Attacked by 1d4 poisonous snake, and 1 giant poisonous snake
+
+These berries are important and grow randomly through Jhed
+
+**Code of Snow:** Sammul the religious leader of Netrus will explain to the party that though their task is lawful, Jhed is a place of new beginnings and that actions taken before someone has reached Jhed are not held against their character. The village of Netrus will even offer the gold reward of the bounty to ignore it.
+
+**Bounty Hunters:** Though bounty hunters act within the law, they are despised by the population of Jhed, disputes should be handled personally. This makes Jhed a home for new beginnings of shady characters
+
+**Ascended Kobold:**
+
+    Twice per long rest: bless, inflict wounds
+
+
+## Level Two Adventure: Securing the Ice Sled
+
+### Adventure Outline: "The Lost Volunteer"
+
+### Introduction
+
+**Hook** While the party is in Netrus, a wandering undead laborer, known as a "volunteer," stumbles into the village, lost and in disrepair. The appearance of this undead worker, typically found only in Dhuren Tol, raises concern among the villagers and curiosity in the party.
+
+### Act 1: The Lost Volunteer
+
+#### The Volunteer’s Arrival
+
+As the party goes about their business in the bustling village of Netrus, a sudden commotion draws their attention. Villagers gather, whispering and pointing, as a disoriented figure shuffles into view from the edge of the settlement. It’s an undead laborer, known locally as a "volunteer," but this one seems far from the efficient worker it should be.
+
+The volunteer's movements are erratic, its skeletal frame visibly damaged, with bones jutting out at odd angles and a missing arm. Its eyes, dull and lifeless, seem to flicker with a faint, unnatural light. A tattered cloak hangs loosely from its shoulders, fluttering in the cold wind as it stumbles towards the party.
+
+In its remaining hand, the volunteer clutches a crumpled piece of parchment and a peculiar, broken piece of equipment. The parchment, stained and torn, bears cryptic writing and symbols. The equipment, though damaged, still emits a faint aura of magic, hinting at its once important function.
+
+Nick Ugris, the towering Hill Giant leader of Netrus, approaches with a frown etched deeply into his weathered face. "This is not good," he mutters, more to himself than anyone else. Beside him, Sammul, the wise Tortle Runepriest, studies the volunteer with a mix of curiosity and concern.
+
+As the volunteer collapses to the ground, its head jerking spasmodically, Sammul carefully retrieves the note and the broken equipment. He looks up at the party, his eyes serious. "This volunteer is from Dhuren Tol. Something must be terribly wrong for it to end up here in such a state. We need to decipher these clues and find out what’s happening."
+
+Nick nods, his massive hand gently patting the volunteer’s bony shoulder. "You lot," he says, addressing the party, "seems like you’re just the right folks to get to the bottom of this. Let’s see what we can make of these clues and get you ready for the journey ahead."
+
+#### Deciphering the Clues
+
+The note clutched in the skeleton's hand is dirty with mud and coal dust, but no blood. On reading it, a common person will understand the urgent title and the rune, but everything else will look like arcane script, a little fuzzy and symbolic, rather than writing. The note reads:
+
+   - Text:
+     ```
+     Volunteers are going bonkers. Need the Frostfinder to fix The Frostrunner. 
+     Key: [symbol of a snowflake with a rune in the center]
+     P.S. Watch out for the trolls. They don’t like visitors.
+     ```
+Beside the text, a rough sketch of an ice sled is drawn, with a specific symbol that matches the rune on the broken equipment piece.
+
+The piece of equipment is a mechanical cog with an embedded rune. Despite its damaged state, it emits a faint, magical aura.
+
+**Investigation and Deciphering**:
+   - **Intelligence (Investigation) DC 12** Recognize that the note is partially ciphered.
+   - **Wisdom (Perception) DC 10** Notice the matching rune symbol on both the note and equipment piece.
+   - **Consulting Sammul**:
+     - Sammul can assist with the cipher.
+     - **Intelligence (Arcana) DC 15** Sammul explains that the symbol is an old rune associated with navigation and frost magic.
+   - **Intelligence (History) DC 12** Recognize references to ancient frost magic and artifacts used in Jhed.
+   - **Intelligence (Investigation) DC 15** Fully decipher the message in the note.
+
+**Deciphered Message**:
+   - Indicates that the volunteers are malfunctioning and behaving erratically.
+   - Suggests seeking out the Frostfinder, a magical compass, necessary to navigate to Dhuren Tol and find The Frostrunner ice sled.
+
+**After Deciphering**:
+   - **Information** The deciphered note clearly indicates that the volunteers are failing. The note suggests seeking out the Frostfinder to repair The Frostrunner ice sled.
+   - **Guidance** The mention of the Frostfinder gives the party a clear objective. They learn that the Frostfinder can be found in a cave infested with ice trolls, led by Gragnar the Frostbite.
+   - **Next Steps**:
+     - The party knows they must secure the Frostfinder to navigate effectively and reach Dhuren Tol.
+     - The broken equipment piece is a part of The Frostrunner’s navigation system, highlighting the importance of repairing the sled for safe travel.
+
+### Act 2: Securing the Ice Sled
+
+1. **Finding the Ice Sled**:
+   - The party is tasked with finding and securing an ice sled necessary for the journey to Dhuren Tol.
+   - They learn that Thoren Coldwind, a trader in Netrus, has information about a durable ice sled prepared for Jhed.
+
+2. **Negotiating for Information**:
+   - The party negotiates with Thoren Coldwind, who agrees to provide the location of the ice sled in exchange for a favor or a trade.
+   - Thoren asks the party to retrieve the Frostfinder, a valuable magical compass, from a nearby cave infested with ice trolls.
+
+3. **Retrieving the Frostfinder**:
+   - The party ventures to the cave, navigating traps and battling ice trolls led by Gragnar the Frostbite.
+   - They retrieve the Frostfinder and return to Netrus.
+
+4. **Locating the Ice Sled**:
+   - With Thoren Coldwind's information, the party sets out to find the lost ice sled, "The Frostrunner."
+   - They face environmental challenges such as blizzards and unstable ice, and possibly an encounter with a roc.
+
+5. **Preparing the Ice Sled**:
+   - Upon finding The Frostrunner, the party needs to prepare it for the journey. Depending on their skills and resources, they can choose to:
+     - **Pull by Dogs** If they can handle animals and have access to sled dogs.
+     - **Push by Hand** If they lack animals but have enough strength and manpower.
+     - **Pull by People** If they prefer to pull it themselves, utilizing their teamwork and endurance.
+
+### Act 3: Journey to Dhuren Tol
+
+1. **Setting Off**:
+   - The party sets off in The Frostrunner, navigating the harsh terrain of the Jhed Wasteland.
+   - They encounter various challenges, such as snowstorms, wandering beasts, and environmental hazards.
+
+2. **The Road to Dhuren Tol**:
+   - Along the way, the party may find clues about the current state of Dhuren Tol.
+   - They might also encounter travelers or villagers in need, offering side quests and additional context.
+
+3. **Arriving in Dhuren Tol**:
+   - The party finally arrives in Dhuren Tol, greeted by the sight of skeletons patrolling the streets and performing menial tasks.
+
+
+### Conclusion
+
+1. **Setting Up the Next Adventure**:
+   - The party is tasked with finding the Source of the disruption and restoring order to Dhuren Tol.
+   - This sets the stage for the next level adventure, where the party will face the challenges of the undead uprising and delve deeper into the mysteries of Dhuren Tol.
+
+### Key NPCs
+
+- **Nick Ugris** The Hill Giant leader of Netrus, who tasks the party with investigating Dhuren Tol.
+- **Sammul** The Tortle Runepriest who provides spiritual guidance and helps decipher the clues.
+- **Thoren Coldwind** A savvy merchant in Netrus who provides crucial information in exchange for a favor.
+- **Council of Elders**:
+  - **Elder Rurik Stonebeard** The head of the council, a wise and seasoned miner.
+  - **Elder Thrain Gemcutter** A master jeweler known for his intricate gem work.
+  - **Elder Hilda Ironfist** A formidable blacksmith and warrior who defends the village.
+- **Ice Troll Leader** Gragnar the Frostbite, the menacing leader of the ice trolls in the cave.
+- **Kobold Leader** Snivvik the Sly, the mischievous kobold who leads the band that stole the artifact.
+- **Ice Sled** The Frostrunner, a specially designed sled for travel across the icy terrain of Jhed.
+
+
+
+### Missing Scouts
+
+A peak to the southeast had veteran scouts not return (party of 6). It is not uncommon for people to go missing in J'hed but an entire squad of veterans this close, odd.   
+  
+### Ridge Point - 3 day journey
+
+A stone juts by a ridge giving an easy vantage point for the surrounding area. A difficult climb brings you to a plateau with 1 dead body (not zombie), looking around there is a cave entrance recently dug out.  
+  
+Walking through it (doesn't seem to match geography), will find 3 more bodies before two insane guards are left. They are almost praying at the wall, an old carved doorway and the eyes of all the guards are on the floor. They become hostile and when killed become a hostile shadow
+
+Door Puzzle? or Mcguffin to get in
+
+Mini Dungeon first time meeting The First Ones. Cannot communicate unless 1 lvl of madness. When party leaves this dungeon they will be located just outside Netrus
+
+
+## Lizardfolk
+
+Ritualistic behaviours
+
+### Ally
+    Ally with the Lizardfolk, get Netrus agree for Kreg to become King of Netrus
+
+    Gain Allosaurus sled pulling team (1 per player +1)
+
+### Boon 
+    Lizardfolk can be organized to take over Thieves Key or Southport, 
+
+### Bane
+    Lizardfolk taking over both Southport and Thieves Key will attempt to take on Netrus
+
+### Seeking Out the Lizardfolk
+
+    Players should easily be able to learn that Lizardfolk mostly live in caverns but since they are nomadic there is no central point. There is the Unthil Peaks (2 days east), that have caverns as well as through the Smuggling Route (1 day South). The best way to figure out their location is by asking beasts and humanoids in The J'hed Wilds but let player's come up with clever solutions to how they want to find the clan. If they return to UnderRoc Tower II. it is not gauranteed the Lizardfolk are still there
+
+
+### Trial One: Of Combat 9+3d6 Lizardfolk
+
+    Lizardfolk believe in demonstrations of power, physical or magical so to gain an audiance or respect they first need to know the talent of whom they deal with.
+
+    When the players socialize/engage with the Lizardfolk, they will begin to surround them as they speak as one speaks in broken common "How many; fight?". The number the party responds with first, that many Lizardfolk will run in and start a battle, and they intend to kill.
+
+    "The moment a number is spoken as if poised for battle, that many Lizardfolk lunge forward with the intent to feast"
+
+    Once the party dispatches these Lizardfolk, they will have a short period to ask questions but the Lizardfolk quickly become bored "More, More, Fun, Fun" this time, with a playful attitude they all begin to attack. They will knock the players out at this point rather than deliver a killing blow; if the entire party becomes incapacitated the Lizardfolk will drag them safetly back to Netrus and leave as they earned their respect, the party will gain one exhaustion level.
+
+    If the party kills all the Lizardfolk and did not fight playfully, they lose the respect of the Lizardfolk and become hostile unless the party can solve this through clever means
+
+
+### Trial Two: Of Beast
+
+    Lizardfolk Shaman "Kraw" visits Netrus with a message for the party "Trial, Unthil Peaks, Follow, Days Three"
+
+    The party will be lead to Unthil Peaks and up a series of three difficult 40ft climbs. Consider a default Athletics DC13, on a fail they can take 1d6 bludgeoning damage or a point of exhaustion for each cliff, but let players be creative here, grant advantage for teamwork. 
+
+    "Birds, Ride, Impress" Kraw announces mentioning towards nesting Pternadons. 
+    
+    These tiered cliffs are about 40ft from the ridges below where the Pternadons are. The goal is to stay on the Pteranodon's as long as possible. And the Lizardfolk Shaman just wants to see each member of the party make an attempt to ride the Pteranadons. 
+
+    Pteranodon
+
+    At the start of each turn you make an animal handling check, on a success you can direct the Pteraodon's movement, on a failure it moves randomly and up 10ft
+    At the end of each turn make a Dexterity Saving Throw or be knocked prone off the Pternadon
+
+    After falling, the riden Pternadon will attack the associated player. Once the Trial is complete the Shaman will leave 
+
+    
+|Turn| Animal Handling    | Dexterity Save   |
+|-------|------|------------|
+|1| DC 10 | DC 13                  |
+|2| DC 13 | DC 16                  |
+|3| DC 16 | DC 19                  |
+|4| DC 19 | DC 22                  |
+|5| DC 22 | DC 25                  |
+|6| DC 25 | DC 28                  |
+
+    Kobolds: the cliffs are the territory of the Kobolds, consider them appearing after the trail. They can offer a place for a Long Rest (7 days) if the party needs it in exchange for them to investigate some Dragon Ruins. They can be hostile if the party wasn't appropriately challenged, or just an opportunity for players to see some winged Kobolds
+
+### Trial Three: Of Feast
+
+    The party is invited to dine with the Lizardfolk Clan, to bring a gift that would honour Kreg and note that insulting Kreg could lead to terrible consequences
+
+    In a makeshift cave hall, lined with bones stripped of slesh a great stone slab is inlayed at the center filled with flesh and freezing blood. The party must demonstrate their ravenous appetite and boast their abilities while other Lizardfolk and chained dinosaurs eat, getting louder and louder, and starting to fight eachother as the feast continues. All while these eyes leer from the darkness
+    
+    A test of performance and intimidation.
+
+    What does success look like? players stealing food from other Lizardfolk and punching them out so that they can eat more
+
+    Once they get the attention of the crowd, Kreg the Strong walks along the table to the party
+
+### Trial Five: Of Honour
+
+    King Kreg the Strong stands silently, waiting...
+
+    The party has to impress Kreg, however they see fit (even fighting him)
+
+    If Kreg is unimpressed the party will be told to leave and no alliance is formed
+    If Kreg is insulted the party is attacked as Kreg and his Shamans leave
+
+    Wants make his denizens no longer nomadic and settle in Netrus, but he will not serve under Nick, he will be the King
+
+    Party can convince Kreg to invade Thieves Key, or Southport but they will have to supply the resources for such an invasion (not cheap)
+
+
+
+## Shessaar - Yuan-ti
+Only refer to Lesser, Greater or Equal, very spiritual
+
+### Ally
+
+    Players may want to create an alliance with the Yuant-ti, to ally, they want to be the spiritual leader of Netrus to guide those into the Wasteland
+
+    Sled team of Giant Constrictor Snakes
+
+### Enemy
+
+    Yuan-ti will attack Netrus through a cloud of snow, slithering and striking fast while a second team slithers through the cliffside and strikes during the chaos attempting to breach the Arcane Sanctum
+
+### Boon
+
+    Access to some 4th level spells
+
+    The most Loyal of allies, dedicated as long as they are respected
+
+### Bane
+
+    No interest in interfering with Thieves Key or Outer Region
+
+    Conflict as part of the Yuan-ti are being mislead by a false Avatar (Spirit Naga)
+
+    Yuan-ti are generally disliked, making it the most difficult faction for the denizens of Netrus to get along. Players will need to actively resolve these conflicts else the Yuan-ti will drive them out forcefully slowly turning Netrus into a Yuan-ti Village
+
+### First Encounter: Bloodstone
+
+    The party discovers a Bloodstone, and while inspecting it the Yuan-ti arrive
+
+### Second Encounter: Medusa "Greater"
+
+    Greater explains to the party that the Yuan-ti have no concerns about them and only seek the Bloodstones
+
+    Find one for them, and they will show them how they work
+
+### Third Encounter: Visions of Glass
+
+    By drawing enough blood 1d6 slash damage and pouring it onto the Red Glass, you fall unconscious and gain a vision
+
+    Let's party know there are imposters amung the Yuan-ti and they need to be cleansed
+
+    Must find another Red Glass to commune again
+
+### Commune with the Snakes
+
+    Go into the Wilds of J'hed and bring the largest snake possible to the Medusa
+
+### Lost Temple
+
+    The Yuan-ti Guide is imprisoned, and the Yuan-ti are searching how to help them escape. If you offer to assist with these efforts and dedicate a shrine in Netrus for Medusa to practice. Their service at the defense of Netrus will be yours
+
+
+
+## Kobolds
+    Kobolds alliances are always short term and they want more and more each time, but they also don't resent you killing them
+
+    They need treasure and a dragon shrine in Netrus
+
+### Ally
+    Kobold pulling team
+
+### Enemy
+    will attack netrus from above on Gliders + Wyvern
+
+### Boon
+
+    Can be send to Southport, Thieves Key or Netrus to assist, but they add chaos
+
+    Can point out Ruins they haven't explored
+
+    Can find the Rocs Nest
+
+    Plentiful and no issue dying
+
+### Bane
+
+    Always want more treasure for their Dragonshrines, and they will break an alliance once they stop getting treasure
+
+    Needs food
+
+### First Encounter: Dragon(ish) Tomb (Encora KingsGuard)
+
+    Ruins recently uncovered due to earthquakes and tremors that a team from Netrus was planning to explore
+
+    Kobolds have been slowly exploring as they sense a presence of a Dragon, another group but haven't returned
+
+    Traps, Zombies Skeletons, Grey Ooze(2)  
+
+    Puzzles - symbols to open doors
+
+    Room1: hidden corridor (thieves cant), drawing on the door gets you through "Craft your own path Travellers". Corridor is filled with skeletons
+
+    Hints of Twin Kings
+
+    Dragonborn Tomb -
+
+    Loot - 1 scroll, 1 weapon, 1 armour
+
+    Fluff - I'm sorry to have failed you, you served Loyally till the end
+
+### 2nd Encounter: Dragon Ruins
+    Kobolds want players to investigate the caves they have found, certain it contains dragons. But no kobolds have returned, so if the party will secure it for them, they will offer a place in the cliffs for a Long Rest (7 days) and lead them to the entrance. They can even have a Kobold guide for assistance (normal kobold)
+
+    Faerie Dragon Lair (8) - puzzle dungeon 
+
+    Bloodstone in the Ruins can be used to progress Yuan-ti
+
+### 3rd
+    To lure a dragon we need to build a Glorious Nest, secure a location for the Kobolds to build their central point of worship
+
+    Ulthin's Rest (top of Ulthin Peaks)
+
+    UnderRoc Bridge
+
+    Roc's Nest 
+
+    Netrus (if convinced to ally)
+
+    Howling Mill (werefolk)
+
+    Creative player locations are fine
+
+### 4th
+    Treasure to get attention of dragons - Young White Dragon will appear
+
+    Giant Weapon - Nick
+
+    Power Source - Tesla Coil
+
+    Ancient Relic from UnderRoc - Insanity Orb
+
+    Kreeg's Throne -
+
+### 5th
+    Wyverns, steal a large clutch of Wyvern eggs for the Kobolds to breed
+
+
+## Werefolk
+
+    Stat Adjustment to Werewolves: 
+
+    Completely heal if they start their turn and haven't taken damage from a Silvered Weapon and are above 0HP
+
+ ### Ally
+    Cannot Ally with Werefolk and Yuan-ti, the nature of their blessings make them hate eachother in a primal way
+
+    If they are welcomed to Netrus, Silver must be banned, and they won't be too friendly of Sammus but overtime will relax
+
+    Lycanthropes will not go to Southport or Thieves Key, they seek isolation and resist expansion of the Outer Empire due to their Curse
+
+    
+### Boon 
+    Were-animal pulling team
+
+    
+
+### Bane
+
+    Yuan-ti and Werefolk should not be able to ally
+
+    Village will be concerned they Lycanthropes want to convert the rest of the village (they are right)
+
+### Bitten
+
+    all appropriate animals have the Madness of Lycanthrope(curse), once bitten the Curse begins to take hold. Sammul can remove this curse, and be a source of minor information and leads
+
+    Bear/Tiger(sabortooth)/Wolf/Whale/fox/rat/boar/mammoth
+
+
+### The Immortal
+
+    one denizen of Netrus (bounty) seems unkillable and boasts about it, telling people they can attempt to claim the bounty but he will kill them. If the party engages he takes no damage
+
+### Clues
+
+    Netrus use to have a major issue with Lycanthropes, but since Sammul arrived his faith has warded them off (Sammul offers protection by placing Silver coins in areas he blesses)
+
+    Animal Marks changing to human marks/human marks to animal marks when trying to follow The Immortal
+
+    The Yuan-ti can suggest using a Bloodstone for guidance
+
+### Silvered Weapons
+
+    Sammul can craft bless and Silver a weapon, for 100g, and 1 weeks downtime (each), he doesn't have the ability by default the party needs to convince him to do it
+
+### Howling Fields
+
+    An abandoned Mill, where an alliance can be forged where the werefolk use to camp, there is a Bloodstone near the mill
