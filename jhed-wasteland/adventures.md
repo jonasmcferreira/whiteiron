@@ -226,23 +226,22 @@ The tunnel opens up to a cliffside where a bridge connects two towering cliffs. 
 
 The Kobolds would rather complete a trade and run away. They search for food, treasures, and dragons.
 
-| Check           | DC | Result                                                   |
-|-----------------|----|----------------------------------------------------------|
-| Sleight of Hand | 13 | Disarm the Hunter Trap if noticed                       |
-| Stealth         | 7  | The party backs away to find another path               |
-| History         | 16 | The bridge was built by the Zeltrin Empire              |
-| Investigation    | 13 | Identify the Hunter's Trap in the snow                  |
-| Insight         | 10 | The Kobolds seem ready to act                            |
-| Perception      | 10 | Hear Kobolds speaking Draconic, waiting for orders from a Kobold Aspirant |
-| Intimidation    | 13 | The Kobolds retreat into the keep                        |
-| Persuasion      | 10 | Trade for passage                                        |
-
 > DM Note: If the characters prefer to avoid combat, there is a cost involved; they must trade at a loss.
 
 **Trade**: The Kobolds are very demanding. When they see the party carrying the crates, they become very interested. If you wish to trade for passage, they will ask for **1 Quest Crate** and one of the following: all your rations, all your coins, or all your weapons. The Kobolds don't have the patience to do numbers, so they only like to trade in all-or-nothing values.
 
 **Combat**: The first player to move triggers a Hunter's Trap. If Kobolds are killed before they act, do group Stealth DC 13 to not alert the other Kobolds. (Refer to group checks in the PHB 2014). If the Kobolds are alerted, 18 seconds after combat (3 rounds), D4 Javelins will be thrown from the top of the tower by 3 Kobolds.
 
+| Check           | DC | Result                                                   |
+|-----------------|----|----------------------------------------------------------|
+| Sleight of Hand | 13 | Disarm the Hunter Trap if noticed                        |
+| Stealth         | 7  | The party backs away to find another path                |
+| History         | 16 | The bridge was built by the Zeltrin Empire               |
+| Investigation   | 13 | Identify the Hunter's Trap in the snow                   |
+| Insight         | 10 | The Kobolds seem ready to act                            |
+| Perception      | 10 | Hear Kobolds speaking Draconic, waiting for orders from a Kobold Aspirant |
+| Intimidation    | 13 | The Kobolds retreat into the keep                        |
+| Persuasion      | 10 | Trade for passage                                        |
 
 ---
 
@@ -256,6 +255,17 @@ Upon entering the floor is cluttered with broken crates and remnants of supplies
 
 **Non-Combat Option**: The party can be permitted to lower the tower floor and stairs, but opening the top floor leads to combat. A crawl space behind a looted shelf can also be discovered.
 
+| Check           | DC | Result                                                   |
+|-----------------|----|----------------------------------------------------------|
+| Sleight of Hand | 13 | Disarm the Alchemist's Fire if noticed                  |
+| History         | 16 | The bridge was built by the Zeltrin Empire              |
+| Investigation    | 16 | Alchemist's Fire above the door                          |
+| Investigation    | 13 | Discover the crawl space behind the looted shelf         |
+| Medicine        | 10 | The guard int he crawl space starved to death                               |
+| Perception      | 10 | Hear Kobolds speaking Draconic, waiting for orders from a Kobold Aspirant |
+| Intimidation    | 13 | The Kobolds retreat into the keep                        |
+| Persuasion      | 10 | Trade for passage                                        |
+
 ---
 
 ##### Crawl Space
@@ -264,17 +274,6 @@ Inside the crawl space, the party finds a **dead guard** in Outer Empire clothin
 
 - **Note One**: "Yalna, I told you I was coming home soon. I know I could have done better. I wish I wasn't such a coward in these moments, but I am trying."
 - **Note Two**: "Captain Faotil has been locked in his chamber for weeks. A delivery came for him, and he hasn't left. Scouts report sightings of lurking creatures encroaching the pass—no confirmations. The undead have increased in numbers, and we have requested aid. Everyone is on edge."
-
-| Check           | DC | Result                                                   |
-|-----------------|----|----------------------------------------------------------|
-| Sleight of Hand | 13 | Disarm the Alchemist's Fire if noticed                  |
-| History         | 16 | The bridge was built by the Zeltrin Empire              |
-| Investigation    | 16 | Alchemist's Fire above the door                          |
-| Investigation    | 13 | Discover the crawl space behind the looted shelf         |
-| Medicine        | 10 | The guard starved to death                               |
-| Perception      | 10 | Hear Kobolds speaking Draconic, waiting for orders from a Kobold Aspirant |
-| Intimidation    | 13 | The Kobolds retreat into the keep                        |
-| Persuasion      | 10 | Trade for passage                                        |
 
 ---
 
@@ -303,9 +302,9 @@ Casting a cantrip within 30ft of the door fails, but the door glows as the caste
 
 **Setting Off the Ward**: All creatures within 30ft of the door must make an Intelligence Save DC 13, taking 1d6 psychic damage on a failed save. With a plume of red smoke, the arcane lock opens, and the door will remain open for 1 hour (even if forced open).
 
-**Behind the Door**: A foul stench of decay and rot fills the room. The walls are covered in script—some in ink, most scratched with bloody fingernails. At a desk, slumped in a chair, lies a human, dressed in tattered Old Empire chainmail. His breathing is weak and raspy. Captain Faotil is barely alive and insane. Healing stabilizes him but leaves him catatonic. He can be carried, but he offers no useful actions or information. If attacked, he collapses without resistance.
+**Behind the Door**: A foul stench of decay and rot fills the room. The walls are covered in script—some in ink, most scratched with bloody fingernails. At a desk, slumped in a chair, lies a human, Captain Faotil, dressed in tattered Old Empire chainmail. His breathing is weak and raspy. Captain Faotil is barely alive and insane. Healing stabilizes him but leaves him catatonic. He can be carried, but he offers no useful actions or information. If attacked, he collapses without resistance.
 
-**Script on the Walls**: The writing covering the walls appears to be a mix of mundane military orders, strange symbols, and incomprehensible ramblings. Any adventurer who attempts to read the script must make a Wisdom Save (DC 13) as the madness within the writing begins to seep into their mind. On a failed save, the character screams as the incomprehensible knowledge floods their consciousness, dealing 1d6 psychic damage. On a success, the character feels uneasy, but no damage is taken.
+**Script on the Walls**: The writing covering the walls appears to be a mix of mundane military orders, strange symbols, and incomprehensible ramblings. Any adventurer who attempts to read the script must make a Wisdom Save (DC 13) as the madness within the writing begins to seep into their mind. On a failed save, the character screams as the incomprehensible knowledge floods their consciousness, dealing 1d6 psychic damage. On a failure the character is also able to read and understand that the writings reference The Great Works. On a success, the character feels uneasy, no damage is taken, and the writing remains non-sensical.
 
 ---
 
@@ -332,30 +331,29 @@ Grey Ooze: moving along the corridor is a grey ooze, a still oil slick patch of 
 
 > DM Note: Attack the highest hitpoint target as the ooze does 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack who is leading the party
 
-If the characters make it to the end of the tunnel, they have successfully passed under the UnderRoc bridge and will emerge at the base of the tower on the opposite side
+If the characters make it to the end of the tunnel, they have successfully passed under the UnderRoc bridge and will emerge at the base of the tower on the opposite side 600ft away.
 
 ---
 
 #### Encounter: The Pass
 
-The bridge stretches out before the party, a massive 60ft wide and 600ft long expanse cloaked in a thick, swirling green haze. Visibility is limited to 60ft ahead. The air is heavy with the pungent stench of decay, and with every breath, the adventurers feel the poison-laden mist clinging to their throats.
-
-**Dispersing Green Haze**: Any creature stepping into the fog must make a **Constitution Save (DC 7)**. On a failure, they are **poisoned** for the next 8 hours, their body weakened by the insidious toxins hanging in the air.
+The bridge stretches out before the party, a massive 60ft wide and 600ft long expanse cloaked in a thick, swirling fog. Visibility is limited to 60ft ahead. The air is heavy with the pungent stench of decay, and with every breath, the adventurers feel the poison-laden mist clinging to their throats.
 
 As the party ventures further, they come upon the remains of a shattered caravan. Four bodies lie sprawled around the wreckage. As soon as the party approaches, the corpses jerk to life—**2 zombies** and **2 skeletons**, rising from the carnage to defend this forsaken bridge.
 
-**Haunting Charge**: Out of the thick fog, the echo of hooves pounding against the stone grows louder. Without warning, a skeletal warhorse emerges, its hollow eyes glowing with a ghastly light as it charges through the fog, attacking the party and vanishing once more into the green haze. Each round, one of the **3 warhorse skeletons** charges from the fog, attacking before disappearing back into the obscuring mist, only to charge again.
+**Haunting Charge**: After 3 rounds of combat, on the 4th round, out of the thick fog, the echo of hooves pounding against the stone grows louder. Without warning, a skeletal warhorse emerges, its hollow eyes glowing with a ghastly light as it charges through the fog, attacking the party and vanishing once more. Each round, one of the **3 warhorse skeletons** charges from the fog, attacking before disappearing back into the obscuring mist, only to charge again.
 
 **The Battlefield**: Scattered across the bridge are the broken, lifeless bodies of kobolds, who clearly fought fiercely against the undead forces before succumbing. Their traps lie unused, their weapons clutched in rigid hands. The battle was brutal, but the kobolds were no match for the poison and relentless undead.
 
-| Check         | DC  | Result                                                            |
-|---------------|-----|-------------------------------------------------------------------|
-| Perception    | 7   | The air is thick with a sickly green fog and the stench of decay  |
-| Investigation | 10  | Signs of a recent battle between kobolds and undead               |
-| Investigation | 13  | Residue of a powerful poison contributing to the Green Haze       |
-| Arcana        | 12  | The fog is not natural—there’s lingering necrotic magic at play   |
-| Nature        | 11  | The green fog is unnatural and possibly laced with poison         |
-| Survival      | 15  | Spot an unused kobold trap hidden near the wreckage               |
+| Check            | DC  | Result                                                            |
+|------------------|-----|-------------------------------------------------------------------|
+| Perception       | 7   | The air is thick with fog and the stench of decay  |
+| Investigation    | 10  | Signs of a recent battle between kobolds and undead               |
+| Investigation    | 13  | Residue of a powerful poison on the bodies of the undead          |
+| Arcana or Nature | 12  | The fog is natural                                                |
+| Survival         | 15  | Spot an unused kobold trap hidden near the wreckage               |
+
+**Loot**: within the remnants of the caravan, the party can find 2 sets of tools (roll randomly) and raw supplies (nails, planks, linens, etc) worth 1d100 copper, silver and gold, and one scale mail with the *Outer Empire* symbol.
 
 ---
 
@@ -372,15 +370,15 @@ Though the Roc soars off into the distance, the adventurers can sense that they�
 | Perception    | 10  | Spot the massive shape of the Roc emerging from the mist          |
 | Strength Save | 19  | Save to avoid being knocked prone by the gust of the Roc's wings  |
 | Nature        | 13  | Recognize the Roc as an apex predator, territorial and dangerous  |
-| Arcana        | 15  | Detect faint magical influence around the Roc's feathers          |
-| History       | 12  | Recall legends of the Roc guarding ancient paths or hidden peaks  |
-| Investigation | 14  | Notice tracks of the Roc in the stone, proof of its frequent presence |
+| Arcana        | 16  | Detect faint magical influence around the Roc's feathers          |
+| History       | 13  | Recall legends of the Roc guarding ancient paths or hidden peaks  |
+| Investigation | 13  | Notice tracks of the Roc in the stone, proof of its frequent presence |
 
 ---
 
 #### Encounter: Tower II
 
-The fog clings to the edges of the glacier, framing the massive stone bridge that leads to a tower carved into the icy cliffside, rising 50 feet high. The natural ice walls stretch far beyond the party’s vision, cloaked in mist. As the adventurers approach, they see broad, scaled humanoid figures—**Lizardfolk**—methodically tossing objects off the stone bridge, seemingly clearing the area.
+The fog clings to the edges of the glacier, framing the massive stone bridge that leads to a tower carved into the icy cliffside, rising 50 feet high. The natural ice walls stretch far beyond the party’s vision, cloaked in mist. As the adventurers approach, they see broad, scaled humanoid figures—**Lizardfolk**-frantically tossing objects off the stone bridge, seemingly clearing the area.
 
 A horn blows, and a deep, rumbling voice speaks in a draconic greeting:  
 **"You may pass, but no more. Kreeg has claimed this tower for now."**
@@ -396,12 +394,26 @@ The lizardfolk are busy **digging** around the base of the tower, searching for 
 | Check         | DC  | Result                                                             |
 |---------------|-----|--------------------------------------------------------------------|
 | Perception    | 10  | Notice lizardfolk tossing objects from the bridge into the abyss   |
-| History       | 12  | Recognize the draconic greeting and understand basic meaning       |
+| History       | 13  | Recognize the draconic greeting and understand basic meaning       |
 | Insight       | 13  | Sense that the lizardfolk are not interested in immediate combat   |
-| Investigation | 14  | Spot signs of recent kobold activity around the tower              |
-| Nature        | 11  | Identify the lizardfolk as territorial but pragmatic creatures     |
-| Persuasion    | 15  | Convince the lizardfolk to grant passage without conflict          |
-| Stealth       | 16  | Sneak past the lizardfolk toward the tower (risk of being caught)  |
+| Investigation | 13  | Spot signs of recent kobold activity around the tower              |
+| Nature        | 10  | Identify the lizardfolk as territorial and proud creatures         |
+
+---
+
+#### Encounter: Obstacle submerged passage
+
+side passage
+crack on the ceiling, there is a waterfall through the pass.
+adventurers have to cross it forcing them to swim
+further down there is a glow in the water coming from a plant, Scale plums, which are luminescent
+perception check or investigation to see that close to the scale plums there is a body, like they were trying to do something and slipped and fell in the water.
+Scale plums are a plant that grows from the heart of a body that succumbed in Jhed
+
+Perception to see the body
+Nature to know scale plums are smae as goodberries and give cold resistance
+
+Loot: bag of holding
 
 ---
 
@@ -420,6 +432,8 @@ These berries are important and grow randomly through Jhed
 **Ascended Kobold:**
 
     Twice per long rest: bless, inflict wounds
+
+#### Encounter 6: Arrival at Netrus
 
 
 ## Level Two Adventure: The Hunting Party
