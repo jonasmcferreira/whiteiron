@@ -401,23 +401,30 @@ The lizardfolk are busy **digging** around the base of the tower, searching for 
 
 ---
 
-#### Encounter: Obstacle submerged passage
+#### Encounter: Obstacle - Submerged Passage
 
-side passage
-crack on the ceiling, there is a waterfall through the pass.
-adventurers have to cross it forcing them to swim
-further down there is a glow in the water coming from a plant, Scale plums, which are luminescent
-perception check or investigation to see that close to the scale plums there is a body, like they were trying to do something and slipped and fell in the water.
-Scale plums are a plant that grows from the heart of a body that succumbed in Jhed
+Ahead, a crack in the ceiling lets water cascade down, forming a waterfall that completely blocks the passage. The adventurers must push through the torrent, forcing them to swim against the current as they continue forward.
 
-Perception to see the body
-Nature to know scale plums are smae as goodberries and give cold resistance
+Further down the makeshift river, a faint glow illuminates the water. The source is a cluster of **Scale Plums**—luminescent plants with a soft, eerie light. Observant adventurers may notice, with a successful Perception or Investigation check, a body near the Scale Plums. It appears as though this individual had been trying to reach the plants but slipped and fell, meeting their end in the icy water.
 
-Loot: bag of holding
+**Scale Plums**: This unique plant only grows from the heart of a body that succumbed to the elements in Jhed. With a Nature check, adventurers can identify Scale Plums as having similar properties to **Goodberries**. They offer nourishment and a temporary **resistance to cold** when consumed.
+
+**Loot**: Upon investigating the body, the party finds a **Bag of Holding** among the unfortunate soul's belongings.
+
+| Check            | DC  | Result                                                                 |
+|------------------|-----|------------------------------------------------------------------------|
+| Perception       | 13  | Notice the faint glow of the Scale Plums in the water                  |
+| Investigation    | 13  | Discover the body near the Scale Plums, appearing to have slipped      |
+| Nature           | 16  | Recognize Scale Plums as similar to Goodberries, granting cold resistance |
+| Athletics        | 10  | Swim successfully through the strong current                           |
+| Medicine         | 10  | Determine that the body succumbed to the cold and water exposure       |
+
+> **DM Note:**  
+> If the party attempts to rest while still wet from the passage, the frigid air of Jhed will quickly seep into their bones. Each character will take **1d4 cold damage** and gain **one level of Exhaustion** from the relentless chill. Encourage the players to seek warmth or take measures to dry off before attempting to rest in Jhed’s unforgiving climate.
 
 ---
 
-#### Encounter 6: Open Wasteland
+#### Encounter: Open Wasteland
 
 Brush with large deep blue "berries" 1d4
 
