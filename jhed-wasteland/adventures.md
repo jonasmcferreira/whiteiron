@@ -403,7 +403,9 @@ The lizardfolk are busy **digging** around the base of the tower, searching for 
 
 #### Encounter: Obstacle - Submerged Passage
 
-Ahead, a crack in the ceiling lets water cascade down, forming a waterfall that completely blocks the passage. The adventurers must push through the torrent, forcing them to swim against the current as they continue forward.
+Ahead, a crack in the ceiling lets water cascade down, forming a waterfall that completely blocks the passage. The adventurers must push through the torrent, forcing them to swim against the current as they continue forward.Crossing the river will take one minute, as there are rocks and a strong current to deal with.
+
+> DM Note: A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of exhaustion. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures that are naturally adapted to living in ice-cold water.
 
 Further down the makeshift river, a faint glow illuminates the water. The source is a cluster of **Scale Plums**—luminescent plants with a soft, eerie light. Observant adventurers may notice, with a successful Perception or Investigation check, a body near the Scale Plums. It appears as though this individual had been trying to reach the plants but slipped and fell, meeting their end in the icy water.
 
@@ -418,9 +420,6 @@ Further down the makeshift river, a faint glow illuminates the water. The source
 | Nature           | 16  | Recognize Scale Plums as similar to Goodberries, granting cold resistance |
 | Athletics        | 10  | Swim successfully through the strong current                           |
 | Medicine         | 10  | Determine that the body succumbed to the cold and water exposure       |
-
-> **DM Note:**  
-> If the party attempts to rest while still wet from the passage, the frigid air of Jhed will quickly seep into their bones. Each character will take **1d4 cold damage** and gain **one level of Exhaustion** from the relentless chill. Encourage the players to seek warmth or take measures to dry off before attempting to rest in Jhed’s unforgiving climate.
 
 ---
 
