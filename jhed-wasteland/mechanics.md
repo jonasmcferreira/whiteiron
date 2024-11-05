@@ -16,6 +16,16 @@ Choices and consequences could lead to key NPC functions becoming unavailable, l
 
 The party may also want to bolster the facilities available to Netrus, don't discourage this as the party should feel their on the location.
 
+### Crafting
+
+Gritty Realism - PHB/DMG crafting time x 8
+
+Needs assistance of an Arcane crafter that can work on items during downtime.
+
+Each player can have only one crafted item, the process of completing another crafted item will destroy the Previous
+
+Each player should have time to craft 1 uncommon item (80 days) or 2 consumables (40 days each) these should be ready by the Siege of Netrus
+
 ## Macguffins
 
 ### Bloodstone
@@ -23,11 +33,16 @@ The party may also want to bolster the facilities available to Netrus, don't dis
 
    Spilling your own blood onto a Bloodstone will grant a vision of the Sheessar Yuan'ti "Greatest"
 
+   Covers important objects
+
+   First tomb - White Dragon Egg
+
 ### Scaleplum 
 
 a deep blue fruit that grows on J'hed fungi in the shape of a bumpy plum/acorn
  - consuming one grants cold resist for 8 hours
  - can be used to create combination healing/cold resist potion
+ - grows from the heart of the dead, bioluminicent
 
 ### J'hed Quartz
 
@@ -56,67 +71,102 @@ Ignore if you have cold resistance
 
 ## Setting Specific Madness 
 
-When you gain a Madness, you increase your Madness level by 1 and roll to determine which Madness you gain. Take 1d12 psycic damage when you fail to uphold to your madness once per day. At Madness level 3 your madness is no longer effected by Remove Curse
+When you gain a Madness, you increase your Madness level by 1 and roll to determine which Madness you gain. Take 1d6 psycic damage when you fail to uphold to your madness once per day.
 
-| Tier 1 | Name               |  Effect   |
-|------|----------------------|--|
-|1|--|Desire to only eat meat|
-|2|--|Desire to only eat plants |
-|3|--| Will not eat Rations|
-|4|--| Must eat three times as much|
-|5|--| Being drunk keeps me sane |
-|6|--| You will always wear a mask   |
-|7|--| You will change clothes every short rest    |
-|8|--| You will wear the most expensive clothing     |
-|9|--| You wear the clothing of creatures you defeated      |
-|10|--| Must always be within 60ft of a fire      |
-|11|--| wants to touch the temperature of everything     |
-|12|--| wants to burn something once per Rest      |
-|13|--| doesn't want to be submerged in water     |
-|14|--| I keep whatever nonvaluables I find    |
-|15|--| must destroy all silver    |
-|16|--| desire to bite things    |
-|17|--| howl at the moon      |
-|18|--| more likely to believe larger creatures      |
-|19|--| disbelieve smaller creatures      |
-|20|--| play games of strength      |
-|1|--| collect 10+ lb rocks       |
-|1|--| “I try to become more like someone else I know—adopting his or her style of dress, mannerisms, and name.”      |
-|1|--| “I must bend the truth, exaggerate, or outright lie to be interesting to other people.”      |
-|1|--| “Achieving my goal is the only thing of interest to me, and I’ll ignore everything else to pursue it.”      |
-|1|--| “I find it hard to care about anything that goes on around me.”      |
-|1|--| “I don’t like the way people judge me all the time.”    |
-|1|--| 	“I am the smartest, wisest, strongest, fastest, and most beautiful person I know.”       |
-|1|--| “I am convinced that powerful enemies are hunting me, and their agents are everywhere I go. I am sure they’re watching me all the time.”       |
-|1|--| 	“There’s only one person I can trust. And only I can see this special friend.”      |
-|1|--| 	“I can’t take anything seriously. The more serious the situation, the funnier I find it.”      |
-|1|--| “I’ve discovered that I really like killing people.”   |
+### Madness 1:
 
-| Tier 2 | Name               |  Effect   |
-|------|----------------------|--|
-|2|--| +5ft movement speed      |
-|2|--| increased carry capacity      |
-|2|--| 5ft reach      |
-|2|--| +1 AC       |
-|2|--| gain the tough origin feat       |
-|2|--| gain a wildshape to specific animal      |
-|2|--| sheds a dim light 20ft      |
-|2|--| can deal 1d6 fire damage once per Short Rest      |
-|2|--| destroy unused clothing                         |
-|2|--| advantage on performance checks      |
-|2|--| disguise self once per day     |
-|2|--| Resistance to Poison Damage|
-|2|--| Advantage to Resist effects against Poison|
-|2|--| resistance to necrotic damage |
+   The player selects which of two results for the d20 roll
 
-| Tier 3/4 | Name               |  Effect   |
-|------|----------------------|--|
-|3|--|  Only eats poisonous/spoiled foods                     |
-|3|--| Curious to what can be burned      |
-|3|--| vulnerable to silvered weapons     |
-|3|--| fire vulnerability      |
-|4|--| vulnerable to radiant damage                  |
-|4|--| Resistance to Fire Damage, Vulnerable to Cold Damage      |
+   Medicine Check DC 13 Calm Emotion will surpress the affect, Remove Curse will cure the madness
+
+   Sammul has access to Remove Curse
+
+| d20 | Effect "I...   "                                 |
+|-----|--------------------------------------------------|
+| 1   | (Will not eat Rations) desire to only eat meat   |
+| 1   | (Will not eat Rations) desire to only eat plants |
+| 2   | Eat three times as much                          |
+| 2   | believe being drunk keeps me sane                |
+| 3   | desire to kill                                   |
+| 3   | desire to take hostages                          |
+| 4   | have a sinister laugh                            |
+| 4   | joke at inappropriate times                      |
+| 5   | collect ammunition                               |
+| 5   | collect blood                                    |
+| 6   | wear a mask and the most expensive clothing      |
+| 6   | wear the clothing of creatures you defeated      |
+| 7   | try to be like someone I know                    |
+| 7   | try to be the most beautiful                     |
+| 8   | only trust my imaginary friend                   |
+| 8   | only trust larger creatures                      |
+| 9   | must tell my truth                               |
+| 9   | must lie about myself                            |
+| 10  | am being watched by eyes in the ground           |
+| 10  | am being hunted by the stars                     |
+| 11  | must exaggerate                                  |
+| 11  | must be the loudest                              |
+| 12  | am the smartest person I know                    |
+| 12  | sing of the days events                          |
+| 13  | attempt to divine the future                     |
+| 13  | am the strongest person I know                   |
+| 14  | Must always be within 60ft of a flame            |
+| 14  | want to burn things                              |
+| 15  | need to bath daily                               |
+| 15  | water disgusts me                                |
+| 16  | believe all my injuries are fatal                |
+| 16  | ignore my injuries                               |
+| 17  | believe nothing is in my way                     |
+| 17  | get others to do my dirtywork                    |
+| 18  | must have little wealth                          |
+| 18  | hoard as a dragon                                |
+| 19  | must destroy all my gold                         |
+| 19  | must destroy all my silver                       |
+| 20  | pray to the sun                                  |
+| 20  | howl at the moon                                 |
+
+
+
+### Madness 2
+
+| d20 | Effect                                               |
+|--------|----------------------------------------------|
+| 1       | 5ft reach                                        |
+| 2       | 5ft movement speed                               |
+| 3       | +1 AC                                            |
+| 4       | +10ft Blindsight                                 |
+| 5       | Gain the tough origin feat (reroll if you have)  |
+| 6       | gain a wildshape to specific animal              |
+| 7       | +2 to initiative                                 |
+| 8       | crit on 19                                       |
+| 9       | Grow one size                                    |
+| 10      | Gain an expertise                                |
+| 11      | Gain a random language                           |
+| 12      | Gain a random proficiency                        |
+| 13      | Gain a 1st level spell slot                      |
+| 14      | Gain a weapon proficiency                        |
+| 15      | Gain an armour proficiency                       |
+| 16      | Temp health after Short or Long rest             |
+| 17      | Gain +2 death save                               |
+| 18      | Can expend hit die for damage                    |
+| 19      | gain a resistance                                |
+| 20      | heroic inspiration per rest                      |
+
+
+### Madness 3
+
+| d20 | Effect                                          |
+|--------|----------------------------------------------|
+| 1      | vulnerability to fire damage                 |
+| 2      | vulnerability to cold damage                 |
+| 3      | vulnerability to lightning damage            |
+| 4      | vulnerability to thunder damage              |
+| 5      | vulnerability to acid damage                 |
+| 6      | vulnerability to force damage                |
+| 7      | vulnerability to radiant damage              |
+| 8      | vulnerability to necrotic damage             |
+| 9      | vulnerability to poison damage               |
+
+### Madness 4
 
 
 
