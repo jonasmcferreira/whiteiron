@@ -431,15 +431,11 @@ Attacked by 1d4 poisonous snake, and 1 giant poisonous snake
 
 These berries are important and grow randomly through Jhed
 
+#### Encounter: Arrival at Netrus
+
 **Code of Snow:** Sammul the religious leader of Netrus will explain to the party that though their task is lawful, Jhed is a place of new beginnings and that actions taken before someone has reached Jhed are not held against their character. The village of Netrus will even offer the gold reward of the bounty to ignore it.
 
 **Bounty Hunters:** Though bounty hunters act within the law, they are despised by the population of Jhed, disputes should be handled personally. This makes Jhed a home for new beginnings of shady characters
-
-**Ascended Kobold:**
-
-    Twice per long rest: bless, inflict wounds
-
-#### Encounter 6: Arrival at Netrus
 
 
 ## Level Two Adventure: The Hunting Party
