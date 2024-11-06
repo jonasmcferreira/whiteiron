@@ -13,13 +13,32 @@ This choice represents the party deciding to continue overland travel in Jhed, a
 
 ## Shelter
 
-Shelter in place represents the party taking a short rest (8 hours), and waiting for the weather to change. When the Shelter option has negative effects, it usually is representing enduring the weather as shelter is found. The DM can decide that in this particular situation there is no viable shelter, but would advise against this as weather represents large chunks of time passing 8-16 hours, and can easily lead to over punishing conditions
+Sheltering in place represents the party taking a short rest (8 hours) and waiting for the weather to improve. The DM may decide that no viable shelter is available, but it’s advised to use this sparingly, as the weather itself represents large spans of time passing (8–16 hours), and denying shelter could lead to overly punishing conditions.
+
+**Roll on the shelter table for effects:**
+
+| D12 Roll | Result                                             |
+|----------|----------------------------------------------------|
+| 1        | Gain 1 level of Exhaustion                         |
+| 2        | Gain 1 level of Madness                            |
+| 3        | Short rest cannot be completed                     |
+| 4        | Take 3 cold damage                                 |
+| 5        | Expend one spell slot                              |
+| 6        | Expend one hit die                                 |
+| 7        | Consume double rations                             |
+| 8        | Take 1 cold damage                                 |
+| 9        | lose all temporary HP                              |
+| 10       | Gain an Inspiration die                            |
+| 11       | Consume one less hit die                           |
+| 12       | Add Constitution modifier twice to hit die (min 1) |
 
 ## Calm before the Storm
-   if the party rolls a "Stormy" result, they will first get a calm weather result before the Storm
+
+if the party rolls a "Stormy" result, they will first get a calm weather result before the Storm
 
 ## Boon
-   only applied to players (we have to be nice somtimes)
+
+only applied to players (we have to be nice somtimes)
 
 ## Weather
 
