@@ -16,7 +16,7 @@ Choices and consequences could lead to key NPC functions becoming unavailable, l
 
 The party may also want to bolster the facilities available to Netrus, don't discourage this as the party should feel their on the location.
 
-### Crafting
+## Crafting
 
 Gritty Realism - PHB/DMG crafting time x 8
 

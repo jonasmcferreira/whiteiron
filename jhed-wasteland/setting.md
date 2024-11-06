@@ -64,7 +64,7 @@ Wind, snow, thunder, lightning, magical effects, tremors
 
 ### J'hed
 
-Consists of 
+Consists of the mainland, the coast and the Bay and wasteland 
 
 #### J'hed Mainland
 

@@ -63,7 +63,7 @@ Nomadic Yuan-ti with Giant Snakes, Lizardfolk with Dinosaurs, and Kobolds pillag
 
 Eating local beasts and Scaleplum grant the ability to survive these climates
 
-## Vegitation
+## Vegetation
 
 Scaleplum(fungi) Blue - grants cold resistance for a day
 
