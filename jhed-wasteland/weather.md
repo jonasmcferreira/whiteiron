@@ -1,7 +1,5 @@
 # Weather
 
-
-
 The campaign of Jhed should focus heavily on weather, emphasizing how taxing on resources and time dealing with the intense and arcane weather can be. The weather changes quickly represented by rolling on a weather table after each short or long rest. A party should be considering how to engage a problem or delay or speed up their plans based on the weather.
 
 Weather in Jhed is an entity and every time that there is a need to travel, or if the characters stay unsheltered somewhere longer than a few hours, then we must roll on the weather table.
