@@ -2,16 +2,6 @@
 
 ## The Wild Food of Jhed
 
-Eating fresh raw meat or fruits of Jhed wilderness have mostly positive effects. 
-
-| roll | beast/monstrosity        | plant | humanoid |
-|------|--------------------------|-------|----------|
-| 1-4  | poisoned                 | ----- | curse    |
-| 5-19 | cold resistance 24 hours | ----- | curse    |
-| 20   | specific to mob          | ----- | curse    |
-
-Kobolds, Lizardfolk and Yuan-ti ignore the curse of eating humanoids
-
 ### Scavenging for food/water
 
 There is no easy meal or prey in J'hed, scavenging takes the 8 hour day
@@ -22,30 +12,49 @@ Investigation Check DC 16, on a sucess roll on scavanged supplies table (to be b
 
 ## Replacing Key NPCs
 
-Choices and consequences could lead to key NPC functions becoming unavailable, like the ability to remove curse depending on the party compositions. To replace an NPC the party has to convince an outsider of the Outer Region or Thieves to endure and live in J'hed, the easiest way to do this is gold, and it would be difficult for this cost to be less than 5,000gps. Sourcing this assistance from Outer Region or Thieves Key also will grant those locations influence on Netrus
+Choices and consequences could lead to key NPC functions becoming unavailable, like Sammul's ability to remove curses. To replace an NPC the party has to convince an outsider of the Outer Region or Thieves Key to endure and live in J'hed, the easiest way to do this is gold, and it would be difficult for this cost to be less than 5,000gps. Sourcing this assistance from Outer Region or Thieves Key also will grant those locations influence on Netrus
 
-The party may also want to bolster the facilities available to Netrus, don't discourage this as the party should feel the mark they have on the location.
+The party may also want to bolster the facilities available to Netrus, don't discourage this as the party should feel their on the location.
+
+### Crafting
+
+Gritty Realism - PHB/DMG crafting time x 8
+
+Needs assistance of an Arcane crafter that can work on items during downtime.
+
+Each player can have only one crafted item, the process of completing another crafted item will destroy the Previous
+
+Each player should have time to craft 1 uncommon item (80 days) or 2 consumables (40 days each) these should be ready by the Siege of Netrus
 
 ## Macguffins
+
+### Bloodstone
+   Melt outside of J'hed
+
+   Spilling your own blood onto a Bloodstone will grant a vision of the Sheessar Yuan'ti "Greatest"
+
+   Covers important objects
+
+   First tomb - White Dragon Egg
 
 ### Scaleplum 
 
 a deep blue fruit that grows on J'hed fungi in the shape of a bumpy plum/acorn
  - consuming one grants cold resist for 8 hours
  - can be used to create combination healing/cold resist potion
+ - grows from the heart of the dead, bioluminicent
 
-### Steel Quartz
+### J'hed Quartz
 
 indestructable material found in J'hed, it can't be reshaped by any means
    - immunity to all damage
 
+   - it is worth massive amounts of coin as crafter try to learn the secrets of the Quartz, but is useless for now
+
 ### Ooze Ichor
 
    - causes hallucinations when touched
-   - can become Bloodstone
 
-### Bloodstone
-   Melt outside of J'hed
 
 ## Cold Exposure (simplified)
 
@@ -53,60 +62,115 @@ No source of heat? level of exhaustion gained
 Burning supplies is acceptable form of heat
 Ignore if you have cold resistance
 
-## Exhaustion Levels (old), we could use this...
 
-Exhaustion caused by cold exposure follows standard D&D rules:
-
-1. **Level 1**: Disadvantage on Ability Checks.
-2. **Level 2**: Speed halved.
-3. **Level 3**: Disadvantage on Attack Rolls and Saving Throws.
-4. **Level 4**: Hit Point Maximum halved.
-5. **Level 5**: Speed reduced to 0.
-6. **Level 6**: Death.
 
 **Recovery from Exhaustion**:
 - Each level of exhaustion requires one full day of rest in a warm environment with adequate food and water.
 - Magical means (such as the *Greater Restoration* spell) can reduce exhaustion levels.
 
 
-## Setting Specific Madness - considering max 4
+## Setting Specific Madness 
 
-ribbon // good // bad // locked
+When you gain a Madness, you increase your Madness level by 1 and roll to determine which Madness you gain. Take 1d6 psycic damage when you fail to uphold to your madness once per day.
 
-When you gain a category of Madness, you select which one in the tier. Take 1d12 psycic damage when you fail to uphold to your madness once per day, once your Madness reaches 4 it can no longer be removed with Remove Curse spell
+### Madness 1:
 
-Madness are formatted for first level to be flavor, second to be a buff, third debuff, 4th plot
+   The player selects which of two results for the d20 roll
+
+   Medicine Check DC 13 Calm Emotion will surpress the affect, Remove Curse will cure the madness
+
+   Sammul has access to Remove Curse
+
+| d20 | Effect "I...   "                                 |
+|-----|--------------------------------------------------|
+| 1   | (Will not eat Rations) desire to only eat meat   |
+| 1   | (Will not eat Rations) desire to only eat plants |
+| 2   | Eat three times as much                          |
+| 2   | believe being drunk keeps me sane                |
+| 3   | desire to kill                                   |
+| 3   | desire to take hostages                          |
+| 4   | have a sinister laugh                            |
+| 4   | joke at inappropriate times                      |
+| 5   | collect ammunition                               |
+| 5   | collect blood                                    |
+| 6   | wear a mask and the most expensive clothing      |
+| 6   | wear the clothing of creatures you defeated      |
+| 7   | try to be like someone I know                    |
+| 7   | try to be the most beautiful                     |
+| 8   | only trust my imaginary friend                   |
+| 8   | only trust larger creatures                      |
+| 9   | must tell my truth                               |
+| 9   | must lie about myself                            |
+| 10  | am being watched by eyes in the ground           |
+| 10  | am being hunted by the stars                     |
+| 11  | must exaggerate                                  |
+| 11  | must be the loudest                              |
+| 12  | am the smartest person I know                    |
+| 12  | sing of the days events                          |
+| 13  | attempt to divine the future                     |
+| 13  | am the strongest person I know                   |
+| 14  | Must always be within 60ft of a flame            |
+| 14  | want to burn things                              |
+| 15  | need to bath daily                               |
+| 15  | water disgusts me                                |
+| 16  | believe all my injuries are fatal                |
+| 16  | ignore my injuries                               |
+| 17  | believe nothing is in my way                     |
+| 17  | get others to do my dirtywork                    |
+| 18  | must have little wealth                          |
+| 18  | hoard as a dragon                                |
+| 19  | must destroy all my gold                         |
+| 19  | must destroy all my silver                       |
+| 20  | pray to the sun                                  |
+| 20  | howl at the moon                                 |
 
 
-### Madness of Consumption/Dead
 
-| Tier | Effect               |
-|------|----------------------|
-| 1    | Desire to only eat meat                       |
-| 1    | Desire to only eat plants                     |
-| 1    | Will not eat Rations                          |
-| 1    | Must eat three times as much                  |
-| 2    | Resistance to Poison Damage                   |
-| 2    | Advantage to Resist effects against Poison    |
-| 2    | resistance to necrotic damage                 |
-| 3    | Only eats poisonous foods                     |
-| 4    | vulnerable to radiant damage                  |
+### Madness 2
+
+| d20 | Effect                                               |
+|--------|----------------------------------------------|
+| 1       | 5ft reach                                        |
+| 2       | 5ft movement speed                               |
+| 3       | +1 AC                                            |
+| 4       | +10ft Blindsight                                 |
+| 5       | Gain the tough origin feat (reroll if you have)  |
+| 6       | gain a wildshape to specific animal              |
+| 7       | +2 to initiative                                 |
+| 8       | crit on 19                                       |
+| 9       | Grow one size                                    |
+| 10      | Gain an expertise                                |
+| 11      | Gain a random language                           |
+| 12      | Gain a random proficiency                        |
+| 13      | Gain a 1st level spell slot                      |
+| 14      | Gain a weapon proficiency                        |
+| 15      | Gain an armour proficiency                       |
+| 16      | Temp health after Short or Long rest             |
+| 17      | Gain +2 death save                               |
+| 18      | Can expend hit die for damage                    |
+| 19      | gain a resistance                                |
+| 20      | heroic inspiration per rest                      |
 
 
-### Madness of Apperance 
+### Madness 3
 
-| Tier | Effect                                          |
-|------|-------------------------------------------------|
-| 1    | You will always wear a mask                     |
-| 1    | You will change clothes every short rest        |
-| 1    | You will wear the most expensive clothing       |
-| 1    | You wear the clothing of creatures you defeated |
-| 2    | advantage on performance checks                 |
-| 2    | disguise self once per day                      |
-| 3    | destroy unused clothing                         |
-| 4    | --                                              |
+| d20 | Effect                                          |
+|--------|----------------------------------------------|
+| 1      | vulnerability to fire damage                 |
+| 2      | vulnerability to cold damage                 |
+| 3      | vulnerability to lightning damage            |
+| 4      | vulnerability to thunder damage              |
+| 5      | vulnerability to acid damage                 |
+| 6      | vulnerability to force damage                |
+| 7      | vulnerability to radiant damage              |
+| 8      | vulnerability to necrotic damage             |
+| 9      | vulnerability to poison damage               |
 
-## Madness of Flesh
+### Madness 4
+
+
+
+## OLD Madness of Flesh
 
 If a humanoid eats flesh of a humanoid, they gain the Madness of the Wendigo and lose all other Madness effects. After gaining the Madness of the Wendigo, you make a DC15 Wisdom Save everytime you eat humanoid flesh
 
@@ -118,73 +182,23 @@ If a humanoid eats flesh of a humanoid, they gain the Madness of the Wendigo and
 | 3    | Can only eat humanoid flesh       |
 | 4    | --              |
 
-### Madness of Fire
-
-| Tier | Effect                                          |
-|------|-------------------------------------------------|
-| 1    | Must always be within 60ft of a fire              |
-| 1    | wants to touch the temperature of everything |
-| 1    | wants to burn something once per Rest |
-| 1    | doesn't want to be submerged in water |
-| 2    | sheds a dim light 20ft |
-| 2    | can deal 1d6 fire damage once per Short Rest       |
-| 3    | Curious to what can be burned                       |
-| 4    | Resistance to Fire Damage, Vulnerable to Cold Damage |
-
-### Madness of Lycanthrope
-
-| Tier | Effect                                          |
-|------|-------------------------------------------------|
-| 1    | must destroy all silver                    |
-| 1    | desire to bite things                    |
-| 1    | howl at the moon                    |
-| 1    | --                    |
-| 2    | +1 AC        |
-| 2    | gain the tough origin feat       |
-| 2    | gain a wildshape to specific animal  |
-| 3    | vulnerable to silvered weapons          |
-| 4    | --  |
-
-### Madness of Giants
-
-| Tier | Effect                                          |
-|------|-------------------------------------------------|
-| 1    | more likely to believe larger creatures        |
-| 1    | disbelieve smaller creatures        |
-| 1    | play games of strength        |
-| 1    | collect 10+ lb rocks        |
-| 2    | +5ft movement speed        |
-| 2    | increased carry capacity       |
-| 2    | 5ft reach       |
-| 3    | fire vulnerability                     |
-| 4    | -- |
-
-
-### Madness of Snakes
-
-| Tier | Effect                                          |
-|------|-------------------------------------------------|
-| 1    | --                    |
-| 2    | --        |
-| 2    | --       |
-| 3    | --                     |
-| 4    | -- |
-
-### Madness of Dragons
-
-| Tier | Effect                                          |
-|------|-------------------------------------------------|
-| 1    | --                    |
-| 2    | --        |
-| 2    | --       |
-| 3    | --                     |
-| 4    | -- |
 
 ## Boon and Bane
 
 Netrus is being assisted by both Southport but mostly Thieves Key. The party will make decisions to assist one of those three locations and this will create an immediate benefit that the party has access and should also create a complication due to this change, the party will be sculpting the future of J'hed.
 
-## Official Mechanics
+## Old
+### Exhaustion Levels (old), we could use this...
+
+Exhaustion caused by cold exposure follows standard D&D rules:
+
+1. **Level 1**: Disadvantage on Ability Checks.
+2. **Level 2**: Speed halved.
+3. **Level 3**: Disadvantage on Attack Rolls and Saving Throws.
+4. **Level 4**: Hit Point Maximum halved.
+5. **Level 5**: Speed reduced to 0.
+6. **Level 6**: Death.
+
 
 ### Madness Effects DMG(2014)
 
@@ -250,17 +264,6 @@ A character afflicted with indefinite madness gains a new character flaw from th
 
 A calm emotions spell can suppress the effects of madness, while a lesser restoration spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, remove curse or dispel evil might also prove effective. A greater restoration spell or more powerful magic is required to rid a character of indefinite madness.
 
-### Exhaustion Levels
-
-Exhaustion caused by cold exposure follows standard D&D rules:
-
-1. **Level 1**: Disadvantage on Ability Checks.
-2. **Level 2**: Speed halved.
-3. **Level 3**: Disadvantage on Attack Rolls and Saving Throws.
-4. **Level 4**: Hit Point Maximum halved.
-5. **Level 5**: Speed reduced to 0.
-6. **Level 6**: Death.
-
 #### Extreme Cold
 
 Whenever the temperature is at or below **0 degrees Fahrenheit**, a creature exposed to the cold must succeed on a **DC 10 Constitution saving throw** at the end of **each hour or gain one level of exhaustion**. Creatures with **resistance or immunity to cold damage automatically succeed** on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
@@ -269,4 +272,3 @@ Whenever the temperature is at or below **0 degrees Fahrenheit**, a creature exp
 ### Frigid Water (page 110)
 
 A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of exhaustion
-
