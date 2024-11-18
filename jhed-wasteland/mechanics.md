@@ -5,9 +5,7 @@
 ### Scavenging for food/water
 
 There is no easy meal or prey in J'hed, scavenging takes the 8 hour day
-
 Survival Check DC 16, on a success roll on wilderness table (to be built)
-
 Investigation Check DC 16, on a sucess roll on scavanged supplies table (to be built)
 
 ## Replacing Key NPCs
@@ -19,42 +17,37 @@ The party may also want to bolster the facilities available to Netrus, don't dis
 ## Crafting
 
 Gritty Realism - PHB/DMG crafting time x 8
-
 Needs assistance of an Arcane crafter that can work on items during downtime.
-
 Each player can have only one crafted item, the process of completing another crafted item will destroy the Previous
-
 Each player should have time to craft 1 uncommon item (80 days) or 2 consumables (40 days each) these should be ready by the Siege of Netrus
 
 ## Macguffins
 
 ### Bloodstone
-   Melt outside of J'hed
 
-   Spilling your own blood onto a Bloodstone will grant a vision of the Sheessar Yuan'ti "Greatest"
+Melt outside of J'hed
+Spilling your own blood onto a Bloodstone will grant a vision of the Sheessar Yuan'ti "Greatest"
+Covers important objects
+First tomb - White Dragon Egg
 
-   Covers important objects
+### Scaleplum
 
-   First tomb - White Dragon Egg
+a deep blue fruit that grows on J'hed fungi in the shape of a bumpy plum/acorn:
 
-### Scaleplum 
-
-a deep blue fruit that grows on J'hed fungi in the shape of a bumpy plum/acorn
- - consuming one grants cold resist for 8 hours
- - can be used to create combination healing/cold resist potion
- - grows from the heart of the dead, bioluminicent
+- consuming one grants cold resist for 8 hours
+- can be used to create combination healing/cold resist potion
+- grows from the heart of the dead, bioluminicent
 
 ### J'hed Quartz
 
 indestructable material found in J'hed, it can't be reshaped by any means
-   - immunity to all damage
 
-   - it is worth massive amounts of coin as crafter try to learn the secrets of the Quartz, but is useless for now
+- immunity to all damage
+- it is worth massive amounts of coin as crafter try to learn the secrets of the Quartz, but is useless for now
 
 ### Ooze Ichor
 
-   - causes hallucinations when touched
-
+- causes hallucinations when touched
 
 ## Cold Exposure (simplified)
 
@@ -62,24 +55,20 @@ No source of heat? level of exhaustion gained
 Burning supplies is acceptable form of heat
 Ignore if you have cold resistance
 
-
-
 **Recovery from Exhaustion**:
+
 - Each level of exhaustion requires one full day of rest in a warm environment with adequate food and water.
 - Magical means (such as the *Greater Restoration* spell) can reduce exhaustion levels.
 
-
-## Setting Specific Madness 
+## Setting Specific Madness
 
 When you gain a Madness, you increase your Madness level by 1 and roll to determine which Madness you gain. Take 1d6 psycic damage when you fail to uphold to your madness once per day.
 
-### Madness 1:
+### Madness 1
 
-   The player selects which of two results for the d20 roll
-
-   Medicine Check DC 13 Calm Emotion will surpress the affect, Remove Curse will cure the madness
-
-   Sammul has access to Remove Curse
+The player selects which of two results for the d20 roll
+Medicine Check DC 13 Calm Emotion will surpress the affect, Remove Curse will cure the madness
+Sammul has access to Remove Curse
 
 | d20 | Effect "I...   "                                 |
 |-----|--------------------------------------------------|
@@ -114,7 +103,7 @@ When you gain a Madness, you increase your Madness level by 1 and roll to determ
 | 15  | need to bath daily                               |
 | 15  | water disgusts me                                |
 | 16  | believe all my injuries are fatal                |
-| 16  | ignore my injuries                               |
+| 16  | "It's only a flesh wound!"                       |
 | 17  | believe nothing is in my way                     |
 | 17  | get others to do my dirtywork                    |
 | 18  | must have little wealth                          |
@@ -123,8 +112,6 @@ When you gain a Madness, you increase your Madness level by 1 and roll to determ
 | 19  | must destroy all my silver                       |
 | 20  | pray to the sun                                  |
 | 20  | howl at the moon                                 |
-
-
 
 ### Madness 2
 
@@ -151,7 +138,6 @@ When you gain a Madness, you increase your Madness level by 1 and roll to determ
 | 19      | gain a resistance                                |
 | 20      | heroic inspiration per rest                      |
 
-
 ### Madness 3
 
 | d20 | Effect                                          |
@@ -165,29 +151,28 @@ When you gain a Madness, you increase your Madness level by 1 and roll to determ
 | 7      | vulnerability to radiant damage              |
 | 8      | vulnerability to necrotic damage             |
 | 9      | vulnerability to poison damage               |
+| 10     | vulnerability to psychic damage              |
 
 ### Madness 4
-
-
 
 ## OLD Madness of Flesh
 
 If a humanoid eats flesh of a humanoid, they gain the Madness of the Wendigo and lose all other Madness effects. After gaining the Madness of the Wendigo, you make a DC15 Wisdom Save everytime you eat humanoid flesh
 
-| Tier | Instant               | 
+| Tier | Instant               |
 |------|-----------------------|
-| 1    | Vision of the Wendigo | 
+| 1    | Vision of the Wendigo |
 | 2    | You can consume humanoid flesh to remove an Exhaustion Level       |
 | 2    | You can consume humanoid flesh to gain Resistance to Cold Damage        |
 | 3    | Can only eat humanoid flesh       |
 | 4    | --              |
-
 
 ## Boon and Bane
 
 Netrus is being assisted by both Southport but mostly Thieves Key. The party will make decisions to assist one of those three locations and this will create an immediate benefit that the party has access and should also create a complication due to this change, the party will be sculpting the future of J'hed.
 
 ## Old
+
 ### Exhaustion Levels (old), we could use this...
 
 Exhaustion caused by cold exposure follows standard D&D rules:
@@ -198,7 +183,6 @@ Exhaustion caused by cold exposure follows standard D&D rules:
 4. **Level 4**: Hit Point Maximum halved.
 5. **Level 5**: Speed reduced to 0.
 6. **Level 6**: Death.
-
 
 ### Madness Effects DMG(2014)
 
@@ -250,11 +234,11 @@ A character afflicted with indefinite madness gains a new character flaw from th
 |01–15   | “Being drunk keeps me sane.”   |
 |16–25   | "I keep whatever I find."    |
 |26–30   | “I try to become more like someone else I know—adopting his or her style of dress, mannerisms, and name.”  |
-|31–35   | 	“I must bend the truth, exaggerate, or outright lie to be interesting to other people.” |
-|36–45   | 	“Achieving my goal is the only thing of interest to me, and I’ll ignore everything else to pursue it.” |
+|31–35   | “I must bend the truth, exaggerate, or outright lie to be interesting to other people.” |
+|36–45   | “Achieving my goal is the only thing of interest to me, and I’ll ignore everything else to pursue it.” |
 |46–50   | “I find it hard to care about anything that goes on around me.” |
-|51–55   | 	“I don’t like the way people judge me all the time.” |
-|56–70   | 	“I am the smartest, wisest, strongest, fastest, and most beautiful person I know.”|
+|51–55   | “I don’t like the way people judge me all the time.” |
+|56–70   | “I am the smartest, wisest, strongest, fastest, and most beautiful person I know.”|
 |71–80   |“I am convinced that powerful enemies are hunting me, and their agents are everywhere I go. I am sure they’re watching me all the time.” |
 |81–85   | “There’s only one person I can trust. And only I can see this special friend.” |
 |86–95   | “I can’t take anything seriously. The more serious the situation, the funnier I find it.” |

@@ -289,7 +289,7 @@ Og - DripEye
 
 #### Og - SkullEater (wanted)
 
-#### Ograllion 
+#### Ograllion
 
 ## Kobolds
 

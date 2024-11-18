@@ -19,16 +19,12 @@ Overlooking it all is **Brimhest's Nest**, a lofty perch built into the cliffs, 
 
 This is where your journey begins—a **final taste of warmth and drink** before stepping into the cold jaws of the Jhed Continent.
 
----
-
 #### Why You're Here
 
 For weeks, the smuggler's route between **Netrus**—a small but vital frontier town in Jhed—and Thieves Key has gone cold. The last crew sent with essential supplies and trade goods never returned. Netrus relies heavily on these deliveries to survive the harsh winters and to offload the discoveries from the frozen wastes. If the route is not re-established, the town will collapse, and the situation is dire enough that Brimhest has approved your expedition to deliver a **50 lbs package** critical to their survival.
 
 You have been promised **600 gp** to deliver this package, with an additional **100 gp per extra crate** you can carry, but be warned: any lost cargo will cost you **150 gp in penalties**, and if the main package isn't delivered, the entire deal is void.
 
-
----
 
 #### Motivations for Your Journey
 
@@ -51,8 +47,6 @@ Your immediate goal is to reach **Netrus** by navigating the **Smuggler's Tunnel
 The **Roc**, a massive bird that patrols the skies over Jhed, is a constant threat, forcing smugglers to use these dangerous underground routes. Any attempt to travel overland would end in certain death beneath its talons.
 
 Don Vras, a seasoned smuggler with a **dark past**, will be your ferry captain. As you set sail, he fills the air with tales of the dangers ahead—how the Roc claims vast stretches of territory and how the last crew that attempted this route vanished without a trace. He describes how the Roc’s shadow darkens the waters, a grim omen for anyone daring enough to cross its domain. He has sailed to the **Witch's Nip** many times before.
-
----
 
 #### Tasks Before You Leave
 
@@ -95,8 +89,6 @@ The **Smuggler’s Tunnel** is a lifeline between **Thieves Key** and **Netrus**
 >
 > If the party gets stuck, introduce Kresh and Krew to assist them. The goal is to keep the adventure dynamic and engaging, ensuring that each encounter feels fresh and responsive to their actions.
 
----
-
 #### Encounter: Boarded Wall
 
 As the tunnel twists and narrows, the party will come across several makeshift wooden barriers erected by past smugglers and thieves. Each is marked with **Thieves’ Cant**, warning of the dangers ahead. A **Rogue** or anyone who can read the code will recognize the symbols, which indicate traps, potential ambushes, or secret passages hidden behind the walls.
@@ -121,8 +113,6 @@ A rogue investigating can be told the result of their roll before destroying the
 5. **Split** The path splits in two. Each path requires a new D6 roll and can split again.
 6. **Short Cut** An hour down the path reveals a shortcut. If the party has already found this, replace it with a "Too Cold" result.
 
----
-
 #### Encounter: Ghost of the Past I
 
 > DM Note:  After the party wakes from their first short rest.
@@ -133,8 +123,6 @@ As the party rests for the first time inside the tunnel, something unsettling ha
 
 This ghostly figure does not engage the players directly but serves as a haunting reminder that many have come before them—and not all made it out.
 
----
-
 #### Encounter: Kresh and Krew
 
 The faint sound of iron against ice echoes before stalagtites above you buckles and breaks. Three hulking Lizardfolk fall from above.  
@@ -144,8 +132,6 @@ They only speak Draconic, but clearly have climbing gear, tools and will help th
 Kresh and Krew won't stick around to help the party further and dig down to the waters
 
 Lizardfolk names should all start with "Kr"
-
----
 
 #### Encounter: A Wall of Ice
 
@@ -165,8 +151,6 @@ You may increase the challenge by having the Kobolds use the opportunity to ambu
 | Survival      | 13 | Learn that the wall is climbable, but will hurt a bit |                                   |
 | Perception     | 16 | Shadows of Kobolds hint they are moving away |                                   |
 | Investigation  | 13 | Tracks lead back into the Boarded Walls (bypass) |                                   |
-
----
 
 #### Encounter : Remnants of the Trade Party
 
@@ -198,8 +182,6 @@ Among the chaos, hiding behind the makeshift wooden barrier and through a crawls
 
 **If party is Hostile to Oniteth:** If the party shows hostility towards her, Oniteth will cast **Charm Person**, **Sleep**, or **Gaseous Form** to escape, trying to protect herself in her vulnerable state.
 
----
-
 #### Encounter : UnderRoc Tower
 
 > DM Note: A series of 3 combats in one. Stay in initiative order, and if players don't act after 3 rounds, the Kobolds will act (either run, attack, or bargain). Kobolds in J'héd always involve traps and will attack to gain Pact Tactics, retreating when only one is left.
@@ -219,8 +201,6 @@ Among the chaos, hiding behind the makeshift wooden barrier and through a crawls
 | Top Floor         | Kobold   | 6+     | Caltrops          |
 
 The tunnel opens up to a cliffside where a bridge connects two towering cliffs. At either end of the bridge stands a stone tower, each two floors high with arrow slits and vantage points, domed and covered at the top. The bridge stretches a daunting **600 feet** long, shrouded in fog.
-
----
 
 ##### Bridge Entrance
 
@@ -243,8 +223,6 @@ The Kobolds would rather complete a trade and run away. They search for food, tr
 | Intimidation    | 13 | The Kobolds retreat into the keep                        |
 | Persuasion      | 10 | Trade for passage                                        |
 
----
-
 ##### Tower Ground Floor
 
 Upon entering the floor is cluttered with broken crates and remnants of supplies. A scarred wooden table in the center holds stained maps to Netrus, while a barricade of crates conceals a few alert Kobolds. A sudden crash from above echoes through the chamber, hinting at chaos within.
@@ -266,16 +244,12 @@ Upon entering the floor is cluttered with broken crates and remnants of supplies
 | Intimidation    | 13 | The Kobolds retreat into the keep                        |
 | Persuasion      | 10 | Trade for passage                                        |
 
----
-
 ##### Crawl Space
 
 Inside the crawl space, the party finds a **dead guard** in Outer Empire clothing (wearing a chain shirt), along with two notes, **7gp, 14sp, and 98cp**.
 
 - **Note One**: "Yalna, I told you I was coming home soon. I know I could have done better. I wish I wasn't such a coward in these moments, but I am trying."
 - **Note Two**: "Captain Faotil has been locked in his chamber for weeks. A delivery came for him, and he hasn't left. Scouts report sightings of lurking creatures encroaching the pass—no confirmations. The undead have increased in numbers, and we have requested aid. Everyone is on edge."
-
----
 
 ##### Officer Quarters
 
@@ -306,8 +280,6 @@ Casting a cantrip within 30ft of the door fails, but the door glows as the caste
 
 **Script on the Walls**: The writing covering the walls appears to be a mix of mundane military orders, strange symbols, and incomprehensible ramblings. Any adventurer who attempts to read the script must make a Wisdom Save (DC 13) as the madness within the writing begins to seep into their mind. On a failed save, the character screams as the incomprehensible knowledge floods their consciousness, dealing 1d6 psychic damage. On a failure the character is also able to read and understand that the writings reference The Great Works. On a success, the character feels uneasy, no damage is taken, and the writing remains non-sensical.
 
----
-
 ##### Tower Top
 
 At the top of the tower, the party will encounter 6 Kobolds and 1 Kobold Aspirant, plus any Kobolds that fled earlier.
@@ -318,8 +290,6 @@ At the top of the tower, the party will encounter 6 Kobolds and 1 Kobold Aspiran
 
 **Another Route :**
 An Investigation Check (High, automatic pass if using Thieves' Cant) reveals a tunnel big enough to crawl through and move crates. It seems to snake its way near the bridge but is not large enough for a wagon. The party can then proceed to the Underpass.
-
----
 
 #### Encounter: Underpass
 
@@ -332,8 +302,6 @@ Grey Ooze: moving along the corridor is a grey ooze, a still oil slick patch of 
 > DM Note: Attack the highest hitpoint target as the ooze does 3d6+1 damage and can crit. If the party wants the campaign to be difficult simply attack who is leading the party
 
 If the characters make it to the end of the tunnel, they have successfully passed under the UnderRoc bridge and will emerge at the base of the tower on the opposite side 600ft away.
-
----
 
 #### Encounter: The Pass
 
@@ -355,8 +323,6 @@ As the party ventures further, they come upon the remains of a shattered caravan
 
 **Loot**: within the remnants of the caravan, the party can find 2 sets of tools (roll randomly) and raw supplies (nails, planks, linens, etc) worth 1d100 copper, silver and gold, and one scale mail with the *Outer Empire* symbol.
 
----
-
 #### Encounter: Roc
 
 Peering through the mist, the adventurers glimpse the cracked beak of a **Gargantuan bird**, its feathers a deep black with purple-tipped edges. Its beady eyes lock onto the trespassers as it lets out a rapid, unnerving clicking noise. With a powerful beat of its wings, the Roc takes to the sky, causing a violent gust of wind to blast toward the party.
@@ -373,8 +339,6 @@ Though the Roc soars off into the distance, the adventurers can sense that they�
 | Arcana        | 16  | Detect faint magical influence around the Roc's feathers          |
 | History       | 13  | Recall legends of the Roc guarding ancient paths or hidden peaks  |
 | Investigation | 13  | Notice tracks of the Roc in the stone, proof of its frequent presence |
-
----
 
 #### Encounter: Tower II
 
@@ -399,13 +363,11 @@ The lizardfolk are busy **digging** around the base of the tower, searching for 
 | Investigation | 13  | Spot signs of recent kobold activity around the tower              |
 | Nature        | 10  | Identify the lizardfolk as territorial and proud creatures         |
 
----
-
 #### Encounter: Obstacle - Submerged Passage
 
 Ahead, a crack in the ceiling lets water cascade down, forming a waterfall that completely blocks the passage. The adventurers must push through the torrent, forcing them to swim against the current as they continue forward.Crossing the river will take one minute, as there are rocks and a strong current to deal with.
 
-> DM Note: A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of exhaustion. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures that are naturally adapted to living in ice-cold water.
+> DM Note: A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of exhaustion. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures that are naturally adapted to living in ice-cold water. DMG 2014 pg.118
 
 Further down the makeshift river, a faint glow illuminates the water. The source is a cluster of **Scale Plums**—luminescent plants with a soft, eerie light. Observant adventurers may notice, with a successful Perception or Investigation check, a body near the Scale Plums. It appears as though this individual had been trying to reach the plants but slipped and fell, meeting their end in the icy water.
 
@@ -421,24 +383,42 @@ Further down the makeshift river, a faint glow illuminates the water. The source
 | Athletics        | 10  | Swim successfully through the strong current                           |
 | Medicine         | 10  | Determine that the body succumbed to the cold and water exposure       |
 
----
+#### Encounter: Tunnel exit
 
-#### Encounter: Open Wasteland
-
-Brush with large deep blue "berries" 1d4
-
-Attacked by 1d4 poisonous snake, and 1 giant poisonous snake
-
-These berries are important and grow randomly through Jhed
+Outpost at the exit of the tunnel.
+Theres 1d4 netrus watch party
+They're defneding the pass and escorting anyone that exits from the tunnel to Netrus.
+One of the watch party offers to guide the adventurers on the path to Netrus
+you are able to short rest within the tower
+it is one day travel fromt he tower to netrus with this guidance. without guidance 3 days.
 
 #### Encounter: Arrival at Netrus
 
-**Code of Snow:** Sammul the religious leader of Netrus will explain to the party that though their task is lawful, Jhed is a place of new beginnings and that actions taken before someone has reached Jhed are not held against their character. The village of Netrus will even offer the gold reward of the bounty to ignore it.
+The party will arrive at Netrus.
+They will delvier the packages they have and receive their compensation.
+You'll be able to do a long rest in Netrus
 
-**Bounty Hunters:** Though bounty hunters act within the law, they are despised by the population of Jhed, disputes should be handled personally. This makes Jhed a home for new beginnings of shady characters
+## Level Two Adventure: Locating a missing Hunting Party
+
+### Introduction
 
 
-## Level Two Adventure: The Hunting Party
+There's a group of missing people that Netrus is interested in finding.
+A hunting aprty that has left for over a week and has not returned or sent word, which is unusual.
+you are asked to track them and find out what happened.
+you will be given the opportunity to buy supplies int eh city before
+
+- You will be given a vision
+- party will travel to last knwon location of hunting party and use their skills to track the party
+- tacks will lead to a cave
+- frist room with the skeletons
+- second room with bowls
+- third room with darkness
+- infinite corridor
+- room with a large bloodstone
+- tomb
+- the hostage room
+- wizards laboratory
 
 ## Level Four Adventure: Securing the Ice Sled
 
@@ -449,8 +429,6 @@ These berries are important and grow randomly through Jhed
 **Hook** While the party is in Netrus, a wandering undead laborer, known as a "volunteer," stumbles into the village, lost and in disrepair. The appearance of this undead worker, typically found only in Dhuren Tol, raises concern among the villagers and curiosity in the party.
 
 ### Act 1: The Lost Volunteer
-
----
 
 #### The Volunteer’s Arrival
 
@@ -465,8 +443,6 @@ Nick Ugris, the towering Hill Giant leader of Netrus, approaches with a frown et
 As the volunteer collapses to the ground, its head jerking spasmodically, Sammul carefully retrieves the note and the broken equipment. He looks up at the party, his eyes serious. "This volunteer is from Dhuren Tol. Something must be terribly wrong for it to end up here in such a state. We need to decipher these clues and find out what’s happening."
 
 Nick nods, his massive hand gently patting the volunteer’s bony shoulder. "You lot," he says, addressing the party, "seems like you’re just the right folks to get to the bottom of this. Let’s see what we can make of these clues and get you ready for the journey ahead."
-
----
 
 #### Deciphering the Clues
 
@@ -666,9 +642,8 @@ Wants make his denizens no longer nomadic and settle in Netrus, but he will not 
 
 Party can convince Kreg to invade Thieves Key, or Southport but they will have to supply the resources for such an invasion (not cheap)
 
-
-
 ## Shessaar - Yuan-ti
+
 Only refer to Lesser, Greater or Equal, very spiritual
 
 ### Ally

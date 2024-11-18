@@ -132,6 +132,9 @@ The runes around the town are Explosive Glyphs crafted by Sammul, and he makes a
 
 **Madness**: Sammul's friendly demeanor is a fault of a madness, if removed he will revert back to a cultist
 
+**Code of Snow:** Sammul the religious leader of Netrus will explain to the party that though their task is lawful, Jhed is a place of new beginnings and that actions taken before someone has reached Jhed are not held against their character. The village of Netrus will even offer the gold reward of the bounty to ignore it.
+
+**Bounty Hunters:** Though bounty hunters act within the law, they are despised by the population of Jhed, disputes should be handled personally. This makes Jhed a home for new beginnings of shady characters
 
 ### Dizrim Headhunter (Bounty Hunter - Outer Regions)
 
