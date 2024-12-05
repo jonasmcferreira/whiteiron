@@ -1,11 +1,28 @@
 # Adventures
 
-## Module: Levels 1-4
+## Introduction
 
-- **Journey to Netrus** Encounter undead, Kobolds, Fungi, Beasts, Madness.
-- **Short Quest** "Save" animals for sled (potential werewolf encounter).
-- **Acquire Sled** Meet warring tribes (Kobold, Lizardfolk, Yuan-ti).
-- **Defend Netrus** Ideally with the help of an ally.
+This book contains a complete Dungeons & Dragons adventure, set in the frozen wilderness of Jhed. This adventure is designed for characters of levels 1 to 4, with a focus on exploration, survival, and uncovering ancient secrets.
+
+### Running the Adventure
+
+Journey to Netrus takes adventurers into the icy and treacherous terrain of Jhed. The adventure begins in Thieves Key, a grimy haven for smugglers and outcasts, and progresses through dangerous tunnels and encounters with monstrous creatures before reaching the settlement of Netrus.
+
+This adventure assumes the DM will narrate the events and control the pacing while players engage with the world and its challenges. The included encounters and developments guide the progression of the story.
+
+### Background
+
+For centuries, the icy continent of Jhed has been a place of mystery and peril. Explorers, smugglers, and outcasts brave its frozen expanse, lured by tales of arcane power and ancient civilizations buried beneath the ice. The town of Netrus serves as the last beacon of civilization, its survival dependent on a fragile trade route with Thieves Key.
+
+Recently, this smuggler's route has gone silent. Crews sent to deliver vital supplies to Netrus have vanished without a trace, and the town faces imminent collapse. To re-establish the route and ensure Netrus's survival, a desperate mission has been commissioned.
+
+### Overview
+
+Journey to Netrus is divided into several parts:
+
+1. **Thieves Key**: Players gather supplies, meet key NPCs, and prepare for their journey.
+2. **The Smuggler’s Tunnel**: A perilous underground passage filled with challenges, from environmental hazards to hostile creatures.
+3. **Arrival in Netrus**: The adventurers defend the town against a looming threat, with opportunities for alliances or betrayal.
 
 ## Level One Adventure: Journey To Netrus
 
@@ -53,7 +70,6 @@ Don Vras, a seasoned smuggler with a **dark past**, will be your ferry captain. 
 Before leaving Thieves Key, you need to make final preparations. You’ll have the chance to **purchase supplies**, gather **information**, and meet with key NPCs who may offer assistance—or try to sabotage your efforts.
 
 Ensure you have enough food, cold-weather gear, and rations to last several days in freezing conditions. The journey to Netrus is long and treacherous.
-
 
 Speak with **Brimhest**, **Don Vras**, and others in the Thieves Key. They may offer **clues** about the dangers ahead, or tips on how to survive the journey. Some may even have ulterior motives.
 

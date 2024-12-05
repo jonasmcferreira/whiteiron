@@ -227,7 +227,7 @@ The trail leads five miles northwest and ends at the Cragmaw hideout (see that s
 
 Defeating the goblin ambushers and finding the Cragmaw hideout completes a story milestone. When the party arrives at the hideout, award each character 75 XP. Make sure the players record this gain on their character sheets.
 
-## Cragmaw Hideout
+# Cragmaw Hideout
 
 The Cragmaw tribe of goblins has established a hideout from which it can easily harass and plunder traffic moving along the Triboar Trail or the path to Phandalin. The Cragmaw tribe is so named because each member of the tribe sharpens its teeth so they appear fierce and jagged.
 
