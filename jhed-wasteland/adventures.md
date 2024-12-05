@@ -14,7 +14,11 @@ This adventure assumes the DM will narrate the events and control the pacing whi
 
 For centuries, the icy continent of Jhed has been a place of mystery and peril. Explorers, smugglers, and outcasts brave its frozen expanse, lured by tales of arcane power and ancient civilizations buried beneath the ice. The town of Netrus serves as the last beacon of civilization, its survival dependent on a fragile trade route with Thieves Key.
 
-Recently, this smuggler's route has gone silent. Crews sent to deliver vital supplies to Netrus have vanished without a trace, and the town faces imminent collapse. To re-establish the route and ensure Netrus's survival, a desperate mission has been commissioned.
+Your journey begins at **Thieves Key**, a notorious halfway point between the civilized world and the icy wilderness of Jhed. Perched in a cove with creaking piers and flickering lanterns, this is a place where **secrets are traded as often as goods**. Thieves, cutthroats, pirates, and outcasts gather here under the watchful eyes of **Brimhest Deepbrew**, the gruff, beer-stained dwarf who runs this lawless haven. Nothing happens here without Brimhest knowing, or at least approving.
+
+Overlooking it all is **Brimhest's Nest**, a lofty perch built into the cliffs, from where Brimhest watches the comings and goings of everyone in Thieves Key. To meet with Brimhest, you'll need to wait your turn in line, or if you're smart, grease the right palms to skip it. Below, in the **Loose Coin**, adventurers and thieves alike seek shelter, though the inn is little more than a series of shanty cubicles where **privacy is a luxury no one can afford**.
+
+This is where your journey begins—a **final taste of warmth and drink** before stepping into the cold jaws of the Jhed Continent.
 
 ### Overview
 
@@ -24,38 +28,15 @@ Journey to Netrus is divided into several parts:
 2. **The Smuggler’s Tunnel**: A perilous underground passage filled with challenges, from environmental hazards to hostile creatures.
 3. **Arrival in Netrus**: The adventurers defend the town against a looming threat, with opportunities for alliances or betrayal.
 
+---
+
 ## Level One Adventure: Journey To Netrus
-
-### Introduction
-
-Your journey begins at **Thieves Key**, a notorious halfway point between the civilized world and the icy wilderness of Jhed. Perched in a cove with creaking piers and flickering lanterns, this is a place where **secrets are traded as often as goods**. Thieves, cutthroats, pirates, and outcasts gather here under the watchful eyes of **Brimhest Deepbrew**, the gruff, beer-stained dwarf who runs this lawless haven. Nothing happens here without Brimhest knowing, or at least approving.
-
-The Thieves Key is not for the faint of heart. It's a dark, grimy port where ships come to unload illicit goods and repair battered hulls before venturing further south. The **Dockworks** are filled with the sound of hammering, shouting, and the creak of wooden ships. Dockworkers, visibly branded with marks of loyalty, toil under the ever-present threat of betrayal—a **caged corpse** with a sign reading "Traitor" serves as a stark reminder of what happens to those who cross the wrong people.
-
-Overlooking it all is **Brimhest's Nest**, a lofty perch built into the cliffs, from where Brimhest watches the comings and goings of everyone in Thieves Key. To meet with Brimhest, you'll need to wait your turn in line, or if you're smart, grease the right palms to skip it. Below, in the **Loose Coin**, adventurers and thieves alike seek shelter, though the inn is little more than a series of shanty cubicles where **privacy is a luxury no one can afford**.
-
-This is where your journey begins—a **final taste of warmth and drink** before stepping into the cold jaws of the Jhed Continent.
 
 #### Why You're Here
 
 For weeks, the smuggler's route between **Netrus**—a small but vital frontier town in Jhed—and Thieves Key has gone cold. The last crew sent with essential supplies and trade goods never returned. Netrus relies heavily on these deliveries to survive the harsh winters and to offload the discoveries from the frozen wastes. If the route is not re-established, the town will collapse, and the situation is dire enough that Brimhest has approved your expedition to deliver a **50 lbs package** critical to their survival.
 
 You have been promised **600 gp** to deliver this package, with an additional **100 gp per extra crate** you can carry, but be warned: any lost cargo will cost you **150 gp in penalties**, and if the main package isn't delivered, the entire deal is void.
-
-
-#### Motivations for Your Journey
-
-As you prepare for the perilous trek ahead, you each reflect on why you’ve taken this risk:
-
-- **Fortune Seekers** Jhed promises unimaginable riches, from rare gems to ancient artifacts hidden beneath the ice. This expedition could set you up for life—if you survive.
-  
-- **Knowledge Seekers** The icy expanse of Jhed holds **arcane secrets and lost knowledge** from ancient civilizations. You’ve heard rumors of powerful magic trapped in the glaciers, waiting to be unlocked.
-  
-- **Exiles and Outcasts** Some of you have come to Jhed because there’s nowhere else to go. The world behind you holds **only danger or disgrace**, and the endless snow is the perfect place to disappear.
-  
-- **Adventurers and Survivalists** For you, Jhed is the **ultimate challenge**—a frozen wasteland that will test every skill and instinct you possess. You crave the thrill of survival against impossible odds.
-
-Whatever your reason, you’ve banded together for this journey. The weather, the creatures, and even the very land itself will try to kill you, but together you might just survive.
 
 ### The Smuggler's Tunnel: Your First Steps Into Jhed
 
@@ -64,14 +45,6 @@ Your immediate goal is to reach **Netrus** by navigating the **Smuggler's Tunnel
 The **Roc**, a massive bird that patrols the skies over Jhed, is a constant threat, forcing smugglers to use these dangerous underground routes. Any attempt to travel overland would end in certain death beneath its talons.
 
 Don Vras, a seasoned smuggler with a **dark past**, will be your ferry captain. As you set sail, he fills the air with tales of the dangers ahead—how the Roc claims vast stretches of territory and how the last crew that attempted this route vanished without a trace. He describes how the Roc’s shadow darkens the waters, a grim omen for anyone daring enough to cross its domain. He has sailed to the **Witch's Nip** many times before.
-
-#### Tasks Before You Leave
-
-Before leaving Thieves Key, you need to make final preparations. You’ll have the chance to **purchase supplies**, gather **information**, and meet with key NPCs who may offer assistance—or try to sabotage your efforts.
-
-Ensure you have enough food, cold-weather gear, and rations to last several days in freezing conditions. The journey to Netrus is long and treacherous.
-
-Speak with **Brimhest**, **Don Vras**, and others in the Thieves Key. They may offer **clues** about the dangers ahead, or tips on how to survive the journey. Some may even have ulterior motives.
 
 ### The Journey Begins
 
