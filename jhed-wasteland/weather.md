@@ -15,7 +15,7 @@ This choice represents the party deciding to continue overland travel in Jhed, a
 
 Sheltering in place represents the party taking a short rest (8 hours) and waiting for the weather to improve. The DM may decide that no viable shelter is available, but it’s advised to use this sparingly, as the weather itself represents large spans of time passing (8–16 hours), and denying shelter could lead to overly punishing conditions.
 
-**Roll on the shelter table for effects:**
+**Roll on the Shelter table for effects:**
 
 | D12 Roll | Result                                             |
 |----------|----------------------------------------------------|
@@ -38,7 +38,7 @@ if the party rolls a "Stormy" result, they will first get a calm weather result 
 
 ## Boon
 
-only applied to players (we have to be nice somtimes)
+only applied to players (we have to be nice sometimes)
 
 ## Weather
 
