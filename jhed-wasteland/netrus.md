@@ -6,7 +6,7 @@ Breaking the snowdrift is a constant plume of smoke, a village teetering at the 
 
 ### Grey Spire
 
-A grey spire is the main feature of Netrus at one end of this horseshoe shaped village. Naturally formed on one half with snow clinging like moss; the rest cleft by stonework turned to brick, for a circular platform. Harsh winds keep the snow from settling on the smooth cut stone at the arched passage, none but Nick Elder enter. Deep groves crafted to Arcane Sigils adorn this place, different others found in Netrus. The Grey Spire watches over the expanse of J'hed, tips of mountains peaking above a heavy fog 
+A grey spire is the main feature of Netrus at one end of this horseshoe shaped village. Naturally formed on one half with snow clinging like moss; the rest cleft by stonework turned to brick, for a circular platform. Harsh winds keep the snow from settling on the smooth cut stone at the arched passage, none but Nick Elder enter. Deep groves crafted to Arcane Sigils adorn this place, different others found in Netrus. The Grey Spire watches over the expanse of J'hed, tips of mountains lapeaking aabove a heavy fog 
 
 The glyphs of Grey Spire appear to be difficult to decypher but they are clearly there to ward away the unwanted
 
