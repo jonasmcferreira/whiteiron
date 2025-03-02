@@ -56,7 +56,6 @@ Always add previous effects
 | 44    | Set Winds           |
 | 45-48 | Thunder             |
 | 49    | Inspiring Snow      |
-| 55-58 | Madness             |
 | 50-54 | Torrent             |
 | 54    | Steel Winds         |
 | 55-58 | Madness             |
@@ -79,10 +78,9 @@ Always add previous effects
 | 99    | Teleport            |
 | 00    | Magic Item          |
 
+1-10 **No Effect**: just flavor
 
-1. -10. **No Effect**: just flavor
-
-11. 12. **Freezing Thoughts**
+11-12 **Freezing Thoughts**
 
 | 1d6 | Effect                                                                |
 |-----|-----------------------------------------------------------------------|
@@ -93,7 +91,7 @@ Always add previous effects
 | 5   | Charisma Save DC 13, on a failed save cannot speak common             |
 | 6   | Charisma Save DC 13, on a failed save cannot concentrate              |
 
-13. -16. **Snow and Fog**:
+13-16 **Snow and Fog**:
 
 | 1d6 | Effect                                                          |
 |-----|-----------------------------------------------------------------|
@@ -104,7 +102,7 @@ Always add previous effects
 | 5   | lightly obscured vision, heavily obscured past 30ft             |
 | 6   | Blinded                                                         |
 
-17. -20. **Wind**: A gale force pushes chaotically in all directions (add one?)
+17-20 **Wind**: A gale force pushes chaotically in all directions (add one?)
 
 Ranged attacks/spells are at disadvantage  
 
@@ -115,7 +113,7 @@ Ranged attacks/spells are at disadvantage
 | 3   | Strength Save DC13, one point of exhaustion on a failed save |
 | 4   | Strength Save DC16, one point of exhaustion on a failed save |
 
-21. -24. **Tremors**: The snow beneath shifts and trembles
+21-24 **Tremors**: The snow beneath shifts and trembles
 
 difficult terrain
 
@@ -126,7 +124,7 @@ difficult terrain
 | 3   | movement speed reduced to 0                                   |
 | 4   | movement speed reduced to 0 and gain an a level of exhaustion |
 
-25. -29. **Harsh Conditions**:
+25-29 **Harsh Conditions**:
 
 | d6 | Category            | Descriptor                                           |
 |----|---------------------|------------------------------------------------------|
@@ -136,11 +134,10 @@ difficult terrain
 | 4  | 1 Lightning damage    | A sudden crackle strikes into the party              |
 | 5  | 1 Psychic damage      | The feeling of an innevitable death lingers          |
 | 6  | 1 Acid damage         | As the snowfall reaches the party, acidmarks appear  |
-    
-30. **Coin Hail**: hail of copper silver and gold, 1d100 copper, 1d20 silver, 1d4 gold collectable each
- - Dexterity Save DC13, 1d10 Bludgeoning Damage or half as much on a successful save, 
 
-31. -33. **Hail**: Elemental Hail and Rocks strike from above
+30 **Coin Hail**: hail of copper silver and gold, 1d100 copper, 1d20 silver, 1d4 gold collectable each - Dexterity Save DC13, 1d10 Bludgeoning Damage or half as much on a successful save.
+
+31-33 **Hail**: Elemental Hail and Rocks strike from above
 
 | 1d4 | Effect                                                                                                                         |
 |-----|--------------------------------------------------------------------------------------------------------------------------------|
@@ -149,10 +146,9 @@ difficult terrain
 | 3   | Dexterity Save DC16, 1d4 Force Damage, 1d4 Cold Damage, 1d4 Fire Damage, 1d4 Acid Damage, or half as much on a successful save |
 | 4   | Dexterity Save DC16, Heal 1d4 hit points and gain 1d4 Temporary Hit points on a failure                                        |
 
-34. **Rust Fog** 
-   - Constitution Save DC13, equipped non magic armour permananetly reduced AC by 1
+34  **Rust Fog** Constitution Save DC13, equipped non magic armour permananetly reduced AC by 1
 
-35. -38. **Cold** The cold seemingly sapping your ability to endure
+35-38 **Cold** The cold seemingly sapping your ability to endure
 
 | 1d4 | Effect                                                                                                     |
 |-----|------------------------------------------------------------------------------------------------------------|
@@ -161,10 +157,9 @@ difficult terrain
 | 3   | Constitution Save DC16, 1d8 Cold Damage and one point of exhaustion on a failure half as much on a success |
 | 4   | 1d10 Cold Damage and one point of exhaustion                                                               |
 
-39. Cleansing Lightning
-   - Charisma Save DC10, on a failed save lose all Temporary Hit Points
+39 **Cleansing Lightning** - Charisma Save DC10, on a failed save lose all Temporary Hit Points
 
-40. -43. **Lightning**:
+40-43 **Lightning**:
 
 | 1d4 | Effect                                                      |
 |-----|-------------------------------------------------------------|
@@ -173,10 +168,9 @@ difficult terrain
 | 3   | Dexterity Save DC13, 2d6 Lightning Damage on a failed save  |
 | 4   | Dexterity Save DC16, 3d4 Lightning Damage on a failed save  |
 
-44. **Set Winds**
-   - Intelligence Save DC13, on a failure AC is locked to 15
+44  **Set Winds**  Intelligence Save DC13, on a failure AC is locked to 15
 
-45. -48. **Thunder**: A threatening crash of elemental thunder   
+45-48 **Thunder**: A threatening crash of elemental thunder
 
 | 1d4 | Effect                                                                                                              |
 |-----|---------------------------------------------------------------------------------------------------------------------|
@@ -185,11 +179,9 @@ difficult terrain
 | 3   | Constitution Save DC13, on a fail 1d10 Thunder Damage or half as much on a success                                  |
 | 4   | Constitution Save DC16, on a fail 1d10 Thunder Damage and Deafened or half as much on a success and no other effect |
 
-49. **Inspiring Snow**
-   - Lose any Heroic Inspiration
-   - Charisma Save DC13, on a failed save you gain a Heroic Inspiration
+49 **Inspiring Snow** Lose any Heroic Inspiration. Charisma Save DC13, on a failed save you gain a Heroic Inspiration
 
-50. -53. **Torrent**
+50-53 **Torrent**
 
 | 1d4 | Effect                                             |
 |-----|----------------------------------------------------|
@@ -198,10 +190,9 @@ difficult terrain
 | 3   | roll on the **Ligtning** and **Wind** table        |
 | 4   | roll on the **Thunder** and **Snow and Fog** table |
 
-54.  **Steel Winds**:
-   - D20+0 spell attack roll against creatures, 1d10 Force Damage on a hit
+54  **Steel Winds** D20+0 spell attack roll against creatures, 1d10 Force Damage on a hit
 
-55. -58. **Madness**:
+55-58 **Madness**
 
 | 1d4 | Effect                                                                                           |
 |-----|--------------------------------------------------------------------------------------------------|
@@ -210,11 +201,9 @@ difficult terrain
 | 3   | Intelligence Save DC16, on a fail your Madness increases by 1, burn an item of value             |
 | 4   | Gain a madness                                                                                   |
 
-59. **Fire Hail**:
-   - Ignites flammable objects
-   - Dexterity Save DC 10, 1d10 Fire Damage or half as much on a successful save.  
+59 **Fire Hail**: Ignites flammable objects, Dexterity Save DC 10, 1d10 Fire Damage or half as much on a successful save.  
 
-60. -63. Silvered Snow
+60-63. Silvered Snow
 
 | 1d4 | Effect                        |
 |-----|-------------------------------|
@@ -223,11 +212,9 @@ difficult terrain
 | 3   | heal 3d4 Hit Points           |
 | 4   | gain 3d4 Temporary Hit Points |
 
-64. **Poisoning Fog**:
-   - creatures are poisoned 
-   - roll on **Snow and Fog** Table
+64 **Poisoning Fog**: Creatures are poisoned. Roll on **Snow and Fog** Table
 
-65. -68. **Offering**:
+65-68 **Offering**:
 
 | 1d4 | Effect                                                                 |
 |-----|------------------------------------------------------------------------|
@@ -238,11 +225,9 @@ difficult terrain
 
  take 1d8 Psychic damage if any party member takes them
 
-69. **Acid Snow**:
-   - 2d4 Acid Damage
-   - can craft 1 Vial of Acid with Alchemy supplies
+69 **Acid Snow** 2d4 Acid Damage. Can craft 1 Vial of Acid with Alchemy supplies
 
-70. -73. **Winds of Time**:
+70-73 **Winds of Time**
 
 | 1d4 | Winds of Time                                                                                        |
 |-----|------------------------------------------------------------------------------------------------------|
@@ -251,11 +236,9 @@ difficult terrain
 | 3   | Charisma Save DC13, on a failed save you age to that of a young adult                                |
 | 4   | Charisma Save DC16, on a failed save you age to that of a senior                                     |
 
-74. **Radiant Fissures**:
-   - terrain sheds a dim light
-   - Charisma save DC10, 1d8 radiant damage on a failed save
+74 **Radiant Fissures**: Terrain sheds a dim light. Charisma save DC10, 1d8 radiant damage on a failed save
 
-75. -78. Surreal Snowfall
+75-78 **Surreal Snowfall**
 
 | 1d4 | effect                                                                                       |
 |-----|----------------------------------------------------------------------------------------------|
@@ -264,10 +247,9 @@ difficult terrain
 | 3   | Strength Save DC13, on a failed save you cannot fly                                          |
 | 4   | Intelligence Save DC13, on a failed save you swim in the air                                 |
 
-79. **Exhaustion**
-   - gain a level of exhaustion
+79 **Exhaustion** gain a level of exhaustion
 
-80. -83. Arcane Infused Air
+80-83 **Arcane Infused Air**
 
 | 1d4 | effect                                                                                                 |
 |-----|--------------------------------------------------------------------------------------------------------|
@@ -276,10 +258,9 @@ difficult terrain
 | 3   | Wisdom Save DC10, on a failed save you gain the effect of Haste or Slow (50/50 chance)                 |
 | 4   | Constitution Save DC10, on a failed save become under the effect of Enlarge/Reduce (50/50 chance each) |
 
-84. **Haunting Whispers**: Sounds of the past and future
-   - Wisdom Save DC10, on a failed save suffer a short-term madness
+84 **Haunting Whispers**: Sounds of the past and future. Wisdom Save DC10, on a failed save suffer a short-term madness
 
-85. -88. Fatal Omens
+85-88 Fatal Omens
 
 | 1d4 | effect                                                                                                       |
 |-----|--------------------------------------------------------------------------------------------------------------|
@@ -288,10 +269,9 @@ difficult terrain
 | 3   | Constitution Save DC16, on a failed save you can expend a Hit Die to heal as a Bonus Action                  |
 | 4   | Automatically fail a death saving throw when you drop to 0 HP                                                |
 
-89. **Arcane Lock** Arcane energies lock all containers
-   - All containers, backpacks, sacs, vials, etc become under the effect of Arcane Lock for 8 hours
+89 **Arcane Lock** Arcane energies lock all containers. All containers, backpacks, sacs, vials, etc become under the effect of Arcane Lock for 8 hours.
 
-90. -93. **Enlightening Winds**:
+90-93 **Enlightening Winds**:
 
 | 1d4 | effect                                                                                      |
 |-----|---------------------------------------------------------------------------------------------|
@@ -300,10 +280,9 @@ difficult terrain
 | 3   | Charisma Save DC13, on a fail gain the effect of Armor of Agathys                           |
 | 4   | Charisma Save DC13, on a failed save under the effect of Zone of Truth                      |
 
-94. **Attuned Chill**
-   - Intelligence Save DC13, on a failed save you drop attunement on all items
+94 **Attuned Chill** Intelligence Save DC13, on a failed save you drop attunement on all items
 
-95. -98. Boon
+95-98 **Boon**
 
 | 1d6 | effect                                       |
 |-----|----------------------------------------------|
@@ -314,11 +293,9 @@ difficult terrain
 | 5   | Boon of Irresistable Offense or Spell Recall |
 | 6   | Boon of Skill                                |
 
-99. **Teleport**
-   The party teleports to their destination as if using the Teleport spell (result On Target)
+99 **Teleport** The party teleports to their destination as if using the Teleport spell (result On Target)
 
-100. **Magical Item**
-   A magical item falls from the sky at the parties feet
+100 **Magical Item** A magical item falls from the sky at the parties feet
 
 ### Ignore
 **add**
