@@ -3,6 +3,7 @@ site_url: https://jonasmcferreira.github.io/whiteiron/
 
 nav:
   - Jhed Wasteland:
+    - jhed-wasteland/setting.md
     
 theme:
   name: material
