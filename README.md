@@ -10,7 +10,7 @@ Welcome to the **WhiteIron** GitHub repository. We are dedicated to creating hig
 
 ## Introduction
 
-**WhiteIron** is the creative brainchild of Jonas Ferreira and Sean White. Combining our love for storytelling and Dungeons & Dragons, we aim to deliver engaging and immersive adventures for players of all levels.
+ **WhiteIron** is the creative brainchild of Jonas Ferreira and Sean White. Combining our love for storytelling and Dungeons & Dragons, we aim to deliver engaging and immersive adventures for players of all levels.
 
 ## License
 
