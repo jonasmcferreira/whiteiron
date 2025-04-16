@@ -1,5 +1,6 @@
 site_name: WhiteIron
 site_url: https://jonasmcferreira.github.io/whiteiron/
+docs_dir: .
 
 nav:
   - Jhed Wasteland:
