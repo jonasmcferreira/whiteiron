@@ -1,0 +1,47 @@
+site_name: WhiteIron
+site_url: https://jonasmcferreira.github.io/whiteiron/
+
+nav:
+  - Jhed Wasteland:
+    
+theme:
+  name: material
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    logo: material/sword-cross
+  favicon: 'material/library'
+  font:
+    text: Roboto
+  features:
+    - navigation.footer
+    - navigation.path
+    - navigation.top
+    - navigation.tabs
+
+plugins: 
+  - glightbox
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
