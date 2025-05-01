@@ -24,7 +24,8 @@ theme:
     logo: material/sword-cross
   favicon: 'material/library'
   font:
-    text: Roboto
+    text: "EB Garamond"
+    code: "Fira Code"
   features:
     - navigation.footer
     - navigation.path
