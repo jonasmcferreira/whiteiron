@@ -1,6 +1,6 @@
 # Encounters
 
-Use this random creature table to help populate the biome around Netrus
+Use this random creature table to help populate the biome around Netrus. Consider rolling a d20 not just to create an encounter but to help describe what the party sees in the distance while they journey through J'hed. Mix and match the creatures in the list to reinforce the oddity of the creature in the landscape.
 
 
 | d20 | Type  | d20  | type | 
