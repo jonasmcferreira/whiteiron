@@ -14,4 +14,4 @@ Welcome to the **WhiteIron** GitHub repository. We are dedicated to creating hig
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
