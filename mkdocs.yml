@@ -2,26 +2,32 @@ site_name: WhiteIron
 site_url: https://jonasmcferreira.github.io/whiteiron/
 
 nav:
-  - Jhed Wasteland:
-    - jhed-wasteland/setting.md
+  - Settings:
+    - settings.md
+  - Subclasses:
+    - subclasses.md
+  - Items:
+    - items.md
+  - Experiments:
+    - experiments.md
     
 theme:
   name: material
   palette: 
     # Palette toggle for light mode
     - scheme: default
-      primary: blue
+      primary: indigo
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
     # Palette toggle for dark mode
     - scheme: slate
-      primary: blue
+      primary: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
   icon:
-    logo: material/sword-cross
+    logo: material/architecture
   favicon: 'material/library'
   font:
     text: Roboto
