@@ -8,11 +8,13 @@ Each subclass includes:
 - Mechanical breakdown (features per level)
 - Playtest notes and changelogs
 
-## 🪤 Fighter: The Wrangler _(in development)_
+## Barbarian Subclasses
 
-A battlefield controller who uses nets, chains, and tethers to dominate the battlefield and protect allies.
+[Path of the Breaker](subclasses/path-of-the-breaker.md) - A wild, improvised warrior who turns debris into devastation. Anything can be a weapon — especially when rage fuels creativity. Smash magic items, hurl allies, and reduce the battlefield to rubble.
 
-→ [View the Wrangler subclass](subclasses/wrangler.md)
+## Fighter Subclasses
+
+[Wrangler subclass](subclasses/wrangler.md) - A battlefield controller who uses nets, chains, and tethers to dominate the battlefield and protect allies.
 
 
 ---
