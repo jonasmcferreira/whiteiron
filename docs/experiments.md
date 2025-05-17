@@ -4,16 +4,16 @@ Mechanics we're testing, bending, or rewriting — ranging from gritty survival 
 
 ## 🥶 Survival Mechanics
 
-- [Cold Exposure Rules](experiments/cold-exposure.md) – Endure the chill or freeze mid-quest.
-- [Fatigue & Shelter](experiments/cold-exposure.md#fatigue) – Optional subsystem for resting and long travel.
+- [Cold Exposure Rules]() – Endure the chill or freeze mid-quest.
+- [Fatigue & Shelter]() – Optional subsystem for resting and long travel.
 
 ## 🛠️ Crafting Systems
 
-- [Crafting in the Wasteland](experiments/crafting.md) – Resource-based gear creation and enchantment.
+- [Crafting in the Wasteland]() – Resource-based gear creation and enchantment.
 
 ## 🙋 Hireling Rules
 
-- [Servlings & Companions](experiments/servlings.md) – How to safely run non-combatants and crafters in a deadly world.
+- [Servlings & Companions]() – How to safely run non-combatants and crafters in a deadly world.
 
 ---
 
