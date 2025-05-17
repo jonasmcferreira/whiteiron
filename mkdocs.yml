@@ -30,8 +30,8 @@ theme:
     logo: material/sword-cross
   favicon: 'material/library'
   font:
-    text: Roboto
-    code: "Fira Code"
+    text: Ancizar Sans
+    code: Ancizar Serif
   features:
     - navigation.footer
     - navigation.path

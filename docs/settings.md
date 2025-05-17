@@ -2,15 +2,15 @@
 
 Our original worlds and regional expansions for tabletop RPGs.
 
-## 🧊 The Wasteland of Jhed
+## The Wasteland of Jhed
 
 A frozen and unforgiving land of lost empires and survivalism.
 
 - [Overview of Jhed](jhed-wasteland/setting.md)
 - [The Cities of Jhed](jhed-wasteland/cities.md)
 
-## 🌋 Blahblah-B (Placeholder)
+## Lusitania
 
-A volcanic archipelago where gods walk among mortals.
+Join the battle for the Peninsula Iberica choosing between the Roman Empire and the Iberian Celts
 
-- Coming soon
+- [Lusitania](lusitania/00-lusitania.md)
