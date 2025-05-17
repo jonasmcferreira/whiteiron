@@ -37,6 +37,9 @@ theme:
     - navigation.path
     - navigation.top
     - navigation.tabs
+    - navigation.indexes 
+    - toc.follow
+    - toc.integrate
 
 plugins: 
   - glightbox
