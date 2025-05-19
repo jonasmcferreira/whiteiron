@@ -2,17 +2,21 @@ site_name: WhiteIron
 site_url: https://jonasmcferreira.github.io/whiteiron/
 
 nav:
+  - Home: index.md
   - Settings:
-    - settings.md
+      - Overview: settings.md
   - Subclasses:
-    - subclasses.md
+      - All Subclasses: subclasses.md
   - Items:
-    - items.md
+      - Item List: items.md
   - Experiments:
-    - experiments.md
+      - Rule Tests: experiments.md
+
     
 theme:
   name: material
+  logo: img/logo.png
+  favicon: img/logo.png  # Optional – same image as favicon for now
   palette: 
     # Palette toggle for light mode
     - scheme: default
@@ -26,9 +30,6 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  icon:
-    logo: material/sword-cross
-  favicon: 'material/library'
   font:
     text: Ancizar Sans
     code: Ancizar Serif
@@ -41,7 +42,8 @@ theme:
     - toc.follow
     - toc.integrate
 
-plugins: 
+plugins:
+  - search
   - glightbox
 
 extra_css:
@@ -56,3 +58,10 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jonasmcferreira/whiteiron
+  generator: false
+
