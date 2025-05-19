@@ -6,7 +6,7 @@ nav:
   - Campaign Settings:
       - settings.md
   - Subclasses:
-      - index.md
+      - subclasses/index.md
   - Items:
       - items.md
   - Experimental Rules:
