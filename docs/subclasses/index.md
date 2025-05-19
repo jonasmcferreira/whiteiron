@@ -10,11 +10,11 @@ Each subclass includes:
 
 ## Barbarian Subclasses
 
-[Path of the Breaker](subclasses/path-of-the-breaker.md) - A wild, improvised warrior who turns debris into devastation. Anything can be a weapon — especially when rage fuels creativity. Smash magic items, hurl allies, and reduce the battlefield to rubble.
+[Path of the Breaker](path-of-the-breaker.md) - A wild, improvised warrior who turns debris into devastation. Anything can be a weapon — especially when rage fuels creativity. Smash magic items, hurl allies, and reduce the battlefield to rubble.
 
 ## Fighter Subclasses
 
-[Wrangler subclass](subclasses/wrangler.md) - A battlefield controller who uses nets, chains, and tethers to dominate the battlefield and protect allies.
+[Wrangler subclass](wrangler.md) - A battlefield controller who uses nets, chains, and tethers to dominate the battlefield and protect allies.
 
 
 ---

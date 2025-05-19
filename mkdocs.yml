@@ -3,14 +3,14 @@ site_url: https://jonasmcferreira.github.io/whiteiron/
 
 nav:
   - Home: index.md
-  - Settings:
-    - Overview: settings.md
+  - Campaign Settings:
+      - settings.md
   - Subclasses:
-    - All Subclasses: subclasses/index.md
+      - index.md
   - Items:
-    - Item List: items.md
-  - Experiments:
-    - Rule Tests: experiments.md
+      - items.md
+  - Experimental Rules:
+      - experiments.md
 
     
 theme:
