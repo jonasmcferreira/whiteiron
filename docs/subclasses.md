@@ -1,7 +1,3 @@
----
-title: Subclasses
----
-
 # SubClasses
 
 Here you'll find all our homebrew subclasses — tested in the cold, balanced through play, and built with narrative in mind.

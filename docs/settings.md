@@ -2,7 +2,7 @@
 title: Campaign Settings
 ---
 
-# Settings
+# Campaign Settings
 
 Our original worlds and regional expansions for tabletop RPGs.
 

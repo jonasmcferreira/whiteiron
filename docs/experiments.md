@@ -1,7 +1,3 @@
----
-title: Experimental Rules
----
-
 # Experimental Rules
 
 Mechanics we're testing, bending, or rewriting — ranging from gritty survival tweaks to crafting systems and hireling rules.
