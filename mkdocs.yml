@@ -3,7 +3,6 @@ site_url: https://jonasmcferreira.github.io/whiteiron/
 
 nav:
   - Home: index.md
-
   - Settings:
       - settings/index.md
       - Jhed Wasteland:
@@ -21,18 +20,15 @@ nav:
           - Adventures: jhed-wasteland/adventures.md
           - Player Handout: jhed-wasteland/player-handout.md
           - Story Hooks: jhed-wasteland/story-hooks.md
-
   - Subclasses:
-      - Overview: subclasses/index
-      subclasses.md
+      - subclasses/index
       - Path of the Breaker: subclasses/path-of-the-breaker.md
       - Wrangler: subclasses/wrangler.md
 
-  - Abstract Concepts:
-      - Powerclass Theory: abstract/powerclass.md
-
-  - Items: items.md
-  - Experiments: experiments.md
+  - Magic Items: 
+    - magic-items.index.md
+  - Experiments: 
+    - experiments/index.md
 
 
     
