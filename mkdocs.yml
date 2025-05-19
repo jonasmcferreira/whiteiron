@@ -21,21 +21,26 @@ nav:
           - Adventures: jhed-wasteland/adventures.md
           - Player Handout: jhed-wasteland/player-handout.md
           - Story Hooks: jhed-wasteland/story-hooks.md
+
       - Lusitania:
           - World Primer: lusitania/00-lusitania.md
           - Campaign Overview: lusitania/01-campaign.md
           - Pantheon: lusitania/02-pantheon.md
           - Locations: lusitania/03-locations.md
           - Magic System: lusitania/04-lusitanian-magic-system.md
-      - Phandelver: phandelver/phandelver.md
+
+
   - Subclasses:
-      - Overview: subclasses.md
+      - Overview: subclasses/subclasses.md
       - Path of the Breaker: subclasses/path-of-the-breaker.md
       - Wrangler: subclasses/wrangler.md
+
   - Abstract Concepts:
       - Powerclass Theory: abstract/powerclass.md
+
   - Items: items.md
   - Experiments: experiments.md
+
 
     
 theme:
