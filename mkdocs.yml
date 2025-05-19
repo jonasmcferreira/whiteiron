@@ -3,14 +3,39 @@ site_url: https://jonasmcferreira.github.io/whiteiron/
 
 nav:
   - Home: index.md
-  - Campaign Settings:
-      - settings.md
+
+  - Settings:
+      - Overview: settings.md
+      - Jhed Wasteland:
+          - Setting: jhed-wasteland/setting.md
+          - History & Past: jhed-wasteland/past.md
+          - Factions: jhed-wasteland/independent-factions.md
+          - Netrus: jhed-wasteland/netrus.md
+          - Villages: jhed-wasteland/four-villages.md
+          - Thieves' Key: jhed-wasteland/thieves_key.md
+          - Weather: jhed-wasteland/weather.md
+          - Mechanics: jhed-wasteland/mechanics.md
+          - Monster Types: jhed-wasteland/monter-types.md
+          - Encounters: jhed-wasteland/encounters.md
+          - Magic Items: jhed-wasteland/magic-items.md
+          - Adventures: jhed-wasteland/adventures.md
+          - Player Handout: jhed-wasteland/player-handout.md
+          - Story Hooks: jhed-wasteland/story-hooks.md
+      - Lusitania:
+          - World Primer: lusitania/00-lusitania.md
+          - Campaign Overview: lusitania/01-campaign.md
+          - Pantheon: lusitania/02-pantheon.md
+          - Locations: lusitania/03-locations.md
+          - Magic System: lusitania/04-lusitanian-magic-system.md
+      - Phandelver: phandelver/phandelver.md
   - Subclasses:
-      - subclasses/index.md
-  - Items:
-      - items.md
-  - Experimental Rules:
-      - experiments.md
+      - Overview: subclasses.md
+      - Path of the Breaker: subclasses/path-of-the-breaker.md
+      - Wrangler: subclasses/wrangler.md
+  - Abstract Concepts:
+      - Powerclass Theory: abstract/powerclass.md
+  - Items: items.md
+  - Experiments: experiments.md
 
     
 theme:
@@ -34,15 +59,12 @@ theme:
     text: Ancizar Sans
     code: Ancizar Serif
   features:
+    - navigation.footer
     - navigation.path
     - navigation.sections
-    - navigation.footer
-    - navigation.top
-    - navigation.tabs
-    - navigation.indexes 
     - toc.follow
     - toc.integrate
-
+  
 plugins:
   - search
   - glightbox
