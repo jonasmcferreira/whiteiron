@@ -1,3 +1,5 @@
+![WhiteIron Logo](img/logo.png)
+
 # Welcome to WhiteIron
 
 A joint creation of **Sean White** and **Jonas Ferreira**.
