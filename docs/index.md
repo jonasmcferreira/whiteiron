@@ -1,3 +1,8 @@
+
+---
+title: Home
+---
+
 # Welcome to WhiteIron
 
 A joint creation of **Sean White** and **Jonas Ferreira**.

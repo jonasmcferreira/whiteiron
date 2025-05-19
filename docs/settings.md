@@ -1,3 +1,7 @@
+---
+title: Campaign Settings
+---
+
 # Settings
 
 Our original worlds and regional expansions for tabletop RPGs.

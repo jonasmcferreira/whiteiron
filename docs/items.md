@@ -1,3 +1,7 @@
+---
+title: Magic Items
+---
+
 # Magic Items
 
 Here are our original magic items — some serious, some silly, all designed to spark creativity.
