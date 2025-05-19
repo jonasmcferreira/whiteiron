@@ -4,13 +4,13 @@ site_url: https://jonasmcferreira.github.io/whiteiron/
 nav:
   - Home: index.md
   - Campaign Settings:
-      - campaign-settings/index.md
-      - jhed-wasteland/setting.md
-      - lusitania/index.md
+    - campaign-settings/index.md
+    - jhed-wasteland/setting.md
+    - campaign-settings/lusitania/index.md
   - Subclasses:
-      - subclasses/index.md
-      - subclasses/path-of-the-breaker.md
-      - subclasses/wrangler.md
+    - subclasses/index.md
+    - subclasses/path-of-the-breaker.md
+    - subclasses/wrangler.md
   - Magic Items: 
     - magic-items/index.md
   - Experiments: 
