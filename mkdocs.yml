@@ -53,7 +53,7 @@ plugins:
   - glightbox
 
 extra_css:
-  - stylesheets/extra.css
+  - style.css
 
 markdown_extensions:
   - admonition

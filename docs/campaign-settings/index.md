@@ -17,4 +17,4 @@ A frozen and unforgiving land of lost empires and survivalism.
 
 Join the battle for the Peninsula Iberica choosing between the Roman Empire and the Iberian Celts
 
-- [Lusitania](lusitania/00-lusitania.md)
+- [Lusitania](lusitania/index.md)
