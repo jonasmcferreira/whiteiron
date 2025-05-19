@@ -5,7 +5,7 @@ nav:
   - Home: index.md
 
   - Settings:
-      - Overview: settings.md
+      - settings/index.md
       - Jhed Wasteland:
           - Setting: jhed-wasteland/setting.md
           - History & Past: jhed-wasteland/past.md
@@ -22,16 +22,9 @@ nav:
           - Player Handout: jhed-wasteland/player-handout.md
           - Story Hooks: jhed-wasteland/story-hooks.md
 
-      - Lusitania:
-          - World Primer: lusitania/00-lusitania.md
-          - Campaign Overview: lusitania/01-campaign.md
-          - Pantheon: lusitania/02-pantheon.md
-          - Locations: lusitania/03-locations.md
-          - Magic System: lusitania/04-lusitanian-magic-system.md
-
-
   - Subclasses:
-      - Overview: subclasses/subclasses.md
+      - Overview: subclasses/index
+      subclasses.md
       - Path of the Breaker: subclasses/path-of-the-breaker.md
       - Wrangler: subclasses/wrangler.md
 
@@ -64,9 +57,12 @@ theme:
     text: Ancizar Sans
     code: Ancizar Serif
   features:
-    - navigation.footer
     - navigation.path
     - navigation.sections
+    - navigation.footer
+    - navigation.top
+    - navigation.tabs
+    - navigation.indexes 
     - toc.follow
     - toc.integrate
   
