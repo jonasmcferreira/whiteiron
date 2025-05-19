@@ -10,7 +10,7 @@ WhiteIron is our sandbox — a creative workshop where we build, test, and refin
 
 Original worlds and regions crafted for campaign play.
 
-[Explore our settings](settings.md)
+[Explore our settings](campaign-settings/index.md)
 
 ## Custom Classes
 
@@ -22,13 +22,13 @@ Unique subclasses and archetypes designed for flavor and function.
 
 Custom equipment, tools, and treasures to enrich your world.
 
-[Explore magic items](items.md)
+[Explore magic items](magic-items/index.md)
 
 ## Experimental Rules
 
 Optional systems and house rules we're playtesting.
 
-[Explore rule experiments](experiments.md)
+[Explore rule experiments](experiments/index.md)
 
 ---
 

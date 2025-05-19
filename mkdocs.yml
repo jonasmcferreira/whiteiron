@@ -3,31 +3,18 @@ site_url: https://jonasmcferreira.github.io/whiteiron/
 
 nav:
   - Home: index.md
-  - Settings:
-      - Overview: campaign-settings/settings.md
-      - Jhed Wasteland:
-          - Setting: jhed-wasteland/setting.md
-          - History & Past: jhed-wasteland/past.md
-          - Factions: jhed-wasteland/independent-factions.md
-          - Netrus: jhed-wasteland/netrus.md
-          - Villages: jhed-wasteland/four-villages.md
-          - Thieves' Key: jhed-wasteland/thieves_key.md
-          - Weather: jhed-wasteland/weather.md
-          - Mechanics: jhed-wasteland/mechanics.md
-          - Monster Types: jhed-wasteland/monter-types.md
-          - Encounters: jhed-wasteland/encounters.md
-          - Magic Items: jhed-wasteland/magic-items.md
-          - Adventures: jhed-wasteland/adventures.md
-          - Player Handout: jhed-wasteland/player-handout.md
-          - Story Hooks: jhed-wasteland/story-hooks.md
+  - Campaign Settings:
+      - campaign-settings/index.md
+      - jhed-wasteland/setting.md
+      - lusitania/index.md
   - Subclasses:
-      - Overview: subclasses/index.md
+      - subclasses/index.md
       - Path of the Breaker: subclasses/path-of-the-breaker.md
       - Wrangler: subclasses/wrangler.md
-  - Magic Items:
-      - Overview: magic-items/index.md
-  - Experiments:
-      - Overview: experiments/index.md
+  - Magic Items: 
+    - magic-items/index.md
+  - Experiments: 
+    - experiments/index.md
 
 
     
