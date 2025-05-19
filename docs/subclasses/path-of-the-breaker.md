@@ -1,4 +1,4 @@
-## Path of the Breaker
+# Path of the Breaker
 
 *Everything is a weapon.*
 

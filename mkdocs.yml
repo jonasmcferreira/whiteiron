@@ -9,15 +9,13 @@ nav:
       - lusitania/index.md
   - Subclasses:
       - subclasses/index.md
-      - Path of the Breaker: subclasses/path-of-the-breaker.md
-      - Wrangler: subclasses/wrangler.md
+      - subclasses/path-of-the-breaker.md
+      - subclasses/wrangler.md
   - Magic Items: 
     - magic-items/index.md
   - Experiments: 
     - experiments/index.md
 
-
-    
 theme:
   name: material
   logo: img/logo.png
@@ -46,7 +44,6 @@ theme:
     - navigation.tabs
     - navigation.indexes 
     - toc.follow
-    - toc.integrate
   
 plugins:
   - search
