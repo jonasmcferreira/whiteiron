@@ -16,7 +16,7 @@ Original worlds and regions crafted for campaign play.
 
 Unique subclasses and archetypes designed for flavor and function.
 
-[Explore custom classes](subclasses.md)
+[Explore custom classes](subclasses/index.md)
 
 ## Magic Items
 

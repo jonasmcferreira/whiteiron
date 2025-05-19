@@ -6,7 +6,7 @@ nav:
   - Settings:
       - Overview: settings.md
   - Subclasses:
-      - All Subclasses: subclasses.md
+      - All Subclasses: subclasses/index.md
   - Items:
       - Item List: items.md
   - Experiments:
@@ -34,8 +34,9 @@ theme:
     text: Ancizar Sans
     code: Ancizar Serif
   features:
-    - navigation.footer
     - navigation.path
+    - navigation.sections
+    - navigation.footer
     - navigation.top
     - navigation.tabs
     - navigation.indexes 
