@@ -1,4 +1,6 @@
-![WhiteIron Logo](img/logo.png)
+<p align="center">
+  <img src="img/logo.png" alt="WhiteIron Logo" width="200"/>
+</p>
 
 # Welcome to WhiteIron
 
