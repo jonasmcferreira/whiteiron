@@ -1,0 +1,1696 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://jonasmcferreira.github.io/whiteiron/jhed-wasteland/mechanics/">
+      
+      
+      
+      
+      <link rel="icon" href="../../img/logo.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.14">
+    
+    
+      
+        <title>Mechanics - WhiteIron</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.342714a4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ancizar+Sans:300,300i,400,400i,700,700i%7CAncizar+Serif:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Ancizar Sans";--md-code-font:"Ancizar Serif"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../style.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#mechanics" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="WhiteIron" class="md-header__button md-logo" aria-label="WhiteIron" data-md-component="logo">
+      
+  <img src="../../img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            WhiteIron
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Mechanics
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../campaign-settings/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Campaign Settings
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../subclasses/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Subclasses
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../magic-items/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Magic Items
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../experiments/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Experiments
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="WhiteIron" class="md-nav__button md-logo" aria-label="WhiteIron" data-md-component="logo">
+      
+  <img src="../../img/logo.png" alt="logo">
+
+    </a>
+    WhiteIron
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../campaign-settings/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Campaign Settings
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Campaign Settings
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Jhed Wastelands
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaign-settings/lusitania/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Lusitania
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../subclasses/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Subclasses
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Subclasses
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../subclasses/path-of-the-breaker/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Path of the Breaker
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../subclasses/wrangler/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Wrangler
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../magic-items/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Magic Items
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Magic Items
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../experiments/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Experiments
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Experiments
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#the-wild-food-of-jhed" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Wild Food of Jhed
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The Wild Food of Jhed">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#scavenging-for-foodwater" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scavenging for food/water
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#replacing-key-npcs" class="md-nav__link">
+    <span class="md-ellipsis">
+      Replacing Key NPCs
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#crafting" class="md-nav__link">
+    <span class="md-ellipsis">
+      Crafting
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#macguffins" class="md-nav__link">
+    <span class="md-ellipsis">
+      Macguffins
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Macguffins">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bloodstone" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bloodstone
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#scaleplum" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scaleplum
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#jhed-quartz" class="md-nav__link">
+    <span class="md-ellipsis">
+      J'hed Quartz
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ooze-ichor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ooze Ichor
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cold-exposure-simplified" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cold Exposure (simplified)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setting-specific-madness" class="md-nav__link">
+    <span class="md-ellipsis">
+      Setting Specific Madness
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Setting Specific Madness">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#madness-1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Madness 1
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#madness-2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Madness 2
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#madness-3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Madness 3
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#madness-4" class="md-nav__link">
+    <span class="md-ellipsis">
+      Madness 4
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#old-madness-of-flesh" class="md-nav__link">
+    <span class="md-ellipsis">
+      OLD Madness of Flesh
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#boon-and-bane" class="md-nav__link">
+    <span class="md-ellipsis">
+      Boon and Bane
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#old" class="md-nav__link">
+    <span class="md-ellipsis">
+      Old
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Old">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#exhaustion-levels-old-we-could-use-this" class="md-nav__link">
+    <span class="md-ellipsis">
+      Exhaustion Levels (old), we could use this...
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#madness-effects-dmg2014" class="md-nav__link">
+    <span class="md-ellipsis">
+      Madness Effects DMG(2014)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Madness Effects DMG(2014)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#short-term-madness" class="md-nav__link">
+    <span class="md-ellipsis">
+      Short-Term Madness
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#long-term-madness" class="md-nav__link">
+    <span class="md-ellipsis">
+      Long-Term Madness
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#indefinite-madness" class="md-nav__link">
+    <span class="md-ellipsis">
+      Indefinite Madness
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#curing-madness" class="md-nav__link">
+    <span class="md-ellipsis">
+      Curing Madness
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#extreme-cold" class="md-nav__link">
+    <span class="md-ellipsis">
+      Extreme Cold
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#frigid-water-page-110" class="md-nav__link">
+    <span class="md-ellipsis">
+      Frigid Water (page 110)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="mechanics">Mechanics</h1>
+<h2 id="the-wild-food-of-jhed">The Wild Food of Jhed</h2>
+<h3 id="scavenging-for-foodwater">Scavenging for food/water</h3>
+<p>There is no easy meal or prey in J'hed, scavenging takes the 8 hour day
+Survival Check DC 16, on a success roll on wilderness table (to be built)
+Investigation Check DC 16, on a sucess roll on scavanged supplies table (to be built)</p>
+<h2 id="replacing-key-npcs">Replacing Key NPCs</h2>
+<p>Choices and consequences could lead to key NPC functions becoming unavailable, like Sammul's ability to remove curses. To replace an NPC the party has to convince an outsider of the Outer Region or Thieves Key to endure and live in J'hed, the easiest way to do this is gold, and it would be difficult for this cost to be less than 5,000gps. Sourcing this assistance from Outer Region or Thieves Key also will grant those locations influence on Netrus</p>
+<p>The party may also want to bolster the facilities available to Netrus, don't discourage this as the party should feel their on the location.</p>
+<h2 id="crafting">Crafting</h2>
+<p>Gritty Realism - PHB/DMG crafting time x 8
+Needs assistance of an Arcane crafter that can work on items during downtime.
+Each player can have only one crafted item, the process of completing another crafted item will destroy the Previous
+Each player should have time to craft 1 uncommon item (80 days) or 2 consumables (40 days each) these should be ready by the Siege of Netrus</p>
+<h2 id="macguffins">Macguffins</h2>
+<h3 id="bloodstone">Bloodstone</h3>
+<p>Melt outside of J'hed
+Spilling your own blood onto a Bloodstone will grant a vision of the Sheessar Yuan'ti "Greatest"
+Covers important objects
+First tomb - White Dragon Egg</p>
+<h3 id="scaleplum">Scaleplum</h3>
+<p>a deep blue fruit that grows on J'hed fungi in the shape of a bumpy plum/acorn:</p>
+<ul>
+<li>consuming one grants cold resist for 8 hours</li>
+<li>can be used to create combination healing/cold resist potion</li>
+<li>grows from the heart of the dead, bioluminicent</li>
+</ul>
+<h3 id="jhed-quartz">J'hed Quartz</h3>
+<p>indestructable material found in J'hed, it can't be reshaped by any means</p>
+<ul>
+<li>immunity to all damage</li>
+<li>it is worth massive amounts of coin as crafter try to learn the secrets of the Quartz, but is useless for now</li>
+</ul>
+<h3 id="ooze-ichor">Ooze Ichor</h3>
+<ul>
+<li>causes hallucinations when touched</li>
+</ul>
+<h2 id="cold-exposure-simplified">Cold Exposure (simplified)</h2>
+<p>No source of heat? level of exhaustion gained
+Burning supplies is acceptable form of heat
+Ignore if you have cold resistance</p>
+<p><strong>Recovery from Exhaustion</strong>:</p>
+<ul>
+<li>Each level of exhaustion requires one full day of rest in a warm environment with adequate food and water.</li>
+<li>Magical means (such as the <em>Greater Restoration</em> spell) can reduce exhaustion levels.</li>
+</ul>
+<h2 id="setting-specific-madness">Setting Specific Madness</h2>
+<p>When you gain a Madness, you increase your Madness level by 1 and roll to determine which Madness you gain. Take 1d6 psycic damage when you fail to uphold to your madness once per day.</p>
+<h3 id="madness-1">Madness 1</h3>
+<p>The player selects which of two results for the d20 roll
+Medicine Check DC 13 Calm Emotion will surpress the affect, Remove Curse will cure the madness
+Sammul has access to Remove Curse</p>
+<table>
+<thead>
+<tr>
+<th>d20</th>
+<th>Effect "I...   "</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>(Will not eat Rations) desire to only eat meat</td>
+</tr>
+<tr>
+<td>1</td>
+<td>(Will not eat Rations) desire to only eat plants</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Eat three times as much</td>
+</tr>
+<tr>
+<td>2</td>
+<td>believe being drunk keeps me sane</td>
+</tr>
+<tr>
+<td>3</td>
+<td>desire to kill</td>
+</tr>
+<tr>
+<td>3</td>
+<td>desire to take hostages</td>
+</tr>
+<tr>
+<td>4</td>
+<td>have a sinister laugh</td>
+</tr>
+<tr>
+<td>4</td>
+<td>joke at inappropriate times</td>
+</tr>
+<tr>
+<td>5</td>
+<td>collect ammunition</td>
+</tr>
+<tr>
+<td>5</td>
+<td>collect blood</td>
+</tr>
+<tr>
+<td>6</td>
+<td>wear a mask and the most expensive clothing</td>
+</tr>
+<tr>
+<td>6</td>
+<td>wear the clothing of creatures you defeated</td>
+</tr>
+<tr>
+<td>7</td>
+<td>try to be like someone I know</td>
+</tr>
+<tr>
+<td>7</td>
+<td>try to be the most beautiful</td>
+</tr>
+<tr>
+<td>8</td>
+<td>only trust my imaginary friend</td>
+</tr>
+<tr>
+<td>8</td>
+<td>only trust larger creatures</td>
+</tr>
+<tr>
+<td>9</td>
+<td>must tell my truth</td>
+</tr>
+<tr>
+<td>9</td>
+<td>must lie about myself</td>
+</tr>
+<tr>
+<td>10</td>
+<td>am being watched by eyes in the ground</td>
+</tr>
+<tr>
+<td>10</td>
+<td>am being hunted by the stars</td>
+</tr>
+<tr>
+<td>11</td>
+<td>must exaggerate</td>
+</tr>
+<tr>
+<td>11</td>
+<td>must be the loudest</td>
+</tr>
+<tr>
+<td>12</td>
+<td>am the smartest person I know</td>
+</tr>
+<tr>
+<td>12</td>
+<td>sing of the days events</td>
+</tr>
+<tr>
+<td>13</td>
+<td>attempt to divine the future</td>
+</tr>
+<tr>
+<td>13</td>
+<td>am the strongest person I know</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Must always be within 60ft of a flame</td>
+</tr>
+<tr>
+<td>14</td>
+<td>want to burn things</td>
+</tr>
+<tr>
+<td>15</td>
+<td>need to bath daily</td>
+</tr>
+<tr>
+<td>15</td>
+<td>water disgusts me</td>
+</tr>
+<tr>
+<td>16</td>
+<td>believe all my injuries are fatal</td>
+</tr>
+<tr>
+<td>16</td>
+<td>"It's only a flesh wound!"</td>
+</tr>
+<tr>
+<td>17</td>
+<td>believe nothing is in my way</td>
+</tr>
+<tr>
+<td>17</td>
+<td>get others to do my dirtywork</td>
+</tr>
+<tr>
+<td>18</td>
+<td>must have little wealth</td>
+</tr>
+<tr>
+<td>18</td>
+<td>hoard as a dragon</td>
+</tr>
+<tr>
+<td>19</td>
+<td>must destroy all my gold</td>
+</tr>
+<tr>
+<td>19</td>
+<td>must destroy all my silver</td>
+</tr>
+<tr>
+<td>20</td>
+<td>pray to the sun</td>
+</tr>
+<tr>
+<td>20</td>
+<td>howl at the moon</td>
+</tr>
+</tbody>
+</table>
+<h3 id="madness-2">Madness 2</h3>
+<table>
+<thead>
+<tr>
+<th>d20</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>5ft reach</td>
+</tr>
+<tr>
+<td>2</td>
+<td>5ft movement speed</td>
+</tr>
+<tr>
+<td>3</td>
+<td>+1 AC</td>
+</tr>
+<tr>
+<td>4</td>
+<td>+10ft Blindsight</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Gain the tough origin feat (reroll if you have)</td>
+</tr>
+<tr>
+<td>6</td>
+<td>gain a wildshape to specific animal</td>
+</tr>
+<tr>
+<td>7</td>
+<td>+2 to initiative</td>
+</tr>
+<tr>
+<td>8</td>
+<td>crit on 19</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Grow one size</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Gain an expertise</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Gain a random language</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Gain a random proficiency</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Gain a 1st level spell slot</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Gain a weapon proficiency</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Gain an armour proficiency</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Temp health after Short or Long rest</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Gain +2 death save</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Can expend hit die for damage</td>
+</tr>
+<tr>
+<td>19</td>
+<td>gain a resistance</td>
+</tr>
+<tr>
+<td>20</td>
+<td>heroic inspiration per rest</td>
+</tr>
+</tbody>
+</table>
+<h3 id="madness-3">Madness 3</h3>
+<table>
+<thead>
+<tr>
+<th>d20</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>vulnerability to fire damage</td>
+</tr>
+<tr>
+<td>2</td>
+<td>vulnerability to cold damage</td>
+</tr>
+<tr>
+<td>3</td>
+<td>vulnerability to lightning damage</td>
+</tr>
+<tr>
+<td>4</td>
+<td>vulnerability to thunder damage</td>
+</tr>
+<tr>
+<td>5</td>
+<td>vulnerability to acid damage</td>
+</tr>
+<tr>
+<td>6</td>
+<td>vulnerability to force damage</td>
+</tr>
+<tr>
+<td>7</td>
+<td>vulnerability to radiant damage</td>
+</tr>
+<tr>
+<td>8</td>
+<td>vulnerability to necrotic damage</td>
+</tr>
+<tr>
+<td>9</td>
+<td>vulnerability to poison damage</td>
+</tr>
+<tr>
+<td>10</td>
+<td>vulnerability to psychic damage</td>
+</tr>
+</tbody>
+</table>
+<h3 id="madness-4">Madness 4</h3>
+<h2 id="old-madness-of-flesh">OLD Madness of Flesh</h2>
+<p>If a humanoid eats flesh of a humanoid, they gain the Madness of the Wendigo and lose all other Madness effects. After gaining the Madness of the Wendigo, you make a DC15 Wisdom Save everytime you eat humanoid flesh</p>
+<table>
+<thead>
+<tr>
+<th>Tier</th>
+<th>Instant</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Vision of the Wendigo</td>
+</tr>
+<tr>
+<td>2</td>
+<td>You can consume humanoid flesh to remove an Exhaustion Level</td>
+</tr>
+<tr>
+<td>2</td>
+<td>You can consume humanoid flesh to gain Resistance to Cold Damage</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Can only eat humanoid flesh</td>
+</tr>
+<tr>
+<td>4</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<h2 id="boon-and-bane">Boon and Bane</h2>
+<p>Netrus is being assisted by both Southport but mostly Thieves Key. The party will make decisions to assist one of those three locations and this will create an immediate benefit that the party has access and should also create a complication due to this change, the party will be sculpting the future of J'hed.</p>
+<h2 id="old">Old</h2>
+<h3 id="exhaustion-levels-old-we-could-use-this">Exhaustion Levels (old), we could use this...</h3>
+<p>Exhaustion caused by cold exposure follows standard D&amp;D rules:</p>
+<ol>
+<li><strong>Level 1</strong>: Disadvantage on Ability Checks.</li>
+<li><strong>Level 2</strong>: Speed halved.</li>
+<li><strong>Level 3</strong>: Disadvantage on Attack Rolls and Saving Throws.</li>
+<li><strong>Level 4</strong>: Hit Point Maximum halved.</li>
+<li><strong>Level 5</strong>: Speed reduced to 0.</li>
+<li><strong>Level 6</strong>: Death.</li>
+</ol>
+<h3 id="madness-effects-dmg2014">Madness Effects DMG(2014)</h3>
+<p>Madness can be short-term, long-term, or indefinite. Most relatively mundane effects impose short-term madness, which lasts for just a few minutes. More horrific effects or cumulative effects can result in long-term or indefinite madness.</p>
+<p>A character afflicted with short-term madness is subjected to an effect from the Short-Term Madness table for 1d10 minutes.</p>
+<p>A character afflicted with long-term madness is subjected to an effect from the Long-Term Madness table for 1d10 × 10 hours.</p>
+<p>A character afflicted with indefinite madness gains a new character flaw from the Indefinite Madness table that lasts until cured.</p>
+<h4 id="short-term-madness">Short-Term Madness</h4>
+<table>
+<thead>
+<tr>
+<th>d100</th>
+<th>Effect (lasts 1d10 minutes)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01–20</td>
+<td>The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.</td>
+</tr>
+<tr>
+<td>21–30</td>
+<td>The character becomes incapacitated and spends the duration screaming, laughing, or weeping.</td>
+</tr>
+<tr>
+<td>31–40</td>
+<td>The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear</td>
+</tr>
+<tr>
+<td>41–50</td>
+<td>The character begins babbling and is incapable of normal speech or spellcasting.</td>
+</tr>
+<tr>
+<td>51–60</td>
+<td>The character must use his or her action each round to attack the nearest creature.</td>
+</tr>
+<tr>
+<td>61–70</td>
+<td>The character experiences vivid hallucinations and has disadvantage on ability checks.</td>
+</tr>
+<tr>
+<td>71–75</td>
+<td>The character does whatever anyone tells him or her to do that isn’t obviously self-­destructive.</td>
+</tr>
+<tr>
+<td>76–80</td>
+<td>The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal.</td>
+</tr>
+<tr>
+<td>81–90</td>
+<td>The character is stunned.</td>
+</tr>
+<tr>
+<td>91–100</td>
+<td>The character falls unconscious.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="long-term-madness">Long-Term Madness</h4>
+<table>
+<thead>
+<tr>
+<th>d100</th>
+<th>Effect (lasts 1d10 hours)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01–10</td>
+<td>The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins.</td>
+</tr>
+<tr>
+<td>11–20</td>
+<td>The character experiences vivid hallucinations and has disadvantage on ability checks.</td>
+</tr>
+<tr>
+<td>21–30</td>
+<td>The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks.</td>
+</tr>
+<tr>
+<td>31–40</td>
+<td>The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the Antipathy/Sympathy spell.</td>
+</tr>
+<tr>
+<td>41–45</td>
+<td>The character experiences a powerful delusion. Choose a potion. The character imagines that he or she is under its effects.</td>
+</tr>
+<tr>
+<td>46–55</td>
+<td>The character becomes attached to a “lucky charm,” such as a person or an object, and has disadvantage on attack rolls, ability checks, and saving throws while more than 30 feet from it.</td>
+</tr>
+<tr>
+<td>56–65</td>
+<td>The character is blinded (25%) or deafened (75%).</td>
+</tr>
+<tr>
+<td>66–75</td>
+<td>The character experiences uncontrollable tremors or tics, which impose disadvantage on attack rolls, ability checks, and saving throws that involve Strength or Dexterity.</td>
+</tr>
+<tr>
+<td>76–80</td>
+<td>The character suffers from partial amnesia. The character knows who he or she is and retains racial traits and class features, but doesn’t recognize other people or remember anything that happened before the madness took effect.</td>
+</tr>
+<tr>
+<td>81–85</td>
+<td>The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal.</td>
+</tr>
+<tr>
+<td>86–90</td>
+<td>Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throws or be affected as though he or she failed a saving throw against the confusion spell. The confusion effect lasts for 1 minute.</td>
+</tr>
+<tr>
+<td>91–95</td>
+<td>The character loses the ability to speak.</td>
+</tr>
+<tr>
+<td>96–100</td>
+<td>The character falls unconscious. No amount of jostling or damage can wake the character.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="indefinite-madness">Indefinite Madness</h4>
+<table>
+<thead>
+<tr>
+<th>d100</th>
+<th>Flaw (lasts until cured)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01–15</td>
+<td>“Being drunk keeps me sane.”</td>
+</tr>
+<tr>
+<td>16–25</td>
+<td>"I keep whatever I find."</td>
+</tr>
+<tr>
+<td>26–30</td>
+<td>“I try to become more like someone else I know—adopting his or her style of dress, mannerisms, and name.”</td>
+</tr>
+<tr>
+<td>31–35</td>
+<td>“I must bend the truth, exaggerate, or outright lie to be interesting to other people.”</td>
+</tr>
+<tr>
+<td>36–45</td>
+<td>“Achieving my goal is the only thing of interest to me, and I’ll ignore everything else to pursue it.”</td>
+</tr>
+<tr>
+<td>46–50</td>
+<td>“I find it hard to care about anything that goes on around me.”</td>
+</tr>
+<tr>
+<td>51–55</td>
+<td>“I don’t like the way people judge me all the time.”</td>
+</tr>
+<tr>
+<td>56–70</td>
+<td>“I am the smartest, wisest, strongest, fastest, and most beautiful person I know.”</td>
+</tr>
+<tr>
+<td>71–80</td>
+<td>“I am convinced that powerful enemies are hunting me, and their agents are everywhere I go. I am sure they’re watching me all the time.”</td>
+</tr>
+<tr>
+<td>81–85</td>
+<td>“There’s only one person I can trust. And only I can see this special friend.”</td>
+</tr>
+<tr>
+<td>86–95</td>
+<td>“I can’t take anything seriously. The more serious the situation, the funnier I find it.”</td>
+</tr>
+<tr>
+<td>96–100</td>
+<td>“I’ve discovered that I really like killing people.”</td>
+</tr>
+</tbody>
+</table>
+<h4 id="curing-madness">Curing Madness</h4>
+<p>A calm emotions spell can suppress the effects of madness, while a lesser restoration spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, remove curse or dispel evil might also prove effective. A greater restoration spell or more powerful magic is required to rid a character of indefinite madness.</p>
+<h4 id="extreme-cold">Extreme Cold</h4>
+<p>Whenever the temperature is at or below <strong>0 degrees Fahrenheit</strong>, a creature exposed to the cold must succeed on a <strong>DC 10 Constitution saving throw</strong> at the end of <strong>each hour or gain one level of exhaustion</strong>. Creatures with <strong>resistance or immunity to cold damage automatically succeed</strong> on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.</p>
+<h3 id="frigid-water-page-110">Frigid Water (page 110)</h3>
+<p>A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of exhaustion</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/jonasmcferreira/whiteiron" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.path", "navigation.sections", "navigation.footer", "navigation.top", "navigation.tabs", "navigation.indexes", "toc.follow"], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.13a4f30d.min.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>
